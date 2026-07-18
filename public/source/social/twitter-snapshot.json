@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-18T09:00:06.583176Z",
+  "generatedAt": "2026-07-18T09:08:53.623807Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
   "auth": {
-    "twitterCookiesConfigured": true,
-    "facebookCookiesConfigured": true
+    "twitterCookiesConfigured": false,
+    "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-18T07:40:21.371Z",
+    "generatedAt": "2026-07-18T09:08:48.556Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2142,13 +2142,13 @@
   "totals": {
     "accounts": 2252,
     "uniqueHandles": 2235,
-    "capturedAccounts": 510,
+    "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 52593,
+    "tweets": 52760,
     "snapshotTweets": 2500,
-    "users": 510
+    "users": 512
   },
-  "lastCaptureAt": "2026-07-18T09:00:00.086440Z",
+  "lastCaptureAt": "2026-07-18T09:00:39.753389Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -39168,12 +39168,12 @@
       "role": "U.S. Representative for TX-16",
       "profileHref": "/country/usa/congress/veronica-escobar",
       "url": "https://x.com/RepEscobar",
-      "status": "pending",
-      "lastScrapedAt": null,
+      "status": "captured",
+      "lastScrapedAt": "2026-07-18T09:00:19.883160Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": null,
-      "followingCount": null,
+      "followersCount": 82941,
+      "followingCount": 1813,
       "verified": false
     },
     {
@@ -39185,12 +39185,12 @@
       "role": "U.S. Representative for TX-34",
       "profileHref": "/country/usa/congress/vicente-gonzalez",
       "url": "https://x.com/RepGonzalez",
-      "status": "pending",
-      "lastScrapedAt": null,
+      "status": "captured",
+      "lastScrapedAt": "2026-07-18T09:00:39.753389Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": null,
-      "followingCount": null,
+      "followersCount": 14505,
+      "followingCount": 587,
       "verified": false
     },
     {
@@ -48189,6 +48189,40 @@
       "verified": false
     },
     {
+      "username": "RepEscobar",
+      "displayName": "Veronica Escobar",
+      "ownerName": "Veronica Escobar",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "role": "U.S. Representative for TX-16",
+      "profileHref": "/country/usa/congress/veronica-escobar",
+      "url": "https://x.com/RepEscobar",
+      "status": "captured",
+      "lastScrapedAt": "2026-07-18T09:00:19.883160Z",
+      "lastError": null,
+      "profileImageUrl": null,
+      "followersCount": 82941,
+      "followingCount": 1813,
+      "verified": false
+    },
+    {
+      "username": "RepGonzalez",
+      "displayName": "Vicente Gonzalez",
+      "ownerName": "Vicente Gonzalez",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "role": "U.S. Representative for TX-34",
+      "profileHref": "/country/usa/congress/vicente-gonzalez",
+      "url": "https://x.com/RepGonzalez",
+      "status": "captured",
+      "lastScrapedAt": "2026-07-18T09:00:39.753389Z",
+      "lastError": null,
+      "profileImageUrl": null,
+      "followersCount": 14505,
+      "followingCount": 587,
+      "verified": false
+    },
+    {
       "username": "ChrisLandauUSA",
       "displayName": "Christopher Landau",
       "ownerName": "Christopher Landau",
@@ -50066,6 +50100,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepScottPerry/status/2078253420151201818"
+    },
+    {
+      "id": "2078253418334843290",
+      "handle": "repgonzalez",
+      "username": "RepGonzalez",
+      "displayName": null,
+      "ownerName": "Vicente Gonzalez",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/vicente-gonzalez",
+      "text": "Last March, parts of South Texas received 10 to 15 inches of rain in less than 48 hours. As we all know too well, without proper drainage infrastructure protecting the lives, homes, and small businesses in our region, this is a recipe for disaster.\n\nAlongside our local leaders, I",
+      "createdAt": "2026-07-17T23:00:01Z",
+      "timestamp": 1784329201,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 219
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepGonzalez/status/2078253418334843290"
     },
     {
       "id": "2078253414207676722",
@@ -74076,6 +74138,37 @@
       "url": "https://x.com/repdeliaramirez/status/2078119403833430038"
     },
     {
+      "id": "2078119387383333056",
+      "handle": "repgonzalez",
+      "username": "RepGonzalez",
+      "displayName": null,
+      "ownerName": "Vicente Gonzalez",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/vicente-gonzalez",
+      "text": "The Texas agricultural industry is struggling due to rising costs, severe labor shortages, and uncertainty around the future of USMCA.\nI had a productive meeting with @TexasCorn in Washington D.C. to discuss my work in Congress to lower costs and better support our South Texas https://t.co/QPJAyCGFtB",
+      "createdAt": "2026-07-17T14:07:26Z",
+      "timestamp": 1784297246,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 278
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepGonzalez/status/2078119387383333056"
+    },
+    {
       "id": "2078119361919807669",
       "handle": "repsuhas",
       "username": "RepSuhas",
@@ -74398,6 +74491,36 @@
       "url": "https://x.com/RepNancyMace/status/2078118405094187438"
     },
     {
+      "id": "2078118107772506302",
+      "handle": "repkeithself",
+      "username": "repkeithself",
+      "displayName": null,
+      "ownerName": "Keith Self",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/keith-self",
+      "text": "Rep. Keith Self: “Americans have a constitutional right to be secure in their persons, houses, papers, and effects, and our government is supposed to get a warrant before invading that privacy. This bill simply restores that protection. Get a warrant.”\n\n@TexasScorecard ⬇️ https://t.co/BOlO6fPxj0",
+      "createdAt": "2026-07-17T14:02:21Z",
+      "timestamp": 1784296941,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 15,
+        "reply_count": 7,
+        "like_count": 40,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "view_count": 1749
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/repkeithself/status/2078118107772506302"
+    },
+    {
       "id": "2078118110549193030",
       "handle": "repkeithself",
       "username": "repkeithself",
@@ -74430,36 +74553,6 @@
         }
       ],
       "url": "https://x.com/repkeithself/status/2078118110549193030"
-    },
-    {
-      "id": "2078118107772506302",
-      "handle": "repkeithself",
-      "username": "repkeithself",
-      "displayName": null,
-      "ownerName": "Keith Self",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/keith-self",
-      "text": "Rep. Keith Self: “Americans have a constitutional right to be secure in their persons, houses, papers, and effects, and our government is supposed to get a warrant before invading that privacy. This bill simply restores that protection. Get a warrant.”\n\n@TexasScorecard ⬇️ https://t.co/BOlO6fPxj0",
-      "createdAt": "2026-07-17T14:02:21Z",
-      "timestamp": 1784296941,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 15,
-        "reply_count": 7,
-        "like_count": 40,
-        "quote_count": 0,
-        "bookmark_count": 3,
-        "view_count": 1749
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/repkeithself/status/2078118107772506302"
     },
     {
       "id": "2078117927857831941",
@@ -78718,6 +78811,36 @@
       "url": "https://x.com/RepDonBacon/status/2077976206738072014"
     },
     {
+      "id": "2077975937732460883",
+      "handle": "repdesaulnier",
+      "username": "RepDeSaulnier",
+      "displayName": null,
+      "ownerName": "Mark DeSaulnier",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/mark-desaulnier",
+      "text": "President Trump has made clear that he is not interested in working to lower costs for American families – his priority is to make it harder for American citizens to vote.",
+      "createdAt": "2026-07-17T04:37:25Z",
+      "timestamp": 1784263045,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 6,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 452
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDeSaulnier/status/2077975937732460883"
+    },
+    {
       "id": "2077975939540279722",
       "handle": "repdesaulnier",
       "username": "RepDeSaulnier",
@@ -78750,36 +78873,6 @@
         }
       ],
       "url": "https://x.com/RepDeSaulnier/status/2077975939540279722"
-    },
-    {
-      "id": "2077975937732460883",
-      "handle": "repdesaulnier",
-      "username": "RepDeSaulnier",
-      "displayName": null,
-      "ownerName": "Mark DeSaulnier",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-desaulnier",
-      "text": "President Trump has made clear that he is not interested in working to lower costs for American families – his priority is to make it harder for American citizens to vote.",
-      "createdAt": "2026-07-17T04:37:25Z",
-      "timestamp": 1784263045,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 6,
-        "like_count": 8,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 452
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepDeSaulnier/status/2077975937732460883"
     },
     {
       "id": "2077973594068414645",
@@ -79211,6 +79304,34 @@
       "url": "https://x.com/SenAdamSchiff/status/2077962373873168764"
     },
     {
+      "id": "2077962368898712001",
+      "handle": "senadamschiff",
+      "username": "SenAdamSchiff",
+      "displayName": "Senator Adam Schiff",
+      "ownerName": "Adam B. Schiff",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/adam-b-schiff",
+      "text": "The reality is that foreign governments do try to influence our elections—in fact, Trump has previously encouraged Russia to do exactly that. He has also repeatedly ignored and dismissed previous, credible intelligence about foreign interference in elections because it did not",
+      "createdAt": "2026-07-17T03:43:30Z",
+      "timestamp": 1784259810,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 29,
+        "reply_count": 5,
+        "like_count": 453,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenAdamSchiff/status/2077962368898712001"
+    },
+    {
       "id": "2077962371566313702",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
@@ -79239,34 +79360,6 @@
       ],
       "urls": [],
       "url": "https://x.com/SenAdamSchiff/status/2077962371566313702"
-    },
-    {
-      "id": "2077962368898712001",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "The reality is that foreign governments do try to influence our elections—in fact, Trump has previously encouraged Russia to do exactly that. He has also repeatedly ignored and dismissed previous, credible intelligence about foreign interference in elections because it did not",
-      "createdAt": "2026-07-17T03:43:30Z",
-      "timestamp": 1784259810,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 29,
-        "reply_count": 5,
-        "like_count": 453,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077962368898712001"
     },
     {
       "id": "2077962366151467060",
@@ -79556,6 +79649,36 @@
       "url": "https://x.com/SenAlexPadilla/status/2077951756260999629"
     },
     {
+      "id": "2077950768892481758",
+      "handle": "chriscoons",
+      "username": "ChrisCoons",
+      "displayName": null,
+      "ownerName": "Christopher A. Coons",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/christopher-a-coons",
+      "text": "Tonight’s address from President Trump was a tantrum of sinister innuendo, conspiracy theories, and misdirection. Americans who tuned in tonight heard no new concrete or proven claims about foreign interference in our elections.",
+      "createdAt": "2026-07-17T02:57:24Z",
+      "timestamp": 1784257044,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 24,
+        "reply_count": 206,
+        "like_count": 137,
+        "quote_count": 3,
+        "bookmark_count": 2,
+        "view_count": 6917
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/ChrisCoons/status/2077950768892481758"
+    },
+    {
       "id": "2077950770125705239",
       "handle": "chriscoons",
       "username": "ChrisCoons",
@@ -79590,36 +79713,6 @@
         }
       ],
       "url": "https://x.com/ChrisCoons/status/2077950770125705239"
-    },
-    {
-      "id": "2077950768892481758",
-      "handle": "chriscoons",
-      "username": "ChrisCoons",
-      "displayName": null,
-      "ownerName": "Christopher A. Coons",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/christopher-a-coons",
-      "text": "Tonight’s address from President Trump was a tantrum of sinister innuendo, conspiracy theories, and misdirection. Americans who tuned in tonight heard no new concrete or proven claims about foreign interference in our elections.",
-      "createdAt": "2026-07-17T02:57:24Z",
-      "timestamp": 1784257044,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 24,
-        "reply_count": 206,
-        "like_count": 137,
-        "quote_count": 3,
-        "bookmark_count": 2,
-        "view_count": 6917
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/ChrisCoons/status/2077950768892481758"
     },
     {
       "id": "2077950710574883264",
@@ -88682,6 +88775,36 @@
       "url": "https://x.com/RepLauraGillen/status/2077892886889484420"
     },
     {
+      "id": "2077891033963303092",
+      "handle": "repgonzalez",
+      "username": "RepGonzalez",
+      "displayName": null,
+      "ownerName": "Vicente Gonzalez",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/vicente-gonzalez",
+      "text": "Every nation has a right to enforce its immigration laws, but there is a clear line between enforcing the law and using unnecessary force or tactics that put lives at risk.\n\nReports of deaths, beatings, and other abusive behaviors must be taken seriously and receive thorough, https://t.co/mfuSkFbtly",
+      "createdAt": "2026-07-16T23:00:02Z",
+      "timestamp": 1784242802,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 8,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 490
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepGonzalez/status/2077891033963303092"
+    },
+    {
       "id": "2077891027374153774",
       "handle": "repstutzman",
       "username": "RepStutzman",
@@ -88949,34 +89072,6 @@
       "url": "https://x.com/RepDinaTitus/status/2077888449697251461"
     },
     {
-      "id": "2077888447306461332",
-      "handle": "repgregstanton",
-      "username": "RepGregStanton",
-      "displayName": null,
-      "ownerName": "Greg Stanton",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/greg-stanton",
-      "text": "The bill would cover every Arizonan exposed to radiation, increase compensation, and extend the program for years to come.",
-      "createdAt": "2026-07-16T22:49:45Z",
-      "timestamp": 1784242185,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 2,
-        "like_count": 3,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 344
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepGregStanton/status/2077888447306461332"
-    },
-    {
       "id": "2077888445125410935",
       "handle": "repgregstanton",
       "username": "RepGregStanton",
@@ -89005,6 +89100,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepGregStanton/status/2077888445125410935"
+    },
+    {
+      "id": "2077888447306461332",
+      "handle": "repgregstanton",
+      "username": "RepGregStanton",
+      "displayName": null,
+      "ownerName": "Greg Stanton",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/greg-stanton",
+      "text": "The bill would cover every Arizonan exposed to radiation, increase compensation, and extend the program for years to come.",
+      "createdAt": "2026-07-16T22:49:45Z",
+      "timestamp": 1784242185,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 344
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepGregStanton/status/2077888447306461332"
     },
     {
       "id": "2077888402100220038",
@@ -89213,6 +89336,34 @@
       "url": "https://x.com/RepRileyMoore/status/2077886785846140974"
     },
     {
+      "id": "2077886749536141412",
+      "handle": "jahimes",
+      "username": "jahimes",
+      "displayName": null,
+      "ownerName": "James A. Himes",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/james-a-himes",
+      "text": "But the American people should remain confident that our elections are secure from interference, largely because of the thousands of patriotic Americans in the intelligence community, in election offices and in polling places themselves. Everything is just noise.",
+      "createdAt": "2026-07-16T22:43:01Z",
+      "timestamp": 1784241781,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 9,
+        "reply_count": 7,
+        "like_count": 38,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 2910
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/jahimes/status/2077886749536141412"
+    },
+    {
       "id": "2077886750643441795",
       "handle": "jahimes",
       "username": "jahimes",
@@ -89247,35 +89398,7 @@
       "url": "https://x.com/jahimes/status/2077886750643441795"
     },
     {
-      "id": "2077886749536141412",
-      "handle": "jahimes",
-      "username": "jahimes",
-      "displayName": null,
-      "ownerName": "James A. Himes",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-a-himes",
-      "text": "But the American people should remain confident that our elections are secure from interference, largely because of the thousands of patriotic Americans in the intelligence community, in election offices and in polling places themselves. Everything is just noise.",
-      "createdAt": "2026-07-16T22:43:01Z",
-      "timestamp": 1784241781,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 9,
-        "reply_count": 7,
-        "like_count": 38,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 2910
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/jahimes/status/2077886749536141412"
-    },
-    {
-      "id": "2077886748265173012",
+      "id": "2077886745505382762",
       "handle": "jahimes",
       "username": "jahimes",
       "displayName": "Jim Himes 🇺🇸🇺🇦",
@@ -89283,24 +89406,26 @@
       "ownerType": "Congress",
       "countryId": "usa",
       "profileHref": "/country/usa/congress/james-a-himes",
-      "text": "Trump is likely going to try to muddy the waters by misrepresenting or selectively declassifying information. He wants to sow doubt around the past elections and the upcoming midterms, no matter the cost.",
+      "text": "There were legitimate threats from Russia, Iran, and China. But these were influence operations, not direct interference. This is the type of thing that the IC should be monitoring, and one reason why it’s so concerning that the Admin has gutted the offices meant to secure",
       "createdAt": "2026-07-16T22:43:00Z",
       "timestamp": 1784241780,
       "tweetType": "reply",
       "language": "en",
       "metrics": {
-        "retweet_count": 6,
-        "reply_count": 2,
-        "like_count": 26,
+        "retweet_count": 8,
+        "reply_count": 1,
+        "like_count": 25,
         "quote_count": 0,
         "bookmark_count": 0,
         "view_count": null
       },
-      "tags": [],
+      "tags": [
+        "Iran"
+      ],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/jahimes/status/2077886748265173012"
+      "url": "https://x.com/jahimes/status/2077886745505382762"
     },
     {
       "id": "2077886746906214665",
@@ -89331,7 +89456,7 @@
       "url": "https://x.com/jahimes/status/2077886746906214665"
     },
     {
-      "id": "2077886745505382762",
+      "id": "2077886748265173012",
       "handle": "jahimes",
       "username": "jahimes",
       "displayName": "Jim Himes 🇺🇸🇺🇦",
@@ -89339,26 +89464,52 @@
       "ownerType": "Congress",
       "countryId": "usa",
       "profileHref": "/country/usa/congress/james-a-himes",
-      "text": "There were legitimate threats from Russia, Iran, and China. But these were influence operations, not direct interference. This is the type of thing that the IC should be monitoring, and one reason why it’s so concerning that the Admin has gutted the offices meant to secure",
+      "text": "Trump is likely going to try to muddy the waters by misrepresenting or selectively declassifying information. He wants to sow doubt around the past elections and the upcoming midterms, no matter the cost.",
       "createdAt": "2026-07-16T22:43:00Z",
       "timestamp": 1784241780,
       "tweetType": "reply",
       "language": "en",
       "metrics": {
-        "retweet_count": 8,
-        "reply_count": 1,
-        "like_count": 25,
+        "retweet_count": 6,
+        "reply_count": 2,
+        "like_count": 26,
         "quote_count": 0,
         "bookmark_count": 0,
         "view_count": null
       },
-      "tags": [
-        "Iran"
-      ],
+      "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/jahimes/status/2077886745505382762"
+      "url": "https://x.com/jahimes/status/2077886748265173012"
+    },
+    {
+      "id": "2077886741575311627",
+      "handle": "jahimes",
+      "username": "jahimes",
+      "displayName": "Jim Himes 🇺🇸🇺🇦",
+      "ownerName": "James A. Himes",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/james-a-himes",
+      "text": "Here is the unclassified 2020 Intelligence Community Assessment, prepared under @CIADirector (then DNI). This finding is backed by the classified report, and is consistent with reports released by the IC following every federal election in the last decade. https://t.co/RTexbydyiS",
+      "createdAt": "2026-07-16T22:42:59Z",
+      "timestamp": 1784241779,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 12,
+        "reply_count": 4,
+        "like_count": 43,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/jahimes/status/2077886741575311627"
     },
     {
       "id": "2077886743475294660",
@@ -89393,34 +89544,6 @@
         }
       ],
       "url": "https://x.com/jahimes/status/2077886743475294660"
-    },
-    {
-      "id": "2077886741575311627",
-      "handle": "jahimes",
-      "username": "jahimes",
-      "displayName": "Jim Himes 🇺🇸🇺🇦",
-      "ownerName": "James A. Himes",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-a-himes",
-      "text": "Here is the unclassified 2020 Intelligence Community Assessment, prepared under @CIADirector (then DNI). This finding is backed by the classified report, and is consistent with reports released by the IC following every federal election in the last decade. https://t.co/RTexbydyiS",
-      "createdAt": "2026-07-16T22:42:59Z",
-      "timestamp": 1784241779,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 12,
-        "reply_count": 4,
-        "like_count": 43,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/jahimes/status/2077886741575311627"
     },
     {
       "id": "2077886740086378898",
@@ -91071,6 +91194,34 @@
       "url": "https://x.com/USRepKCastor/status/2077873316933566875"
     },
     {
+      "id": "2077873140873535963",
+      "handle": "mikecrapo",
+      "username": "MikeCrapo",
+      "displayName": "Senator Mike Crapo",
+      "ownerName": "Mike Crapo",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/mike-crapo",
+      "text": "God bless America and God bless Idaho, a standard bearer of the freedom and resolve we honor on this very special Fourth of July. https://t.co/A6SGUK06C5",
+      "createdAt": "2026-07-16T21:48:56Z",
+      "timestamp": 1784238536,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 14,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/MikeCrapo/status/2077873140873535963"
+    },
+    {
       "id": "2077873142794465594",
       "handle": "mikecrapo",
       "username": "MikeCrapo",
@@ -91103,34 +91254,6 @@
         }
       ],
       "url": "https://x.com/MikeCrapo/status/2077873142794465594"
-    },
-    {
-      "id": "2077873140873535963",
-      "handle": "mikecrapo",
-      "username": "MikeCrapo",
-      "displayName": "Senator Mike Crapo",
-      "ownerName": "Mike Crapo",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mike-crapo",
-      "text": "God bless America and God bless Idaho, a standard bearer of the freedom and resolve we honor on this very special Fourth of July. https://t.co/A6SGUK06C5",
-      "createdAt": "2026-07-16T21:48:56Z",
-      "timestamp": 1784238536,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 14,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/MikeCrapo/status/2077873140873535963"
     },
     {
       "id": "2077872949584138575",
@@ -94846,34 +94969,6 @@
       "url": "https://x.com/RepMoolenaar/status/2077857179306950731"
     },
     {
-      "id": "2077857140987854899",
-      "handle": "repgreglandsman",
-      "username": "repgreglandsman",
-      "displayName": null,
-      "ownerName": "Greg Landsman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/greg-landsman",
-      "text": "Public servants get their salary, and that’s it.",
-      "createdAt": "2026-07-16T20:45:21Z",
-      "timestamp": 1784234721,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 132
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repgreglandsman/status/2077857140987854899"
-    },
-    {
       "id": "2077857139930886328",
       "handle": "repgreglandsman",
       "username": "repgreglandsman",
@@ -94900,6 +94995,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repgreglandsman/status/2077857139930886328"
+    },
+    {
+      "id": "2077857140987854899",
+      "handle": "repgreglandsman",
+      "username": "repgreglandsman",
+      "displayName": null,
+      "ownerName": "Greg Landsman",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/greg-landsman",
+      "text": "Public servants get their salary, and that’s it.",
+      "createdAt": "2026-07-16T20:45:21Z",
+      "timestamp": 1784234721,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 132
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/repgreglandsman/status/2077857140987854899"
     },
     {
       "id": "2077857138148249753",
@@ -95318,6 +95441,37 @@
       "url": "https://x.com/BobLatta/status/2077855744230121497"
     },
     {
+      "id": "2077855653226328320",
+      "handle": "repcleaver",
+      "username": "RepCleaver",
+      "displayName": null,
+      "ownerName": "Emanuel Cleaver",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/emanuel-cleaver",
+      "text": "My statement on Rep. Massie's Amendment to GOP Foreign Aid Budget Bill &amp; Policy in the Middle East: https://t.co/sZAjJjcQxa",
+      "createdAt": "2026-07-16T20:39:27Z",
+      "timestamp": 1784234367,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 437
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact",
+        "Humanitarian / minority protection"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepCleaver/status/2077855653226328320"
+    },
+    {
       "id": "2077855655491199336",
       "handle": "repcleaver",
       "username": "RepCleaver",
@@ -95350,37 +95504,6 @@
         }
       ],
       "url": "https://x.com/RepCleaver/status/2077855655491199336"
-    },
-    {
-      "id": "2077855653226328320",
-      "handle": "repcleaver",
-      "username": "RepCleaver",
-      "displayName": null,
-      "ownerName": "Emanuel Cleaver",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/emanuel-cleaver",
-      "text": "My statement on Rep. Massie's Amendment to GOP Foreign Aid Budget Bill &amp; Policy in the Middle East: https://t.co/sZAjJjcQxa",
-      "createdAt": "2026-07-16T20:39:27Z",
-      "timestamp": 1784234367,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 1,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 437
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact",
-        "Humanitarian / minority protection"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepCleaver/status/2077855653226328320"
     },
     {
       "id": "2077855630178562250",
@@ -96542,34 +96665,6 @@
       "url": "https://x.com/RepFriedmanCA/status/2077851038925955122"
     },
     {
-      "id": "2077851034484101137",
-      "handle": "repfriedmanca",
-      "username": "RepFriedmanCA",
-      "displayName": null,
-      "ownerName": "Laura Friedman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/laura-friedman",
-      "text": "ROAD CLOSURES:\n\nEastbound Sunset Boulevard is closed between Larrabee Street and Sherbourne Drive.\n\nEastbound Holloway Drive is closed between Sunset Boulevard and Westmount Drive.\n\nEastbound Santa Monica Boulevard is closed between San Vicente Boulevard and Hancock Drive.",
-      "createdAt": "2026-07-16T20:21:05Z",
-      "timestamp": 1784233265,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 1,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 130
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepFriedmanCA/status/2077851034484101137"
-    },
-    {
       "id": "2077851032630317423",
       "handle": "repfriedmanca",
       "username": "RepFriedmanCA",
@@ -96596,6 +96691,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepFriedmanCA/status/2077851032630317423"
+    },
+    {
+      "id": "2077851034484101137",
+      "handle": "repfriedmanca",
+      "username": "RepFriedmanCA",
+      "displayName": null,
+      "ownerName": "Laura Friedman",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/laura-friedman",
+      "text": "ROAD CLOSURES:\n\nEastbound Sunset Boulevard is closed between Larrabee Street and Sherbourne Drive.\n\nEastbound Holloway Drive is closed between Sunset Boulevard and Westmount Drive.\n\nEastbound Santa Monica Boulevard is closed between San Vicente Boulevard and Hancock Drive.",
+      "createdAt": "2026-07-16T20:21:05Z",
+      "timestamp": 1784233265,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 130
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepFriedmanCA/status/2077851034484101137"
     },
     {
       "id": "2077850968813666618",
@@ -96884,6 +97007,34 @@
       "url": "https://x.com/RepJohnnyO/status/2077849342723961258"
     },
     {
+      "id": "2077849132178235657",
+      "handle": "senericschmitt",
+      "username": "SenEricSchmitt",
+      "displayName": null,
+      "ownerName": "Eric Schmitt",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/eric-schmitt",
+      "text": "The White House failed to notify victims' families, sending out the commutations only two days before Christmas.\n\nWhat a great to ruin Christmas for families who had already lost so much. https://t.co/brTV0GY3de",
+      "createdAt": "2026-07-16T20:13:32Z",
+      "timestamp": 1784232812,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 37,
+        "reply_count": 3,
+        "like_count": 220,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "view_count": 3443
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenEricSchmitt/status/2077849132178235657"
+    },
+    {
       "id": "2077849133918904452",
       "handle": "senericschmitt",
       "username": "SenEricSchmitt",
@@ -96915,32 +97066,60 @@
       "url": "https://x.com/SenEricSchmitt/status/2077849133918904452"
     },
     {
-      "id": "2077849132178235657",
+      "id": "2077849126734102927",
       "handle": "senericschmitt",
       "username": "SenEricSchmitt",
-      "displayName": null,
+      "displayName": "Senator Eric Schmitt",
       "ownerName": "Eric Schmitt",
       "ownerType": "Congress",
       "countryId": "usa",
       "profileHref": "/country/usa/congress/eric-schmitt",
-      "text": "The White House failed to notify victims' families, sending out the commutations only two days before Christmas.\n\nWhat a great to ruin Christmas for families who had already lost so much. https://t.co/brTV0GY3de",
-      "createdAt": "2026-07-16T20:13:32Z",
-      "timestamp": 1784232812,
+      "text": "Murderers like Dylann Roof, the Boston Marathon Bomber, and the Tree of Life Synagogue Murderer.\n\nTruly heinous criminals. https://t.co/CUlVFf0S6T",
+      "createdAt": "2026-07-16T20:13:31Z",
+      "timestamp": 1784232811,
       "tweetType": "reply",
       "language": "en",
       "metrics": {
-        "retweet_count": 37,
-        "reply_count": 3,
-        "like_count": 220,
-        "quote_count": 0,
-        "bookmark_count": 2,
-        "view_count": 3443
+        "retweet_count": 35,
+        "reply_count": 7,
+        "like_count": 194,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/SenEricSchmitt/status/2077849132178235657"
+      "url": "https://x.com/SenEricSchmitt/status/2077849126734102927"
+    },
+    {
+      "id": "2077849128915087431",
+      "handle": "senericschmitt",
+      "username": "SenEricSchmitt",
+      "displayName": "Senator Eric Schmitt",
+      "ownerName": "Eric Schmitt",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/eric-schmitt",
+      "text": "My office has substantiated the 73-page report does indeed list Oyer as the author, as is indicated by the DOJ Report.",
+      "createdAt": "2026-07-16T20:13:31Z",
+      "timestamp": 1784232811,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 25,
+        "reply_count": 2,
+        "like_count": 178,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenEricSchmitt/status/2077849128915087431"
     },
     {
       "id": "2077849130169155881",
@@ -96977,62 +97156,6 @@
       "url": "https://x.com/SenEricSchmitt/status/2077849130169155881"
     },
     {
-      "id": "2077849128915087431",
-      "handle": "senericschmitt",
-      "username": "SenEricSchmitt",
-      "displayName": "Senator Eric Schmitt",
-      "ownerName": "Eric Schmitt",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/eric-schmitt",
-      "text": "My office has substantiated the 73-page report does indeed list Oyer as the author, as is indicated by the DOJ Report.",
-      "createdAt": "2026-07-16T20:13:31Z",
-      "timestamp": 1784232811,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 25,
-        "reply_count": 2,
-        "like_count": 178,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenEricSchmitt/status/2077849128915087431"
-    },
-    {
-      "id": "2077849126734102927",
-      "handle": "senericschmitt",
-      "username": "SenEricSchmitt",
-      "displayName": "Senator Eric Schmitt",
-      "ownerName": "Eric Schmitt",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/eric-schmitt",
-      "text": "Murderers like Dylann Roof, the Boston Marathon Bomber, and the Tree of Life Synagogue Murderer.\n\nTruly heinous criminals. https://t.co/CUlVFf0S6T",
-      "createdAt": "2026-07-16T20:13:31Z",
-      "timestamp": 1784232811,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 35,
-        "reply_count": 7,
-        "like_count": 194,
-        "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenEricSchmitt/status/2077849126734102927"
-    },
-    {
       "id": "2077849124515295557",
       "handle": "senericschmitt",
       "username": "SenEricSchmitt",
@@ -97063,7 +97186,7 @@
       "url": "https://x.com/SenEricSchmitt/status/2077849124515295557"
     },
     {
-      "id": "2077849122292273535",
+      "id": "2077849118618083694",
       "handle": "senericschmitt",
       "username": "SenEricSchmitt",
       "displayName": null,
@@ -97071,24 +97194,24 @@
       "ownerType": "Congress",
       "countryId": "usa",
       "profileHref": "/country/usa/congress/eric-schmitt",
-      "text": "On November 4, 2024, in a 73-page memorandum, Liz Oyer recommended that all 40 federal death row inmates receive commutations. A clean sweep. https://t.co/0JidA93CAo",
+      "text": "Biden's Pardon Attorney recommended commuting the sentences of Dylann Roof, the Tree of Life Synagogue Murderer, and the Boston Marathon Bomber.\n\nShe was too scared to admit it. I confronted her with the documents. They're available for the whole world to see. Receipts. 🧵 https://t.co/EySmt5r7th",
       "createdAt": "2026-07-16T20:13:29Z",
       "timestamp": 1784232809,
-      "tweetType": "reply",
+      "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 62,
-        "reply_count": 9,
-        "like_count": 289,
-        "quote_count": 3,
-        "bookmark_count": 6,
-        "view_count": 21771
+        "retweet_count": 1663,
+        "reply_count": 131,
+        "like_count": 6420,
+        "quote_count": 41,
+        "bookmark_count": 298,
+        "view_count": 131401
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/SenEricSchmitt/status/2077849122292273535"
+      "url": "https://x.com/SenEricSchmitt/status/2077849118618083694"
     },
     {
       "id": "2077849120442597722",
@@ -97119,7 +97242,7 @@
       "url": "https://x.com/SenEricSchmitt/status/2077849120442597722"
     },
     {
-      "id": "2077849118618083694",
+      "id": "2077849122292273535",
       "handle": "senericschmitt",
       "username": "SenEricSchmitt",
       "displayName": null,
@@ -97127,24 +97250,24 @@
       "ownerType": "Congress",
       "countryId": "usa",
       "profileHref": "/country/usa/congress/eric-schmitt",
-      "text": "Biden's Pardon Attorney recommended commuting the sentences of Dylann Roof, the Tree of Life Synagogue Murderer, and the Boston Marathon Bomber.\n\nShe was too scared to admit it. I confronted her with the documents. They're available for the whole world to see. Receipts. 🧵 https://t.co/EySmt5r7th",
+      "text": "On November 4, 2024, in a 73-page memorandum, Liz Oyer recommended that all 40 federal death row inmates receive commutations. A clean sweep. https://t.co/0JidA93CAo",
       "createdAt": "2026-07-16T20:13:29Z",
       "timestamp": 1784232809,
-      "tweetType": "tweet",
+      "tweetType": "reply",
       "language": "en",
       "metrics": {
-        "retweet_count": 1663,
-        "reply_count": 131,
-        "like_count": 6420,
-        "quote_count": 41,
-        "bookmark_count": 298,
-        "view_count": 131401
+        "retweet_count": 62,
+        "reply_count": 9,
+        "like_count": 289,
+        "quote_count": 3,
+        "bookmark_count": 6,
+        "view_count": 21771
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/SenEricSchmitt/status/2077849118618083694"
+      "url": "https://x.com/SenEricSchmitt/status/2077849122292273535"
     },
     {
       "id": "2077849105276018779",
@@ -98110,6 +98233,36 @@
       "url": "https://x.com/RepDavidKustoff/status/2077845201180090667"
     },
     {
+      "id": "2077845025929445468",
+      "handle": "senwarren",
+      "username": "SenWarren",
+      "displayName": null,
+      "ownerName": "Elizabeth Warren",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/elizabeth-warren",
+      "text": "From Day One, Trump's get-out-of-jail-free plan has reeked of corruption.\n\nNow, a federal judge is saying loud and clear that it’s illegal.\n\nThe Trump administration is breaking the law by shielding Donald Trump and his family from tax audits. https://t.co/605Pga9Cb7",
+      "createdAt": "2026-07-16T19:57:13Z",
+      "timestamp": 1784231833,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 182,
+        "reply_count": 241,
+        "like_count": 503,
+        "quote_count": 4,
+        "bookmark_count": 8,
+        "view_count": 26711
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Critical / hostile language"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenWarren/status/2077845025929445468"
+    },
+    {
       "id": "2077845027598835911",
       "handle": "senwarren",
       "username": "SenWarren",
@@ -98142,36 +98295,6 @@
         }
       ],
       "url": "https://x.com/SenWarren/status/2077845027598835911"
-    },
-    {
-      "id": "2077845025929445468",
-      "handle": "senwarren",
-      "username": "SenWarren",
-      "displayName": null,
-      "ownerName": "Elizabeth Warren",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/elizabeth-warren",
-      "text": "From Day One, Trump's get-out-of-jail-free plan has reeked of corruption.\n\nNow, a federal judge is saying loud and clear that it’s illegal.\n\nThe Trump administration is breaking the law by shielding Donald Trump and his family from tax audits. https://t.co/605Pga9Cb7",
-      "createdAt": "2026-07-16T19:57:13Z",
-      "timestamp": 1784231833,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 182,
-        "reply_count": 241,
-        "like_count": 503,
-        "quote_count": 4,
-        "bookmark_count": 8,
-        "view_count": 26711
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Critical / hostile language"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenWarren/status/2077845025929445468"
     },
     {
       "id": "2077844958271115589",
@@ -100898,6 +101021,36 @@
       "url": "https://x.com/RepRichHudson/status/2077834503213486480"
     },
     {
+      "id": "2077834234342125681",
+      "handle": "repdesaulnier",
+      "username": "RepDeSaulnier",
+      "displayName": null,
+      "ownerName": "Mark DeSaulnier",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/mark-desaulnier",
+      "text": "Ahead of President Trump’s speech tonight, I wanted to share some facts about voting in the U.S. as a reminder that our existing voting system has extremely low levels of fraud and our local and state partners already implement a myriad of checks to ensure only eligible voters",
+      "createdAt": "2026-07-16T19:14:20Z",
+      "timestamp": 1784229260,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 11,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 489
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDeSaulnier/status/2077834234342125681"
+    },
+    {
       "id": "2077834235973611911",
       "handle": "repdesaulnier",
       "username": "RepDeSaulnier",
@@ -100930,36 +101083,6 @@
         }
       ],
       "url": "https://x.com/RepDeSaulnier/status/2077834235973611911"
-    },
-    {
-      "id": "2077834234342125681",
-      "handle": "repdesaulnier",
-      "username": "RepDeSaulnier",
-      "displayName": null,
-      "ownerName": "Mark DeSaulnier",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-desaulnier",
-      "text": "Ahead of President Trump’s speech tonight, I wanted to share some facts about voting in the U.S. as a reminder that our existing voting system has extremely low levels of fraud and our local and state partners already implement a myriad of checks to ensure only eligible voters",
-      "createdAt": "2026-07-16T19:14:20Z",
-      "timestamp": 1784229260,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 11,
-        "like_count": 8,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 489
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepDeSaulnier/status/2077834234342125681"
     },
     {
       "id": "2077834223906394607",
@@ -101076,36 +101199,6 @@
       "url": "https://x.com/SenEricSchmitt/status/2077834160803070126"
     },
     {
-      "id": "2077834159209279588",
-      "handle": "senericschmitt",
-      "username": "SenEricSchmitt",
-      "displayName": "Senator Eric Schmitt",
-      "ownerName": "Eric Schmitt",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/eric-schmitt",
-      "text": "Diplomats' kids improperly being given citizenship documents poses serious risks.\n\nThese fraudulent \"citizens\" owe allegiance to foreign countries like China, Russia, and Iran, but can vote in our elections, enter our country on a US passport, and engage in chain migration.",
-      "createdAt": "2026-07-16T19:14:02Z",
-      "timestamp": 1784229242,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 22,
-        "reply_count": 1,
-        "like_count": 94,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenEricSchmitt/status/2077834159209279588"
-    },
-    {
       "id": "2077834157653119214",
       "handle": "senericschmitt",
       "username": "SenEricSchmitt",
@@ -101136,7 +101229,7 @@
       "url": "https://x.com/SenEricSchmitt/status/2077834157653119214"
     },
     {
-      "id": "2077834155778322870",
+      "id": "2077834159209279588",
       "handle": "senericschmitt",
       "username": "SenEricSchmitt",
       "displayName": "Senator Eric Schmitt",
@@ -101144,24 +101237,26 @@
       "ownerType": "Congress",
       "countryId": "usa",
       "profileHref": "/country/usa/congress/eric-schmitt",
-      "text": "Diplomats are not \"subject to the jurisdiction\" of the U.S., so their kids do NOT get birthright citizenship.\n\nEven SCOTUS's flawed majority opinion agreed.\n\nBut currently, there are ZERO protections against diplomats illegally getting citizenship documentation for their kids. https://t.co/DukYEjSzXN",
-      "createdAt": "2026-07-16T19:14:01Z",
-      "timestamp": 1784229241,
+      "text": "Diplomats' kids improperly being given citizenship documents poses serious risks.\n\nThese fraudulent \"citizens\" owe allegiance to foreign countries like China, Russia, and Iran, but can vote in our elections, enter our country on a US passport, and engage in chain migration.",
+      "createdAt": "2026-07-16T19:14:02Z",
+      "timestamp": 1784229242,
       "tweetType": "reply",
       "language": "en",
       "metrics": {
-        "retweet_count": 45,
-        "reply_count": 5,
-        "like_count": 212,
+        "retweet_count": 22,
+        "reply_count": 1,
+        "like_count": 94,
         "quote_count": 0,
         "bookmark_count": 0,
         "view_count": null
       },
-      "tags": [],
+      "tags": [
+        "Iran"
+      ],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/SenEricSchmitt/status/2077834155778322870"
+      "url": "https://x.com/SenEricSchmitt/status/2077834159209279588"
     },
     {
       "id": "2077834153534378079",
@@ -101196,6 +101291,34 @@
         }
       ],
       "url": "https://x.com/SenEricSchmitt/status/2077834153534378079"
+    },
+    {
+      "id": "2077834155778322870",
+      "handle": "senericschmitt",
+      "username": "SenEricSchmitt",
+      "displayName": "Senator Eric Schmitt",
+      "ownerName": "Eric Schmitt",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/eric-schmitt",
+      "text": "Diplomats are not \"subject to the jurisdiction\" of the U.S., so their kids do NOT get birthright citizenship.\n\nEven SCOTUS's flawed majority opinion agreed.\n\nBut currently, there are ZERO protections against diplomats illegally getting citizenship documentation for their kids. https://t.co/DukYEjSzXN",
+      "createdAt": "2026-07-16T19:14:01Z",
+      "timestamp": 1784229241,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 45,
+        "reply_count": 5,
+        "like_count": 212,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenEricSchmitt/status/2077834155778322870"
     },
     {
       "id": "2077834150925541864",
@@ -104304,6 +104427,36 @@
       "url": "https://x.com/SenTedCruz/status/2077820703554809970"
     },
     {
+      "id": "2077820526496526755",
+      "handle": "reptenney",
+      "username": "RepTenney",
+      "displayName": null,
+      "ownerName": "Claudia Tenney",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/claudia-tenney",
+      "text": "Great news for Niagara County and Western New York!\n\nRich Andres will serve on USTR’s Intergovernmental Policy Advisory Committee, helping ensure local communities have a voice as federal trade policy is shaped.\n\nOur farmers, manufacturers, workers, &amp; small businesses deserve a https://t.co/3YwN5BRYlU",
+      "createdAt": "2026-07-16T18:19:52Z",
+      "timestamp": 1784225992,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 6,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 2614
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepTenney/status/2077820526496526755"
+    },
+    {
       "id": "2077820529164108178",
       "handle": "reptenney",
       "username": "RepTenney",
@@ -104336,36 +104489,6 @@
         }
       ],
       "url": "https://x.com/RepTenney/status/2077820529164108178"
-    },
-    {
-      "id": "2077820526496526755",
-      "handle": "reptenney",
-      "username": "RepTenney",
-      "displayName": null,
-      "ownerName": "Claudia Tenney",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/claudia-tenney",
-      "text": "Great news for Niagara County and Western New York!\n\nRich Andres will serve on USTR’s Intergovernmental Policy Advisory Committee, helping ensure local communities have a voice as federal trade policy is shaped.\n\nOur farmers, manufacturers, workers, &amp; small businesses deserve a https://t.co/3YwN5BRYlU",
-      "createdAt": "2026-07-16T18:19:52Z",
-      "timestamp": 1784225992,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 6,
-        "like_count": 15,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 2614
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepTenney/status/2077820526496526755"
     },
     {
       "id": "2077820514093920583",
@@ -108516,6 +108639,36 @@
       "url": "https://x.com/RepJasonCrow/status/2077806351028257224"
     },
     {
+      "id": "2077806257352643066",
+      "handle": "repcleaver",
+      "username": "RepCleaver",
+      "displayName": null,
+      "ownerName": "Emanuel Cleaver",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/emanuel-cleaver",
+      "text": "History teaches us that constitutional rights are rarely lost all at once - they’re chipped away slowly, one exception, one excuse, one precedent at a time.\n\nThat’s why I took to the House floor yesterday to defend the 14th Amendment and the freedoms it guarantees. https://t.co/I7MX6GP4gs",
+      "createdAt": "2026-07-16T17:23:10Z",
+      "timestamp": 1784222590,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 16,
+        "reply_count": 24,
+        "like_count": 33,
+        "quote_count": 2,
+        "bookmark_count": 2,
+        "view_count": 888
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepCleaver/status/2077806257352643066"
+    },
+    {
       "id": "2077806259525333052",
       "handle": "repcleaver",
       "username": "RepCleaver",
@@ -108550,34 +108703,32 @@
       "url": "https://x.com/RepCleaver/status/2077806259525333052"
     },
     {
-      "id": "2077806257352643066",
-      "handle": "repcleaver",
-      "username": "RepCleaver",
+      "id": "2077805982676054140",
+      "handle": "repgonzalez",
+      "username": "RepGonzalez",
       "displayName": null,
-      "ownerName": "Emanuel Cleaver",
+      "ownerName": "Vicente Gonzalez",
       "ownerType": "Congress",
       "countryId": "usa",
-      "profileHref": "/country/usa/congress/emanuel-cleaver",
-      "text": "History teaches us that constitutional rights are rarely lost all at once - they’re chipped away slowly, one exception, one excuse, one precedent at a time.\n\nThat’s why I took to the House floor yesterday to defend the 14th Amendment and the freedoms it guarantees. https://t.co/I7MX6GP4gs",
-      "createdAt": "2026-07-16T17:23:10Z",
-      "timestamp": 1784222590,
+      "profileHref": "/country/usa/congress/vicente-gonzalez",
+      "text": "Today, extreme Republicans in Washington tried advancing a radical bill that would have implemented the largest cut to veterans benefits in a generation. I fought back, and the bill got pulled from the floor.\n\nSouth Texas is home to more than 50,000 veterans, and nearly half live",
+      "createdAt": "2026-07-16T17:22:04Z",
+      "timestamp": 1784222524,
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 16,
-        "reply_count": 24,
-        "like_count": 33,
-        "quote_count": 2,
-        "bookmark_count": 2,
-        "view_count": 888
+        "retweet_count": 3,
+        "reply_count": 11,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 959
       },
       "tags": [],
       "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
+      "frames": [],
       "urls": [],
-      "url": "https://x.com/RepCleaver/status/2077806257352643066"
+      "url": "https://x.com/RepGonzalez/status/2077805982676054140"
     },
     {
       "id": "2077805882931315040",
@@ -122332,121 +122483,6 @@
         }
       ],
       "url": "https://x.com/SenThomTillis/status/2077745606135578709"
-    },
-    {
-      "id": "2077745389055217679",
-      "handle": "repmarktakano",
-      "username": "RepMarkTakano",
-      "displayName": null,
-      "ownerName": "Mark Takano",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-takano",
-      "text": "RT @VetAffairsDems: 🚨HAPPENING TODAY: The House will vote on the “Taking Benefits from America’s Veterans Act.” Ranking Member @RepMarkTaka…",
-      "createdAt": "2026-07-16T13:21:18Z",
-      "timestamp": 1784208078,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 9,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 62
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMarkTakano/status/2077745389055217679"
-    },
-    {
-      "id": "2077745018651943066",
-      "handle": "repmaxwellfrost",
-      "username": "RepMaxwellFrost",
-      "displayName": null,
-      "ownerName": "Maxwell Frost",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/maxwell-frost",
-      "text": "Voting rights are an essential right of democracy.  But between partisan gerrymandering and attacks on voting rights, we are facing a coordinated effort to undermine Black representation in this country.\n\nRecently, I met with local officials and community leaders who want to https://t.co/gKs8tdtEFT",
-      "createdAt": "2026-07-16T13:19:49Z",
-      "timestamp": 1784207989,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 32,
-        "reply_count": 56,
-        "like_count": 103,
-        "quote_count": 4,
-        "bookmark_count": 4,
-        "view_count": 2432
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMaxwellFrost/status/2077745018651943066"
-    },
-    {
-      "id": "2077744788036608269",
-      "handle": "repdeluzio",
-      "username": "RepDeluzio",
-      "displayName": null,
-      "ownerName": "Christopher R. Deluzio",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/christopher-r-deluzio",
-      "text": "They are the swamp they claim to hate: using the highest office in the land to get more contracts for themselves. It's corrupt.\n\nAccountability is coming.",
-      "createdAt": "2026-07-16T13:18:54Z",
-      "timestamp": 1784207934,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 2,
-        "like_count": 5,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 250
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDeluzio/status/2077744788036608269"
-    },
-    {
-      "id": "2077744786207809588",
-      "handle": "repdeluzio",
-      "username": "RepDeluzio",
-      "displayName": null,
-      "ownerName": "Christopher R. Deluzio",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/christopher-r-deluzio",
-      "text": "This isn't about patriotism or strategic competition. This is just about guys working the system to enrich themselves at the public’s expense. https://t.co/I1Rs0VOiCB",
-      "createdAt": "2026-07-16T13:18:54Z",
-      "timestamp": 1784207934,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 2,
-        "like_count": 5,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 400
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDeluzio/status/2077744786207809588"
     }
   ],
   "notes": [
