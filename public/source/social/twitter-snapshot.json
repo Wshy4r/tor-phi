@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T16:59:00.908430Z",
+  "generatedAt": "2026-07-18T17:59:31.150327Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-18T16:57:39.724Z",
+    "generatedAt": "2026-07-18T17:58:05.279Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2148,7 +2148,7 @@
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-18T16:58:59.954008Z",
+  "lastCaptureAt": "2026-07-18T17:59:30.380419Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30516,7 +30516,7 @@
       "profileHref": "/country/usa/congress/adrian-smith",
       "url": "https://x.com/RepAdrianSmith",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:57:58.252342Z",
+      "lastScrapedAt": "2026-07-18T17:58:24.380305Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 21629,
@@ -30550,7 +30550,7 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:58:14.585663Z",
+      "lastScrapedAt": "2026-07-18T17:58:41.921029Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 119626,
@@ -30567,10 +30567,10 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:58:29.219993Z",
+      "lastScrapedAt": "2026-07-18T17:58:57.860099Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 2574,
+      "followersCount": 2573,
       "followingCount": 70,
       "verified": false
     },
@@ -30703,10 +30703,10 @@
       "profileHref": "/country/usa/congress/andrew-ogles",
       "url": "https://x.com/repogles",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:58:43.972905Z",
+      "lastScrapedAt": "2026-07-18T17:59:15.105359Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 124486,
+      "followersCount": 124485,
       "followingCount": 698,
       "verified": false
     },
@@ -30720,7 +30720,7 @@
       "profileHref": "/country/usa/congress/andrew-r-garbarino",
       "url": "https://x.com/RepGarbarino",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:58:59.954008Z",
+      "lastScrapedAt": "2026-07-18T17:59:30.380419Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 13991,
@@ -40769,7 +40769,7 @@
       "profileHref": "/country/usa/congress/adrian-smith",
       "url": "https://x.com/RepAdrianSmith",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:57:58.252342Z",
+      "lastScrapedAt": "2026-07-18T17:58:24.380305Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 21629,
@@ -40803,7 +40803,7 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:58:14.585663Z",
+      "lastScrapedAt": "2026-07-18T17:58:41.921029Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 119626,
@@ -40820,10 +40820,10 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:58:29.219993Z",
+      "lastScrapedAt": "2026-07-18T17:58:57.860099Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 2574,
+      "followersCount": 2573,
       "followingCount": 70,
       "verified": false
     },
@@ -40956,10 +40956,10 @@
       "profileHref": "/country/usa/congress/andrew-ogles",
       "url": "https://x.com/repogles",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:58:43.972905Z",
+      "lastScrapedAt": "2026-07-18T17:59:15.105359Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 124486,
+      "followersCount": 124485,
       "followingCount": 698,
       "verified": false
     },
@@ -40973,7 +40973,7 @@
       "profileHref": "/country/usa/congress/andrew-r-garbarino",
       "url": "https://x.com/RepGarbarino",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T16:58:59.954008Z",
+      "lastScrapedAt": "2026-07-18T17:59:30.380419Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 13991,
@@ -48868,12 +48868,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 31,
-        "reply_count": 14,
-        "like_count": 86,
-        "quote_count": 1,
-        "bookmark_count": 5,
-        "view_count": 1658
+        "retweet_count": 37,
+        "reply_count": 16,
+        "like_count": 115,
+        "quote_count": 2,
+        "bookmark_count": 7,
+        "view_count": 2122
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -55429,12 +55429,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 521,
-        "reply_count": 71,
-        "like_count": 2232,
+        "retweet_count": 540,
+        "reply_count": 73,
+        "like_count": 2331,
         "quote_count": 1,
-        "bookmark_count": 19,
-        "view_count": 12143
+        "bookmark_count": 20,
+        "view_count": 12670
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56644,10 +56644,10 @@
       "metrics": {
         "retweet_count": 3,
         "reply_count": 2,
-        "like_count": 17,
+        "like_count": 18,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 1224
+        "view_count": 1251
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -67036,7 +67036,7 @@
         "like_count": 121,
         "quote_count": 1,
         "bookmark_count": 4,
-        "view_count": 1939
+        "view_count": 2010
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -73785,12 +73785,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 144,
+        "retweet_count": 145,
         "reply_count": 122,
-        "like_count": 642,
+        "like_count": 645,
         "quote_count": 5,
         "bookmark_count": 20,
-        "view_count": 13346
+        "view_count": 13446
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -79301,12 +79301,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 478,
+        "retweet_count": 479,
         "reply_count": 173,
-        "like_count": 1421,
+        "like_count": 1425,
         "quote_count": 7,
         "bookmark_count": 7,
-        "view_count": 16031
+        "view_count": 16083
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -95532,7 +95532,7 @@
         "like_count": 344,
         "quote_count": 4,
         "bookmark_count": 10,
-        "view_count": 5387
+        "view_count": 5395
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -97639,7 +97639,7 @@
         "like_count": 10,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 1052
+        "view_count": 1053
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -107305,7 +107305,7 @@
         "like_count": 29,
         "quote_count": 4,
         "bookmark_count": 0,
-        "view_count": 3865
+        "view_count": 3874
       },
       "tags": [],
       "kurdistanTerms": [
@@ -111480,12 +111480,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 861,
+        "retweet_count": 862,
         "reply_count": 101,
         "like_count": 2755,
         "quote_count": 17,
         "bookmark_count": 18,
-        "view_count": 40034
+        "view_count": 40061
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -114031,7 +114031,7 @@
         "like_count": 15,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 546
+        "view_count": 551
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -120829,12 +120829,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 134,
+        "retweet_count": 135,
         "reply_count": 74,
-        "like_count": 412,
+        "like_count": 413,
         "quote_count": 4,
         "bookmark_count": 6,
-        "view_count": 22076
+        "view_count": 22109
       },
       "tags": [],
       "kurdistanTerms": [],
