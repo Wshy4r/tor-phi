@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T11:52:47.542000Z",
+  "generatedAt": "2026-07-18T13:12:57.842414Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-18T11:52:36.828Z",
+    "generatedAt": "2026-07-18T13:11:41.087Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55862,
+    "tweets": 55864,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-18T11:52:46.629933Z",
+  "lastCaptureAt": "2026-07-18T13:12:57.023702Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30508,7 +30508,7 @@
     },
     {
       "username": "RepAdrianSmith",
-      "displayName": "Rep. Adrian Smith",
+      "displayName": "Adrian Smith",
       "ownerName": "Adrian Smith",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30516,12 +30516,12 @@
       "profileHref": "/country/usa/congress/adrian-smith",
       "url": "https://x.com/RepAdrianSmith",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:41.304268Z",
+      "lastScrapedAt": "2026-07-18T13:11:58.869503Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/832318343872921605/fJFr9CvP_normal.jpg",
+      "profileImageUrl": null,
       "followersCount": 21629,
       "followingCount": 714,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepEspaillat",
@@ -30542,7 +30542,7 @@
     },
     {
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": "Al Green",
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30550,12 +30550,12 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:42.583744Z",
+      "lastScrapedAt": "2026-07-18T13:12:11.945439Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907523395551473664/pII6GdRc_normal.jpg",
-      "followersCount": 119628,
+      "profileImageUrl": null,
+      "followersCount": 119627,
       "followingCount": 698,
-      "verified": true
+      "verified": false
     },
     {
       "username": "SenArmstrong",
@@ -30567,12 +30567,12 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:43.988885Z",
+      "lastScrapedAt": "2026-07-18T13:12:26.032150Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2037201935162384384/Vt9x_cqY_normal.jpg",
+      "profileImageUrl": null,
       "followersCount": 2575,
       "followingCount": 70,
-      "verified": true
+      "verified": false
     },
     {
       "username": "SenAlexPadilla",
@@ -30695,7 +30695,7 @@
     },
     {
       "username": "repogles",
-      "displayName": "Rep. Andy Ogles",
+      "displayName": "Andrew Ogles",
       "ownerName": "Andrew Ogles",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30703,16 +30703,16 @@
       "profileHref": "/country/usa/congress/andrew-ogles",
       "url": "https://x.com/repogles",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:45.271421Z",
+      "lastScrapedAt": "2026-07-18T13:12:41.139842Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919387398464565248/fv84YE0c_normal.jpg",
+      "profileImageUrl": null,
       "followersCount": 124483,
       "followingCount": 698,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepGarbarino",
-      "displayName": "Rep. Andrew Garbarino",
+      "displayName": "Andrew R. Garbarino",
       "ownerName": "Andrew R. Garbarino",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30720,12 +30720,12 @@
       "profileHref": "/country/usa/congress/andrew-r-garbarino",
       "url": "https://x.com/RepGarbarino",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:46.629933Z",
+      "lastScrapedAt": "2026-07-18T13:12:57.023702Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1345549516125167616/NeuVOQWT_normal.jpg",
+      "profileImageUrl": null,
       "followersCount": 13990,
       "followingCount": 365,
-      "verified": true
+      "verified": false
     },
     {
       "username": "Rep_Clyde",
@@ -40761,7 +40761,7 @@
     },
     {
       "username": "RepAdrianSmith",
-      "displayName": "Rep. Adrian Smith",
+      "displayName": "Adrian Smith",
       "ownerName": "Adrian Smith",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -40769,12 +40769,12 @@
       "profileHref": "/country/usa/congress/adrian-smith",
       "url": "https://x.com/RepAdrianSmith",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:41.304268Z",
+      "lastScrapedAt": "2026-07-18T13:11:58.869503Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/832318343872921605/fJFr9CvP_normal.jpg",
+      "profileImageUrl": null,
       "followersCount": 21629,
       "followingCount": 714,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepEspaillat",
@@ -40795,7 +40795,7 @@
     },
     {
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": "Al Green",
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -40803,12 +40803,12 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:42.583744Z",
+      "lastScrapedAt": "2026-07-18T13:12:11.945439Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907523395551473664/pII6GdRc_normal.jpg",
-      "followersCount": 119628,
+      "profileImageUrl": null,
+      "followersCount": 119627,
       "followingCount": 698,
-      "verified": true
+      "verified": false
     },
     {
       "username": "SenArmstrong",
@@ -40820,12 +40820,12 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:43.988885Z",
+      "lastScrapedAt": "2026-07-18T13:12:26.032150Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2037201935162384384/Vt9x_cqY_normal.jpg",
+      "profileImageUrl": null,
       "followersCount": 2575,
       "followingCount": 70,
-      "verified": true
+      "verified": false
     },
     {
       "username": "SenAlexPadilla",
@@ -40948,7 +40948,7 @@
     },
     {
       "username": "repogles",
-      "displayName": "Rep. Andy Ogles",
+      "displayName": "Andrew Ogles",
       "ownerName": "Andrew Ogles",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -40956,16 +40956,16 @@
       "profileHref": "/country/usa/congress/andrew-ogles",
       "url": "https://x.com/repogles",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:45.271421Z",
+      "lastScrapedAt": "2026-07-18T13:12:41.139842Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919387398464565248/fv84YE0c_normal.jpg",
+      "profileImageUrl": null,
       "followersCount": 124483,
       "followingCount": 698,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepGarbarino",
-      "displayName": "Rep. Andrew Garbarino",
+      "displayName": "Andrew R. Garbarino",
       "ownerName": "Andrew R. Garbarino",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -40973,12 +40973,12 @@
       "profileHref": "/country/usa/congress/andrew-r-garbarino",
       "url": "https://x.com/RepGarbarino",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T11:52:46.629933Z",
+      "lastScrapedAt": "2026-07-18T13:12:57.023702Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1345549516125167616/NeuVOQWT_normal.jpg",
+      "profileImageUrl": null,
       "followersCount": 13990,
       "followingCount": 365,
-      "verified": true
+      "verified": false
     },
     {
       "username": "Rep_Clyde",
@@ -55381,8 +55381,8 @@
     {
       "id": "2078212584109433207",
       "handle": "repogles",
-      "username": "RepOgles",
-      "displayName": "Rep. Andy Ogles",
+      "username": "repogles",
+      "displayName": null,
       "ownerName": "Andrew Ogles",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -55393,12 +55393,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 384,
-        "reply_count": 46,
-        "like_count": 1639,
+        "retweet_count": 427,
+        "reply_count": 64,
+        "like_count": 1783,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 19,
+        "view_count": 9202
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -55406,7 +55406,7 @@
         "Critical / hostile language"
       ],
       "urls": [],
-      "url": "https://x.com/RepOgles/status/2078212584109433207"
+      "url": "https://x.com/repogles/status/2078212584109433207"
     },
     {
       "id": "2078212349354291467",
@@ -56210,7 +56210,7 @@
       "id": "2078208567501291980",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
-      "displayName": "Alan Armstrong",
+      "displayName": null,
       "ownerName": "Alan Armstrong",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -56226,7 +56226,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 26
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56266,7 +56266,7 @@
       "id": "2078208345266090247",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
-      "displayName": "Alan Armstrong",
+      "displayName": null,
       "ownerName": "Alan Armstrong",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -56282,7 +56282,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 22
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56595,7 +56595,7 @@
       "id": "2078207652908138801",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -56609,9 +56609,9 @@
         "retweet_count": 1,
         "reply_count": 2,
         "like_count": 16,
-        "quote_count": 0,
+        "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 1129
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -66984,7 +66984,7 @@
       "id": "2078164813016957326",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -66996,11 +66996,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 21,
-        "reply_count": 13,
-        "like_count": 108,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
+        "reply_count": 14,
+        "like_count": 110,
+        "quote_count": 1,
+        "bookmark_count": 4,
+        "view_count": 1723
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -73738,7 +73738,7 @@
       "id": "2078130877209469040",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -73749,12 +73749,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 129,
-        "reply_count": 92,
-        "like_count": 597,
+        "retweet_count": 136,
+        "reply_count": 107,
+        "like_count": 615,
         "quote_count": 4,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 19,
+        "view_count": 12383
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -76445,7 +76445,7 @@
       "id": "2078117512332370146",
       "handle": "repadriansmith",
       "username": "RepAdrianSmith",
-      "displayName": "Rep. Adrian Smith",
+      "displayName": null,
       "ownerName": "Adrian Smith",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -76461,7 +76461,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 484
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -79253,8 +79253,8 @@
     {
       "id": "2078100644800430170",
       "handle": "repogles",
-      "username": "RepOgles",
-      "displayName": "Rep. Andy Ogles",
+      "username": "repogles",
+      "displayName": null,
       "ownerName": "Andrew Ogles",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -79265,18 +79265,18 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 473,
+        "retweet_count": 475,
         "reply_count": 172,
-        "like_count": 1402,
+        "like_count": 1408,
         "quote_count": 7,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 7,
+        "view_count": 15841
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/RepOgles/status/2078100644800430170"
+      "url": "https://x.com/repogles/status/2078100644800430170"
     },
     {
       "id": "2078100555407249696",
@@ -95480,7 +95480,7 @@
       "id": "2077862074357518392",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -95495,8 +95495,8 @@
         "reply_count": 28,
         "like_count": 342,
         "quote_count": 4,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 10,
+        "view_count": 5342
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -97587,7 +97587,7 @@
       "id": "2077855750433452489",
       "handle": "repgarbarino",
       "username": "RepGarbarino",
-      "displayName": "Rep. Andrew Garbarino",
+      "displayName": null,
       "ownerName": "Andrew R. Garbarino",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -97602,8 +97602,8 @@
         "reply_count": 4,
         "like_count": 10,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 1,
+        "view_count": 1038
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -107253,7 +107253,7 @@
       "id": "2077819875842462104",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
-      "displayName": "Alan Armstrong",
+      "displayName": null,
       "ownerName": "Alan Armstrong",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -107269,7 +107269,7 @@
         "like_count": 29,
         "quote_count": 4,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 3844
       },
       "tags": [],
       "kurdistanTerms": [
@@ -111432,8 +111432,8 @@
     {
       "id": "2077805868121219158",
       "handle": "repogles",
-      "username": "RepOgles",
-      "displayName": "Rep. Andy Ogles",
+      "username": "repogles",
+      "displayName": null,
       "ownerName": "Andrew Ogles",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -111448,14 +111448,14 @@
         "reply_count": 101,
         "like_count": 2752,
         "quote_count": 17,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 18,
+        "view_count": 39939
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/RepOgles/status/2077805868121219158"
+      "url": "https://x.com/repogles/status/2077805868121219158"
     },
     {
       "id": "2077805500343697538",
@@ -113979,7 +113979,7 @@
       "id": "2077794273597304942",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
-      "displayName": "Alan Armstrong",
+      "displayName": null,
       "ownerName": "Alan Armstrong",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -113994,8 +113994,8 @@
         "reply_count": 2,
         "like_count": 15,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 1,
+        "view_count": 543
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -120781,8 +120781,8 @@
     {
       "id": "2077764982159106095",
       "handle": "repogles",
-      "username": "RepOgles",
-      "displayName": "Rep. Andy Ogles",
+      "username": "repogles",
+      "displayName": null,
       "ownerName": "Andrew Ogles",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -120795,16 +120795,16 @@
       "metrics": {
         "retweet_count": 134,
         "reply_count": 74,
-        "like_count": 409,
+        "like_count": 410,
         "quote_count": 4,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 6,
+        "view_count": 22005
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/RepOgles/status/2077764982159106095"
+      "url": "https://x.com/repogles/status/2077764982159106095"
     },
     {
       "id": "2077764926039372275",
