@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T09:44:53.794205Z",
+  "generatedAt": "2026-07-18T09:50:24.962526Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -2142,11 +2142,11 @@
   "totals": {
     "accounts": 2252,
     "uniqueHandles": 2235,
-    "capturedAccounts": 513,
-    "errorAccounts": 7,
-    "tweets": 54976,
+    "capturedAccounts": 512,
+    "errorAccounts": 8,
+    "tweets": 55858,
     "snapshotTweets": 2500,
-    "users": 513
+    "users": 512
   },
   "lastCaptureAt": "2026-07-18T09:44:25.658385Z",
   "accounts": [
@@ -30430,9 +30430,9 @@
       "role": "U.S. Representative for FL-4",
       "profileHref": "/country/usa/congress/aaron-bean",
       "url": "https://x.com/RepAaronBean",
-      "status": "captured",
+      "status": "error",
       "lastScrapedAt": "2026-07-18T07:20:02.866541Z",
-      "lastError": null,
+      "lastError": "X rate limit hit; TORPHI_X_MAX_RATE_WAIT=0 so this run will not wait.",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611488977562882056/I4PVx5og_normal.jpg",
       "followersCount": 8896,
       "followingCount": 243,
@@ -40692,23 +40692,6 @@
       "verified": false
     },
     {
-      "username": "RepAaronBean",
-      "displayName": "Aaron Bean",
-      "ownerName": "Aaron Bean",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "role": "U.S. Representative for FL-4",
-      "profileHref": "/country/usa/congress/aaron-bean",
-      "url": "https://x.com/RepAaronBean",
-      "status": "captured",
-      "lastScrapedAt": "2026-07-18T07:20:02.866541Z",
-      "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611488977562882056/I4PVx5og_normal.jpg",
-      "followersCount": 8896,
-      "followingCount": 243,
-      "verified": true
-    },
-    {
       "username": "SenAdamSchiff",
       "displayName": "Adam B. Schiff",
       "ownerName": "Adam B. Schiff",
@@ -49681,6 +49664,34 @@
       "url": "https://x.com/SenAlexPadilla/status/2078266492060053683"
     },
     {
+      "id": "2078266464310587757",
+      "handle": "repluna",
+      "username": "RepLuna",
+      "displayName": "Rep. Anna Paulina Luna",
+      "ownerName": "Anna Paulina Luna",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/anna-paulina-luna",
+      "text": "Protect Jimothy 🫶🏻🦝 at all costs! https://t.co/mNM16LBtV5",
+      "createdAt": "2026-07-17T23:51:52Z",
+      "timestamp": 1784332312,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 166,
+        "reply_count": 114,
+        "like_count": 2075,
+        "quote_count": 30,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepLuna/status/2078266464310587757"
+    },
+    {
       "id": "2078265625126830500",
       "handle": "sentuberville",
       "username": "SenTuberville",
@@ -49911,6 +49922,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/MarioDB/status/2078260433992012010"
+    },
+    {
+      "id": "2078260197378703672",
+      "handle": "repluna",
+      "username": "RepLuna",
+      "displayName": "Rep. Anna Paulina Luna",
+      "ownerName": "Anna Paulina Luna",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/anna-paulina-luna",
+      "text": "RT @kevincorke: Unlike treason, which involves direct, overt acts of violence against a state, sedition primarily covers the preparatory st…",
+      "createdAt": "2026-07-17T23:26:57Z",
+      "timestamp": 1784330817,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 991,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepLuna/status/2078260197378703672"
     },
     {
       "id": "2078259457314754644",
@@ -50408,6 +50447,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepRileyMoore/status/2078250534859866283"
+    },
+    {
+      "id": "2078250461631541388",
+      "handle": "senashleymoody",
+      "username": "SenAshleyMoody",
+      "displayName": "Senator Ashley Moody",
+      "ownerName": "Ashley Moody",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/ashley-moody",
+      "text": "It was ridiculous having to import foreign oranges for Florida orange juice because of outdated overregulation.  \n\nGlad to see this administration getting things done and throwing out trash regulations that worked against our Florida citrus growers. \n\n🍊🇺🇸 https://t.co/1hQdemrxpC",
+      "createdAt": "2026-07-17T22:48:16Z",
+      "timestamp": 1784328496,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 172,
+        "reply_count": 81,
+        "like_count": 1030,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenAshleyMoody/status/2078250461631541388"
     },
     {
       "id": "2078250010865533219",
@@ -51115,6 +51182,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepAndyBiggsAZ/status/2078238999446180283"
+    },
+    {
+      "id": "2078238982656139301",
+      "handle": "repaprildelaney",
+      "username": "RepAprilDelaney",
+      "displayName": "Rep. April McClain Delaney",
+      "ownerName": "April McClain Delaney",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/april-mcclain-delaney",
+      "text": "Six years ago today, we lost Congressman John Lewis, but his legacy lives on.\n\nI was honored to join him on his annual pilgrimage to Selma with my husband John—an experience I’ll never forget.\n\nWe honor him by getting into “good trouble”: defending voting rights, protecting our https://t.co/Jsvqx3PXov",
+      "createdAt": "2026-07-17T22:02:39Z",
+      "timestamp": 1784325759,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 13,
+        "like_count": 13,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAprilDelaney/status/2078238982656139301"
     },
     {
       "id": "2078238626392006860",
@@ -53746,6 +53843,34 @@
       "url": "https://x.com/RepNancyMace/status/2078219277086212341"
     },
     {
+      "id": "2078219185860092013",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": "Rep. August Pfluger",
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "RT @HouseCommerce: American states should not be responsible for Canada’s negligence.\n\nWe need @RepGabeEvans’ FIRE Act and @RepPfluger’s FE…",
+      "createdAt": "2026-07-17T20:44:00Z",
+      "timestamp": 1784321040,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2078219185860092013"
+    },
+    {
       "id": "2078219068851814736",
       "handle": "repandybiggsaz",
       "username": "RepAndyBiggsAZ",
@@ -54045,6 +54170,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenDuckworth/status/2078217881645408374"
+    },
+    {
+      "id": "2078217879728554211",
+      "handle": "repluna",
+      "username": "RepLuna",
+      "displayName": "Rep. Anna Paulina Luna",
+      "ownerName": "Anna Paulina Luna",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/anna-paulina-luna",
+      "text": "RT @VernBuchanan: Americans are ready to lock the clock, and the House acted with broad bipartisan support to pass my Sunshine Protection A…",
+      "createdAt": "2026-07-17T20:38:48Z",
+      "timestamp": 1784320728,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 45,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepLuna/status/2078217879728554211"
     },
     {
       "id": "2078217699247718864",
@@ -54731,6 +54886,36 @@
       "url": "https://x.com/FrankPallone/status/2078214894726361459"
     },
     {
+      "id": "2078214813948227655",
+      "handle": "senashleymoody",
+      "username": "SenAshleyMoody",
+      "displayName": "Senator Ashley Moody",
+      "ownerName": "Ashley Moody",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/ashley-moody",
+      "text": "When I heard an outdated FDA rule was threatening the survival of Florida’s great citrus growers, I immediately went to work—filing the Defending Domestic Orange Juice Production Act and meeting with the White House to expedite a solution.\n \nToday is proof that the juice was https://t.co/PQG8q7N79d",
+      "createdAt": "2026-07-17T20:26:37Z",
+      "timestamp": 1784319997,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 38,
+        "reply_count": 48,
+        "like_count": 233,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenAshleyMoody/status/2078214813948227655"
+    },
+    {
       "id": "2078214740816302293",
       "handle": "reptimmoorenc",
       "username": "RepTimMooreNC",
@@ -55192,6 +55377,36 @@
         }
       ],
       "url": "https://x.com/SenJackReed/status/2078212800355213674"
+    },
+    {
+      "id": "2078212584109433207",
+      "handle": "repogles",
+      "username": "RepOgles",
+      "displayName": "Rep. Andy Ogles",
+      "ownerName": "Andrew Ogles",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andrew-ogles",
+      "text": "I REFUSE to let American Roads be dominated by illiterate, illegal aliens who were wrongfully given a CDL. \n\nGive those jobs to Americans and keep the migrants OFF the streets. \n\nAmerica First. https://t.co/wMMP1Eti1T",
+      "createdAt": "2026-07-17T20:17:46Z",
+      "timestamp": 1784319466,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 343,
+        "reply_count": 35,
+        "like_count": 1484,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Critical / hostile language"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepOgles/status/2078212584109433207"
     },
     {
       "id": "2078212349354291467",
@@ -58224,6 +58439,40 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDeluzio/status/2078199582547218442"
+    },
+    {
+      "id": "2078199552423715124",
+      "handle": "senashleymoody",
+      "username": "SenAshleyMoody",
+      "displayName": "Senator Ashley Moody",
+      "ownerName": "Ashley Moody",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/ashley-moody",
+      "text": "I’m in Lakeland today with @SecKennedy announcing big news for the Florida citrus industry.\n\nTune in here⬇️\nhttps://t.co/56WNrmjSha",
+      "createdAt": "2026-07-17T19:25:59Z",
+      "timestamp": 1784316359,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 20,
+        "reply_count": 29,
+        "like_count": 92,
+        "quote_count": 3,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/56WNrmjSha",
+          "expanded_url": "https://youtube.com/live/S_OvUnsa8vU?feature=share",
+          "display_url": "youtube.com/live/S_OvUnsa8…"
+        }
+      ],
+      "url": "https://x.com/SenAshleyMoody/status/2078199552423715124"
     },
     {
       "id": "2078199222114177439",
@@ -122244,267 +122493,6 @@
       ],
       "urls": [],
       "url": "https://x.com/RepRWilliams/status/2077759049450352681"
-    },
-    {
-      "id": "2077759043964129670",
-      "handle": "repmikelevin",
-      "username": "RepMikeLevin",
-      "displayName": null,
-      "ownerName": "Mike Levin",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mike-levin",
-      "text": "For the first time in more than a decade, there are no active-duty women on track to make admiral in the U.S. Navy. \n  \nWomen make up 21% of the active-duty Navy and 7% of its admirals. \n  \nPete Hegseth's answer to that gap: block seven more officers from promotion – five of whom",
-      "createdAt": "2026-07-16T14:15:33Z",
-      "timestamp": 1784211333,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 22,
-        "reply_count": 7,
-        "like_count": 36,
-        "quote_count": 0,
-        "bookmark_count": 4,
-        "view_count": 911
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMikeLevin/status/2077759043964129670"
-    },
-    {
-      "id": "2077759011789689223",
-      "handle": "johnboozman",
-      "username": "JohnBoozman",
-      "displayName": null,
-      "ownerName": "John Boozman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/john-boozman",
-      "text": "RT @congressfdn: WINNER: Senate Chief of Staff of the Year — Toni-Marie Higgins from the Office of  @JohnBoozman #DemocracyAwards https://t…",
-      "createdAt": "2026-07-16T14:15:25Z",
-      "timestamp": 1784211325,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 183
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/JohnBoozman/status/2077759011789689223"
-    },
-    {
-      "id": "2077758903828275293",
-      "handle": "repnikkib",
-      "username": "RepNikkiB",
-      "displayName": null,
-      "ownerName": "Nikki Budzinski",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nikki-budzinski",
-      "text": "Today, my team will be traveling across Central and Southern Illinois for Mobile Office Hours! I encourage everyone to visit, bring their questions and see how we can assist with constituent services! https://t.co/l68VTL1pY4",
-      "createdAt": "2026-07-16T14:15:00Z",
-      "timestamp": 1784211300,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 178
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepNikkiB/status/2077758903828275293"
-    },
-    {
-      "id": "2077758903245271128",
-      "handle": "repscholten",
-      "username": "RepScholten",
-      "displayName": null,
-      "ownerName": "Hillary J. Scholten",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/hillary-j-scholten",
-      "text": "Health care access starts with getting policy right. I met with Molina Healthcare to discuss how Congress can cut red tape and remove obstacles standing between patients and the care they need. https://t.co/s6nnBGpfXU",
-      "createdAt": "2026-07-16T14:15:00Z",
-      "timestamp": 1784211300,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 6,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 621
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepScholten/status/2077758903245271128"
-    },
-    {
-      "id": "2077758516723429871",
-      "handle": "repmikelawler",
-      "username": "RepMikeLawler",
-      "displayName": null,
-      "ownerName": "Michael Lawler",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/michael-lawler",
-      "text": "When Misha and Olga, two talented dancers from Ukraine, faced an unexpected obstacle in pursuing their dreams, my office was proud to help.\n\nMisha began dancing at 4 years old, and Olga at 5. On the day of their visa interview in Poland, a missile strike on Kyiv left their https://t.co/WpAc6l0av5",
-      "createdAt": "2026-07-16T14:13:27Z",
-      "timestamp": 1784211207,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 10,
-        "like_count": 26,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2373
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMikeLawler/status/2077758516723429871"
-    },
-    {
-      "id": "2077758466337231239",
-      "handle": "repchrispappas",
-      "username": "RepChrisPappas",
-      "displayName": null,
-      "ownerName": "Chris Pappas",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chris-pappas",
-      "text": ".@ProbSolveCaucus is endorsing my legislation, the BUILD Act, which would provide police and fire departments with needed resources to support our officers and improve public safety.\n\nI’ll continue to work alongside our local departments and with my colleagues on both sides of",
-      "createdAt": "2026-07-16T14:13:15Z",
-      "timestamp": 1784211195,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 2,
-        "like_count": 5,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 787
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepChrisPappas/status/2077758466337231239"
-    },
-    {
-      "id": "2077757899955167290",
-      "handle": "gillibrandny",
-      "username": "GillibrandNY",
-      "displayName": null,
-      "ownerName": "Kirsten E. Gillibrand",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kirsten-e-gillibrand",
-      "text": "RT @Acyn: Ossoff: Who won the 2020 election?\n\nClayton: I’m not going to get into that with you.\n\nOssoff: Isn't it humiliating to be unable…",
-      "createdAt": "2026-07-16T14:11:00Z",
-      "timestamp": 1784211060,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7398,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 88
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/GillibrandNY/status/2077757899955167290"
-    },
-    {
-      "id": "2077757877146562612",
-      "handle": "gillibrandny",
-      "username": "GillibrandNY",
-      "displayName": null,
-      "ownerName": "Kirsten E. Gillibrand",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kirsten-e-gillibrand",
-      "text": "RT @ChrisVanHollen: Blanche can't keep it straight.\n\nI said it once, I'll say it again: Acting AG Blanche isn't acting on behalf of the Ame…",
-      "createdAt": "2026-07-16T14:10:55Z",
-      "timestamp": 1784211055,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 134,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 95
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/GillibrandNY/status/2077757877146562612"
-    },
-    {
-      "id": "2077757738323480991",
-      "handle": "sengarypeters",
-      "username": "SenGaryPeters",
-      "displayName": null,
-      "ownerName": "Gary C. Peters",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/gary-c-peters",
-      "text": "RT @SenatorSlotkin: This year @SenGaryPeters and I again helped bring a little Michigan pride to Washington, D.C., at the U.S. Capitol to c…",
-      "createdAt": "2026-07-16T14:10:22Z",
-      "timestamp": 1784211022,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 19,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 121
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenGaryPeters/status/2077757738323480991"
     }
   ],
   "notes": [
