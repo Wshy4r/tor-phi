@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:20:09.738456Z",
+  "generatedAt": "2026-07-18T07:40:26.148991Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-18T07:20:00.512Z",
+    "generatedAt": "2026-07-18T07:40:21.371Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2142,11 +2142,11 @@
   "totals": {
     "accounts": 2252,
     "uniqueHandles": 2235,
-    "capturedAccounts": 510,
-    "errorAccounts": 7,
+    "capturedAccounts": 509,
+    "errorAccounts": 8,
     "tweets": 45727,
     "snapshotTweets": 2500,
-    "users": 510
+    "users": 509
   },
   "lastCaptureAt": "2026-07-18T07:20:08.862712Z",
   "accounts": [
@@ -30430,9 +30430,9 @@
       "role": "U.S. Representative for FL-4",
       "profileHref": "/country/usa/congress/aaron-bean",
       "url": "https://x.com/RepAaronBean",
-      "status": "captured",
+      "status": "error",
       "lastScrapedAt": "2026-07-18T07:20:02.866541Z",
-      "lastError": null,
+      "lastError": "X rate limit hit; TORPHI_X_MAX_RATE_WAIT=0 so this run will not wait.",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611488977562882056/I4PVx5og_normal.jpg",
       "followersCount": 8896,
       "followingCount": 243,
@@ -40690,23 +40690,6 @@
       "followersCount": 11179,
       "followingCount": 479,
       "verified": false
-    },
-    {
-      "username": "RepAaronBean",
-      "displayName": "Aaron Bean",
-      "ownerName": "Aaron Bean",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "role": "U.S. Representative for FL-4",
-      "profileHref": "/country/usa/congress/aaron-bean",
-      "url": "https://x.com/RepAaronBean",
-      "status": "captured",
-      "lastScrapedAt": "2026-07-18T07:20:02.866541Z",
-      "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611488977562882056/I4PVx5og_normal.jpg",
-      "followersCount": 8896,
-      "followingCount": 243,
-      "verified": true
     },
     {
       "username": "SenAdamSchiff",
@@ -73751,6 +73734,34 @@
       "url": "https://x.com/SenAdamSchiff/status/2077962373873168764"
     },
     {
+      "id": "2077962368898712001",
+      "handle": "senadamschiff",
+      "username": "SenAdamSchiff",
+      "displayName": "Senator Adam Schiff",
+      "ownerName": "Adam B. Schiff",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/adam-b-schiff",
+      "text": "The reality is that foreign governments do try to influence our elections—in fact, Trump has previously encouraged Russia to do exactly that. He has also repeatedly ignored and dismissed previous, credible intelligence about foreign interference in elections because it did not",
+      "createdAt": "2026-07-17T03:43:30Z",
+      "timestamp": 1784259810,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 29,
+        "reply_count": 5,
+        "like_count": 453,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenAdamSchiff/status/2077962368898712001"
+    },
+    {
       "id": "2077962371566313702",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
@@ -73779,34 +73790,6 @@
       ],
       "urls": [],
       "url": "https://x.com/SenAdamSchiff/status/2077962371566313702"
-    },
-    {
-      "id": "2077962368898712001",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "The reality is that foreign governments do try to influence our elections—in fact, Trump has previously encouraged Russia to do exactly that. He has also repeatedly ignored and dismissed previous, credible intelligence about foreign interference in elections because it did not",
-      "createdAt": "2026-07-17T03:43:30Z",
-      "timestamp": 1784259810,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 29,
-        "reply_count": 5,
-        "like_count": 453,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077962368898712001"
     },
     {
       "id": "2077962366151467060",
