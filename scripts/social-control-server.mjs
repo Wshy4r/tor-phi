@@ -85,7 +85,7 @@ function runProcess(command, args, job, { appendOnly = false } = {}) {
   return new Promise((resolve) => {
     const child = spawn(command, args, {
       cwd: root,
-      env: { ...process.env, PYTHONUNBUFFERED: "1" },
+      env: { ...process.env, PYTHONUNBUFFERED: "1", TORPHI_X_MAX_RATE_WAIT: "0" },
       stdio: ["ignore", "pipe", "pipe"]
     });
     if (!appendOnly) job.child = child;
