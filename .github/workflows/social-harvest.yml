@@ -12,8 +12,8 @@ on:
         default: Congress
         required: true
       target_tweets:
-        description: Revisit accounts below this tweet count
-        default: "100"
+        description: Revisit accounts below this tweet count, or auto
+        default: "auto"
         required: true
       max_accounts:
         description: Accounts per run
@@ -56,6 +56,16 @@ jobs:
       - name: Import text archive into SQLite
         run: python3 scripts/import-social-archive-jsonl.py
 
+      - name: Select automatic depth target
+        run: |
+          COUNTRY="${{ inputs.country || 'usa' }}"
+          OWNER_TYPE="${{ inputs.owner_type || 'Congress' }}"
+          REQUESTED_TARGET="${{ inputs.target_tweets || 'auto' }}"
+          python3 scripts/select-social-depth-target.py \
+            --country "$COUNTRY" \
+            --owner-type "$OWNER_TYPE" \
+            --requested "$REQUESTED_TARGET"
+
       - name: Capture next social batch
         env:
           TORPHI_X_CT0: ${{ secrets.TORPHI_X_CT0 }}
@@ -64,7 +74,7 @@ jobs:
         run: |
           COUNTRY="${{ inputs.country || 'usa' }}"
           OWNER_TYPE="${{ inputs.owner_type || 'Congress' }}"
-          TARGET_TWEETS="${{ inputs.target_tweets || '100' }}"
+          TARGET_TWEETS="${TORPHI_SOCIAL_TARGET_TWEETS:-100}"
           MAX_ACCOUNTS="${{ inputs.max_accounts || '5' }}"
           python3 scripts/torphi-social-capture.py \
             --country "$COUNTRY" \
