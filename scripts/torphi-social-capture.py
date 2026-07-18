@@ -34,6 +34,8 @@ REGISTRY_PATH = ROOT / "public" / "source" / "social" / "accounts.json"
 DATA_DIR = ROOT / "data"
 DB_PATH = DATA_DIR / "torphi-social.db"
 QUERY_CACHE_PATH = DATA_DIR / "torphi-social-query-ids.json"
+HARVEST_CURSOR_PATH = DATA_DIR / "torphi-social-harvest-cursor.json"
+HARVEST_CURSOR_LOCK = threading.Lock()
 
 BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA"
 
@@ -1238,6 +1240,61 @@ def effective_capture_pages(connection: sqlite3.Connection, account: dict[str, A
     return max(1, min(max_pages, estimated_needed_pages))
 
 
+def harvest_cursor_key(args: argparse.Namespace) -> str:
+    countries = ",".join(sorted(item.lower() for item in (args.country or ["all"])))
+    owner_types = ",".join(sorted(item.lower() for item in (args.owner_type or ["all"])))
+    include_replies = "replies" if args.include_replies else "top"
+    threshold = args.only_under_tweet_count or 0
+    return f"countries={countries}|ownerTypes={owner_types}|under={threshold}|source={args.source}|{include_replies}"
+
+
+def load_harvest_cursors() -> dict[str, Any]:
+    if not HARVEST_CURSOR_PATH.exists():
+        return {}
+    try:
+        return json.loads(HARVEST_CURSOR_PATH.read_text())
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def save_harvest_cursor(args: argparse.Namespace, account: dict[str, Any], index: int, total: int) -> None:
+    if args.handle or args.search or args.lane or args.only_under_tweet_count <= 0:
+        return
+    handle = normalize_handle(account.get("handle", "")).lower()
+    if not handle:
+        return
+    with HARVEST_CURSOR_LOCK:
+        DATA_DIR.mkdir(parents=True, exist_ok=True)
+        cursors = load_harvest_cursors()
+        cursors[harvest_cursor_key(args)] = {
+            "lastHandle": handle,
+            "lastIndex": index,
+            "targetCount": total,
+            "updatedAt": utc_now(),
+        }
+        HARVEST_CURSOR_PATH.write_text(json.dumps(cursors, indent=2, sort_keys=True) + "\n")
+
+
+def rotate_targets_from_harvest_cursor(targets: list[dict[str, Any]], args: argparse.Namespace) -> list[dict[str, Any]]:
+    if args.handle or args.search or args.lane or args.only_under_tweet_count <= 0 or len(targets) < 2:
+        return targets
+    cursor = load_harvest_cursors().get(harvest_cursor_key(args)) or {}
+    last_handle = cursor.get("lastHandle")
+    if not last_handle:
+        return targets
+    handles = [normalize_handle(account.get("handle", "")).lower() for account in targets]
+    try:
+        last_index = handles.index(last_handle)
+    except ValueError:
+        return targets
+    offset = (last_index + 1) % len(targets)
+    if offset == 0:
+        return targets
+    rotated = targets[offset:] + targets[:offset]
+    print(f"[TOR Phi] Harvest cursor resumes after @{last_handle}; rotated {len(targets)} targets by {offset}.", flush=True)
+    return rotated
+
+
 def run_parallel_timeline_capture(
     clients: list[TorPhiTwitterClient],
     targets: list[dict[str, Any]],
@@ -1269,6 +1326,7 @@ def run_parallel_timeline_capture(
                     return
 
                 handle = normalize_handle(account["handle"])
+                save_harvest_cursor(args, account, index, len(targets))
                 pages = effective_capture_pages(connection, account, args)
                 remaining_accounts = target_queue.qsize()
                 print(
@@ -1370,6 +1428,8 @@ def main() -> None:
         targets = filter_under_tweet_count_targets(connection, targets, args.only_under_tweet_count)
     elif args.only_uncaptured and targets:
         targets = filter_uncaptured_targets(connection, targets)
+    if targets:
+        targets = rotate_targets_from_harvest_cursor(targets, args)
     if args.max_capture_targets > 0 and targets:
         targets = targets[: args.max_capture_targets]
 
@@ -1439,6 +1499,7 @@ def main() -> None:
     for index, account in enumerate(targets, start=1):
         client = clients[(index - 1) % len(clients)]
         handle = normalize_handle(account["handle"])
+        save_harvest_cursor(args, account, index, len(targets))
         remaining_accounts = max(len(targets) - index, 0)
         identity_note = f" via {client.label}" if len(clients) > 1 else ""
         print(f"[TOR Phi] Progress {index}/{len(targets)}; remaining {remaining_accounts}; capturing @{handle} ({account.get('ownerName')}){identity_note}")
