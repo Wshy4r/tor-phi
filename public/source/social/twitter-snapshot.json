@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T09:44:16.393420Z",
+  "generatedAt": "2026-07-18T09:44:53.794205Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -2142,13 +2142,13 @@
   "totals": {
     "accounts": 2252,
     "uniqueHandles": 2235,
-    "capturedAccounts": 512,
-    "errorAccounts": 8,
+    "capturedAccounts": 513,
+    "errorAccounts": 7,
     "tweets": 54976,
     "snapshotTweets": 2500,
-    "users": 512
+    "users": 513
   },
-  "lastCaptureAt": "2026-07-18T09:00:39.753389Z",
+  "lastCaptureAt": "2026-07-18T09:44:25.658385Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30430,9 +30430,9 @@
       "role": "U.S. Representative for FL-4",
       "profileHref": "/country/usa/congress/aaron-bean",
       "url": "https://x.com/RepAaronBean",
-      "status": "error",
+      "status": "captured",
       "lastScrapedAt": "2026-07-18T07:20:02.866541Z",
-      "lastError": "X rate limit hit; TORPHI_X_MAX_RATE_WAIT=0 so this run will not wait.",
+      "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611488977562882056/I4PVx5og_normal.jpg",
       "followersCount": 8896,
       "followingCount": 243,
@@ -30440,7 +30440,7 @@
     },
     {
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": "Adam B. Schiff",
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30448,12 +30448,12 @@
       "profileHref": "/country/usa/congress/adam-b-schiff",
       "url": "https://x.com/SenAdamSchiff",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T07:20:04.179747Z",
+      "lastScrapedAt": "2026-07-18T09:44:25.658385Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1268175179626303497/-DNpPNUm_normal.jpg",
-      "followersCount": 3397339,
+      "profileImageUrl": null,
+      "followersCount": 3397333,
       "followingCount": 901,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepAdamGrayCA",
@@ -40692,8 +40692,25 @@
       "verified": false
     },
     {
+      "username": "RepAaronBean",
+      "displayName": "Aaron Bean",
+      "ownerName": "Aaron Bean",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "role": "U.S. Representative for FL-4",
+      "profileHref": "/country/usa/congress/aaron-bean",
+      "url": "https://x.com/RepAaronBean",
+      "status": "captured",
+      "lastScrapedAt": "2026-07-18T07:20:02.866541Z",
+      "lastError": null,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611488977562882056/I4PVx5og_normal.jpg",
+      "followersCount": 8896,
+      "followingCount": 243,
+      "verified": true
+    },
+    {
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": "Adam B. Schiff",
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -40701,12 +40718,12 @@
       "profileHref": "/country/usa/congress/adam-b-schiff",
       "url": "https://x.com/SenAdamSchiff",
       "status": "captured",
-      "lastScrapedAt": "2026-07-18T07:20:04.179747Z",
+      "lastScrapedAt": "2026-07-18T09:44:25.658385Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1268175179626303497/-DNpPNUm_normal.jpg",
-      "followersCount": 3397339,
+      "profileImageUrl": null,
+      "followersCount": 3397333,
       "followingCount": 901,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepAdamGrayCA",
@@ -49753,7 +49770,7 @@
       "id": "2078262325593735587",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49764,12 +49781,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 447,
-        "reply_count": 291,
-        "like_count": 1378,
-        "quote_count": 20,
-        "bookmark_count": 0,
-        "view_count": null
+        "retweet_count": 472,
+        "reply_count": 298,
+        "like_count": 1454,
+        "quote_count": 22,
+        "bookmark_count": 33,
+        "view_count": 78811
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51365,7 +51382,7 @@
       "id": "2078236306832851280",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -51376,12 +51393,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 174,
-        "reply_count": 298,
-        "like_count": 651,
+        "retweet_count": 180,
+        "reply_count": 316,
+        "like_count": 690,
         "quote_count": 12,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 11,
+        "view_count": 76030
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -66447,7 +66464,7 @@
       "id": "2078165782836511219",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -66458,12 +66475,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 64,
+        "retweet_count": 65,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 2853
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -67758,7 +67775,7 @@
       "id": "2078159528328126639",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -67769,12 +67786,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 471,
-        "reply_count": 405,
-        "like_count": 1421,
+        "retweet_count": 491,
+        "reply_count": 413,
+        "like_count": 1501,
         "quote_count": 14,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 14,
+        "view_count": 25146
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -80730,7 +80747,7 @@
       "id": "2077962373873168764",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -80745,8 +80762,8 @@
         "reply_count": 122,
         "like_count": 565,
         "quote_count": 3,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 14,
+        "view_count": 90864
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -80760,7 +80777,7 @@
       "id": "2077962371566313702",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -80775,8 +80792,8 @@
         "reply_count": 12,
         "like_count": 466,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 10,
+        "view_count": 41366
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -80906,7 +80923,7 @@
       "id": "2077962354893992009",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -80919,10 +80936,10 @@
       "metrics": {
         "retweet_count": 172,
         "reply_count": 159,
-        "like_count": 2013,
+        "like_count": 2014,
         "quote_count": 7,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 204,
+        "view_count": 291397
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -88067,7 +88084,7 @@
       "id": "2077916994553233835",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -88080,10 +88097,10 @@
       "metrics": {
         "retweet_count": 211,
         "reply_count": 152,
-        "like_count": 2291,
+        "like_count": 2295,
         "quote_count": 22,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 42,
+        "view_count": 83786
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -88685,7 +88702,7 @@
       "id": "2077909548321460465",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -88700,8 +88717,8 @@
         "reply_count": 117,
         "like_count": 372,
         "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 13,
+        "view_count": 32955
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -90731,7 +90748,7 @@
       "id": "2077888963113603109",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -90746,8 +90763,8 @@
         "reply_count": 71,
         "like_count": 134,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 5,
+        "view_count": 17527
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -93800,7 +93817,7 @@
       "id": "2077868665933099181",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -93811,12 +93828,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 872,
+        "retweet_count": 873,
         "reply_count": 1098,
-        "like_count": 3766,
+        "like_count": 3769,
         "quote_count": 50,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 51,
+        "view_count": 92103
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -99739,7 +99756,7 @@
       "id": "2077846886673760765",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -99752,10 +99769,10 @@
       "metrics": {
         "retweet_count": 186,
         "reply_count": 125,
-        "like_count": 689,
+        "like_count": 690,
         "quote_count": 4,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 20,
+        "view_count": 28111
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -101096,7 +101113,7 @@
       "id": "2077841987793736088",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -101112,7 +101129,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 2607
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -101700,7 +101717,7 @@
       "id": "2077839050883448840",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -101711,12 +101728,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 653,
+        "retweet_count": 654,
         "reply_count": 648,
-        "like_count": 1768,
+        "like_count": 1772,
         "quote_count": 30,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 17,
+        "view_count": 33389
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -102498,7 +102515,7 @@
       "id": "2077836086785487304",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -102513,8 +102530,8 @@
         "reply_count": 84,
         "like_count": 766,
         "quote_count": 5,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 4,
+        "view_count": 33240
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -105765,7 +105782,7 @@
       "id": "2077824679809814616",
       "handle": "senadamschiff",
       "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
+      "displayName": null,
       "ownerName": "Adam B. Schiff",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -105777,11 +105794,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 237,
-        "reply_count": 221,
+        "reply_count": 222,
         "like_count": 443,
         "quote_count": 8,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 8,
+        "view_count": 17987
       },
       "tags": [
         "Iran"
@@ -109387,12 +109404,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 69,
+        "retweet_count": 74,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 3042
+        "view_count": 3140
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -109579,6 +109596,40 @@
       "url": "https://x.com/SenLBR/status/2077811331600712139"
     },
     {
+      "id": "2077811283659829469",
+      "handle": "senadamschiff",
+      "username": "SenAdamSchiff",
+      "displayName": null,
+      "ownerName": "Adam B. Schiff",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/adam-b-schiff",
+      "text": "RT @SenJohnCurtis: If only there were a solution... https://t.co/8UknmW7Prk https://t.co/dvaVNp67Qk",
+      "createdAt": "2026-07-16T17:43:08Z",
+      "timestamp": 1784223788,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 19,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 3142
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/8UknmW7Prk",
+          "expanded_url": "https://www.curtis.senate.gov/press-releases/curtis-slotkin-young-schiff-lead-bipartisan-bill-to-stop-insider-trading-from-government-officials-on-prediction-markets/",
+          "display_url": "curtis.senate.gov/press-releases…"
+        }
+      ],
+      "url": "https://x.com/SenAdamSchiff/status/2077811283659829469"
+    },
+    {
       "id": "2077811284486111734",
       "handle": "repmikelevin",
       "username": "RepMikeLevin",
@@ -109605,40 +109656,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepMikeLevin/status/2077811284486111734"
-    },
-    {
-      "id": "2077811283659829469",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": null,
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "RT @SenJohnCurtis: If only there were a solution... https://t.co/8UknmW7Prk https://t.co/dvaVNp67Qk",
-      "createdAt": "2026-07-16T17:43:08Z",
-      "timestamp": 1784223788,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 19,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 3045
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/8UknmW7Prk",
-          "expanded_url": "https://www.curtis.senate.gov/press-releases/curtis-slotkin-young-schiff-lead-bipartisan-bill-to-stop-insider-trading-from-government-officials-on-prediction-markets/",
-          "display_url": "curtis.senate.gov/press-releases…"
-        }
-      ],
-      "url": "https://x.com/SenAdamSchiff/status/2077811283659829469"
     },
     {
       "id": "2077810777851883856",
@@ -118637,12 +118654,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 1011,
-        "reply_count": 325,
-        "like_count": 2481,
-        "quote_count": 27,
+        "retweet_count": 1027,
+        "reply_count": 328,
+        "like_count": 2536,
+        "quote_count": 28,
         "bookmark_count": 38,
-        "view_count": 31677
+        "view_count": 32772
       },
       "tags": [],
       "kurdistanTerms": [],

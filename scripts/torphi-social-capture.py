@@ -959,14 +959,26 @@ def save_search_tweets(
 
 def save_error(connection: sqlite3.Connection, account: dict[str, Any], error: str) -> None:
     now = utc_now()
-    connection.execute(
-        """
-        UPDATE accounts
-        SET status='error', last_error=?, updated_at=?
-        WHERE handle=?
-        """,
-        (error[:600], now, normalize_handle(account["handle"]).lower()),
-    )
+    handle = normalize_handle(account["handle"]).lower()
+    tweet_count = connection.execute("SELECT COUNT(*) AS count FROM tweets WHERE handle = ?", (handle,)).fetchone()["count"]
+    if tweet_count and is_timeline_rate_limit_error(Exception(error)):
+        connection.execute(
+            """
+            UPDATE accounts
+            SET status='captured', last_error=NULL, updated_at=?
+            WHERE handle=?
+            """,
+            (now, handle),
+        )
+    else:
+        connection.execute(
+            """
+            UPDATE accounts
+            SET status='error', last_error=?, updated_at=?
+            WHERE handle=?
+            """,
+            (error[:600], now, handle),
+        )
     connection.commit()
 
 
