@@ -1,0 +1,999 @@
+{
+  "member": {
+    "id": "5087",
+    "slug": "tom-collins",
+    "name": "Tom Collins",
+    "sortName": "Collins, Tom",
+    "fullTitle": "Tom Collins MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Worcester",
+    "house": "House of Commons",
+    "role": "MP for Worcester",
+    "officialUrl": "https://members.parliament.uk/member/5087/contact",
+    "recordUrl": "/country/uk/parliament/tom-collins/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5087/Thumbnail",
+    "currentMembership": {
+      "constituency": "Worcester",
+      "constituencyId": 4412,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "tom.collins.mp@parliament.uk"
+      ],
+      "phones": [
+        "07543 467626"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "https://bsky.app/profile/tomcollinsworcs.bsky.social",
+        "https://www.facebook.com/tomcollinsworcs",
+        "https://www.instagram.com/tomcollinsworcs",
+        "https://x.com/tomcollinsworcs"
+      ],
+      "websites": [],
+      "social": [
+        [
+          "Bluesky",
+          "https://bsky.app/profile/tomcollinsworcs.bsky.social"
+        ],
+        [
+          "Facebook",
+          "https://www.facebook.com/tomcollinsworcs"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/tomcollinsworcs"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://x.com/tomcollinsworcs"
+        ]
+      ]
+    },
+    "synopsis": "Tom Collins is the Labour MP for Worcester , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/tom-collins/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5087/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5087"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5087/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5087/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5087/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5087/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5087"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 17,
+    "latestQuestionDate": "2026-06-01",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/tom-collins/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5087/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5087"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5087/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5087/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5087/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5087/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5087"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1910824,
+        "uin": "5751",
+        "heading": "Independent Anti-slavery Commissioner: Public Appointments",
+        "questionText": "To ask the Secretary of State for the Home Department, what steps her Department is taking to ensure that the role of Independent Anti-Slavery Commissioner is filled in December.",
+        "answerText": "In line with the requirements of the Governance Code on Public Appointments, the Department is following usual processes associated with public appointments in preparation for the current Commissioner's term ending in December.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Natalie Fleet",
+        "dateTabled": "2026-06-01",
+        "dateForAnswer": "2026-06-03",
+        "dateAnswered": "2026-06-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5751"
+      },
+      {
+        "id": 1799687,
+        "uin": "49980",
+        "heading": "Animal Experiments",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what recent progress his Department has made in encouraging a shift from animal testing towards greater use of synthetic analogues for human biological systems.",
+        "answerText": "The Labour Manifesto commits to “partner with scientists, industry, and civil society as we work towards the phasing out of animal testing”, which is a long-term goal. While it is not yet possible to replace all animal use due to the complexity of biologi...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Feryal Clark",
+        "dateTabled": "2025-05-02",
+        "dateForAnswer": "2025-05-07",
+        "dateAnswered": "2025-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-02/49980"
+      },
+      {
+        "id": 1765522,
+        "uin": "31572",
+        "heading": "Boiler Upgrade Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential merits of including air-to-air heat pumps in the Boiler Upgrade Scheme.",
+        "answerText": "The Boiler Upgrade Scheme does not currently support air-to-air heat pumps, as heat pump installations must provide both space heating and hot water heating, using liquid as a medium for delivering that heat. In most cases, air-to-air systems only provide...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Miatta Fahnbulleh",
+        "dateTabled": "2025-02-13",
+        "dateForAnswer": "2025-02-25",
+        "dateAnswered": "2025-02-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-13/31572"
+      },
+      {
+        "id": 1764818,
+        "uin": "31125",
+        "heading": "Cricket: Finance",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions her Department has had with the England and Wales Cricket Board on (a) financial fair play in County Cricket and (b) possible measures to provide a level playing field between co",
+        "answerText": "As the governing body for cricket in England and Wales, the England and Wales Cricket Board (ECB) is independent from the Government and is responsible for the regulation of cricket, and for protecting and promoting the financial sustainability of the spo...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Stephanie Peacock",
+        "dateTabled": "2025-02-12",
+        "dateForAnswer": "2025-02-24",
+        "dateAnswered": "2025-02-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-12/31125"
+      },
+      {
+        "id": 1764816,
+        "uin": "31123",
+        "heading": "Heat Pumps: Housing",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the potential role of air-to-air heat pumps for making homes more climate resilient.",
+        "answerText": "The department is currently developing the Warm Homes Plan to ensure that homes are fit for the future. The department has been carrying out research to respond to the relevant climate change adaptation risks identified by the third Climate Change Risk As...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2025-02-12",
+        "dateForAnswer": "2025-02-24",
+        "dateAnswered": "2025-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-12/31123"
+      },
+      {
+        "id": 1764817,
+        "uin": "31124",
+        "heading": "Renewable Energy: Staff",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he has taken to develop the skills and workforce needed for the energy transition.",
+        "answerText": "The Office for Clean Energy Jobs (OCEJ) has been created to ensure that clean energy jobs are abundant, high quality, paid fairly, and have favourable terms and good working conditions. The OCEJ is engaging widely with industry, experts, and trade unions ...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2025-02-12",
+        "dateForAnswer": "2025-02-24",
+        "dateAnswered": "2025-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-12/31124"
+      },
+      {
+        "id": 1764392,
+        "uin": "30763",
+        "heading": "Social Media: Mental Health",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what evidence his Department is gathering on the impact of social media interfaces on the mental wellbeing of users.",
+        "answerText": "We recognise the need for more research and evidence to improve our understanding of people’s experiences online.In November 2024, DSIT announced a feasibility study to further understand the impact of social media on children.The study will review existi...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Feryal Clark",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-24",
+        "dateAnswered": "2025-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30763"
+      },
+      {
+        "id": 1764390,
+        "uin": "30761",
+        "heading": "Curriculum: Employment",
+        "questionText": "To ask the Secretary of State for Education, what steps her Department is taking with industry to identify which workplace skills should be taught in the National Curriculum in the future.",
+        "answerText": "The government has established an independent Curriculum and Assessment Review, covering ages 5 to 18, chaired by Professor Becky Francis CBE.The review will seek to deliver a curriculum that readies young people for life and work, and builds the knowledg...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Catherine McKinnell",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-24",
+        "dateAnswered": "2025-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30761"
+      },
+      {
+        "id": 1764386,
+        "uin": "30757",
+        "heading": "Community Health Services: Family Hubs",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what recent discussions his Department has had with relevant stakeholders on the potential role of family hubs in moving healthcare from hospitals into communities.",
+        "answerText": "We are committed to moving towards a Neighbourhood Health Service with more care delivered locally to create healthier communities, spot problems earlier, and support people to stay healthier and maintain their independence for longer.Family hubs are a co...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Ashley Dalton",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-24",
+        "dateAnswered": "2025-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30757"
+      },
+      {
+        "id": 1764521,
+        "uin": "30765",
+        "heading": "Agriculture: Competition",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps he is taking to protect farmers from competition from countries with lower (a) farming and (b) food production standards.",
+        "answerText": "The Government has set out its long-term vision to make farming more profitable and put more money back in the pockets of British farmers. We will work in partnership with the food and farming sectors to achieve our vision of a sector with food production...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Daniel Zeichner",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-24",
+        "dateAnswered": "2025-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30765"
+      },
+      {
+        "id": 1764523,
+        "uin": "30766",
+        "heading": "Electricity and Hydrogen",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the potential merits of modelling sector coupling between electricity and hydrogen for the UKs energy system.",
+        "answerText": "The Department’s UK TIMES model captures interactions across the entire energy system, from fuel extraction to final energy demands, enabling comprehensive analysis of decarbonisation pathways and helping us explore the optimal future energy system. This ...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-13",
+        "dateAnswered": "2025-02-19",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30766"
+      },
+      {
+        "id": 1764524,
+        "uin": "30767",
+        "heading": "Industry: Carbon Emissions",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what strategies he he is considering for decarbonising hard-to-electrify industrial processes located in towns located away from industrial clusters.",
+        "answerText": "Dispersed locations form a major part of UK industry’s pathway to Net Zero, accounting for approximately half of emissions. The £6 million Local Industrial Decarbonisation Plans competition is funding 13 decarbonisation projects in local clusters, includi...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-13",
+        "dateAnswered": "2025-02-19",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30767"
+      },
+      {
+        "id": 1764526,
+        "uin": "30769",
+        "heading": "Hydrogen: Storage",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether her Department has plans for the strategic development of hydrogen storage facilities at a sufficient scale to support (a) inter-day and (b) inter-week energy storage.",
+        "answerText": "The Government is committed to enabling the development of hydrogen storage infrastructure to meet the needs of the emerging hydrogen economy. This includes supporting the development of storage infrastructure that can operate over a range of durations an...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-13",
+        "dateAnswered": "2025-02-19",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30769"
+      },
+      {
+        "id": 1764525,
+        "uin": "30768",
+        "heading": "Heat Networks",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has plans for the development of heat networks in areas located away from existing (a) industrial or (b) natural heat sources.",
+        "answerText": "The Committee for Climate Change has recommended the government grows the heat network sector from providing 3% of national heat demand to 20% by 2050. We are implementing heat network zoning and funding low carbon heat networks to get to this scale. Heat...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Miatta Fahnbulleh",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-13",
+        "dateAnswered": "2025-02-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30768"
+      },
+      {
+        "id": 1764055,
+        "uin": "30273",
+        "heading": "Weather: Warnings",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what evidence his Department is gathering to inform future rainfall assumptions in flood prediction modelling.",
+        "answerText": "The Environment Agency (EA) uses a range of future rainfall assumptions in their flood prediction modelling including consideration for how our weather patterns are changing. The EA operates a network of approximately 2,400 rain gauges across England, pro...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Emma Hardy",
+        "dateTabled": "2025-02-10",
+        "dateForAnswer": "2025-02-12",
+        "dateAnswered": "2025-02-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-10/30273"
+      },
+      {
+        "id": 1764057,
+        "uin": "30275",
+        "heading": "Heat Pumps: Government Assistance",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether he has made a recent assessment of the potential merits of expanding financial support for heat pump installation to include air-to-air heat pumps for domestic applications.",
+        "answerText": "The Boiler Upgrade Scheme does not currently support air-to-air heat pumps, as heat pump installations must provide both space heating and hot water heating, using liquid as a medium for delivering that heat. In most cases, air-to-air systems only provide...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Miatta Fahnbulleh",
+        "dateTabled": "2025-02-10",
+        "dateForAnswer": "2025-02-12",
+        "dateAnswered": "2025-02-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-10/30275"
+      },
+      {
+        "id": 1764059,
+        "uin": "30277",
+        "heading": "Heat Networks",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans his Department has for the development of heat networks in areas located away from existing industrial or natural heat sources?.",
+        "answerText": "The Committee for Climate Change has recommended the government grows the heat network sector from providing 3% of national heat demand to 20% by 2050. We are implementing heat network zoning and funding low carbon heat networks to get to this scale. Heat...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Miatta Fahnbulleh",
+        "dateTabled": "2025-02-10",
+        "dateForAnswer": "2025-02-12",
+        "dateAnswered": "2025-02-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-10/30277"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 13,
+        "No": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Boiler Upgrade Scheme",
+        "date": "2025-02-13",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential merits of including air-to-air heat pumps in the Boiler Upgrade Scheme.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-13/31572"
+      },
+      {
+        "kind": "Written question",
+        "title": "Heat Pumps: Housing",
+        "date": "2025-02-12",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the potential role of air-to-air heat pumps for making homes more climate resilient.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-12/31123"
+      },
+      {
+        "kind": "Written question",
+        "title": "Renewable Energy: Staff",
+        "date": "2025-02-12",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps he has taken to develop the skills and workforce needed for the energy transition.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-12/31124"
+      },
+      {
+        "kind": "Written question",
+        "title": "Electricity and Hydrogen",
+        "date": "2025-02-11",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the potential merits of modelling sector coupling between electricity and hydrogen for the UKs energy system.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30766"
+      },
+      {
+        "kind": "Written question",
+        "title": "Industry: Carbon Emissions",
+        "date": "2025-02-11",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what strategies he he is considering for decarbonising hard-to-electrify industrial processes located in towns located away from industrial clusters.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30767"
+      },
+      {
+        "kind": "Written question",
+        "title": "Hydrogen: Storage",
+        "date": "2025-02-11",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether her Department has plans for the strategic development of hydrogen storage facilities at a sufficient scale to support (a) inter-day and (b) inter-week energy storage.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30769"
+      },
+      {
+        "kind": "Written question",
+        "title": "Heat Networks",
+        "date": "2025-02-11",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has plans for the development of heat networks in areas located away from existing (a) industrial or (b) natural heat sources.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30768"
+      },
+      {
+        "kind": "Written question",
+        "title": "Heat Pumps: Government Assistance",
+        "date": "2025-02-10",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether he has made a recent assessment of the potential merits of expanding financial support for heat pump installation to include air-to-air heat pumps for domestic applications.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-10/30275"
+      },
+      {
+        "kind": "Written question",
+        "title": "Heat Networks",
+        "date": "2025-02-10",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what plans his Department has for the development of heat networks in areas located away from existing industrial or natural heat sources?.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-10/30277"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

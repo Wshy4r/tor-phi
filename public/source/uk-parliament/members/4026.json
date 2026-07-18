@@ -1,0 +1,868 @@
+{
+  "member": {
+    "id": "4026",
+    "slug": "liz-kendall",
+    "name": "Liz Kendall",
+    "sortName": "Kendall, Liz",
+    "fullTitle": "Rt Hon Liz Kendall MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Leicester West",
+    "house": "House of Commons",
+    "role": "MP for Leicester West",
+    "officialUrl": "https://members.parliament.uk/member/4026/contact",
+    "recordUrl": "/country/uk/parliament/liz-kendall/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4026/Thumbnail",
+    "currentMembership": {
+      "constituency": "Leicester West",
+      "constituencyId": 4143,
+      "startDate": "2010-05-06",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "liz.kendall.mp@parliament.uk",
+        "correspondence@dsit.gov.uk"
+      ],
+      "phones": [
+        "020 7219 3000"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Department for Science, Innovation and Technology, 22-26 Whitehall, London, SW1A 2EG",
+        "https://www.lizkendall.org",
+        "https://twitter.com/leicesterliz"
+      ],
+      "websites": [
+        "https://www.lizkendall.org"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/leicesterliz"
+        ]
+      ]
+    },
+    "synopsis": "The Rt Hon Liz Kendall is the Labour MP for Leicester West , and has been an MP continually since 6 May 2010. She currently holds the Government post of Secretary of State for Science, Innovation and Technology.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/liz-kendall/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4026/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4026"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4026/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4026/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4026/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4026/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4026"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-01",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-03-26",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/liz-kendall/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4026/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4026"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4026/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4026/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4026/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4026/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4026"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1699024,
+        "uin": "20607",
+        "heading": "Medical Certificates",
+        "questionText": "To ask the Secretary of State for Work and Pensions, on what evidential basis he stated to The Telegraph on 20 March 2024 that GPs were signing people off work for feeling down and bluesy.",
+        "answerText": "In his interview with The Telegraph on 20 March 2024, the Secretary of State set out the challenges we are facing with tackling long-term sickness related economic inactivity, particularly due to mental health. The Secretary of State gave an example of wh...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-03-26",
+        "dateForAnswer": "2024-04-15",
+        "dateAnswered": "2024-04-19",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-26/20607"
+      },
+      {
+        "id": 1698887,
+        "uin": "20606",
+        "heading": "Universal Credit: Fraud",
+        "questionText": "To ask the Secretary of State for Work and Pensions, with reference to paragraph 4.58 of the Office for Budget Responsibility publication entitled Economic and Fiscal Outlook, published in March 2024, whether he has made an estimate of future trends in th",
+        "answerText": "DWP produces forecasts of overpayments in the benefit system as part of its forecasts for benefit expenditure. These are reviewed and agreed by the Office for Budget Responsibility (OBR), which uses them as part of its fiscal forecasting and to evaluate p...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Paul Maynard",
+        "dateTabled": "2024-03-26",
+        "dateForAnswer": "2024-04-15",
+        "dateAnswered": "2024-04-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-26/20606"
+      },
+      {
+        "id": 1698885,
+        "uin": "20604",
+        "heading": "Employment Schemes",
+        "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the Answer of 20 March 2024 to Question 18113 on Jobcentres: Finance, what the individual incentives are in the two incentive pilot programmes for work coaches supporting people into work.",
+        "answerText": "DWP ran an initial incentives pilot for a 6-month period from March 2023 until August 2023. A second phase of the incentives pilot commenced 1 January 2024 and ended on 31 March 2024. The pilot was in line with existing Reward and Recognition policy, wit...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-03-26",
+        "dateForAnswer": "2024-04-15",
+        "dateAnswered": "2024-04-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-26/20604"
+      },
+      {
+        "id": 1698884,
+        "uin": "20603",
+        "heading": "Employment Schemes: Costs",
+        "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the Answer of 20 March 2024 to Question 18113 on Jobcentres: Finance, what the cost to the public purse was of the two incentive pilot programmes.",
+        "answerText": "The Incentive pilots were funded from within the Department’s existing Reward and Recognition budget at no additional cost to the public purse.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-03-26",
+        "dateForAnswer": "2024-04-15",
+        "dateAnswered": "2024-04-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-26/20603"
+      },
+      {
+        "id": 1698886,
+        "uin": "20605",
+        "heading": "National Insurance Contributions: State Retirement Pensions",
+        "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 14 March 2024 to Question 17582 on National Insurance Contributions: State Retirement Pensions, whether his Department has made an assessment of the potential impact of abolishing, rather t",
+        "answerText": "Cutting NICs rates does not affect anyone’s entitlement to the State Pension or contributory benefits.",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-26",
+        "dateForAnswer": "2024-04-15",
+        "dateAnswered": "2024-04-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-26/20605"
+      },
+      {
+        "id": 1695238,
+        "uin": "18113",
+        "heading": "Jobcentres: Finance",
+        "questionText": "To ask the Secretary of State for Work and Pensions, whether he plans to offer financial incentives for Jobcentre work coaches to get people into work.",
+        "answerText": "DWP ran an initial incentives pilot for a 6-month period from March 2023 until August 2023. This was piloted alongside Additional Jobcentre Support (AJS) to support more claimants into work. A second phase of the incentives pilot commenced 1 January 2024 ...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-03-12",
+        "dateForAnswer": "2024-03-14",
+        "dateAnswered": "2024-03-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-12/18113"
+      },
+      {
+        "id": 1694630,
+        "uin": "17588",
+        "heading": "Vacancies",
+        "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the Office for Budget Responsibility publication entitled Economic and Fiscal Outlook, published in March 2024, whether he has made a comparative assessment of the potential impact of",
+        "answerText": "The DWP is not an economic forecaster. This sits with the OBR who have forecast total hours worked in the economy will increase over the next 5 years.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-11",
+        "dateAnswered": "2024-03-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17588"
+      },
+      {
+        "id": 1694626,
+        "uin": "17584",
+        "heading": "National Insurance Contributions: Pensions",
+        "questionText": "To ask the Chancellor of the Exchequer, whether he has made an assessment of the potential impact of abolishing National Insurance contributions on how qualifying years for pension entitlement would be (a) calculated and (b) accounted.",
+        "answerText": "The Government believes the double taxation of work is unfair. That is why we’ve cut 4p from employee NICs in the last six months which will mean the average worker receives a tax cut worth £900 this coming year and why we are committed to ending this unf...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17584"
+      },
+      {
+        "id": 1694625,
+        "uin": "17583",
+        "heading": "National Insurance Contributions: Pensions",
+        "questionText": "To ask the Chancellor of the Exchequer, what discussions he has had with the Secretary of State for Work and Pensions on the potential impact of abolishing National Insurance contributions on (a) calculating and (b) accounting pension entitlements.",
+        "answerText": "The Government believes the double taxation of work is unfair. That is why we’ve cut 4p from employee NICs in the last six months which will mean the average worker receives a tax cut worth £900 this coming year and why we are committed to ending this unf...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17583"
+      },
+      {
+        "id": 1694624,
+        "uin": "17582",
+        "heading": "National Insurance Contributions: State Retirement Pensions",
+        "questionText": "To ask the Chancellor of the Exchequer, whether his Department has made an assessment of the potential impact of abolishing national insurance contributions on state pension entitlements.",
+        "answerText": "The Government believes the double taxation of work is unfair. That is why we’ve cut 4p from employee NICs in the last six months which will mean the average worker receives a tax cut worth £900 this coming year and why we are committed to ending this unf...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17582"
+      },
+      {
+        "id": 1694623,
+        "uin": "17581",
+        "heading": "State Retirement Pensions: Finance",
+        "questionText": "To ask the Chancellor of the Exchequer, with reference to his Financial Statement from 6 March 2024, Official Report, column 851, whether his Department has made an assessment of potential alternative funding mechanisms for the State Pension.",
+        "answerText": "The Government believes the double taxation of work is unfair. That is why we’ve cut 4p from employee NICs in the last six months which will mean the average worker receives a tax cut worth £900 this coming year and why we are committed to ending this unf...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17581"
+      },
+      {
+        "id": 1694635,
+        "uin": "17593",
+        "heading": "Loans: Repayments",
+        "questionText": "To ask the Secretary of State for Work and Pensions, for what reason the increase in the maximum repayment period on new budgeting advance loans starts is scheduled for December 2024.",
+        "answerText": "Universal Credit is an iterative system and all changes to the system are carefully planned and scheduled.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-11",
+        "dateAnswered": "2024-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17593"
+      },
+      {
+        "id": 1694631,
+        "uin": "17589",
+        "heading": "Welfare Tax Credits",
+        "questionText": "To ask the Secretary of State for Work and Pensions, whether he has made an estimate of the number and proportion of tax credit claimants that have closed a claim rather than migrate to Universal Credit in each of the last three years.",
+        "answerText": "The requested information and can be found in Table 2 here: Completing the move to Universal Credit: Statistics related to the move of households claiming TaxCredits and DWP Benefits to Universal Credit: data to end of December 2023 - GOV.UK (www.gov.uk) ...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-11",
+        "dateAnswered": "2024-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17589"
+      },
+      {
+        "id": 1694633,
+        "uin": "17591",
+        "heading": "Universal Credit",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of Universal Credit claimants have received a budgeting advance in each of the last three years.",
+        "answerText": "Table 1 below provides the number and proportion of Universal Credit households who received a Budgeting Advance in each of the last three years. YearNumber of Universal Credit households who received a Budgeting AdvanceProportion of Universal Credit hous...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-11",
+        "dateAnswered": "2024-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17591"
+      },
+      {
+        "id": 1694628,
+        "uin": "17586",
+        "heading": "Department for Work and Pensions: Defamation",
+        "questionText": "To ask the Secretary of State for Work and Pensions, with reference to paragraphs 7.16 and 7.17 of the Ministerial Code, on how many occasions Ministers in his Department have informed the Law Officers that they are the defendants in a libel action in (a)",
+        "answerText": "We are unable to provide the information requested. As reflected in paragraph 2.13 of the Ministerial Code, ‘The fact that the Law Officers have advised or have not advised and the content of their advice must not be disclosed outside Government without t...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Paul Maynard",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17586"
+      },
+      {
+        "id": 1688960,
+        "uin": "14029",
+        "heading": "Employment Schemes: Young People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what his Department's spend on the youth offer was in the last financial year.",
+        "answerText": "The Department of Work and Pensions Youth Offer provides individually tailored work coach support to young people aged 16 to 24 who are claiming Universal Credit. This support includes the Youth Employment Programme, Youth Employability Coaches for young ...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-02-16",
+        "dateForAnswer": "2024-02-21",
+        "dateAnswered": "2024-02-21",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-16/14029"
+      },
+      {
+        "id": 1660032,
+        "uin": "199043",
+        "heading": "Department for Work and Pensions: Domestic Visits",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many times (a) the Secretary of State and (b) each Minister in his Department has visited a (i) Government Hub and (ii) ministerial office outside of London in the last 12 months.",
+        "answerText": "The information requested is not centrally collated and could only be obtained at disproportionate cost.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2023-09-12",
+        "dateForAnswer": "2023-09-18",
+        "dateAnswered": "2023-09-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-09-12/199043"
+      },
+      {
+        "id": 1628270,
+        "uin": "185288",
+        "heading": "Social Services: Recruitment",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what the key performance indicators were of the Made with Care recruitment campaign in each of the two years that the campaign has run.",
+        "answerText": "Due to the fragmented nature of the adult social care sector, with almost 18,000 employers, and no centralised operational recruitment data tracking, it is not possible to assess the number of new adult social care workers recruited through campaign activ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2023-05-16",
+        "dateForAnswer": "2023-05-18",
+        "dateAnswered": "2023-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-05-16/185288"
+      },
+      {
+        "id": 1628269,
+        "uin": "185287",
+        "heading": "Social Services: Recruitment",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what the measurable impacts were of the Made with Care recruitment campaign in each of the two years that that campaign has run.",
+        "answerText": "Due to the fragmented nature of the adult social care sector, with almost 18,000 employers, and no centralised operational recruitment data tracking, it is not possible to assess the number of new adult social care workers recruited through campaign activ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2023-05-16",
+        "dateForAnswer": "2023-05-18",
+        "dateAnswered": "2023-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-05-16/185287"
+      },
+      {
+        "id": 1628268,
+        "uin": "185286",
+        "heading": "Care Workers: Recruitment",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how many care workers were recruited through the Made with Care recruitment campaign in each of the two years that that campaign has run.",
+        "answerText": "Due to the fragmented nature of the adult social care sector, with almost 18,000 employers, and no centralised operational recruitment data tracking, it is not possible to assess the number of new adult social care workers recruited through campaign activ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2023-05-16",
+        "dateForAnswer": "2023-05-18",
+        "dateAnswered": "2023-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-05-16/185286"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-01",
+      "totals": {
+        "Aye": 19,
+        "No": 6
+      },
+      "recent": [
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2356,
+          "number": 6,
+          "date": "2026-05-21",
+          "title": "Steel Industry (Nationalisation) Bill: Reasoned Amendment to Second Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 68,
+          "noCount": 242,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2356"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        },
+        {
+          "id": 2354,
+          "number": 4,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (p)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 316,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2354"
+        },
+        {
+          "id": 2353,
+          "number": 3,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (l)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 78,
+          "noCount": 408,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2353"
+        },
+        {
+          "id": 2352,
+          "number": 2,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (o)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2352"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2346,
+          "number": 511,
+          "date": "2026-04-27",
+          "title": "Children's School and Wellbeing Bill: Amendments (a) to (j) in lieu of Lords Amendments 38V to 38X",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 272,
+          "noCount": 64,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2346"
+        },
+        {
+          "id": 2345,
+          "number": 510,
+          "date": "2026-04-27",
+          "title": "Northern Ireland Troubles Bill: Carry-over motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 176,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2345"
+        },
+        {
+          "id": 2344,
+          "number": 509,
+          "date": "2026-04-27",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on its Amendments 88A, 88C and 88E to 88P and propose Amendments (a) to (f)",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 164,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2344"
+        },
+        {
+          "id": 2343,
+          "number": 508,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: Amendments (a) to (h) in lieu of Lords Amendments 85 and 86, 97 to 116, 120, 121 and 123",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 271,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2343"
+        },
+        {
+          "id": 2342,
+          "number": 507,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 94B and 94C",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 269,
+          "noCount": 170,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2342"
+        },
+        {
+          "id": 2341,
+          "number": 506,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 36, 90 and 155, insist on Amendments 155A to 155F and propose Amendment (a)",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 270,
+          "noCount": 170,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2341"
+        },
+        {
+          "id": 2340,
+          "number": 505,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 89B and 89C",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 273,
+          "noCount": 167,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2340"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        },
+        {
+          "id": 2335,
+          "number": 500,
+          "date": "2026-04-21",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree to Lords Amendment 98",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 287,
+          "noCount": 150,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2335"
+        },
+        {
+          "id": 2334,
+          "number": 499,
+          "date": "2026-04-21",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree to Lords Amendment 41",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 284,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2334"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 304, Noes 28.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 308, Noes 81.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+        "date": "2026-04-22",
+        "summary": "Aye; Ayes 380, Noes 7.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

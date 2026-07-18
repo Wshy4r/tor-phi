@@ -1,0 +1,981 @@
+{
+  "member": {
+    "id": "4444",
+    "slug": "karin-smyth",
+    "name": "Karin Smyth",
+    "sortName": "Smyth, Karin",
+    "fullTitle": "Karin Smyth MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Bristol South",
+    "house": "House of Commons",
+    "role": "MP for Bristol South",
+    "officialUrl": "https://members.parliament.uk/member/4444/contact",
+    "recordUrl": "/country/uk/parliament/karin-smyth/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4444/Thumbnail",
+    "currentMembership": {
+      "constituency": "Bristol South",
+      "constituencyId": 3950,
+      "startDate": "2015-05-07",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "karin.smyth.mp@parliament.uk"
+      ],
+      "phones": [
+        "0117 953 3575"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Constituency office",
+        "http://karinsmyth.com/",
+        "https://twitter.com/karinsmyth"
+      ],
+      "websites": [
+        "http://karinsmyth.com/"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/karinsmyth"
+        ]
+      ]
+    },
+    "synopsis": "Karin Smyth is the Labour MP for Bristol South , and has been an MP continually since 7 May 2015. She currently holds the Government post of Minister of State (Department of Health and Social Care).",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/karin-smyth/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4444/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4444"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4444/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4444/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4444/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4444/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4444"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-05-16",
+    "registeredInterestCount": 1
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/karin-smyth/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4444/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4444"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4444/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4444/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4444/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4444/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4444"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1718910,
+        "uin": "26699",
+        "heading": "Tomography",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of (a) CT and (b) MRI scanners have been in operation for longer than 10 years.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Dissolution.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-21",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26699"
+      },
+      {
+        "id": 1718912,
+        "uin": "26701",
+        "heading": "NHS Trusts: ICT",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how many IT failures there have been at NHS trusts that affected clinical service delivery in each of the last five years.",
+        "answerText": "The information requested is not held centrally.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-21",
+        "dateAnswered": "2024-05-21",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26701"
+      },
+      {
+        "id": 1718911,
+        "uin": "26700",
+        "heading": "NHS Trusts: ICT",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how many IT failures there have been at NHS trusts in each of the last five years.",
+        "answerText": "The information requested is not held centrally.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-21",
+        "dateAnswered": "2024-05-21",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26700"
+      },
+      {
+        "id": 1718485,
+        "uin": "26509",
+        "heading": "NHS Trusts: Buildings",
+        "questionText": "To ask the Secretary of State for Health and Social Care, in how many NHS trusts temporary buildings are in use.",
+        "answerText": "The National Health Service does not hold data on the number of temporary buildings in use.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26509"
+      },
+      {
+        "id": 1718486,
+        "uin": "26510",
+        "heading": "NHS Trusts: Infrastructure",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how many infrastructure failures at NHS trusts have been recorded in each of the last five years; and how many such failures had an impact on clinical service delivery in each of those years.",
+        "answerText": "The National Health Service publishes the annual Estates Returns Information Collection, which includes detailed information on the NHS estate. Individual NHS Trusts are responsible for providing the data for the Estates Returns Information Collection and...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26510"
+      },
+      {
+        "id": 1718484,
+        "uin": "26508",
+        "heading": "Integrated Care Systems: Finance",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how much each NHS Integrated Care Systems owed to NHS England for historic deficits at the end of the 2023-24 financial year.",
+        "answerText": "The final year-end financial position for the integrated care boards, National Health Service trusts, and foundation trusts has not yet been finalised. All figures are due to be audited and will be reported in the accounts for all organisations, as well a...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26508"
+      },
+      {
+        "id": 1718483,
+        "uin": "26507",
+        "heading": "Integrated Care Systems and NHS Trusts: Finance",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how many NHS (a) integrated care systems and (b) trusts were in deficit at the end of the 2023-24 financial year; and if she will publish a breakdown of those figures by (i) acute, (ii) mental heal",
+        "answerText": "The final year-end financial position for the integrated care boards, National Health Service trusts, and foundation trusts has not yet been finalised. All figures are due to be audited and will be reported in the accounts for all organisations, as well a...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26507"
+      },
+      {
+        "id": 1718481,
+        "uin": "26506",
+        "heading": "Integrated Care Systems",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what the overall year end deficit for integrated care systems was in the financial year 2023-24.",
+        "answerText": "The final year-end financial position for the integrated care boards, National Health Service trusts, and foundation trusts has not yet been finalised. All figures are due to be audited and will be reported in the accounts for all organisations, as well a...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26506"
+      },
+      {
+        "id": 1717152,
+        "uin": "25658",
+        "heading": "Health Services: Operating Costs",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what the annual running costs were for NHS (a) Arden and GEM, (b) Midlands and Lancashire, (c) North of England and (d) South, Central and West Commissioning Support Unit in the 2022-23 financial y",
+        "answerText": "The Department does not hold the information requested. Commissioning Support Units (CSUs) form part of one service provided to Clinical Commissioning Groups and integrated care boards by NHS England. CSUs are not separate legal entities, and spending for...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-10",
+        "dateForAnswer": "2024-05-15",
+        "dateAnswered": "2024-05-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-10/25658"
+      },
+      {
+        "id": 1717151,
+        "uin": "25657",
+        "heading": "Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether she has made an assessment of progress in the development of a clinical analytical service for specialised commissioning.",
+        "answerText": "Commissioners of Specialised Services have access to the analysis of clinical data via their regional business intelligence teams, or the nationally commissioned Commissioning Support Unit (CSU) service provision.Routine reporting can be accessed via the ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2024-05-10",
+        "dateForAnswer": "2024-05-15",
+        "dateAnswered": "2024-05-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-10/25657"
+      },
+      {
+        "id": 1717150,
+        "uin": "25656",
+        "heading": "Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure that integrated care boards take into account a) clinical, b) patient and c) provider experience when commissioning specialised services.",
+        "answerText": "NHS England's delegation agreement with the integrated care boards (ICBs) requires each ICB to establish effective, safe, efficient, and economic arrangements for the commissioning of delegated specialised services, with particular reference to statutory ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2024-05-10",
+        "dateForAnswer": "2024-05-15",
+        "dateAnswered": "2024-05-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-10/25656"
+      },
+      {
+        "id": 1716840,
+        "uin": "25504",
+        "heading": "Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what engagement commissioning hub teams looking at specialised commissioning have with commissioning support units.",
+        "answerText": "The nine joint committee arrangements arose from a robust process, which included a readiness assessment, the Pre-Delegation Assessment Framework, made between integrated care boards (ICBs) and NHS England regional teams, followed by a National Moderation...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-14",
+        "dateAnswered": "2024-05-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25504"
+      },
+      {
+        "id": 1716839,
+        "uin": "25503",
+        "heading": "Integrated Care Systems",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the potential impact of delegating specialised services to Integrated Care Systems on patient outcomes.",
+        "answerText": "The nine joint committee arrangements arose from a robust process, which included a readiness assessment, the Pre-Delegation Assessment Framework, made between integrated care boards (ICBs) and NHS England regional teams, followed by a National Moderation...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-14",
+        "dateAnswered": "2024-05-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25503"
+      },
+      {
+        "id": 1716838,
+        "uin": "25502",
+        "heading": "Integrated Care Systems",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the potential imapct of delegating specialised services to Integrated Care Systems on continuity of care for patients.",
+        "answerText": "The nine joint committee arrangements arose from a robust process, which included a readiness assessment, the Pre-Delegation Assessment Framework, made between integrated care boards (ICBs) and NHS England regional teams, followed by a National Moderation...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-14",
+        "dateAnswered": "2024-05-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25502"
+      },
+      {
+        "id": 1716837,
+        "uin": "25501",
+        "heading": "Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, with reference to Annex A of the NHS publication entitled Specialised Commissioning – update on specialised services for delegation, published on 28 March 2024, whether she plans for the 32 special",
+        "answerText": "The nine joint committee arrangements arose from a robust process, which included a readiness assessment, the Pre-Delegation Assessment Framework, made between integrated care boards (ICBs) and NHS England regional teams, followed by a National Moderation...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-14",
+        "dateAnswered": "2024-05-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25501"
+      },
+      {
+        "id": 1716836,
+        "uin": "25500",
+        "heading": "Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the potential impact of joint commissioning on the 59 specialised services approved by the NHS England Board in February 2023.",
+        "answerText": "The nine joint committee arrangements arose from a robust process, which included a readiness assessment, the Pre-Delegation Assessment Framework, made between integrated care boards (ICBs) and NHS England regional teams, followed by a National Moderation...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-14",
+        "dateAnswered": "2024-05-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25500"
+      },
+      {
+        "id": 1716152,
+        "uin": "24956",
+        "heading": "Integrated Care Boards",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has she made of the adequacy of the progress towards full delegated commissioning for Integrated Care Boards by April 2025 in (a) the South West, (b) the South East, (c) London and",
+        "answerText": "The total spend on commissioning specialised services was £22.7 billion in 2022/23 and £25 billion in 2023/24. As formal delegation of specialised services to integrated care boards (ICBs) begins from 1 April 2024, all spend on commissioning these service...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Helen Whately",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/24956"
+      },
+      {
+        "id": 1715639,
+        "uin": "24677",
+        "heading": "PA Consulting Group: Contracts",
+        "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the contract awarded by her Department to PA Consulting Services Limited on 8 January 2024 under procurement reference CF-2104, what the estimated cost to the public purse will be",
+        "answerText": "Procurement CF-2014 is for digital information services to support the work of the National Institute for Health and Care Research. The award amount is available at the following link: https://www.contractsfinder.service.gov.uk/Notice/9fb00b7d-b2dd-4672-a...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-05-02",
+        "dateForAnswer": "2024-05-08",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-02/24677"
+      },
+      {
+        "id": 1714972,
+        "uin": "24260",
+        "heading": "Hospitals: Construction",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to improve staff retention on the New Hospitals Programme.",
+        "answerText": "The New Hospital Programme (NHP) continues to recruit into outstanding vacancies and is making progress in line with its current plans, workforce planning and resource assumptions.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-04-30",
+        "dateForAnswer": "2024-05-07",
+        "dateAnswered": "2024-05-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-30/24260"
+      },
+      {
+        "id": 1714970,
+        "uin": "24258",
+        "heading": "Hospitals: Construction",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to reduce vacancies on the New Hospitals Programme.",
+        "answerText": "The New Hospital Programme (NHP) continues to recruit into outstanding vacancies and is making progress in line with its current plans, workforce planning and resource assumptions.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2024-04-30",
+        "dateForAnswer": "2024-05-07",
+        "dateAnswered": "2024-05-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-30/24258"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 12,
+        "No": 13
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 15510,
+            "text": "Name of donor: Royal Society for the Protection of Birds (RSPB) Address of donor: The Lodge, Potton Road, Sandy, Bedfordshire SG19 2DL Amount of donation or nature and value if donation in kind: Conservation visit with a cross-party group to see the impact of the RSPB’s conservation measures on Lundy Island, and to hear about the challenges facing seabirds in the UK, value £315 Date received: 28 May 2026 Date accepted: 28 May 2026 Donor status: other (Registered Charity (no 207076)) (Registered 19 June 2026)",
+            "createdWhen": "2026-06-30",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

@@ -1,0 +1,834 @@
+{
+  "member": {
+    "id": "5210",
+    "slug": "tom-hayes",
+    "name": "Tom Hayes",
+    "sortName": "Hayes, Tom",
+    "fullTitle": "Tom Hayes MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Bournemouth East",
+    "house": "House of Commons",
+    "role": "MP for Bournemouth East",
+    "officialUrl": "https://members.parliament.uk/member/5210/contact",
+    "recordUrl": "/country/uk/parliament/tom-hayes/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5210/Thumbnail",
+    "currentMembership": {
+      "constituency": "Bournemouth East",
+      "constituencyId": 3930,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "tom.hayes.mp@parliament.uk"
+      ],
+      "phones": [
+        "01202 029181"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "595 Christchurch Road, Boscombe, Bournemouth, BH1 4AN",
+        "https://www.tomhayes.org.uk/",
+        "https://www.facebook.com/TomHayesMP/"
+      ],
+      "websites": [
+        "https://www.tomhayes.org.uk/"
+      ],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/TomHayesMP/"
+        ]
+      ]
+    },
+    "synopsis": "Tom Hayes is the Labour MP for Bournemouth East , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/tom-hayes/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5210/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5210"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5210/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5210/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5210/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5210/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5210"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-23",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/tom-hayes/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5210/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5210"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5210/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5210/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5210/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5210/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5210"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1919265,
+        "uin": "12411",
+        "heading": "Drugs: Organised Crime",
+        "questionText": "To ask the Secretary of State for Education, if she will take steps to require schools to educate Year 6 pupils on county lines.",
+        "answerText": "Within the relationships, sex and health education statutory guidance, pupils in secondary education are taught about county lines and exploitation. This includes developing pupils’ understanding of how to determine whether other children, adults, or sour...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Georgia Gould",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12411"
+      },
+      {
+        "id": 1913506,
+        "uin": "7640",
+        "heading": "Mental Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the effectiveness of the Open Dialogue approach to mental health care; and whether he plans to support its wider adoption within the NHS.",
+        "answerText": "NHS England's Culture of Care Standards reference Open Dialogue as an evidence-based approach for use in inpatient mental health, learning disability, and autism settings. NHS England is currently evaluating the national Culture of Care Programme, which i...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7640"
+      },
+      {
+        "id": 1913502,
+        "uin": "7636",
+        "heading": "Mental Health Services: Standards",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what metrics his Department is using to measure progress in improving mental health outcomes, and how these compare with those used for physical health.",
+        "answerText": "The NHS Oversight Framework sets out how NHS England will assess and oversee providers and integrated care boards against a range of metrics, promoting improvement while helping to identify where organisations need support, as well as those that are perfo...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7636"
+      },
+      {
+        "id": 1913505,
+        "uin": "7639",
+        "heading": "Mental Health Services: Waiting Lists",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what comparative assessment he has made of levels of progress between waiting lists for mental health services and elective physical health treatments.",
+        "answerText": "The Government recognises that people are waiting too long to access National Health Service mental health services. We have already taken significant steps to stabilise and improve NHS mental health services, but there is much more to do. Transforming th...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7639"
+      },
+      {
+        "id": 1913504,
+        "uin": "7638",
+        "heading": "Mental Health Services: Waiting Lists",
+        "questionText": "To ask the Secretary of State for Health and Social Care, at what pace he expects the NHS to reduce waiting times for mental health services.",
+        "answerText": "The Government recognises that people are waiting too long to access National Health Service mental health services. We have already taken significant steps to stabilise and improve NHS mental health services, but there is much more to do. Transforming th...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7638"
+      },
+      {
+        "id": 1913503,
+        "uin": "7637",
+        "heading": "Mental Health Services: Waiting Lists",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what progress has been made in tackling mental health waiting lists since July 2024.",
+        "answerText": "The Government recognises that people are waiting too long to access National Health Service mental health services. We have already taken significant steps to stabilise and improve NHS mental health services, but there is much more to do. Transforming th...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7637"
+      },
+      {
+        "id": 1913499,
+        "uin": "7633",
+        "heading": "Mental Health Services: Waiting Lists",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to introduce waiting time standards across all mental health services as part of the forthcoming Mental Health Strategy.",
+        "answerText": "The Government recognises that people are waiting too long to access National Health Service mental health services. We have already taken significant steps to stabilise and improve NHS mental health services, but there is much more to do. Transforming th...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7633"
+      },
+      {
+        "id": 1913497,
+        "uin": "7631",
+        "heading": "Mental Illness: Medical Treatments",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what recent steps his Department has taken to improve access for people living with mental illness to new and innovative treatments.",
+        "answerText": "We know that one size does not fit all when it comes to mental health, and that is why a range of innovative treatments are needed. We are considering this in the new Mental Health Strategy for England we are currently developing, to be published later th...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7631"
+      },
+      {
+        "id": 1913500,
+        "uin": "7634",
+        "heading": "Mental Health Services: Community Care",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what plans his Department has to scale and spread effective community-based mental health support models through the forthcoming Mental Health Strategy.",
+        "answerText": "We are developing a new cross-Government Mental Health Strategy for England, to be published later this year. We have launched a Call for Evidence to inform the strategy, which closes on 10 July. The Call for Evidence seeks practical, implementation-focus...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7634"
+      },
+      {
+        "id": 1913495,
+        "uin": "7629",
+        "heading": "Mental Health Services: Young People",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential relationship between the findings of the interim report of the Independent Report into Young People and Work, led by Alan Milburn, and waiting lists for",
+        "answerText": "The Department welcomes the interim report of the Independent Review into Young People and Work led by Alan Milburn, which provides an important assessment of the drivers of youth inactivity. The report highlights that ill health, including mental health,...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7629"
+      },
+      {
+        "id": 1913494,
+        "uin": "7628",
+        "heading": "Mental Health Services: Young People",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential implications for its policies of the health-related recommendations in the interim report of the Milburn Review, particularly in relation to",
+        "answerText": "The Department welcomes the interim report of the Independent Review into Young People and Work led by Alan Milburn, which provides an important assessment of the drivers of youth inactivity. The report highlights that ill health, including mental health,...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7628"
+      },
+      {
+        "id": 1913501,
+        "uin": "7635",
+        "heading": "Mental Health Services: Standards",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what progress his Department has made on the development of a Modern Service Framework for severe mental illness, and what timeline he has set for its publication.",
+        "answerText": "The Modern Service Framework for Severe Mental Illness is an important part of our new approach to mental health. To ensure that we get this right, we are engaging extensively with the mental health sector, including people with lived experience. We are a...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7635"
+      },
+      {
+        "id": 1913507,
+        "uin": "7641",
+        "heading": "Mental Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to expand and improve assertive outreach services for people with severe mental illness.",
+        "answerText": "We recognise that assertive care is a vital component of community mental health services. NHS England has issued draft guidance to services which makes clear what, as a minimum, they should be doing to support people who would benefit from intensive and ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7641"
+      },
+      {
+        "id": 1913498,
+        "uin": "7632",
+        "heading": "Mental Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of inequalities in access to mental health treatment, and what steps he is taking to address them.",
+        "answerText": "The Government recognises that mental health inequalities persist, with some groups, including disabled people, racialised communities, and those living in more deprived areas, reporting poorer experiences of care and facing greater barriers to access.The...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7632"
+      },
+      {
+        "id": 1913496,
+        "uin": "7630",
+        "heading": "Mental Health: Research",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to help ensure that mental health research receives equitable funding compared with physical health research.",
+        "answerText": "The Department commissions and funds research through the National Institute for Health and Care Research (NIHR). The NIHR is the largest funder of mental health research in the United Kingdom and is funding a range of research in mental health to inform ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7630"
+      },
+      {
+        "id": 1894908,
+        "uin": "123899",
+        "heading": "Water Treatment: Regulation",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to ensure that Ofwat and other regulatory agencies enforce compliance with the Urban Waste Water Treatment (England and Wales) Regulations.",
+        "answerText": "Defra works closely with its arms-length body regulators, including Ofwat and the Environment Agency (EA), to assess performance, review enforcement powers and ensure that regulators are equipped to carry out their functions effectively to deliver for the...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Emma Hardy",
+        "dateTabled": "2026-03-25",
+        "dateForAnswer": "2026-04-13",
+        "dateAnswered": "2026-04-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-25/123899"
+      },
+      {
+        "id": 1889583,
+        "uin": "119666",
+        "heading": "Prisoners: Funerals",
+        "questionText": "To ask the Secretary of State for Justice, whether he can release the data for payouts by HM Prison and Probation Service for funerals for prisoners who died in custody from 2010-2024.",
+        "answerText": "The information requested could only be obtained at disproportionate cost.",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Jake Richards",
+        "dateTabled": "2026-03-10",
+        "dateForAnswer": "2026-03-12",
+        "dateAnswered": "2026-03-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-10/119666"
+      },
+      {
+        "id": 1875110,
+        "uin": "108440",
+        "heading": "Gibraltar: National Security",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how they intend to respond to the findings of the McGrail Inquiry that found “grossly improper” and “sinister” interventions by the Chief Minister of Gibraltar to interfere i",
+        "answerText": "Sir Peter Openshaw's report contains extremely serious findings which are deeply concerning, and which must be urgently addressed. The UK Government takes its constitutional responsibilities very seriously and expects the highest standards of good governa...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Stephen Doughty",
+        "dateTabled": "2026-01-26",
+        "dateForAnswer": "2026-01-28",
+        "dateAnswered": "2026-02-04",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-26/108440"
+      },
+      {
+        "id": 1868535,
+        "uin": "103600",
+        "heading": "Children's Play: Health Professions",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether he will consider making health play specialists a mandatory registered allied health profession.",
+        "answerText": "The Government is committed to raising the healthiest generation of children ever. This ambition is at the heart of our 10-Year Health Plan, which sets out three radical shifts: from treatment to prevention; from hospital to community; and from analogue t...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-01-06",
+        "dateForAnswer": "2026-01-27",
+        "dateAnswered": "2026-01-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-06/103600"
+      },
+      {
+        "id": 1867212,
+        "uin": "102243",
+        "heading": "Community Health Services: Homelessness",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps is the Department taking to remove barriers preventing community homelessness health services, such as mobile clinics, from accessing NHS SystemOne records.",
+        "answerText": "It is important that community health teams can access the information they need to provide quality care, including for people who are experiencing homelessness. NHS England and the Phoenix Partnership (TPP), the company that provides SystemOne, already o...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Ashley Dalton",
+        "dateTabled": "2026-01-02",
+        "dateForAnswer": "2026-01-06",
+        "dateAnswered": "2026-02-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-02/102243"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 11,
+        "No": 14
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2366,
+          "number": 16,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 94,
+          "noCount": 297,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2366"
+        },
+        {
+          "id": 2365,
+          "number": 15,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 20",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 90,
+          "noCount": 290,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2365"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Gibraltar: National Security",
+        "date": "2026-01-26",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how they intend to respond to the findings of the McGrail Inquiry that found “grossly improper” and “sinister” interventions by the Chief Minister of Gibraltar to interfere i",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-26/108440"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

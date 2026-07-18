@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      width: 380px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #15202b;
+      color: #e7e9ea;
+      padding: 16px;
+    }
+    h1 {
+      font-size: 18px;
+      margin-bottom: 12px;
+      color: #1d9bf0;
+    }
+    .status-bar {
+      background: #192734;
+      border-radius: 8px;
+      padding: 10px 12px;
+      margin-bottom: 12px;
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .status-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: #f44;
+      flex-shrink: 0;
+    }
+    .status-dot.connected { background: #0f0; }
+    .status-dot.capturing { background: #1d9bf0; animation: pulse 1s infinite; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    .tabs {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 12px;
+    }
+    .tab {
+      flex: 1;
+      padding: 8px 4px;
+      border: none;
+      background: #192734;
+      color: #8899a6;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 600;
+      transition: all 0.15s;
+    }
+    .tab.active {
+      background: #1d9bf0;
+      color: #fff;
+    }
+    .tab:hover:not(.active) {
+      background: #22303c;
+    }
+    .input-group {
+      margin-bottom: 12px;
+    }
+    .input-group label {
+      display: block;
+      font-size: 12px;
+      color: #8899a6;
+      margin-bottom: 4px;
+    }
+    .input-group input {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1px solid #38444d;
+      border-radius: 8px;
+      background: #192734;
+      color: #e7e9ea;
+      font-size: 14px;
+      outline: none;
+    }
+    .input-group input:focus {
+      border-color: #1d9bf0;
+    }
+    .input-group input::placeholder {
+      color: #536471;
+    }
+    .btn {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .btn-primary {
+      background: #1d9bf0;
+      color: #fff;
+    }
+    .btn-primary:hover { background: #1a8cd8; }
+    .btn-primary:disabled {
+      background: #1d9bf050;
+      cursor: not-allowed;
+    }
+    .btn-stop {
+      background: #f44;
+      color: #fff;
+    }
+    .btn-stop:hover { background: #d33; }
+    .btn-secondary {
+      background: #192734;
+      color: #1d9bf0;
+      border: 1px solid #1d9bf0;
+      margin-top: 8px;
+    }
+    .btn-secondary:hover { background: #22303c; }
+    .stats {
+      background: #192734;
+      border-radius: 8px;
+      padding: 12px;
+      margin-top: 12px;
+    }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+    .stat {
+      text-align: center;
+    }
+    .stat-value {
+      font-size: 20px;
+      font-weight: 700;
+      color: #1d9bf0;
+    }
+    .stat-label {
+      font-size: 11px;
+      color: #8899a6;
+    }
+    .progress-text {
+      text-align: center;
+      font-size: 12px;
+      color: #8899a6;
+      margin-top: 8px;
+    }
+    .section-title {
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: #8899a6;
+    }
+    .actions {
+      margin-top: 12px;
+      display: flex;
+      gap: 8px;
+    }
+    .actions .btn {
+      flex: 1;
+      font-size: 12px;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Twitter Analyzer</h1>
+
+  <div class="status-bar" id="statusBar">
+    <div class="status-dot" id="statusDot"></div>
+    <span id="statusText">Checking...</span>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="user">User Tweets</button>
+    <button class="tab" data-tab="search">Search</button>
+    <button class="tab" data-tab="likes">Likes</button>
+  </div>
+
+  <!-- User Tweets Tab -->
+  <div id="tab-user" class="tab-content">
+    <div class="input-group">
+      <label>Twitter Username</label>
+      <input type="text" id="username" placeholder="@username or username">
+    </div>
+    <div class="input-group">
+      <label>Max Pages (40 tweets per page)</label>
+      <input type="number" id="maxPagesUser" value="100" min="1" max="1000">
+    </div>
+  </div>
+
+  <!-- Search Tab -->
+  <div id="tab-search" class="tab-content" style="display:none;">
+    <div class="input-group">
+      <label>Search Query</label>
+      <input type="text" id="searchQuery" placeholder="from:user since:2020-01-01 until:2024-01-01">
+    </div>
+    <div class="input-group">
+      <label>Max Pages</label>
+      <input type="number" id="maxPagesSearch" value="50" min="1" max="500">
+    </div>
+  </div>
+
+  <!-- Likes Tab -->
+  <div id="tab-likes" class="tab-content" style="display:none;">
+    <div class="input-group">
+      <label>Username (whose likes to capture)</label>
+      <input type="text" id="likesUsername" placeholder="@username">
+    </div>
+    <div class="input-group">
+      <label>Max Pages</label>
+      <input type="number" id="maxPagesLikes" value="50" min="1" max="500">
+    </div>
+  </div>
+
+  <button class="btn btn-primary" id="startBtn">Start Capture</button>
+  <button class="btn btn-stop" id="stopBtn" style="display:none;">Stop Capture</button>
+
+  <div class="stats" id="statsSection">
+    <div class="section-title">CAPTURE STATS</div>
+    <div class="stats-grid">
+      <div class="stat">
+        <div class="stat-value" id="tweetsCount">0</div>
+        <div class="stat-label">Tweets Captured</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" id="pagesCount">0</div>
+        <div class="stat-label">Pages Fetched</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" id="dupsCount">0</div>
+        <div class="stat-label">Duplicates</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" id="errorsCount">0</div>
+        <div class="stat-label">Errors</div>
+      </div>
+    </div>
+    <div class="progress-text" id="progressText">Ready</div>
+  </div>
+
+  <div class="actions">
+    <button class="btn btn-secondary" id="exportBtn">Export JSON</button>
+    <button class="btn btn-secondary" id="resetBtn">Reset</button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

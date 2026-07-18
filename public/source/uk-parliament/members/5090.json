@@ -1,0 +1,980 @@
+{
+  "member": {
+    "id": "5090",
+    "slug": "tom-morrison",
+    "name": "Tom Morrison",
+    "sortName": "Morrison, Tom",
+    "fullTitle": "Tom Morrison MP",
+    "party": "Liberal Democrat",
+    "partyAbbreviation": "LD",
+    "partyColor": "#fc7d0b",
+    "constituency": "Cheadle",
+    "house": "House of Commons",
+    "role": "MP for Cheadle",
+    "officialUrl": "https://members.parliament.uk/member/5090/contact",
+    "recordUrl": "/country/uk/parliament/tom-morrison/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5090/Thumbnail",
+    "currentMembership": {
+      "constituency": "Cheadle",
+      "constituencyId": 3973,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "tom.morrison.mp@parliament.uk"
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "https://www.facebook.com/tommorrisonlibdem",
+        "https://www.instagram.com/thetommorrison/",
+        "https://x.com/thomasmorrison"
+      ],
+      "websites": [],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/tommorrisonlibdem"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/thetommorrison/"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://x.com/thomasmorrison"
+        ]
+      ]
+    },
+    "synopsis": "Tom Morrison is the Liberal Democrat MP for Cheadle , and has been an MP continually since 4 July 2024. He currently undertakes the role of Liberal Democrat Deputy Chief Whip.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/tom-morrison/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5090/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5090"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5090/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5090/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5090/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5090/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5090"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-06",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-30",
+    "registeredInterestCount": 2
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/tom-morrison/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5090/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5090"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5090/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5090/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5090/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5090/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5090"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1922375,
+        "uin": "14542",
+        "heading": "Menopause: Advice and Guidance Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the impact of Advice and Guidance pathways on access to specialist care for women experiencing menopause-related health conditions.",
+        "answerText": "No specific formal assessment has been made. Advice and Guidance is designed to support quicker, clearer clinical decision making, by enabling general practitioners (GPs) and specialists to discuss and agree the most appropriate next steps for a patient, ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14542"
+      },
+      {
+        "id": 1922373,
+        "uin": "14540",
+        "heading": "Water Charges",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment he has made of the potential impact of water companies’ environmental and service performance on water bills.",
+        "answerText": "Ofwat’s outcome delivery incentives (ODIs) ensure that, where performance commitments are not met, companies must reimburse customers through lower water bills (known as ‘underperformance payments’) in the next financial year. As a result, for the draft d...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Emma Hardy",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14540"
+      },
+      {
+        "id": 1922376,
+        "uin": "14543",
+        "heading": "Hormone Replacement Therapy: Side Effects",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what guidance his Department has issued to NHS trusts and Integrated Care Boards on ensuring timely access to specialist care and treatment for women experiencing complications associated with horm",
+        "answerText": "The National Institute for Health and Care Excellence’s (NICE) guideline on the identification and management of menopause includes guidance for healthcare professionals on the prescribing of hormone replacement therapy (HRT). The guideline includes guida...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14543"
+      },
+      {
+        "id": 1922385,
+        "uin": "14552",
+        "heading": "Special Educational Needs: Appeals",
+        "questionText": "To ask the Secretary of State for Justice, for each of the last seven years, how many SEND7 request for change applications have been submitted to the SEND tribunal; how many of these applications have resulted in a new, sooner appeal date; and what was t",
+        "answerText": "Data on the average waiting time between appeal lodgement and first hearing, and between appeal lodgement and final disposal, for Special Educational Needs and Disability (SEND) appeals is not routinely recorded by the Tribunal. Consequently, the average ...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Sarah Sackman",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14552"
+      },
+      {
+        "id": 1922384,
+        "uin": "14551",
+        "heading": "Special Educational Needs: Appeals",
+        "questionText": "To ask the Secretary of State for Justice, what is the average wait for a SEND tribunal appeal to be heard from receipt of the appeal and what was the average wait for a SEND tribunal appeal in each year from 2019-2025.",
+        "answerText": "Data on the average waiting time between appeal lodgement and first hearing, and between appeal lodgement and final disposal, for Special Educational Needs and Disability (SEND) appeals is not routinely recorded by the Tribunal. Consequently, the average ...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Sarah Sackman",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14551"
+      },
+      {
+        "id": 1922374,
+        "uin": "14541",
+        "heading": "Empty Property: Council Tax",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many empty properties have seen a increase in Council Tax of (a) 200%, (b) 300%, and (c) 400% since the Council Tax (Prescribed Classes of Dwellings and Consequential Amendme",
+        "answerText": "Local authorities are responsible for the administration of council tax in accordance with relevant legislation and have discretion to decide whether to apply council tax premiums. The charging of premiums on particular types of accommodation is a local m...",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Alison McGovern",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14541"
+      },
+      {
+        "id": 1922570,
+        "uin": "14555",
+        "heading": "Palestine: Children",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to the UN’s Independent International Commission of Inquiry on the Occupied Palestinian Territory and Israel's report entitled The essence of childhood has bee",
+        "answerText": "I refer the Hon Member to the answer provided on 6 July to Question 13226.",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14555"
+      },
+      {
+        "id": 1922569,
+        "uin": "14554",
+        "heading": "Palestine: Children",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to the UN’s Independent International Commission of Inquiry on the Occupied Palestinian Territory and Israel's report entitled The essence of childhood has bee",
+        "answerText": "I refer the Hon Member to the answer provided on 6 July to Question 13226.",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14554"
+      },
+      {
+        "id": 1922568,
+        "uin": "14553",
+        "heading": "Occupied Territories: International Humanitarian Law",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential implications for her policies of the recent report by the UN’s Independent International Commission of Inquiry on the Occupied P",
+        "answerText": "I refer the Hon Member to the answer provided on 6 July to Question 13226.",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14553"
+      },
+      {
+        "id": 1922380,
+        "uin": "14547",
+        "heading": "Police: Workplace Pensions",
+        "questionText": "To ask the Secretary of State for the Home Department, what estimate her Department has made of the annual cost of allowing all surviving spouses, civil partners and partners receiving benefits under the Police Pension Scheme 1987 to retain those benefits",
+        "answerText": "The most recent actuarial valuation of the police pension schemes in England and Wales as at 31 March 2020, shows that there are approximately 27,000 dependants in receipt of a pension. This figure includes dependants other than surviving partners and is ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14547"
+      },
+      {
+        "id": 1922379,
+        "uin": "14546",
+        "heading": "Police: Workplace Pensions",
+        "questionText": "To ask the Secretary of State for the Home Department, what estimate she has made of the number of surviving spouses, civil partners and partners who may be affected by the remarriage and cohabitation provisions of the Police Pension Scheme 1987.",
+        "answerText": "The most recent actuarial valuation of the police pension schemes in England and Wales as at 31 March 2020, shows that there are approximately 27,000 dependants in receipt of a pension. This figure includes dependants other than surviving partners and is ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14546"
+      },
+      {
+        "id": 1922378,
+        "uin": "14545",
+        "heading": "Police: Workplace Pensions",
+        "questionText": "To ask the Secretary of State for the Home Department, how many survivor pensions under the Police Pension Scheme 1987 have ceased as a result of remarriage or cohabitation in each of the last ten years.",
+        "answerText": "The most recent actuarial valuation of the police pension schemes in England and Wales as at 31 March 2020, shows that there are approximately 27,000 dependants in receipt of a pension. This figure includes dependants other than surviving partners and is ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14545"
+      },
+      {
+        "id": 1922377,
+        "uin": "14544",
+        "heading": "Police: Workplace Pensions",
+        "questionText": "To ask the Secretary of State for the Home Department, how many surviving spouses, civil partners and partners are currently in receipt of a survivor pension under the Police Pension Scheme 1987.",
+        "answerText": "The most recent actuarial valuation of the police pension schemes in England and Wales as at 31 March 2020, shows that there are approximately 27,000 dependants in receipt of a pension. This figure includes dependants other than surviving partners and is ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14544"
+      },
+      {
+        "id": 1922571,
+        "uin": "14556",
+        "heading": "Gaza: Israel",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what diplomatic steps she is taking to support the ceasefire in the Gaza war.",
+        "answerText": "I refer the Hon Member to the statement provided to the House by the Foreign Secretary on 9 June, and her answers on this topic in the last session of departmental oral questions on 16 June.",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14556"
+      },
+      {
+        "id": 1920710,
+        "uin": "13633",
+        "heading": "Surgical Mesh Implants",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether they have assessed the financial impact on individuals unable to work due to complications arising from pelvic mesh implants.",
+        "answerText": "The Government extends its deepest sympathies to all those affected by pelvic mesh, and recognises the profound, life‑changing impact these harms have had on individuals and their families. We know that for many, the consequences are ongoing and deeply fe...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13633"
+      },
+      {
+        "id": 1920709,
+        "uin": "13632",
+        "heading": "Surgical Mesh Implants",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what estimate has been made of the number of patients affected by complications arising from pelvic mesh implants in England.",
+        "answerText": "The Government extends its deepest sympathies to all those affected by pelvic mesh, and recognises the profound, life‑changing impact these harms have had on individuals and their families. We know that for many, the consequences are ongoing and deeply fe...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13632"
+      },
+      {
+        "id": 1920708,
+        "uin": "13631",
+        "heading": "Surgical Mesh Implants",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether interim financial or medical support is available to patients experiencing ongoing complications from pelvic mesh while a compensation scheme is under consideration.",
+        "answerText": "The Government extends its deepest sympathies to all those affected by pelvic mesh, and recognises the profound, life‑changing impact these harms have had on individuals and their families. We know that for many, the consequences are ongoing and deeply fe...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13631"
+      },
+      {
+        "id": 1920707,
+        "uin": "13630",
+        "heading": "Surgical Mesh Implants: Compensation",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what progress the Department has made towards establishing a redress scheme for patients harmed by pelvic mesh implants since the publication of the Hughes Report.",
+        "answerText": "The Government extends its deepest sympathies to all those affected by pelvic mesh, and recognises the profound, life‑changing impact these harms have had on individuals and their families. We know that for many, the consequences are ongoing and deeply fe...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13630"
+      },
+      {
+        "id": 1920706,
+        "uin": "13629",
+        "heading": "Surgical Mesh Implants: Compensation",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether they will commit to publishing a clear timetable for the establishment of a compensation scheme for those harmed by pelvic surgical mesh, in line with the recommendations of the Hughes Repo",
+        "answerText": "The Government extends its deepest sympathies to all those affected by pelvic mesh, and recognises the profound, life‑changing impact these harms have had on individuals and their families. We know that for many, the consequences are ongoing and deeply fe...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13629"
+      },
+      {
+        "id": 1910594,
+        "uin": "5523",
+        "heading": "Special Educational Needs",
+        "questionText": "To ask the Secretary of State for Education, how SEND reforms will balance wellbeing and emotional safety with attendance and academic attainment.",
+        "answerText": "The government’s Schools White Paper set out our vision for children to achieve and thrive. It makes clear that our ambition for children to achieve academically goes hand in hand with our work on inclusion, belonging, attendance and engagement. The depar...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Georgia Gould",
+        "dateTabled": "2026-06-01",
+        "dateForAnswer": "2026-06-03",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5523"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-06",
+      "totals": {
+        "Aye": 20,
+        "No": 5
+      },
+      "recent": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 6380,
+            "text": "Member of Cheadle Towns Fund Board. This is an unpaid role. (Registered 16 July 2024)",
+            "createdWhen": "2024-08-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 11741,
+            "text": "Director and Governor of Westminster Foundation for Democracy Ltd Date interest arose: 14 January 2025 (Registered 29 April 2025)",
+            "createdWhen": "2026-05-08",
+            "amendedWhen": "2025-05-13",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Palestine: Children",
+        "date": "2026-06-30",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to the UN’s Independent International Commission of Inquiry on the Occupied Palestinian Territory and Israel's report entitled The essence of childhood has bee",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14555"
+      },
+      {
+        "kind": "Written question",
+        "title": "Palestine: Children",
+        "date": "2026-06-30",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to the UN’s Independent International Commission of Inquiry on the Occupied Palestinian Territory and Israel's report entitled The essence of childhood has bee",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14554"
+      },
+      {
+        "kind": "Written question",
+        "title": "Occupied Territories: International Humanitarian Law",
+        "date": "2026-06-30",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential implications for her policies of the recent report by the UN’s Independent International Commission of Inquiry on the Occupied P",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14553"
+      },
+      {
+        "kind": "Written question",
+        "title": "Gaza: Israel",
+        "date": "2026-06-30",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what diplomatic steps she is taking to support the ceasefire in the Gaza war.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14556"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

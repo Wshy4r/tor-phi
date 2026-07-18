@@ -1,0 +1,309 @@
+{
+  "member": {
+    "id": "5449",
+    "slug": "lara-bird",
+    "name": "Lara Bird",
+    "sortName": "Bird, Lara",
+    "fullTitle": "Lara Bird MP",
+    "party": "Scottish National Party",
+    "partyAbbreviation": "SNP",
+    "partyColor": "#fff685",
+    "constituency": "Arbroath and Broughty Ferry",
+    "house": "House of Commons",
+    "role": "MP for Arbroath and Broughty Ferry",
+    "officialUrl": "https://members.parliament.uk/member/5449/contact",
+    "recordUrl": "/country/uk/parliament/lara-bird/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5449/Thumbnail",
+    "currentMembership": {
+      "constituency": "Arbroath and Broughty Ferry",
+      "constituencyId": 4455,
+      "startDate": "2026-06-18",
+      "statusStartDate": "2026-06-18",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "lara.bird.mp@parliament.uk"
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "https://www.facebook.com/larabirdsnp",
+        "https://www.instagram.com/larabirdsnp/",
+        "https://x.com/larabirdsnp"
+      ],
+      "websites": [],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/larabirdsnp"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/larabirdsnp/"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://x.com/larabirdsnp"
+        ]
+      ]
+    },
+    "synopsis": "Lara Bird is the Scottish National Party MP for Arbroath and Broughty Ferry , and has been an MP continually since 18 June 2026.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/lara-bird/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5449/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5449"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5449/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5449/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5449/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5449/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5449"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 5,
+    "latestVoteDate": "2026-07-06",
+    "writtenQuestionCount": 0,
+    "latestQuestionDate": "",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/lara-bird/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5449/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5449"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5449/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5449/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5449/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5449/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5449"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [],
+    "votes": {
+      "totalPositions": 5,
+      "latestDate": "2026-07-06",
+      "totals": {
+        "Aye": 5
+      },
+      "recent": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

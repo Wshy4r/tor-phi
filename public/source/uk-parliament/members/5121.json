@@ -1,0 +1,991 @@
+{
+  "member": {
+    "id": "5121",
+    "slug": "henry-tufnell",
+    "name": "Henry Tufnell",
+    "sortName": "Tufnell, Henry",
+    "fullTitle": "Henry Tufnell MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Mid and South Pembrokeshire",
+    "house": "House of Commons",
+    "role": "MP for Mid and South Pembrokeshire",
+    "officialUrl": "https://members.parliament.uk/member/5121/contact",
+    "recordUrl": "/country/uk/parliament/henry-tufnell/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5121/Thumbnail",
+    "currentMembership": {
+      "constituency": "Mid and South Pembrokeshire",
+      "constituencyId": 4515,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "henry.tufnell.mp@parliament.uk"
+      ],
+      "phones": [
+        "0207 219 2479",
+        "01437 650088"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Ground Floor, Bridge House, Swan Square, Haverfordwest, SA61 2AN"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Henry Tufnell is the Labour MP for Mid and South Pembrokeshire , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/henry-tufnell/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5121/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5121"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5121/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5121/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5121/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5121/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5121"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-30",
+    "registeredInterestCount": 2
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/henry-tufnell/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5121/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5121"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5121/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5121/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5121/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5121/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5121"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1924142,
+        "uin": "900826",
+        "heading": "Defence: Finance",
+        "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking through the Defence Investment Plan to support defence supply chains in Mid and South Pembrokeshire constituency.",
+        "answerText": "The Defence Investment Plan commits £298 billion over the next four years, backing British industry and strengthening defence supply chains across the UK. Additionally, in January we launched the Defence Office for Small Business Growth which means we wil...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/900826"
+      },
+      {
+        "id": 1908866,
+        "uin": "3957",
+        "heading": "Aviation: Alternative Fuels",
+        "questionText": "To ask the Secretary of State for Transport, whether she has considered the potential merits of reviewing the Sustainable Aviation Fuel (SAF) Mandate to ensure it supports the competitiveness of the SAF industry.",
+        "answerText": "The SAF Mandate has been designed to drive decarbonisation at an acceptable cost. There are, however, inherent uncertainties given the nascency of the SAF industry. We intend to publish an update on SAF before the Summer recess on a range of topics, subje...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-05-21",
+        "dateForAnswer": "2026-06-02",
+        "dateAnswered": "2026-06-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-21/3957"
+      },
+      {
+        "id": 1904728,
+        "uin": "650",
+        "heading": "Carbon Capture, Utilisation and Storage: Wales",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to support the decarbonisation of industry in South West Wales through the development of non-pipeline carbon capture, utilisation and storage projects.",
+        "answerText": "The government recognises the importance of CCUS and NPT to the decarbonisation of South Wales. As part of the CCUS Programme, we are working with the South Wales Industrial Cluster to assess viable decarbonisation pathways, including CCUS enabled solutio...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-05-13",
+        "dateForAnswer": "2026-05-18",
+        "dateAnswered": "2026-05-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-13/650"
+      },
+      {
+        "id": 1904727,
+        "uin": "649",
+        "heading": "Large Goods Vehicles: Methanol",
+        "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to support the development and use of green methanol in the road haulage sector.",
+        "answerText": "The supply of green methanol for use in road vehicles is eligible for support under the Renewable Transport Fuel Obligation (RTFO). The RTFO, a certificate trading scheme, has been successful in supporting a UK market for renewable fuels since 2008. In 20...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-05-13",
+        "dateForAnswer": "2026-05-18",
+        "dateAnswered": "2026-05-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-13/649"
+      },
+      {
+        "id": 1873908,
+        "uin": "107540",
+        "heading": "Carbon Emissions: Taxation",
+        "questionText": "To ask the Chancellor of the Exchequer, what recent discussions she has had with the Secretary of Stare for Energy Security and Net Zero, on the potential inclusion of refined petroleum products within the UK Carbon Border Adjustment Mechanism; and when t",
+        "answerText": "As announced at Budget 2025 the government is considering the feasibility and impacts of including refined products in the Carbon Border Adjustment Mechanism (CBAM) in future. The government recognises that refineries play a role in energy security and th...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-01-21",
+        "dateForAnswer": "2026-01-28",
+        "dateAnswered": "2026-01-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-21/107540"
+      },
+      {
+        "id": 1873907,
+        "uin": "107539",
+        "heading": "Carbon Emissions: Taxation",
+        "questionText": "To ask the Chancellor of the Exchequer, when she plans to begin a formal assessment of the potential addition of refined petroleum products to the scope of the UK Carbon Border Adjustment Mechanism.",
+        "answerText": "As announced at Budget 2025 the government is considering the feasibility and impacts of including refined products in the Carbon Border Adjustment Mechanism (CBAM) in future. The government recognises that refineries play a role in energy security and th...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-01-21",
+        "dateForAnswer": "2026-01-28",
+        "dateAnswered": "2026-01-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-21/107539"
+      },
+      {
+        "id": 1868607,
+        "uin": "103544",
+        "heading": "Mobile Phones: Pembrokeshire",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps he is taking to improve mobile connectivity in a) Mid and South Pembrokeshire and b) Tenby.",
+        "answerText": "Government’s ambition is for all populated areas to have access to higher quality standalone 5G by 2030. This ambition includes villages and rural communities as well as towns and cities.We expect this ambition to be delivered through commercial rollout p...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-01-06",
+        "dateForAnswer": "2026-01-12",
+        "dateAnswered": "2026-01-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-06/103544"
+      },
+      {
+        "id": 1851515,
+        "uin": "90490",
+        "heading": "ASW: Workplace Pensions",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the potential merits of indexing payments from the Financial Assistance Scheme for pensions accrued before 1997 by Allied Steel and Wire members.",
+        "answerText": "We are committed to consider what we have heard on this issue. I have heard first hand all the challenges facing ASW workers and others with pre-1997 accrued pensions. However any change in this area has significant implications on public finances for the...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Torsten Bell",
+        "dateTabled": "2025-11-12",
+        "dateForAnswer": "2025-11-17",
+        "dateAnswered": "2025-11-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-11-12/90490"
+      },
+      {
+        "id": 1847563,
+        "uin": "906141",
+        "heading": "Defence: Industry",
+        "questionText": "To ask the Secretary of State for Defence, what recent progress he has made on implementing the Defence Industrial Strategy 2025.",
+        "answerText": "We are progressing the implementation plan for the Defence Industrial Strategy. I am happy to report to the House that I spoke with the Welsh Government about the roll out of a Defence Growth deal for Wales and how Wales will benefit from the £250 million...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-10-28",
+        "dateForAnswer": "2025-11-03",
+        "dateAnswered": "2025-11-04",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-10-28/906141"
+      },
+      {
+        "id": 1835294,
+        "uin": "77279",
+        "heading": "Carbon Capture and Storage: South Wales",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to help ensure that dispersed industrial sites in south Wales can access (a) onshore and (b) offshore non-pipeline transport storage capacity solutions.",
+        "answerText": "The Government recognises the importance of enabling dispersed industrial sites in South Wales to access carbon storage solutions. Through the Carbon Capture, Usage and Storage (CCUS) Programme, we are exploring non-pipeline transport (NPT) options includ...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2025-09-15",
+        "dateForAnswer": "2025-10-13",
+        "dateAnswered": "2025-10-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-09-15/77279"
+      },
+      {
+        "id": 1835295,
+        "uin": "77280",
+        "heading": "Carbon Capture, Usage and Storage: South Wales",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what recent progress he has made on setting out a roadmap for carbon capture utilization and storage projects in south Wales.",
+        "answerText": "The Government is committed to supporting the deployment of carbon capture, utilisation and storage (CCUS) across the UK, including in South Wales by allocating £9.4 billion in capital budgets over the Spending Review period. As part of the CCUS Programme...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2025-09-15",
+        "dateForAnswer": "2025-10-13",
+        "dateAnswered": "2025-10-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-09-15/77280"
+      },
+      {
+        "id": 1832529,
+        "uin": "75222",
+        "heading": "Youth Justice and Probation: Wales",
+        "questionText": "To ask the Secretary of State for Justice, what assessment she has made of the potential merits of devolving (a) probation and (b) youth justice services in Wales.",
+        "answerText": "The Ministry of Justice and Welsh Government regularly discuss justice matters in Wales and are developing a programme of work to consider administrative options on youth justice delivery and partnership arrangements on probation services. This work is cu...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Alex Davies-Jones",
+        "dateTabled": "2025-09-04",
+        "dateForAnswer": "2025-09-09",
+        "dateAnswered": "2025-09-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-09-04/75222"
+      },
+      {
+        "id": 1822396,
+        "uin": "67193",
+        "heading": "Carbon Capture, Usage and Storage: South Wales",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to support the future delivery of Carbon Capture, Utilisation and Storage projects in the South Wales Industrial Cluster.",
+        "answerText": "The Government is working to create a CCUS industry and provide increased support to UK CCUS by allocating £9.4 billion in capital budgets over the Spending Review period. South Wales Industrial Cluster was awarded approximately £20 million in grant fundi...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2025-07-11",
+        "dateForAnswer": "2025-07-17",
+        "dateAnswered": "2025-07-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-11/67193"
+      },
+      {
+        "id": 1822397,
+        "uin": "67194",
+        "heading": "Industry: South Wales",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to ensure that (a) existing jobs are protected and (b) investor confidence is maintained in the South Wales Industrial Cluster.",
+        "answerText": "The South Wales Industrial cluster is home to many longstanding and globally recognised businesses. Our modern Industrial Strategy has already set out further support for key growth sectors including foundational sectors such as chemicals. This government...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2025-07-11",
+        "dateForAnswer": "2025-07-17",
+        "dateAnswered": "2025-07-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-11/67194"
+      },
+      {
+        "id": 1820464,
+        "uin": "65638",
+        "heading": "Boiler Upgrade Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential merits of (a) heat batteries as low-carbon heating systems and (b) including those batteries in the Boiler Upgrade Scheme.",
+        "answerText": "On 30 April, the Government launched a consultation on potential changes to the Boiler Upgrade Scheme, including proposals to support air-to-air heat pumps and alternative electric heating technologies such as heat batteries. The consultation closed on th...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Miatta Fahnbulleh",
+        "dateTabled": "2025-07-07",
+        "dateForAnswer": "2025-07-14",
+        "dateAnswered": "2025-07-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-07/65638"
+      },
+      {
+        "id": 1820462,
+        "uin": "65636",
+        "heading": "Boiler Upgrade Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps his Department is taking to increase levels of consumer choice in the Boiler Upgrade Scheme.",
+        "answerText": "The Government is always considering how to improve access to the Boiler Upgrade Scheme (BUS) to boost deployment and support more property owners to transition to low carbon heating. On 30 April, the Government launched a consultation on potential change...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Miatta Fahnbulleh",
+        "dateTabled": "2025-07-07",
+        "dateForAnswer": "2025-07-10",
+        "dateAnswered": "2025-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-07/65636"
+      },
+      {
+        "id": 1813188,
+        "uin": "60368",
+        "heading": "Legal Aid Scheme",
+        "questionText": "To ask the Secretary of State for Justice, what steps the Legal Aid Agency is taking to engage with local legal aid providers to increase legal aid provision.",
+        "answerText": "It is vital that those who need legal aid—some of the most vulnerable people in our society—can access it wherever they live.The Legal Aid Agency (LAA) monitors provider numbers in each procurement area and across all categories of law. It takes operation...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Sarah Sackman",
+        "dateTabled": "2025-06-16",
+        "dateForAnswer": "2025-06-23",
+        "dateAnswered": "2025-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-16/60368"
+      },
+      {
+        "id": 1813189,
+        "uin": "60369",
+        "heading": "Legal Aid Agency: Cybersecurity",
+        "questionText": "To ask the Secretary of State for Justice, what steps she is taking to ensure that the Legal Aid Agency’s digital systems are cyber-secure.",
+        "answerText": "The recent data breach is the result of heinous criminal activity, but it was enabled by the fragility of the Legal Aid Agency’s (LAA) IT systems as a result of the long years of underinvestment under the last Conservative Government. By contrast, since t...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Sarah Sackman",
+        "dateTabled": "2025-06-16",
+        "dateForAnswer": "2025-06-19",
+        "dateAnswered": "2025-06-19",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-16/60369"
+      },
+      {
+        "id": 1810353,
+        "uin": "58104",
+        "heading": "Restless Legs Syndrome: Medical Treatments",
+        "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 5 June 2025 to Question 56598 on Restless Legs Syndrome: Medical Treatments, whether he plans to make such an assessment.",
+        "answerText": "The Department has no plans to make such an assessment. The National Institute for Health and Care Excellence (NICE) has an established prioritisation process overseen by a prioritisation board, for the identification of priorities for guidance developmen...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2025-06-06",
+        "dateForAnswer": "2025-06-13",
+        "dateAnswered": "2025-06-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-06/58104"
+      },
+      {
+        "id": 1809523,
+        "uin": "57493",
+        "heading": "Israeli Settlements: Sanctions",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential merits of (a) imposing further sanctions on settlers in the West Bank and (b) restricting goods, trade and investment in Israeli",
+        "answerText": "We are deeply concerned by the levels of violence towards settlers in the West Bank and continue to urge the Government of Israel to take action to hold violence to account. On 10 June 2025, together with international partners Australia, Canada, New Zeal...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2025-06-04",
+        "dateForAnswer": "2025-06-09",
+        "dateAnswered": "2025-06-19",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-04/57493"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 12,
+        "No": 13
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 6836,
+            "text": "Trustee of the Carlie Tufnell Charitable Trust. This is an unpaid role. (Registered 22 July 2024)",
+            "createdWhen": "2025-07-29",
+            "amendedWhen": "2024-08-16",
+            "isCorrection": false
+          },
+          {
+            "id": 11687,
+            "text": "Chair of the Commission for Carbon Competitiveness (a small group of MPs, former MPs and industry experts researching and producing reports on industrial competitiveness). Hanover Communications is appointed by the Commission to provide Secretariat duties, but Commissioners are not part of a formal contractual arrangement and do not appoint Hanover. Date interest arose: 14 October 2024 (Registered 23 January 2025)",
+            "createdWhen": "2026-01-23",
+            "amendedWhen": "2025-02-04",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Defence: Finance",
+        "date": "2026-06-30",
+        "summary": "To ask the Secretary of State for Defence, what steps his Department is taking through the Defence Investment Plan to support defence supply chains in Mid and South Pembrokeshire constituency.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/900826"
+      },
+      {
+        "kind": "Written question",
+        "title": "Carbon Capture, Utilisation and Storage: Wales",
+        "date": "2026-05-13",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to support the decarbonisation of industry in South West Wales through the development of non-pipeline carbon capture, utilisation and storage projects.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-13/650"
+      },
+      {
+        "kind": "Written question",
+        "title": "Carbon Emissions: Taxation",
+        "date": "2026-01-21",
+        "summary": "To ask the Chancellor of the Exchequer, what recent discussions she has had with the Secretary of Stare for Energy Security and Net Zero, on the potential inclusion of refined petroleum products within the UK Carbon Border Adjustment Mechanism; and when t",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-21/107540"
+      },
+      {
+        "kind": "Written question",
+        "title": "Carbon Emissions: Taxation",
+        "date": "2026-01-21",
+        "summary": "To ask the Chancellor of the Exchequer, when she plans to begin a formal assessment of the potential addition of refined petroleum products to the scope of the UK Carbon Border Adjustment Mechanism.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-21/107539"
+      },
+      {
+        "kind": "Written question",
+        "title": "Defence: Industry",
+        "date": "2025-10-28",
+        "summary": "To ask the Secretary of State for Defence, what recent progress he has made on implementing the Defence Industrial Strategy 2025.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-10-28/906141"
+      },
+      {
+        "kind": "Written question",
+        "title": "Carbon Capture and Storage: South Wales",
+        "date": "2025-09-15",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to help ensure that dispersed industrial sites in south Wales can access (a) onshore and (b) offshore non-pipeline transport storage capacity solutions.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-09-15/77279"
+      },
+      {
+        "kind": "Written question",
+        "title": "Carbon Capture, Usage and Storage: South Wales",
+        "date": "2025-09-15",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what recent progress he has made on setting out a roadmap for carbon capture utilization and storage projects in south Wales.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-09-15/77280"
+      },
+      {
+        "kind": "Written question",
+        "title": "Carbon Capture, Usage and Storage: South Wales",
+        "date": "2025-07-11",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to support the future delivery of Carbon Capture, Utilisation and Storage projects in the South Wales Industrial Cluster.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-11/67193"
+      },
+      {
+        "kind": "Written question",
+        "title": "Industry: South Wales",
+        "date": "2025-07-11",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to ensure that (a) existing jobs are protected and (b) investor confidence is maintained in the South Wales Industrial Cluster.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-11/67194"
+      },
+      {
+        "kind": "Written question",
+        "title": "Boiler Upgrade Scheme",
+        "date": "2025-07-07",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential merits of (a) heat batteries as low-carbon heating systems and (b) including those batteries in the Boiler Upgrade Scheme.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-07/65638"
+      },
+      {
+        "kind": "Written question",
+        "title": "Boiler Upgrade Scheme",
+        "date": "2025-07-07",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps his Department is taking to increase levels of consumer choice in the Boiler Upgrade Scheme.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-07/65636"
+      },
+      {
+        "kind": "Written question",
+        "title": "Legal Aid Agency: Cybersecurity",
+        "date": "2025-06-16",
+        "summary": "To ask the Secretary of State for Justice, what steps she is taking to ensure that the Legal Aid Agency’s digital systems are cyber-secure.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-16/60369"
+      },
+      {
+        "kind": "Written question",
+        "title": "Israeli Settlements: Sanctions",
+        "date": "2025-06-04",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential merits of (a) imposing further sanctions on settlers in the West Bank and (b) restricting goods, trade and investment in Israeli",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-04/57493"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

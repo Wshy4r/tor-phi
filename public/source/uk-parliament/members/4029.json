@@ -1,0 +1,895 @@
+{
+  "member": {
+    "id": "4029",
+    "slug": "lilian-greenwood",
+    "name": "Lilian Greenwood",
+    "sortName": "Greenwood, Lilian",
+    "fullTitle": "Lilian Greenwood MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Nottingham South",
+    "house": "House of Commons",
+    "role": "MP for Nottingham South",
+    "officialUrl": "https://members.parliament.uk/member/4029/contact",
+    "recordUrl": "/country/uk/parliament/lilian-greenwood/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4029/Thumbnail",
+    "currentMembership": {
+      "constituency": "Nottingham South",
+      "constituencyId": 4227,
+      "startDate": "2010-05-06",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "lilian.greenwood.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 7122",
+        "0115 711 7000"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Constituency office",
+        "http://www.liliangreenwood.co.uk/",
+        "https://twitter.com/LilianGreenwood"
+      ],
+      "websites": [
+        "http://www.liliangreenwood.co.uk/"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/LilianGreenwood"
+        ]
+      ]
+    },
+    "synopsis": "Lilian Greenwood is the Labour MP for Nottingham South , and has been an MP continually since 6 May 2010. She currently holds the Government posts of Parliamentary Under-Secretary (Department for Transport), and Government Whip, Lord Commissioner of HM Treasury.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/lilian-greenwood/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4029/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4029"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4029/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4029/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4029/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4029/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4029"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-04-26",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/lilian-greenwood/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4029/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4029"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4029/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4029/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4029/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4029/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4029"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1714092,
+        "uin": "23849",
+        "heading": "Social Security Benefits: Domestic Abuse",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many domestic violence easements were granted in (a) 2023 and (b) 2024 to date.",
+        "answerText": "The information requested is not readily available and to provide it would incur disproportionate cost.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-04-26",
+        "dateForAnswer": "2024-05-01",
+        "dateAnswered": "2024-05-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-26/23849"
+      },
+      {
+        "id": 1700979,
+        "uin": "21626",
+        "heading": "Health Services: Disability",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment her Department has made of the effectiveness of the Care Quality Commission in enforcement of the Accessible Information Standard across the NHS.",
+        "answerText": "Compliance with the Accessible Information Standard (AIS) is not directly assured by the Care Quality Commission (CQC). However, the performance of organisations in meeting people’s needs is considered in CQC assessment and ratings. Where the CQC has info...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Maria Caulfield",
+        "dateTabled": "2024-04-15",
+        "dateForAnswer": "2024-04-18",
+        "dateAnswered": "2024-04-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-15/21626"
+      },
+      {
+        "id": 1700978,
+        "uin": "21625",
+        "heading": "Health Services: Disability",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how her Department plans to use Section 95 (3) 251ZA Information Standards (Compliance) of the Health and Care Act 2022 to ensure that NHS providers meet the communication needs of patients set out",
+        "answerText": "The Department plans to implement Section 95 later this year. This will be subject to Parliament’s approval of the regulations setting out the procedure for preparing and publishing mandatory information standards, on which the Department has recently con...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Maria Caulfield",
+        "dateTabled": "2024-04-15",
+        "dateForAnswer": "2024-04-18",
+        "dateAnswered": "2024-04-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-15/21625"
+      },
+      {
+        "id": 1700977,
+        "uin": "21624",
+        "heading": "Health and Care Act 2022",
+        "questionText": "To ask the Secretary of State for Health and Social Care, when she plans to implement section 95 of the Health and Care Act 2022.",
+        "answerText": "The Department plans to implement Section 95 later this year. This will be subject to Parliament’s approval of the regulations setting out the procedure for preparing and publishing mandatory information standards, on which the Department has recently con...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Maria Caulfield",
+        "dateTabled": "2024-04-15",
+        "dateForAnswer": "2024-04-18",
+        "dateAnswered": "2024-04-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-15/21624"
+      },
+      {
+        "id": 1699021,
+        "uin": "20610",
+        "heading": "Youth Services: Finance",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps her Department is taking to provide adequate funding for the youth sector (a) workforce and (b) infrastructure needed to deliver the National Youth Guarantee.",
+        "answerText": "The Government recognises the vital role that youth services and activities, and the workforce that delivers them, play in improving the life chances and wellbeing of young people.While local authorities are responsible for delivering youth provision, the...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Stuart Andrew",
+        "dateTabled": "2024-03-26",
+        "dateForAnswer": "2024-04-15",
+        "dateAnswered": "2024-04-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-26/20610"
+      },
+      {
+        "id": 1695316,
+        "uin": "18114",
+        "heading": "Railways: Nottingham",
+        "questionText": "To ask the Secretary of State for Transport, what assessment he has made of the potential impact of the bi-mode trains on air quality in (a) Nottingham Railway station and (b) the surrounding area.",
+        "answerText": "East Midlands Railway is replacing its diesel-only Class 222 trains with bi-mode Class 810s as part of the East Midlands franchise award. These new bi-mode trains will gradually be introduced into service starting in early 2025 and are anticipated to sign...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Huw Merriman",
+        "dateTabled": "2024-03-12",
+        "dateForAnswer": "2024-03-15",
+        "dateAnswered": "2024-03-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-12/18114"
+      },
+      {
+        "id": 1694995,
+        "uin": "17845",
+        "heading": "Midland Main Line: Electrification",
+        "questionText": "To ask the Secretary of State for Transport, what progress his Department has made on the (a) planning and (b) programming for the electrification of the Midland Main Line to Nottingham.",
+        "answerText": "Work is already underway to electrify the Midland Main Line (MML) with progress being made to install overhead line equipment between Kettering and Wigston, as well as upgrades south of Bedford to be completed in 2025. During 2024 Network Rail are continu...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Huw Merriman",
+        "dateTabled": "2024-03-11",
+        "dateForAnswer": "2024-03-14",
+        "dateAnswered": "2024-03-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-11/17845"
+      },
+      {
+        "id": 1694617,
+        "uin": "17575",
+        "heading": "Migrant Workers: Pay",
+        "questionText": "To ask the Secretary of State for the Home Department, what his planned timetable is for the publication of guidance for employers on the operation of the Immigration Salary List.",
+        "answerText": "The Migration Advisory Committee (MAC) published its rapid review on 23 February. The Government intends to lay rules in Parliament on 14 March to enact changes to the Immigration Salary List, along with the other changes announced by the Government on 4 ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Tom Pursglove",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17575"
+      },
+      {
+        "id": 1694616,
+        "uin": "17574",
+        "heading": "Migrant Workers: Pay",
+        "questionText": "To ask the Secretary of State for the Home Department, what his planned timetable is for the Migration Advisory Committee to complete the rapid review of the Immigration Salary List.",
+        "answerText": "The Migration Advisory Committee (MAC) published its rapid review on 23 February. The Government intends to lay rules in Parliament on 14 March to enact changes to the Immigration Salary List, along with the other changes announced by the Government on 4 ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Tom Pursglove",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17574"
+      },
+      {
+        "id": 1681599,
+        "uin": "9210",
+        "heading": "Culture: North East",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the adequacy of funding provided by Arts Council England for cultural activities in the North East.",
+        "answerText": "His Majesty’s Government is deeply committed to supporting access to high-quality arts and culture across the country, including through public funding to organisations across the North East via Arts Council England.Through Arts Council England’s 2023–26 ...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-01-11",
+        "dateForAnswer": "2024-01-15",
+        "dateAnswered": "2024-01-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-11/9210"
+      },
+      {
+        "id": 1681600,
+        "uin": "9211",
+        "heading": "Culture: Middle East",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the adequacy of funding provided by Arts Council England for cultural activities in the East Midlands.",
+        "answerText": "His Majesty’s Government is deeply committed to supporting access to high-quality arts and culture across the country, including through public funding to organisations in the East Midlands via Arts Council England.Through Arts Council England’s 2023–26 N...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-01-11",
+        "dateForAnswer": "2024-01-15",
+        "dateAnswered": "2024-01-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-11/9211"
+      },
+      {
+        "id": 1681624,
+        "uin": "9213",
+        "heading": "Public Lending Right",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what her Department's expected timeline is of when the service providing payments to (a) authors and (b) other rights holders will be restored following the cyber-attack against the British Libra",
+        "answerText": "The British Library receives public funding via DCMS to run the Public Lending Right scheme. Payments are made annually to eligible authors who register their work. The British Library is making good progress towards issuing Public Lending Right payments ...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-01-11",
+        "dateForAnswer": "2024-01-18",
+        "dateAnswered": "2024-01-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-11/9213"
+      },
+      {
+        "id": 1681623,
+        "uin": "9212",
+        "heading": "Public Lending Right",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the potential impact of the cyber-attack against the British Library at the end of October 2023 on (a) authors and (b) other rights holders receiving payments via",
+        "answerText": "The British Library receives public funding via DCMS to run the Public Lending Right scheme. Payments are made annually to eligible authors who register their work. The British Library is making good progress towards issuing Public Lending Right payments ...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-01-11",
+        "dateForAnswer": "2024-01-18",
+        "dateAnswered": "2024-01-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-11/9212"
+      },
+      {
+        "id": 1681589,
+        "uin": "9209",
+        "heading": "British Library: Cybercrime",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to the Answer of 27 November 2023 to Question 2570 on British Library: Cybercrime, which services have already been restored; and what is the planned timetable for the remaining services",
+        "answerText": "The final costs of recovery from the recent cyber-attack on the British Library are not yet confirmed. As it has from the outset, the British Library remains in close and regular contact with the Department on the ongoing work to investigate and assess th...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-01-11",
+        "dateForAnswer": "2024-01-18",
+        "dateAnswered": "2024-01-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-11/9209"
+      },
+      {
+        "id": 1681588,
+        "uin": "9208",
+        "heading": "British Library: Cybercrime",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to the Answer of 27 November 2023 to Question 2570 on British Library: Cybercrime, what estimate has her Department made of the cost of restoring services following the cyber attack at t",
+        "answerText": "The final costs of recovery from the recent cyber-attack on the British Library are not yet confirmed. As it has from the outset, the British Library remains in close and regular contact with the Department on the ongoing work to investigate and assess th...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-01-11",
+        "dateForAnswer": "2024-01-18",
+        "dateAnswered": "2024-01-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-11/9208"
+      },
+      {
+        "id": 1675532,
+        "uin": "5268",
+        "heading": "Perinatal Mortality: Coroners",
+        "questionText": "To ask the Secretary of State for Health and Social Care, when the Government plans to publish its response to its consultation entitled Coronial investigations of stillbirths, which closed on 18 June 2019.",
+        "answerText": "We remain fully committed to responding to the coronial investigations of stillbirths consultation and setting out the Government’s position. Earlier this month, we published the factual summary of responses to the consultation. The Department is working ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Maria Caulfield",
+        "dateTabled": "2023-12-05",
+        "dateForAnswer": "2023-12-11",
+        "dateAnswered": "2023-12-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-05/5268"
+      },
+      {
+        "id": 1675190,
+        "uin": "5006",
+        "heading": "Schools: Transport",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether she has had discussions with the Secretary of State for Education on the potential merits of supporting schools with transport costs to theatre productions.",
+        "answerText": "The Secretary of State has regular conversations with the Secretary of State for Education on a number of issues, including on improving access to the arts for school pupils.In March 2022, the Department for Education updated its pupil premium guidance an...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Sir John Whittingdale",
+        "dateTabled": "2023-12-04",
+        "dateForAnswer": "2023-12-11",
+        "dateAnswered": "2023-12-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-04/5006"
+      },
+      {
+        "id": 1672815,
+        "uin": "3624",
+        "heading": "Culture: North West",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the adequacy of funding provided by Arts Council England for cultural activities in the North West.",
+        "answerText": "His Majesty’s Government is deeply committed to supporting access to high-quality arts and culture across the country, including through public funding to organisations in the North West of England via Arts Council England.Through Arts Council England’s 2...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Sir John Whittingdale",
+        "dateTabled": "2023-11-24",
+        "dateForAnswer": "2023-11-29",
+        "dateAnswered": "2023-12-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-24/3624"
+      },
+      {
+        "id": 1672814,
+        "uin": "3623",
+        "heading": "Culture: South East",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the adequacy of funding provided by Arts Council England for cultural activities in the South East.",
+        "answerText": "His Majesty’s Government is deeply committed to supporting access to high-quality arts and culture across the country, including through public funding to organisations in the South East of England via Arts Council England.Through Arts Council England’s 2...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Sir John Whittingdale",
+        "dateTabled": "2023-11-24",
+        "dateForAnswer": "2023-11-29",
+        "dateAnswered": "2023-12-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-24/3623"
+      },
+      {
+        "id": 1672724,
+        "uin": "3464",
+        "heading": "Arts: Artificial Intelligence",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether she has had discussions with representatives of the art sector on the potential impact of AI on that sector.",
+        "answerText": "HM Government recognises the opportunities presented by artificial intelligence to a range of sectors, including the arts. As set out in the Government’s recent AI White Paper, our goal is to ensure that the UK becomes an AI superpower. It is important, h...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Sir John Whittingdale",
+        "dateTabled": "2023-11-23",
+        "dateForAnswer": "2023-11-29",
+        "dateAnswered": "2023-12-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-23/3464"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 12,
+        "No": 13
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        },
+        {
+          "id": 2362,
+          "number": 12,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 81,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2362"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Domestic Abuse",
+        "date": "2024-04-26",
+        "summary": "To ask the Secretary of State for Work and Pensions, how many domestic violence easements were granted in (a) 2023 and (b) 2024 to date.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-26/23849"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

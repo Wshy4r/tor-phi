@@ -1,0 +1,938 @@
+{
+  "member": {
+    "id": "5076",
+    "slug": "blair-mcdougall",
+    "name": "Blair McDougall",
+    "sortName": "McDougall, Blair",
+    "fullTitle": "Blair McDougall MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "East Renfrewshire",
+    "house": "House of Commons",
+    "role": "MP for East Renfrewshire",
+    "officialUrl": "https://members.parliament.uk/member/5076/contact",
+    "recordUrl": "/country/uk/parliament/blair-mcdougall/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5076/Thumbnail",
+    "currentMembership": {
+      "constituency": "East Renfrewshire",
+      "constituencyId": 4442,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "blair.mcdougall.mp@parliament.uk"
+      ],
+      "phones": [
+        "0141 280 2005"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "8 Benview Road, Clarkston, Glasgow, G76 7PP",
+        "https://www.blairmcdougall.com/",
+        "https://facebook.com/blairforeastren",
+        "https://www.instagram.com/blairforeastren"
+      ],
+      "websites": [
+        "https://www.blairmcdougall.com/"
+      ],
+      "social": [
+        [
+          "Facebook",
+          "https://facebook.com/blairforeastren"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/blairforeastren"
+        ]
+      ]
+    },
+    "synopsis": "Blair McDougall is the Labour MP for East Renfrewshire , and has been an MP continually since 4 July 2024. He currently holds the Government post of Parliamentary Under Secretary of State (Department for Business and Trade).",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/blair-mcdougall/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5076/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5076"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5076/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5076/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5076/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5076/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5076"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2025-09-03",
+    "registeredInterestCount": 7
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/blair-mcdougall/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5076/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5076"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5076/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5076/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5076/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5076/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5076"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1832058,
+        "uin": "74914",
+        "heading": "Universal Credit: Disability",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what assessment she has made of the potential impact of the availability of residential training places for disabled young people in Scotland on proposed changes to eligibility for Universal Credit for",
+        "answerText": "No assessment has been made. We welcomed views on raising the age someone can access the Universal Credit Health Element to 22, as part of our Green Paper consultation, which closed on 30 June. We are considering the responses to this consultation, and we...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2025-09-03",
+        "dateForAnswer": "2025-09-08",
+        "dateAnswered": "2025-09-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-09-03/74914"
+      },
+      {
+        "id": 1822313,
+        "uin": "67181",
+        "heading": "X Corp: Artificial Intelligence",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, if he will hold discussions with X.com on the potential impact of the output of its Grok AI on community safety.",
+        "answerText": "The Government’s commitment to tackling online harms applies across all social media companies, and we engage with all major platforms in this regard. Many generative AI services have functionalities that bring them into scope of the Online Safety Act – s...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Feryal Clark",
+        "dateTabled": "2025-07-11",
+        "dateForAnswer": "2025-07-15",
+        "dateAnswered": "2025-07-21",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-11/67181"
+      },
+      {
+        "id": 1821392,
+        "uin": "66335",
+        "heading": "Government Departments: X Corp",
+        "questionText": "To ask the Minister for the Cabinet Office, whether the Government plans to continue to use X.com as a platform for government communications.",
+        "answerText": "The Government uses a range of channels to reach and engage the public. Use of these platforms is assessed against the high standards for digital safety, as set out in the Government Communication Service (GCS) SAFE framework.",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Georgia Gould",
+        "dateTabled": "2025-07-09",
+        "dateForAnswer": "2025-07-11",
+        "dateAnswered": "2025-07-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-09/66335"
+      },
+      {
+        "id": 1820814,
+        "uin": "65966",
+        "heading": "St Lucia: Crimes of Violence",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many consular cases involving violent crime his Department has dealt with in St Lucia in each of the last five years.",
+        "answerText": "Between 2019 and 2024 British nationals sought consular assistance as a result of violent crime on 15 occasions.",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2025-07-08",
+        "dateForAnswer": "2025-07-10",
+        "dateAnswered": "2025-07-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-08/65966"
+      },
+      {
+        "id": 1820816,
+        "uin": "65967",
+        "heading": "British Nationals Abroad: Crimes of Violence",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many consular cases involving violent crime against British tourists his Department has dealt with for customers of Tui Group.",
+        "answerText": "Whether or not a British national was travelling with a particular tour company, airline or other business when they sought consular assistance is not captured in our case management system.",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2025-07-08",
+        "dateForAnswer": "2025-07-10",
+        "dateAnswered": "2025-07-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-08/65967"
+      },
+      {
+        "id": 1818303,
+        "uin": "64137",
+        "heading": "Georgia: Civil Liberties",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential implications for his Department's policies of (a) prosecutions of opposition party leaders and (b) levels of repression of civil",
+        "answerText": "I am seriously concerned by the recent sentences imposed on several prominent Georgian opposition figures. These are clearly politically motivated and aimed at blocking the political opposition from future elections. On 23 June I called on Georgian Dream ...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Stephen Doughty",
+        "dateTabled": "2025-07-01",
+        "dateForAnswer": "2025-07-03",
+        "dateAnswered": "2025-07-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-01/64137"
+      },
+      {
+        "id": 1813888,
+        "uin": "60930",
+        "heading": "Immigration: Hong Kong",
+        "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the potential impact of extending the settlement qualifying period from five to ten years on the community integration of British National (Overseas) visa ho",
+        "answerText": "The British National (Overseas) (BN(O)) route was launched on 31 January 2021 in response to China’s passing of the National Security Law. The route reflects the UK’s historic and moral commitment to those people of Hong Kong who chose to retain their tie...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Seema Malhotra",
+        "dateTabled": "2025-06-18",
+        "dateForAnswer": "2025-06-20",
+        "dateAnswered": "2025-06-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-18/60930"
+      },
+      {
+        "id": 1813889,
+        "uin": "60931",
+        "heading": "Import Controls: Xinjiang",
+        "questionText": "To ask the Secretary of State for the Home Department, with reference to clause 6(a) of the UK-USA Economic and Prosperity Deal, published on 8 May 2025, whether she plans to direct Border Force to search direct cargo flights from Xinjiang to the UK to en",
+        "answerText": "Border Force does not routinely assess whether goods on freight entering the UK may have been made using forced labour, but we work closely with law enforcement partners to share intelligence to ensure all goods abide by customs and excise rules.The Gover...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Seema Malhotra",
+        "dateTabled": "2025-06-18",
+        "dateForAnswer": "2025-06-20",
+        "dateAnswered": "2025-06-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-18/60931"
+      },
+      {
+        "id": 1813890,
+        "uin": "60932",
+        "heading": "Government Departments: Procurement",
+        "questionText": "To ask the Minister for the Cabinet Office, with reference to clause 6(a) of the UK-USA Economic and Prosperity Deal, published on 8 May 2025, if he will make it his policy to bar Chinese companies with links to forced labour in Xinjiang from Government p",
+        "answerText": "The UK Government is committed to tackling human rights abuses including modern slavery and human trafficking in public supply chains. On 24 February 2025 the Procurement Act came into force, providing contracting authorities with stronger powers to exclu...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Georgia Gould",
+        "dateTabled": "2025-06-18",
+        "dateForAnswer": "2025-06-20",
+        "dateAnswered": "2025-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-18/60932"
+      },
+      {
+        "id": 1808392,
+        "uin": "56661",
+        "heading": "Antisemitism",
+        "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to protect Jewish communities from terrorist attacks.",
+        "answerText": "In her speech to the annual dinner of the Community Security Trust on 26 March, the Home Secretary made clear the Government’s commitment to protect Jewish communities against antisemitic attacks and other security threats. The full speech is available he...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dan Jarvis",
+        "dateTabled": "2025-06-02",
+        "dateForAnswer": "2025-06-04",
+        "dateAnswered": "2025-06-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-02/56661"
+      },
+      {
+        "id": 1799108,
+        "uin": "49511",
+        "heading": "Hate Crime: Social Media",
+        "questionText": "To ask the Secretary of State for the Home Department, whether her Department has made a recent assessment of the adequacy of legislation covering hate crimes at providing police with sufficient powers to pursue incidents that occur on social media platfo",
+        "answerText": "We have robust legislation in place to deal with threatening, abusive, or harassing behaviour and incitement to hatred, including laws to tackle perpetrators who stir up racial and religious hatred and hatred based on sexual orientation. Importantly, the ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dame Diana Johnson",
+        "dateTabled": "2025-04-30",
+        "dateForAnswer": "2025-05-06",
+        "dateAnswered": "2025-05-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-30/49511"
+      },
+      {
+        "id": 1799107,
+        "uin": "49510",
+        "heading": "Hate Crime: Social Media",
+        "questionText": "To ask the Secretary of State for the Home Department, if she will consider extending statutory regulations so that all social media platforms are covered by legislation on hate crime.",
+        "answerText": "We have robust legislation in place to deal with threatening, abusive, or harassing behaviour and incitement to hatred, including laws to tackle perpetrators who stir up racial and religious hatred and hatred based on sexual orientation. Importantly, the ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dame Diana Johnson",
+        "dateTabled": "2025-04-30",
+        "dateForAnswer": "2025-05-06",
+        "dateAnswered": "2025-05-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-30/49510"
+      },
+      {
+        "id": 1797899,
+        "uin": "48607",
+        "heading": "Wang Bingzhang",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what representations he has made to his Chinese counterpart on the release of Dr Wang Bingzhang.",
+        "answerText": "The UK Government stands firm on human rights in China. We raise our concerns at the highest levels: the Prime Minister, Foreign Secretary, Chancellor and Energy Secretary all raised human rights recently with their counterparts (President Xi, Foreign Min...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Catherine West",
+        "dateTabled": "2025-04-28",
+        "dateForAnswer": "2025-04-30",
+        "dateAnswered": "2025-05-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-28/48607"
+      },
+      {
+        "id": 1795933,
+        "uin": "903750",
+        "heading": "Nuclear Power",
+        "questionText": "To ask the Secretary of State for Scotland, what steps he is taking with Cabinet colleagues to ensure that Scotland benefits from nuclear energy developments in the UK.",
+        "answerText": "Nuclear energy creates well-paid jobs and develops vital transferable skills. Investment in new nuclear power stations brings billions of pounds into local communities. It is good for the environment and good for national energy security.So, what do the S...",
+        "answeringBody": "Scotland Office",
+        "answeringMember": "Ian Murray",
+        "dateTabled": "2025-04-08",
+        "dateForAnswer": "2025-04-23",
+        "dateAnswered": "2025-04-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-08/903750"
+      },
+      {
+        "id": 1791363,
+        "uin": "43220",
+        "heading": "International Commission on Missing Persons",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what long term support the Government plans to provide the International Commission on Missing Persons to support their work in identifying those still missing from (a) the w",
+        "answerText": "The UK supports post-conflict reconciliation in the Western Balkans, through diplomatic and programmatic efforts. This has included funding for the International Commission on Missing Persons for work in the Western Balkans, including for Regional Co-oper...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Stephen Doughty",
+        "dateTabled": "2025-04-01",
+        "dateForAnswer": "2025-04-03",
+        "dateAnswered": "2025-04-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-01/43220"
+      },
+      {
+        "id": 1791361,
+        "uin": "43218",
+        "heading": "International Commission on Missing Persons: Finance",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what funding the Government plans to provide to Regional Co-operation in Accounting for Missing Persons in the Western Balkans (The Missing Person Group) of the International",
+        "answerText": "The UK supports post-conflict reconciliation in the Western Balkans, through diplomatic and programmatic efforts. This has included funding for the International Commission on Missing Persons for work in the Western Balkans, including for Regional Co-oper...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Stephen Doughty",
+        "dateTabled": "2025-04-01",
+        "dateForAnswer": "2025-04-03",
+        "dateAnswered": "2025-04-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-01/43218"
+      },
+      {
+        "id": 1790550,
+        "uin": "42715",
+        "heading": "Energy Drinks: Children",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to review the regulations on the sale of energy drinks to children under the age of 16.",
+        "answerText": "As set out in the King’s Speech, we plan to bring forward the necessary secondary legislation to deliver on our commitment to ban the sale of high-caffeine energy drinks to children under the age of 16 years old.We are developing plans which consider the ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Ashley Dalton",
+        "dateTabled": "2025-03-31",
+        "dateForAnswer": "2025-04-02",
+        "dateAnswered": "2025-04-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-03-31/42715"
+      },
+      {
+        "id": 1790548,
+        "uin": "42713",
+        "heading": "Driver and Vehicle Licensing Agency: Standards",
+        "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to reduce the DVLA licensing backlog.",
+        "answerText": "The quickest and easiest way to transact with the Driver and Vehicle Licensing Agency (DVLA) is by using its extensive suite of online services. There are no delays or backlogs for vehicle applications or straightforward driving licence applications and c...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Lilian Greenwood",
+        "dateTabled": "2025-03-31",
+        "dateForAnswer": "2025-04-02",
+        "dateAnswered": "2025-04-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-03-31/42713"
+      },
+      {
+        "id": 1790547,
+        "uin": "42712",
+        "heading": "Driver and Vehicle Licensing Agency: Standards",
+        "questionText": "To ask the Secretary of State for Transport, what progress her Department has made on reducing the DVLA backlog.",
+        "answerText": "The quickest and easiest way to transact with the Driver and Vehicle Licensing Agency (DVLA) is by using its extensive suite of online services. There are no delays or backlogs for vehicle applications or straightforward driving licence applications and c...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Lilian Greenwood",
+        "dateTabled": "2025-03-31",
+        "dateForAnswer": "2025-04-02",
+        "dateAnswered": "2025-04-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-03-31/42712"
+      },
+      {
+        "id": 1790546,
+        "uin": "42711",
+        "heading": "Parking: Private Sector",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether her Department has made an assessment of the potential implications for her policies of parking enforcement companies; and whether she plans to bring forward legislative",
+        "answerText": "The Government recognises the need for high standards in the private parking industry and is committed to delivering a Code of Practice, in accordance with The Parking (Code of Practice) Act 2019. We are progressing with plans to protect and support motor...",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Alex Norris",
+        "dateTabled": "2025-03-31",
+        "dateForAnswer": "2025-04-02",
+        "dateAnswered": "2025-04-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-03-31/42711"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 14,
+        "No": 11
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        },
+        {
+          "id": 2362,
+          "number": 12,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 81,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2362"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2338,
+          "number": 503,
+          "date": "2026-04-22",
+          "title": "Children's Wellbeing and Schools Bill: motion to insist on Amendment 38J and disagree with Lords Amendments 38V to 38X",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 260,
+          "noCount": 161,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2338"
+        },
+        {
+          "id": 2337,
+          "number": 502,
+          "date": "2026-04-22",
+          "title": "Pensions Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88A and 88C and propose amendments (a) to (j) in lieu of Amendment 88B",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 272,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2337"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        },
+        {
+          "id": 2335,
+          "number": 500,
+          "date": "2026-04-21",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree to Lords Amendment 98",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 287,
+          "noCount": 150,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2335"
+        },
+        {
+          "id": 2334,
+          "number": 499,
+          "date": "2026-04-21",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree to Lords Amendment 41",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 284,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2334"
+        },
+        {
+          "id": 2333,
+          "number": 498,
+          "date": "2026-04-21",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree to Lords Amendment 37",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 291,
+          "noCount": 144,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2333"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 8417,
+            "text": "Chair of Stop Uyghur Genocide Charity. This is an unpaid role. (Registered 31 July 2024)",
+            "createdWhen": "2024-08-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 8418,
+            "text": "Unpaid Director of Uyghur Campaign Ltd. (Registered 31 July 2024)",
+            "createdWhen": "2024-08-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 11766,
+            "text": "Member of Eastwood Scouts District Council. This is an unpaid role. Date interest arose: 27 January 2025 (Registered 5 February 2025)",
+            "createdWhen": "2025-02-25",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 11765,
+            "text": "Member of the Executive Committee of the British Group of the Interparliamentary Union. This is an unpaid role. Date interest arose: 28 January 2025 (Registered 5 February 2025)",
+            "createdWhen": "2025-02-25",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12012,
+            "text": "Appointment as a patron of Hong Kong Watch. Date interest arose: 10 March 2025 (Registered 14 March 2025)",
+            "createdWhen": "2025-03-25",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12586,
+            "text": "Member of board of the Labour Campaign for Human Rights. This is an unpaid role. Date interest arose: 3 June 2025 (Registered 7 June 2025)",
+            "createdWhen": "2025-06-17",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12646,
+            "text": "Membership of Advisory Board to Standing Group on Atrocity Crimes Date interest arose: 30 May 2025 (Registered 16 June 2025)",
+            "createdWhen": "2025-06-17",
+            "amendedWhen": "2026-07-08",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "St Lucia: Crimes of Violence",
+        "date": "2025-07-08",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many consular cases involving violent crime his Department has dealt with in St Lucia in each of the last five years.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-08/65966"
+      },
+      {
+        "kind": "Written question",
+        "title": "British Nationals Abroad: Crimes of Violence",
+        "date": "2025-07-08",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many consular cases involving violent crime against British tourists his Department has dealt with for customers of Tui Group.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-08/65967"
+      },
+      {
+        "kind": "Written question",
+        "title": "Georgia: Civil Liberties",
+        "date": "2025-07-01",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential implications for his Department's policies of (a) prosecutions of opposition party leaders and (b) levels of repression of civil",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-01/64137"
+      },
+      {
+        "kind": "Written question",
+        "title": "Immigration: Hong Kong",
+        "date": "2025-06-18",
+        "summary": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the potential impact of extending the settlement qualifying period from five to ten years on the community integration of British National (Overseas) visa ho",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-18/60930"
+      },
+      {
+        "kind": "Written question",
+        "title": "Antisemitism",
+        "date": "2025-06-02",
+        "summary": "To ask the Secretary of State for the Home Department, what steps she is taking to protect Jewish communities from terrorist attacks.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-02/56661"
+      },
+      {
+        "kind": "Written question",
+        "title": "Wang Bingzhang",
+        "date": "2025-04-28",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what representations he has made to his Chinese counterpart on the release of Dr Wang Bingzhang.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-28/48607"
+      },
+      {
+        "kind": "Written question",
+        "title": "Nuclear Power",
+        "date": "2025-04-08",
+        "summary": "To ask the Secretary of State for Scotland, what steps he is taking with Cabinet colleagues to ensure that Scotland benefits from nuclear energy developments in the UK.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-08/903750"
+      },
+      {
+        "kind": "Written question",
+        "title": "International Commission on Missing Persons",
+        "date": "2025-04-01",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what long term support the Government plans to provide the International Commission on Missing Persons to support their work in identifying those still missing from (a) the w",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-01/43220"
+      },
+      {
+        "kind": "Written question",
+        "title": "International Commission on Missing Persons: Finance",
+        "date": "2025-04-01",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what funding the Government plans to provide to Regional Co-operation in Accounting for Missing Persons in the Western Balkans (The Missing Person Group) of the International",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-01/43218"
+      },
+      {
+        "kind": "Written question",
+        "title": "Energy Drinks: Children",
+        "date": "2025-03-31",
+        "summary": "To ask the Secretary of State for Health and Social Care, whether his Department plans to review the regulations on the sale of energy drinks to children under the age of 16.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-03-31/42715"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+        "date": "2026-04-22",
+        "summary": "Aye; Ayes 380, Noes 7.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

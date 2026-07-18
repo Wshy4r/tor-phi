@@ -1,0 +1,925 @@
+{
+  "member": {
+    "id": "4783",
+    "slug": "kate-osborne",
+    "name": "Kate Osborne",
+    "sortName": "Osborne, Kate",
+    "fullTitle": "Kate Osborne MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Jarrow and Gateshead East",
+    "house": "House of Commons",
+    "role": "MP for Jarrow and Gateshead East",
+    "officialUrl": "https://members.parliament.uk/member/4783/contact",
+    "recordUrl": "/country/uk/parliament/kate-osborne/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4783/Thumbnail",
+    "currentMembership": {
+      "constituency": "Jarrow and Gateshead East",
+      "constituencyId": 4122,
+      "startDate": "2019-12-12",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "kate.osborne.mp@parliament.uk"
+      ],
+      "phones": [
+        "0191 466 1509"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "The Clervaux Exchange, Clervaux Terrace, Jarrow, NE32 5UP"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Kate Osborne is the Labour MP for Jarrow and Gateshead East , and has been an MP continually since 12 December 2019.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/kate-osborne/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4783/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4783"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4783/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4783/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4783/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4783/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4783"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-19",
+    "registeredInterestCount": 5
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/kate-osborne/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4783/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4783"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4783/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4783/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4783/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4783/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4783"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1918235,
+        "uin": "11449",
+        "heading": "Fuels: Excise Duties",
+        "questionText": "To ask the Chancellor of the Exchequer, whether her Department has made an assessment of the potential impact of extending the fuel duty freeze on CPI inflation.",
+        "answerText": "I refer the honourable member to the answer given to UIN 9699 on 23 June 2026.",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-06-19",
+        "dateForAnswer": "2026-06-23",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-19/11449"
+      },
+      {
+        "id": 1917159,
+        "uin": "10722",
+        "heading": "Immigration",
+        "questionText": "To ask the Secretary of State for the Home Department, whether the forthcoming changes to earned settlement will preserve eligibility to apply for settlement after five years under Appendix Settlement Protection for people granted five years’ permission t",
+        "answerText": "On 5 March 2026, the Home Office updated the Immigration Rules to reduce the length of refugee and humanitarian protection permission to stay, for adults and accompanied asylum seeking children who claimed asylum from 2 March 2026, from 5 years to 30 mont...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Alex Norris",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10722"
+      },
+      {
+        "id": 1916037,
+        "uin": "9700",
+        "heading": "Travellers: Caravan Sites",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the Answer of 10 June to Question 6798 on Travellers: Caravan Sites, how many new Gypsy and Traveller sites and pitches have been built since September 2024.",
+        "answerText": "My Department does not hold the information requested.",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Matthew Pennycook",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9700"
+      },
+      {
+        "id": 1916021,
+        "uin": "9699",
+        "heading": "Fuels: Excise Duties",
+        "questionText": "To ask the Chancellor of the Exchequer, what assessment her Department has made of the potential impact of the continued freeze in fuel duty on (a) CPI inflation and (b) the cost of living.",
+        "answerText": "The extension of the temporary 5 pence per litre cut to fuel duty rates until 31 December 2026 will help to reduce pressure on costs at the pump and provides certainty to motorists. The measure will have a direct effect on the Consumer Price Index (CPI); ...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9699"
+      },
+      {
+        "id": 1915257,
+        "uin": "9095",
+        "heading": "Credit Reference Agencies",
+        "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the adequacy of the length of time Credit Reference Agencies retain information on defaults; and what assessment she has made of the potential merits of limiting that length of time,",
+        "answerText": "Credit files play an important role in supporting informed and responsible lending decisions. They should contain factual information, including records of defaults, which typically form a key part of lenders’ assessments of creditworthiness. Organisation...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Rachel Blake",
+        "dateTabled": "2026-06-11",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-11/9095"
+      },
+      {
+        "id": 1912389,
+        "uin": "6798",
+        "heading": "Travellers: Caravan Sites",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps his Department has taken to implement the recommendation issued by the UN Committee on the Elimination of Racial Discrimination in 2024 to ‘ensure the provision of ade",
+        "answerText": "The Government is committed to ensuring that prejudice and discrimination have no place in our society. The Equality Act 2010 provides protection against discrimination for people because of various characteristics, including race, which covers colour, na...",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Nesil Caliskan",
+        "dateTabled": "2026-06-04",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-04/6798"
+      },
+      {
+        "id": 1909560,
+        "uin": "4482",
+        "heading": "Morrisons: Closures",
+        "questionText": "To ask the Secretary of State for Business and Trade, whether he has had discussions with Morrisons on its reported plans to close 100 Morrisons Daily stores, including the store on Edinburgh Road in Jarrow; and what assessment he has made of the potentia",
+        "answerText": "While this is a commercial decision for Morrisons, we understand that this will be a concerning time for workers and their families. A broad range of support is available for those affected, including through Jobcentre Plus and the Rapid Response Service....",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-05-29",
+        "dateForAnswer": "2026-06-02",
+        "dateAnswered": "2026-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-29/4482"
+      },
+      {
+        "id": 1909561,
+        "uin": "4483",
+        "heading": "Post Office: Access",
+        "questionText": "To ask the Secretary of State for Business and Trade, what assessment he has made of the effectiveness of Post Office Ltd’s franchising model in maintaining community access to Post Office services where branches are located within retail premises that su",
+        "answerText": "The Government recognises the impact that post office and retail closures can have on employees, communities and access to essential services. The proposed closure of certain Morrisons stores is a commercial decision by the retailer rather than Post Offic...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Blair McDougall",
+        "dateTabled": "2026-05-29",
+        "dateForAnswer": "2026-06-02",
+        "dateAnswered": "2026-06-05",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-29/4483"
+      },
+      {
+        "id": 1907800,
+        "uin": "3307",
+        "heading": "Civil Servants: Workplace Pensions",
+        "questionText": "To ask the Minister for the Cabinet Office, what steps his Department is taking to ensure that Capita plc processes Civil Service pension cases in (a) a timely and (b) an efficient manner; and what that timeframe will be.",
+        "answerText": "The Cabinet Office awarded Capita the contract to administer the Civil Service Pension Scheme in November 2023 under the previous government. The current delays facing scheme members are entirely unacceptable, and this Government has taken firm action to ...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3307"
+      },
+      {
+        "id": 1907799,
+        "uin": "3306",
+        "heading": "Civil Servants: Workplace Pensions",
+        "questionText": "To ask the Minister for the Cabinet Office, what assessment he has made of the efficiency of Capita plc in processing outstanding Civil Service pension cases; and if he will provide guidance on the expected timescales within which all outstanding pension",
+        "answerText": "The Cabinet Office awarded Capita the contract to administer the Civil Service Pension Scheme in November 2023 under the previous government. The current delays facing scheme members are entirely unacceptable, and this Government has taken firm action to ...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3306"
+      },
+      {
+        "id": 1907797,
+        "uin": "3304",
+        "heading": "Wrecks: Protection",
+        "questionText": "To ask the Secretary of State for Transport, whether she has considered using the Armed Forces Bill to clarify the legal status of maritime wrecks connected to the United Kingdom’s war effort which are not currently afforded protection comparable to milit",
+        "answerText": "The sinking of merchant vessels during the world wars, represents a tragic loss of life that we must all strive to remember and reflect upon. It is right that we honour and recognise this sacrifice and strive to ensure the grave sites of those who have be...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3304"
+      },
+      {
+        "id": 1907798,
+        "uin": "3305",
+        "heading": "SS Tilawa",
+        "questionText": "To ask the Secretary of State for Transport, if she will make an assessment of the potential merits of designating the wreck of the SS Tilawa, sunk in 1942, as a protected heritage site in recognition of its status as a Commonwealth wartime loss.",
+        "answerText": "The sinking of the SS Tilawa, and many other merchant vessels during the world wars, represents a tragic loss of life that we must all strive to remember and reflect upon. It is right that we honour and recognise this sacrifice and strive to ensure the gr...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3305"
+      },
+      {
+        "id": 1907809,
+        "uin": "3316",
+        "heading": "LGBT+ People: Equality",
+        "questionText": "To ask the Minister for Women and Equalities, whether she has made an assessment of the potential merits of publishing a strategy for improving LGBT+ equality outcomes in response to the UK’s decline in the ILGA-Europe Rainbow Europe rankings.",
+        "answerText": "The UK is a proud champion of LGBT+ rights, both at home and globally, underpinned by our strong legislative framework. We are actively working to advance these rights, which include strengthening protections against anti-LGBT+ hate crimes and progressing...",
+        "answeringBody": "Women and Equalities",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3316"
+      },
+      {
+        "id": 1907808,
+        "uin": "3315",
+        "heading": "LGBT+ People: Equality",
+        "questionText": "To ask the Minister for Women and Equalities, what plans she has to work with civil society organisations to improve the UK’s ranking in future ILGA-Europe reports.",
+        "answerText": "The UK is a proud champion of LGBT+ rights, both at home and globally, underpinned by our strong legislative framework. We are actively working to advance these rights, which include strengthening protections against anti-LGBT+ hate crimes and progressing...",
+        "answeringBody": "Women and Equalities",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3315"
+      },
+      {
+        "id": 1907807,
+        "uin": "3314",
+        "heading": "LGBT+ People: Equality",
+        "questionText": "To ask the Minister for Women and Equalities, what assessment she has made of the potential implications for her Department's policies of international perceptions of the UK’s record on LGBT+ rights following the latest ILGA-Europe rankings.",
+        "answerText": "The UK is a proud champion of LGBT+ rights, both at home and globally, underpinned by our strong legislative framework. We are actively working to advance these rights, which include strengthening protections against anti-LGBT+ hate crimes and progressing...",
+        "answeringBody": "Women and Equalities",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3314"
+      },
+      {
+        "id": 1907806,
+        "uin": "3313",
+        "heading": "Transgender People",
+        "questionText": "To ask the Minister for Women and Equalities, with reference to the findings of the latest ILGA-Europe report, whether she plans to strengthen protections for transgender people.",
+        "answerText": "The UK is a proud champion of LGBT+ rights, both at home and globally, underpinned by our strong legislative framework. We are actively working to advance these rights, which include strengthening protections against anti-LGBT+ hate crimes and progressing...",
+        "answeringBody": "Women and Equalities",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3313"
+      },
+      {
+        "id": 1907805,
+        "uin": "3312",
+        "heading": "LGBT+ People: Equality",
+        "questionText": "To ask the Minister for Women and Equalities, what assessment she has made of the potential implications for her policies of the UK’s standing in the ILGA-Europe Rainbow Europe rankings.",
+        "answerText": "The UK is a proud champion of LGBT+ rights, both at home and globally, underpinned by our strong legislative framework. We are actively working to advance these rights, which include strengthening protections against anti-LGBT+ hate crimes and progressing...",
+        "answeringBody": "Women and Equalities",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3312"
+      },
+      {
+        "id": 1907804,
+        "uin": "3311",
+        "heading": "LGBT+ People: Equality",
+        "questionText": "To ask the Minister for Women and Equalities, whether she plans to introduce any measures aimed at improving legal protections for LGBT+ people following the UK’s decline in the ILGA-Europe rankings.",
+        "answerText": "The UK is a proud champion of LGBT+ rights, both at home and globally, underpinned by our strong legislative framework. We are actively working to advance these rights, which include strengthening protections against anti-LGBT+ hate crimes and progressing...",
+        "answeringBody": "Women and Equalities",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3311"
+      },
+      {
+        "id": 1907803,
+        "uin": "3310",
+        "heading": "LGBT+ People: Equality",
+        "questionText": "To ask the Minister for Women and Equalities, what discussions she has had with LGBT+ organisations on reversing the UK’s decline in the ILGA-Europe rankings.",
+        "answerText": "The UK is a proud champion of LGBT+ rights, both at home and globally, underpinned by our strong legislative framework. We are actively working to advance these rights, which include strengthening protections against anti-LGBT+ hate crimes and progressing...",
+        "answeringBody": "Women and Equalities",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3310"
+      },
+      {
+        "id": 1907802,
+        "uin": "3309",
+        "heading": "LGBT+ People: Equality",
+        "questionText": "To ask the Minister for Women and Equalities, what steps she is taking to improve the UK’s position in the ILGA-Europe Rainbow Europe rankings.",
+        "answerText": "The UK is a proud champion of LGBT+ rights, both at home and globally, underpinned by our strong legislative framework. We are actively working to advance these rights, which include strengthening protections against anti-LGBT+ hate crimes and progressing...",
+        "answeringBody": "Women and Equalities",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3309"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 13,
+        "Aye": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        },
+        {
+          "id": 2362,
+          "number": 12,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 81,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2362"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        },
+        {
+          "id": 2354,
+          "number": 4,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (p)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 316,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2354"
+        },
+        {
+          "id": 2353,
+          "number": 3,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (l)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 78,
+          "noCount": 408,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2353"
+        },
+        {
+          "id": 2352,
+          "number": 2,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (o)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2352"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2346,
+          "number": 511,
+          "date": "2026-04-27",
+          "title": "Children's School and Wellbeing Bill: Amendments (a) to (j) in lieu of Lords Amendments 38V to 38X",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 272,
+          "noCount": 64,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2346"
+        },
+        {
+          "id": 2345,
+          "number": 510,
+          "date": "2026-04-27",
+          "title": "Northern Ireland Troubles Bill: Carry-over motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 176,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2345"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (b) Any other support not included in Category 2(a)",
+        "items": [
+          {
+            "id": 13152,
+            "text": "Name of donor: The Associated Society of Locomotive Engineers and Firemen (ASLEF) Address of donor: ASLEF Building 75-77 St John Street London EC1M 4NN Amount of donation or nature and value if donation in kind: £2,000 Date received: 18 August 2025 Date accepted: 18 August 2025 Donor status: trade union (Registered 20 August 2025)",
+            "createdWhen": "2025-09-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 12669,
+            "text": "Name of donor: The Football Association Address of donor: Wembley Stadium, PO Box 1966, London SW1P 9EQ Amount of donation or nature and value if donation in kind: Two FA Cup Final tickets, value £350 Date received: 17 May 2025 Date accepted: 17 May 2025 Donor status: company, registration 00077797 (Registered 19 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13182,
+            "text": "Name of donor: Football Supporters’ Association Address of donor: 4 Admiral Way, Doxford International Business Park, Sunderland SR3 3XW Amount of donation or nature and value if donation in kind: Three tickets and hospitality to the FA Community Shield at Wembley, value £675 Date received: 10 August 2025 Date accepted: 10 August 2025 Donor status: company, registration 11660866 (Registered 28 August 2025)",
+            "createdWhen": "2025-09-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": "7. (i) Shareholdings: over 15% of issued share capital",
+        "items": [
+          {
+            "id": 2519,
+            "text": "Name of company or organisation: Kate Osborne Campaigns Ltd Interest held: from 6 October 2022 (Registered 14 October 2022)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 1630,
+            "text": "Director of Kate Osborne Campaigns Ltd. This is an unpaid role. Date interest arose: 6 October 2022 (Registered 14 October 2022)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Immigration",
+        "date": "2026-06-17",
+        "summary": "To ask the Secretary of State for the Home Department, whether the forthcoming changes to earned settlement will preserve eligibility to apply for settlement after five years under Appendix Settlement Protection for people granted five years’ permission t",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10722"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 304, Noes 28.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 308, Noes 81.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

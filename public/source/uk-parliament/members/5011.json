@@ -1,0 +1,991 @@
+{
+  "member": {
+    "id": "5011",
+    "slug": "gen-kitchen",
+    "name": "Gen Kitchen",
+    "sortName": "Kitchen, Gen",
+    "fullTitle": "Gen Kitchen MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Wellingborough and Rushden",
+    "house": "House of Commons",
+    "role": "MP for Wellingborough and Rushden",
+    "officialUrl": "https://members.parliament.uk/member/5011/contact",
+    "recordUrl": "/country/uk/parliament/gen-kitchen/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5011/Thumbnail",
+    "currentMembership": {
+      "constituency": "Wellingborough and Rushden",
+      "constituencyId": 4386,
+      "startDate": "2024-02-15",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "gen.kitchen.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 3545 2207"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "11 Church Street, Rushden, NN10 9YU",
+        "https://twitter.com/Gen_Kitchen_MP"
+      ],
+      "websites": [],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/Gen_Kitchen_MP"
+        ]
+      ]
+    },
+    "synopsis": "Gen Kitchen is the Labour MP for Wellingborough and Rushden , and has been an MP continually since 15 February 2024. She currently holds the Government post of Comptroller (HM Household) (Whip, House of Commons).",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/gen-kitchen/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5011/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5011"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5011/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5011/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5011/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5011/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5011"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-05-20",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/gen-kitchen/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5011/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5011"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5011/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5011/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5011/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5011/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5011"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1719451,
+        "uin": "27189",
+        "heading": "Childcare: Wellingborough",
+        "questionText": "To ask the Secretary of State for Education, what steps she is taking to help increase the availability of childcare in Wellingborough constituency.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Education",
+        "answeringMember": "David Johnston",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27189"
+      },
+      {
+        "id": 1719455,
+        "uin": "27193",
+        "heading": "Students: Debts",
+        "questionText": "To ask the Secretary of State for Education, if her Department will make an estimate of the median level of student debt held by people in Wellingborough constituency.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Luke Hall",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27193"
+      },
+      {
+        "id": 1719445,
+        "uin": "27183",
+        "heading": "Apprentices: Degrees",
+        "questionText": "To ask the Secretary of State for Education, how many degree apprenticeships were (a) advertised and (b) completed in (i) Wellingborough constituency, (ii) Northamptonshire and (iii) London in each of the last five years.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Luke Hall",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27183"
+      },
+      {
+        "id": 1719449,
+        "uin": "27187",
+        "heading": "Education: Mental Health Services",
+        "questionText": "To ask the Secretary of State for Education, how many Mental Health Support Teams there were in (a) Wellingborough constituency, (b) Northamptonshire and (c) London in each year since 2010.",
+        "answerText": "​​Mental Health Support Teams (MHSTs) are now in place in around nearly 8,500 schools and colleges across the country, with 498 expert teams offering support to children experiencing anxiety, depression, and other common mental health issues. MHSTs have a...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "David Johnston",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27187"
+      },
+      {
+        "id": 1719456,
+        "uin": "27194",
+        "heading": "Musical Instruments: Wellingborough",
+        "questionText": "To ask the Secretary of State for Education, how many and what proportion of children in schools in Wellingborough constituency are learning a musical instrument at school.",
+        "answerText": "Arts Council England is responsible for collecting and publishing information about each of the Music Hubs. This information is about the music education activity the Hubs provide or support and does not include information on what schools provide without...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Damian Hinds",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27194"
+      },
+      {
+        "id": 1719454,
+        "uin": "27192",
+        "heading": "Basic Skills: Wellingborough",
+        "questionText": "To ask the Secretary of State for Education, what steps her Department has taken to improve children's oracy skills in Wellingborough constituency.",
+        "answerText": "​​​​The department recognises the importance of oracy, which is why spoken language is part of the national curriculum for English for 5 to 16 year olds.In early years, the department is investing up to £17 million in the Nuffield Early Language Intervent...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Damian Hinds",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27192"
+      },
+      {
+        "id": 1719447,
+        "uin": "27185",
+        "heading": "Pupils: Per Capita Costs",
+        "questionText": "To ask the Secretary of State for Education, what the average funding per pupil in mainstream schools was in (a) Wellingborough constituency, (b) Northamptonshire and (c) England in each of the last three years.",
+        "answerText": "The National Funding Formula (NFF) is used to calculate notional funding for maintained schools and academies in England. Average funding per pupil, including premises-related funding, for Wellingborough constituency, North Northamptonshire and England ca...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Damian Hinds",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27185"
+      },
+      {
+        "id": 1719448,
+        "uin": "27186",
+        "heading": "Teachers: Wellingborough",
+        "questionText": "To ask the Secretary of State for Education, what steps her Department is taking to improve the (a) recruitment and (b) retention of teachers in Wellingborough constituency.",
+        "answerText": "The department currently has the highest number of teachers on record. There are now over 468,000 full time equivalent teachers in state-funded schools in England, which is an increase of 27,000, or 6%, since the School Workforce Census began in 2010.Last...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Damian Hinds",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27186"
+      },
+      {
+        "id": 1719453,
+        "uin": "27191",
+        "heading": "Free School Meals: Wellingborough",
+        "questionText": "To ask the Secretary of State for Education, how many (a) primary and (b) secondary school students receive free school meals in Wellingborough constituency.",
+        "answerText": "The department publishes annual statistics on the number of pupils at state-funded schools in England who are eligible for free school meals (FSM). The most recent figures are for January 2023, available here: https://explore-education-statistics.service....",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Damian Hinds",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27191"
+      },
+      {
+        "id": 1719457,
+        "uin": "27195",
+        "heading": "Educational Visits: Wellingborough",
+        "questionText": "To ask the Secretary of State for Education, how many children in Wellingborough constituency have been on school trips out of the country since September 2023.",
+        "answerText": "The department recognises the significant benefits that activities outside the classroom, which may include school trips out of the country, can have for children’s mental health and wellbeing, as well as their educational and social development. The depa...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Damian Hinds",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27195"
+      },
+      {
+        "id": 1718770,
+        "uin": "26807",
+        "heading": "Recreation Spaces: Wellingborough",
+        "questionText": "To ask the Secretary of State for Levelling Up, Housing and Communities, what steps his Department is undertaking to (a) protect and (b) enhance green spaces in Wellingborough constituency.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Levelling Up, Housing and Communities",
+        "answeringMember": "Jacob Young",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26807"
+      },
+      {
+        "id": 1718771,
+        "uin": "26808",
+        "heading": "Housing: Disability",
+        "questionText": "To ask the Secretary of State for Levelling Up, Housing and Communities, what assessment he has made of the adequacy of the supply of adapted housing for (a) adults and (b) children with disabilities in Wellingborough constituency.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Levelling Up, Housing and Communities",
+        "answeringMember": "Jacob Young",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26808"
+      },
+      {
+        "id": 1718772,
+        "uin": "26809",
+        "heading": "Help to Buy Scheme: Northamptonshire",
+        "questionText": "To ask the Secretary of State for Levelling Up, Housing and Communities, how many Help to Buy homeowners are waiting for a decision on a loan redemption application in (a) Wellingborough and (b) Northamptonshire.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Levelling Up, Housing and Communities",
+        "answeringMember": "Lee Rowley",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26809"
+      },
+      {
+        "id": 1718773,
+        "uin": "26810",
+        "heading": "Housing: Overcrowding",
+        "questionText": "To ask the Secretary of State for Levelling Up, Housing and Communities, what assessment his Department has made of trends in the number of people living in overcrowded housing in Wellingborough constituency.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Levelling Up, Housing and Communities",
+        "answeringMember": "Jacob Young",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26810"
+      },
+      {
+        "id": 1718775,
+        "uin": "26811",
+        "heading": "Social Rented Housing: Mould",
+        "questionText": "To ask the Secretary of State for Levelling Up, Housing and Communities, what assessment his Department has made of trends in the prevalence of damp and mould in social housing in (a) Wellingborough constituency and (b) Northamptonshire.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Levelling Up, Housing and Communities",
+        "answeringMember": "Jacob Young",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26811"
+      },
+      {
+        "id": 1718776,
+        "uin": "26812",
+        "heading": "Energy Performance Certificates: Wellingborough",
+        "questionText": "To ask the Secretary of State for Levelling Up, Housing and Communities, if he will make an estimate of the proportion of houses in Wellingborough constituency that have an energy performance certificate rating of (a) A, (b) B, (c) C, (d) D and (e) E .",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Levelling Up, Housing and Communities",
+        "answeringMember": "Lee Rowley",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26812"
+      },
+      {
+        "id": 1718777,
+        "uin": "26813",
+        "heading": "Sleeping Rough: Wellingborough",
+        "questionText": "To ask the Secretary of State for Levelling Up, Housing and Communities, what support his Department provided to rough sleepers in Wellingborough constituency in Winter 2023-24; and what steps his Department plans to take for Winter 2024-25.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Levelling Up, Housing and Communities",
+        "answeringMember": "Felicity Buchan",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26813"
+      },
+      {
+        "id": 1718780,
+        "uin": "26815",
+        "heading": "Shops: Closures",
+        "questionText": "To ask the Chancellor of the Exchequer, how many high street businesses in (a) Wellingborough constituency, (b) Northamptonshire and (c) England have closed in each of the last five years; and what plans he has for business rates in the next five years.",
+        "answerText": "Detailed information on the closure of high street business is not held in the form requested. Statistics on company insolvency is available here:https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/bulletins/businessdemography...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Gareth Davies",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26815"
+      },
+      {
+        "id": 1718789,
+        "uin": "26821",
+        "heading": "Debts and Insolvency: Wellingborough",
+        "questionText": "To ask the Chancellor of the Exchequer, if he will make an assessment of the potential impact of increases in the cost of living on trends in the number of (a) businesses at risk of insolvency and (b) people in debt in Wellingborough constituency; and wha",
+        "answerText": "Over the previous two years, the government has provided support to help households with the cost of living totalling over £90 billion. To help those on the lowest incomes with debt, at Spring Budget 2024 the government also removed Debt Relief Order fees...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26821"
+      },
+      {
+        "id": 1718784,
+        "uin": "26818",
+        "heading": "Low Incomes: Wellingborough",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps he is taking to help support people on lower incomes in Wellingborough constituency.",
+        "answerText": "Over the previous two years, this government has provided support to help households with the cost of living totalling over £90 billion. For the coming year, the government has increased working age benefits by 6.7%; maintained the triple lock; raised Loc...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26818"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 12,
+        "No": 13
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Energy Performance Certificates: Wellingborough",
+        "date": "2024-05-16",
+        "summary": "To ask the Secretary of State for Levelling Up, Housing and Communities, if he will make an estimate of the proportion of houses in Wellingborough constituency that have an energy performance certificate rating of (a) A, (b) B, (c) C, (d) D and (e) E .",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26812"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

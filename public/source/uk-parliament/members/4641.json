@@ -1,0 +1,985 @@
+{
+  "member": {
+    "id": "4641",
+    "slug": "alex-norris",
+    "name": "Alex Norris",
+    "sortName": "Norris, Alex",
+    "fullTitle": "Alex Norris MP",
+    "party": "Labour (Co-op)",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Nottingham North and Kimberley",
+    "house": "House of Commons",
+    "role": "MP for Nottingham North and Kimberley",
+    "officialUrl": "https://members.parliament.uk/member/4641/contact",
+    "recordUrl": "/country/uk/parliament/alex-norris/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4641/Thumbnail",
+    "currentMembership": {
+      "constituency": "Nottingham North and Kimberley",
+      "constituencyId": 4226,
+      "startDate": "2017-06-08",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "alex.norris.mp@parliament.uk"
+      ],
+      "phones": [
+        "0207 219 3899",
+        "0115 975 2377"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "15 Commercial Road, Bulwell, Nottingham, NG6 8HD",
+        "https://www.facebook.com/AlexforNottmNorthandKimberley",
+        "https://twitter.com/AlexJJNorris"
+      ],
+      "websites": [],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/AlexforNottmNorthandKimberley"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/AlexJJNorris"
+        ]
+      ]
+    },
+    "synopsis": "Alex Norris is the Labour (Co-op) MP for Nottingham North and Kimberley , and has been an MP continually since 8 June 2017. He currently holds the Government post of Minister of State (Home Office).",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/alex-norris/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4641/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4641"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4641/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4641/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4641/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4641/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4641"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-05-15",
+    "registeredInterestCount": 3
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/alex-norris/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4641/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4641"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4641/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4641/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4641/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4641/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4641"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1718462,
+        "uin": "26575",
+        "heading": "Police: Firearms",
+        "questionText": "To ask the Secretary of State for the Home Department, if he will make an estimate of the cost of an armed response callout.",
+        "answerText": "Given the operational nature of armed deployments, decisions around the funding and deployment of armed officers are a matter for individual forces and their Chiefs.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Chris Philp",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26575"
+      },
+      {
+        "id": 1716988,
+        "uin": "25541",
+        "heading": "Driving Tests: Waiting Lists",
+        "questionText": "To ask the Secretary of State for Transport, what steps he is taking to help reduce waiting times for practical driving tests.",
+        "answerText": "The Driver and Vehicle Standards Agency’s (DVSA) main priority is to reduce car practical driving test waiting times, whilst upholding road safety standards. To increase the number of car driving test slots, the DVSA deployed eligible managers and adminis...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Guy Opperman",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25541"
+      },
+      {
+        "id": 1715644,
+        "uin": "24697",
+        "heading": "Cameroon: Violence",
+        "questionText": "To ask the Deputy Foreign Secretary, whether he has made an assessment of the potential implications for his policies of reports that (a) the Cameroon Armed Forces and (b) separatist groups are committing violence against civilians in that country.",
+        "answerText": "The UK government has been tracking developments in the North West and South West regions of Cameroon since the outbreak of the Anglophone crisis in 2016. We are aware that violence is being committed against civilians by both sides of the conflict, and I...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Andrew Mitchell",
+        "dateTabled": "2024-05-02",
+        "dateForAnswer": "2024-05-07",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-02/24697"
+      },
+      {
+        "id": 1715643,
+        "uin": "24696",
+        "heading": "Cameroon: Violence",
+        "questionText": "To ask the Deputy Foreign Secretary, whether his Department is taking steps to support UK nationals with relatives in Cameroon who are affected by violence and persecution in that country.",
+        "answerText": "The FCDO provides consular assistance to British nationals. British nationals in Cameroon can sign up to alerts for our Cameroon Travel Advice at GOV.uk and call us on +44 20 7008 5000 for consular assistance. If someone is in the UK and worried about a B...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Andrew Mitchell",
+        "dateTabled": "2024-05-02",
+        "dateForAnswer": "2024-05-07",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-02/24696"
+      },
+      {
+        "id": 1715642,
+        "uin": "24695",
+        "heading": "Cameroon: Violence",
+        "questionText": "To ask the Deputy Foreign Secretary, whether his Department is taking steps to support asylum seekers fleeing violence in south Cameroon.",
+        "answerText": "The FCDO is supporting civilians who are fleeing violence in the North West and South West regions of Cameroon by providing funding for humanitarian assistance. From 2022 to 2024, the UK government has provided the International Committee of the Red Cross...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Andrew Mitchell",
+        "dateTabled": "2024-05-02",
+        "dateForAnswer": "2024-05-07",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-02/24695"
+      },
+      {
+        "id": 1695504,
+        "uin": "18253",
+        "heading": "Bank Services: Freezing of Assets",
+        "questionText": "To ask the Secretary of State for the Home Department, what estimate he has made of the number of financial institutions he expects to participate in the suspended accounts scheme.",
+        "answerText": "We are committed to developing a scheme that satisfies the objectives of both industry and government and it will be open to members across the whole financial sector.As a voluntary scheme, we are currently working closely with the financial sector on the...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Tom Tugendhat",
+        "dateTabled": "2024-03-12",
+        "dateForAnswer": "2024-03-14",
+        "dateAnswered": "2024-03-19",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-12/18253"
+      },
+      {
+        "id": 1695475,
+        "uin": "18252",
+        "heading": "Home Office: Civil Proceedings",
+        "questionText": "To ask the Secretary of State for the Home Department, with reference to paragraphs 7.16 and 7.17 of the Ministerial Code, on how many occasions Ministers in his Department have informed the Law Officers that they are the defendants in a libel action in (",
+        "answerText": "The fact that the Law Officers have advised or have not advised and the content of their advice must not be disclosed outside Government without their authority.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Chris Philp",
+        "dateTabled": "2024-03-12",
+        "dateForAnswer": "2024-03-15",
+        "dateAnswered": "2024-03-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-12/18252"
+      },
+      {
+        "id": 1690104,
+        "uin": "14680",
+        "heading": "Local Broadcasting",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what support her Department provides to local media.",
+        "answerText": "The government is committed to supporting local and regional newspapers as pillars of communities and local democracy. They play an essential role in holding power to account, keeping the public informed of local issues and providing reliable, high-qualit...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-02-19",
+        "dateForAnswer": "2024-02-21",
+        "dateAnswered": "2024-02-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-19/14680"
+      },
+      {
+        "id": 1690101,
+        "uin": "14679",
+        "heading": "Local Broadcasting",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of the adequacy of the viability of local media.",
+        "answerText": "The government is committed to supporting local and regional newspapers as pillars of communities and local democracy. They play an essential role in holding power to account, keeping the public informed of local issues and providing reliable, high-qualit...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-02-19",
+        "dateForAnswer": "2024-02-21",
+        "dateAnswered": "2024-02-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-19/14679"
+      },
+      {
+        "id": 1690099,
+        "uin": "14678",
+        "heading": "Community News Project",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether she has had discussions with Meta on funding for the Community News Project.",
+        "answerText": "The government is committed to supporting local and regional newspapers as pillars of communities and local democracy. They play an essential role in holding power to account, keeping the public informed of local issues and providing reliable, high-qualit...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-02-19",
+        "dateForAnswer": "2024-02-21",
+        "dateAnswered": "2024-02-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-19/14678"
+      },
+      {
+        "id": 1690098,
+        "uin": "14677",
+        "heading": "Community News Project",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether she has made an assessment of the potential impact of Meta ending funding for the Community News Project on local journalism.",
+        "answerText": "The government is committed to supporting local and regional newspapers as pillars of communities and local democracy. They play an essential role in holding power to account, keeping the public informed of local issues and providing reliable, high-qualit...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Julia Lopez",
+        "dateTabled": "2024-02-19",
+        "dateForAnswer": "2024-02-21",
+        "dateAnswered": "2024-02-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-19/14677"
+      },
+      {
+        "id": 1689372,
+        "uin": "14271",
+        "heading": "Timesharing: Misrepresentation",
+        "questionText": "To ask the Chancellor of the Exchequer, whether he has taken steps with Cabinet colleagues to ensure compensation payments to consumers who were missold timeshares are delivered in a timely manner.",
+        "answerText": "The regulations surrounding the sale of timeshares and credit agreements relating to timeshares provide routes of redress where consumers have been misled. Firstly, it is an offence under the Consumer Protection from Unfair Trading Regulations 2008 for tr...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Bim Afolami",
+        "dateTabled": "2024-02-16",
+        "dateForAnswer": "2024-02-20",
+        "dateAnswered": "2024-02-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-16/14271"
+      },
+      {
+        "id": 1689253,
+        "uin": "14179",
+        "heading": "National Crime Agency: Staff",
+        "questionText": "To ask the Secretary of State for the Home Department, what the cost of (a) hiring and (b) training a new National Crime Agency officer was in 2023.",
+        "answerText": "The NCA does not routinely capture generalised costs to hire and train NCA officers.This is due to the variety of roles in the Agency, specialised training and individual vetting requirements.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Chris Philp",
+        "dateTabled": "2024-02-16",
+        "dateForAnswer": "2024-02-22",
+        "dateAnswered": "2024-02-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-16/14179"
+      },
+      {
+        "id": 1689252,
+        "uin": "14178",
+        "heading": "Police: Recruitment and Training",
+        "questionText": "To ask the Secretary of State for the Home Department, what the cost of (a) hiring and (b) training a new (i) police officer, (ii) police community support officer and (iii) special constable was as of 12 February 2024.",
+        "answerText": "The Government delivered its commitment to deliver 20,000 additional police officers by March 2023. There are now over 149,000 officers in England and Wales, higher than the previous peak before the Police Uplift Programme, in March 2010.The Government is...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Chris Philp",
+        "dateTabled": "2024-02-16",
+        "dateForAnswer": "2024-02-22",
+        "dateAnswered": "2024-02-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-16/14178"
+      },
+      {
+        "id": 1681053,
+        "uin": "9054",
+        "heading": "Children: Separation",
+        "questionText": "To ask the Secretary of State for Education, whether a Minister in her Department leads on policy on supporting children through parental separation.",
+        "answerText": "Ministers work closely across government to support children, including those going through parental separation.The Ministry of Justice (MoJ) is responsible for private family law, which includes marriage and divorce. The Parliamentary Under-Secretary of ...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "David Johnston",
+        "dateTabled": "2024-01-10",
+        "dateForAnswer": "2024-01-15",
+        "dateAnswered": "2024-01-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-10/9054"
+      },
+      {
+        "id": 1678946,
+        "uin": "7643",
+        "heading": "Visas: Care Workers",
+        "questionText": "To ask the Secretary of State for the Home Department, whether his Department has made an assessment of the prevalence of certificates of sponsorship for care workers being sold overseas.",
+        "answerText": "The Home Office is aware of allegations of the selling of Certificates of Sponsorship to care workers overseas. All allegations of abuse are investigated but no wider assessment of the prevalence of this activity has been undertaken.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Tom Pursglove",
+        "dateTabled": "2023-12-19",
+        "dateForAnswer": "2024-01-08",
+        "dateAnswered": "2024-01-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-19/7643"
+      },
+      {
+        "id": 1677392,
+        "uin": "6556",
+        "heading": "Riluzole",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to improve access to Riluzole for patients with motor neurone disease.",
+        "answerText": "We are aware that one of the suppliers of riluzole 50 milligram tablets is experiencing a supply issue. However, alternative suppliers have stock available. We are working closely with all the manufacturers and others operating in the supply chain to help...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2023-12-12",
+        "dateForAnswer": "2023-12-14",
+        "dateAnswered": "2023-12-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-12/6556"
+      },
+      {
+        "id": 1677391,
+        "uin": "6555",
+        "heading": "Riluzole",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the adequacy of the provision of Riluzole for patients with motor neurone disease.",
+        "answerText": "We are aware that one of the suppliers of riluzole 50 milligram tablets is experiencing a supply issue. However, alternative suppliers have stock available. We are working closely with all the manufacturers and others operating in the supply chain to help...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Andrew Stephenson",
+        "dateTabled": "2023-12-12",
+        "dateForAnswer": "2023-12-14",
+        "dateAnswered": "2023-12-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-12/6555"
+      },
+      {
+        "id": 1673678,
+        "uin": "4243",
+        "heading": "Pets: Theft",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if he will make an assessment of the potential merits of bringing forward legislative proposals on (a) cat and (b) other pet theft.",
+        "answerText": "I refer the hon. Member to the answer given on 14 November 2023 to the hon. Member for Liverpool, West Derby, PQ 599.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mark Spencer",
+        "dateTabled": "2023-11-28",
+        "dateForAnswer": "2023-11-30",
+        "dateAnswered": "2023-12-05",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-28/4243"
+      },
+      {
+        "id": 1668954,
+        "uin": "1229",
+        "heading": "Department for Environment, Food and Rural Affairs: Hunting",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential merits of a ban on trail hunting on land owned by her Department.",
+        "answerText": "Since the introduction of the Act, many hunt organisations across the country have worked hard to adapt their activities towards trail hunting, which is intended to retain important traditions as part of the fabric of rural life without harming wildlife. ...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Rebecca Pow",
+        "dateTabled": "2023-11-09",
+        "dateForAnswer": "2023-11-13",
+        "dateAnswered": "2023-11-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-09/1229"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 13,
+        "No": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 14000,
+            "text": "Name of donor: Nottingham Forest Football Club Address of donor: The City Ground, Pavilion Road, Nottingham NG2 5FJ Amount of donation or nature and value if donation in kind: Ticket and hospitality for Nottingham Forest vs Manchester United, value £250 Date received: 1 November 2025 Date accepted: 1 November 2025 Donor status: company, registration 1630402 (Registered 28 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13999,
+            "text": "Name of donor: Nottingham Forest Football Club Address of donor: The City Ground, Pavilion Road, Nottingham NG2 5FJ Amount of donation or nature and value if donation in kind: Ticket and hospitality to Nottingham Forest vs. Brighton fixture at the City Ground, value £250 Date received: 1 February 2025 Date accepted: 1 February 2025 Donor status: company, registration 1630402 (Registered 28 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 1610,
+            "text": "Chair of Governors at Rosslyn Park Primary & Nursery School in Nottingham. This is an unpaid position. (Registered 13 April 2023)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Cameroon: Violence",
+        "date": "2024-05-02",
+        "summary": "To ask the Deputy Foreign Secretary, whether he has made an assessment of the potential implications for his policies of reports that (a) the Cameroon Armed Forces and (b) separatist groups are committing violence against civilians in that country.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-02/24697"
+      },
+      {
+        "kind": "Written question",
+        "title": "Cameroon: Violence",
+        "date": "2024-05-02",
+        "summary": "To ask the Deputy Foreign Secretary, whether his Department is taking steps to support UK nationals with relatives in Cameroon who are affected by violence and persecution in that country.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-02/24696"
+      },
+      {
+        "kind": "Written question",
+        "title": "Cameroon: Violence",
+        "date": "2024-05-02",
+        "summary": "To ask the Deputy Foreign Secretary, whether his Department is taking steps to support asylum seekers fleeing violence in south Cameroon.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-02/24695"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

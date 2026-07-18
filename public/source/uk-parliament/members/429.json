@@ -1,0 +1,1006 @@
+{
+  "member": {
+    "id": "429",
+    "slug": "derek-twigg",
+    "name": "Derek Twigg",
+    "sortName": "Twigg, Derek",
+    "fullTitle": "Derek Twigg MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Widnes and Halewood",
+    "house": "House of Commons",
+    "role": "MP for Widnes and Halewood",
+    "officialUrl": "https://members.parliament.uk/member/429/contact",
+    "recordUrl": "/country/uk/parliament/derek-twigg/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/429/Thumbnail",
+    "currentMembership": {
+      "constituency": "Widnes and Halewood",
+      "constituencyId": 4399,
+      "startDate": "1997-05-01",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "derek.twigg.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 1039",
+        "0151 424 7030"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Bridge Business Centre, Suite E, Cheshire House, Gorsey Lane, Widnes, Cheshire, (Please send post to House of Commons), WA8 0RP",
+        "http://www.derektwigg.org"
+      ],
+      "websites": [
+        "http://www.derektwigg.org"
+      ],
+      "social": []
+    },
+    "synopsis": "Derek Twigg is the Labour MP for Widnes and Halewood , and has been an MP continually since 1 May 1997.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/derek-twigg/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/429/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/429"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/429/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/429/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/429/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/429/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=429"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-03-04",
+    "registeredInterestCount": 1
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/derek-twigg/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/429/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/429"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/429/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/429/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/429/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/429/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=429"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1887317,
+        "uin": "117673",
+        "heading": "Civil Servants: Workplace Pensions",
+        "questionText": "To ask the Minister for the Cabinet Office, whether data for Death Benefit nominations was migrated successfully from paper systems to the online Civil Service Pension Scheme system run by Capita.",
+        "answerText": "The data for Death Benefit Nominations (DBNs) was successfully migrated from the previous administrator (MyCSP) Compendia solution to the current Hartlink system managed by the current administrator, Capita. While the vast majority of records were digital...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-03-04",
+        "dateForAnswer": "2026-03-09",
+        "dateAnswered": "2026-03-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-04/117673"
+      },
+      {
+        "id": 1880972,
+        "uin": "112573",
+        "heading": "Energy: Data Centres",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what recent assessment he has made of the adequacy of the capacity of (a) energy suppliers and (b) the National Grid to provide power for the cooling systems for proposed new AI data centres.",
+        "answerText": "The Department’s energy and emissions projections include growth in power demand from computing services such as data centres. However, to ensure a comprehensive view of the energy system, the methodology projects at a broader sector level, not disaggrega...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-02-11",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-02-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112573"
+      },
+      {
+        "id": 1880135,
+        "uin": "112099",
+        "heading": "Civil Servants: Workplace Pensions",
+        "questionText": "To ask the Minister for the Cabinet Office, who will pay the costs of resolving issues related to the administration of the Civil Service Pension scheme by Capita.",
+        "answerText": "The Cabinet Office awarded the contract to administer the Civil Service Pension Scheme to Capita in November 2023 under the previous government. The then Paymaster General and Minister for the Cabinet Office, Jeremy Quin MP, had overall responsibility for...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-02-10",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-03-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-10/112099"
+      },
+      {
+        "id": 1880134,
+        "uin": "112098",
+        "heading": "Civil Servants: Workplace Pensions",
+        "questionText": "To ask the Minister for the Cabinet Office, whether officials in his Department had discussions with MOD officials on the suitability of Capita to run government contracts prior to the award of the Civil Service pensions contract.",
+        "answerText": "The Cabinet Office awarded the contract to administer the Civil Service Pension Scheme to Capita in November 2023 under the previous government. The then Paymaster General and Minister for the Cabinet Office, Jeremy Quin MP, had overall responsibility for...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-02-10",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-03-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-10/112098"
+      },
+      {
+        "id": 1880133,
+        "uin": "112097",
+        "heading": "Civil Servants: Workplace Pensions",
+        "questionText": "To ask the Minister for the Cabinet Office, which Minister signed off the decision to award the Civil Service Pensions contract to Capita.",
+        "answerText": "The Cabinet Office awarded the contract to administer the Civil Service Pension Scheme to Capita in November 2023 under the previous government. The then Paymaster General and Minister for the Cabinet Office, Jeremy Quin MP, had overall responsibility for...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-02-10",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-03-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-10/112097"
+      },
+      {
+        "id": 1877659,
+        "uin": "109968",
+        "heading": "Cabinet Office: Written Questions",
+        "questionText": "To ask the Minister for the Cabinet Office, when he plans to respond to Question 106942 tabled by the hon. Member for Widnes and Halewood on 20 January 2026.",
+        "answerText": "A response has been issued.",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-02-02",
+        "dateForAnswer": "2026-02-05",
+        "dateAnswered": "2026-04-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-02/109968"
+      },
+      {
+        "id": 1877657,
+        "uin": "109967",
+        "heading": "Cabinet Office: Written Questions",
+        "questionText": "To ask the Minister for the Cabinet Office, when he plans to respond to Question 106941 tabled by the hon. Member for Widnes and Halewood on 20 January 2026.",
+        "answerText": "A response has been issued here.",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-02-02",
+        "dateForAnswer": "2026-02-05",
+        "dateAnswered": "2026-03-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-02/109967"
+      },
+      {
+        "id": 1877652,
+        "uin": "109966",
+        "heading": "Home Office: Written Questions",
+        "questionText": "To ask the Secretary of State for the Home Department, when she plans to respond to Question 101725 tabled by the hon. Member for Widnes and Halewood on 2 January 2026.",
+        "answerText": "The Hon Member received a response to PQ 101725 on 4th February 2026.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Alex Norris",
+        "dateTabled": "2026-02-02",
+        "dateForAnswer": "2026-02-05",
+        "dateAnswered": "2026-02-05",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-02/109966"
+      },
+      {
+        "id": 1873462,
+        "uin": "106942",
+        "heading": "Civil Servants: Workplace Pensions",
+        "questionText": "To ask the Minister for the Cabinet Office, what is the current waiting time for information on pension lump sums requested by members of the Civil Service Pension Scheme.",
+        "answerText": "The Cabinet Office awarded the contract to administer the Civil Service Pension Scheme to Capita in November 2023 under the previous government. The issues and delays facing a number of civil servants and pension scheme members in receiving their pension ...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-01-20",
+        "dateForAnswer": "2026-01-26",
+        "dateAnswered": "2026-04-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-20/106942"
+      },
+      {
+        "id": 1873461,
+        "uin": "106941",
+        "heading": "Civil Servants: Workplace Pensions",
+        "questionText": "To ask the Minister for the Cabinet Office, what action he is taking to decrease the time taken to provide information and payments in respect of the Civil Service Pension Scheme.",
+        "answerText": "The Cabinet Office awarded the contract to administer the Civil Service Pension Scheme to Capita in November 2023 under the previous government. The issues and delays facing a number of civil servants and pension scheme members in receiving their pension ...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-01-20",
+        "dateForAnswer": "2026-01-26",
+        "dateAnswered": "2026-03-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-20/106941"
+      },
+      {
+        "id": 1866729,
+        "uin": "101725",
+        "heading": "Asylum: Deportation",
+        "questionText": "To ask the Secretary of State for the Home Department, further to her oral answer of 17 November 2025, Official Report column 524, what steps she will take to stop asylum seekers who have committed crimes and are deported making a new asylum application a",
+        "answerText": "We are committed to ensuring that any asylum seeker who commits a serious crime in the UK is not granted asylum and is removed or deported as quickly as possible. If deported, the person is prohibited from returning to the UK as long as the deportation or...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Alex Norris",
+        "dateTabled": "2026-01-02",
+        "dateForAnswer": "2026-01-07",
+        "dateAnswered": "2026-02-04",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-02/101725"
+      },
+      {
+        "id": 1863556,
+        "uin": "99482",
+        "heading": "Ministry of Defence: Departmental Expenditure Limits",
+        "questionText": "To ask the Secretary of State for Defence, what the underspend and overspend was for (a) Capital Departmental Expenditure Limit and (b) Resource Departmental Expenditure Limit for the (i) Royal Navy, (ii) Army and (iii) RAF as at 1 November 2025.",
+        "answerText": "Following Defence Reform, the Capital and Resource Expenditure Limits for the front line commands are managed across the Military Strategic Headquarters instead of individually. The Ministry of Defence applies controls and routine financial management to ...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-12-12",
+        "dateForAnswer": "2025-12-17",
+        "dateAnswered": "2025-12-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-12/99482"
+      },
+      {
+        "id": 1859835,
+        "uin": "96615",
+        "heading": "Ajax Vehicles",
+        "questionText": "To ask the Secretary of State for Defence, what recent estimate his Department has made of the cost in (a) time and (b) resource to (i) the Army and (ii) his Department of dealing with problems with the Ajax vehicle.",
+        "answerText": "On 22 November, during a routine training exercise, around 30 soldiers operating in Ajax reported being affected by noise and vibration exposure.Out of an abundance of caution, and in line with our safety protocols, the exercise was halted within 30 minut...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-12-03",
+        "dateForAnswer": "2025-12-08",
+        "dateAnswered": "2025-12-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-03/96615"
+      },
+      {
+        "id": 1859834,
+        "uin": "96614",
+        "heading": "Ajax Vehicles: Noise",
+        "questionText": "To ask the Secretary of State for Defence, What times scale he has been given for the noise and vibration issues with the Ajax vehicle to be resolved.",
+        "answerText": "On 22 November, during a routine training exercise, around 30 soldiers operating in Ajax reported being affected by noise and vibration exposure. As a result, I directed the Army to pause all use of Ajax for training and exercising, while a safety investi...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-12-03",
+        "dateForAnswer": "2025-12-08",
+        "dateAnswered": "2025-12-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-03/96614"
+      },
+      {
+        "id": 1859833,
+        "uin": "96613",
+        "heading": "Army: Vehicles",
+        "questionText": "To ask the Secretary of State for Defence, what his estimate is for carrying out the necessary repairs for the fleet of MAN Logistic Support Vehicles; and how long will it be before the whole fleet is back in service.",
+        "answerText": "Repair analysis is ongoing; however, initial estimates indicate that all vehicles will be returned to full use by early 2026 in accordance with formation priorities.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-12-03",
+        "dateForAnswer": "2025-12-08",
+        "dateAnswered": "2025-12-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-03/96613"
+      },
+      {
+        "id": 1859832,
+        "uin": "96612",
+        "heading": "Army: Vehicles",
+        "questionText": "To ask the Secretary of State for Defence, where were the Army's MAN Logistic Support Vehicle built; and what is the age of the vehicles.",
+        "answerText": "The vehicles were manufactured under the responsibility of MAN Truck & Bus UK (MTB UK). The base was produced at MAN’s facilities in Germany and Austria, with UK-specific modifications integrated by MTB UK and specialist subcontractors within the UK. ...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-12-03",
+        "dateForAnswer": "2025-12-08",
+        "dateAnswered": "2025-12-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-03/96612"
+      },
+      {
+        "id": 1858630,
+        "uin": "95609",
+        "heading": "Armed Forces: Cost Effectiveness",
+        "questionText": "To ask the Secretary of State for Defence, what amount of financial savings the (a) Royal Navy, (b) Army, and (c) Royal Air Force have been asked to make in financial years (i) 2025-26 and (ii) 2026-27.",
+        "answerText": "I refer the hon. Member to the answer I provided to him in response to his Question 93654 of 24 November 2025. The Ministry of Defence applies in-year controls across the Department to manage performance against the Defence budget and these controls are s...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-12-01",
+        "dateForAnswer": "2025-12-04",
+        "dateAnswered": "2025-12-04",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-01/95609"
+      },
+      {
+        "id": 1856383,
+        "uin": "93653",
+        "heading": "Local Government Finance",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether the Fair Funding Review will ensure that the most deprived areas of the country will receive the biggest increases in funding.",
+        "answerText": "The government published the local government finance policy statement Local government finance policy statement 2026-27 to 2028-29 - GOV.UK and government response to the Fair Funding Review 2.0 on Thursday 20 November which set out the government’s plan...",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Alison McGovern",
+        "dateTabled": "2025-11-24",
+        "dateForAnswer": "2025-11-27",
+        "dateAnswered": "2025-11-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-11-24/93653"
+      },
+      {
+        "id": 1856386,
+        "uin": "93654",
+        "heading": "Armed Forces: Cost Effectiveness",
+        "questionText": "To ask the Secretary of State for Defence, what amount of financial savings the (a) Royal Navy, (b) Army, and (c) Royal Air Force have been asked to make in (i) 2025-26 and (ii) 2026-27.",
+        "answerText": "The Ministry of Defence applies in-year controls across the Department to manage performance against the Defence budget and these controls are subject to continuous review.This approach is part of normal good financial management and ensures that resource...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-11-24",
+        "dateForAnswer": "2025-11-27",
+        "dateAnswered": "2025-11-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-11-24/93654"
+      },
+      {
+        "id": 1853736,
+        "uin": "91910",
+        "heading": "Ajax Vehicles: Procurement",
+        "questionText": "To ask the Secretary of State for Defence, by what date he expects to have a full fleet of Ajax armoured vehicles.",
+        "answerText": "On current plans, Full Operating Capability for the Armoured Cavalry Programme is expected to be achieved by the end of 2029.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-11-18",
+        "dateForAnswer": "2025-11-24",
+        "dateAnswered": "2025-11-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-11-18/91910"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 12,
+        "No": 13
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2366,
+          "number": 16,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 94,
+          "noCount": 297,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2366"
+        },
+        {
+          "id": 2365,
+          "number": 15,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 20",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 90,
+          "noCount": 290,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2365"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2338,
+          "number": 503,
+          "date": "2026-04-22",
+          "title": "Children's Wellbeing and Schools Bill: motion to insist on Amendment 38J and disagree with Lords Amendments 38V to 38X",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 260,
+          "noCount": 161,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2338"
+        },
+        {
+          "id": 2337,
+          "number": 502,
+          "date": "2026-04-22",
+          "title": "Pensions Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88A and 88C and propose amendments (a) to (j) in lieu of Amendment 88B",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 272,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2337"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 12921,
+            "text": "Member of the Executive of the British American Parliamentary Group (BAPG). This is an unpaid role. Date interest arose: 30 October 2024 (Registered 17 July 2025)",
+            "createdWhen": "2026-02-23",
+            "amendedWhen": "2025-08-05",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Energy: Data Centres",
+        "date": "2026-02-11",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what recent assessment he has made of the adequacy of the capacity of (a) energy suppliers and (b) the National Grid to provide power for the cooling systems for proposed new AI data centres.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112573"
+      },
+      {
+        "kind": "Written question",
+        "title": "Asylum: Deportation",
+        "date": "2026-01-02",
+        "summary": "To ask the Secretary of State for the Home Department, further to her oral answer of 17 November 2025, Official Report column 524, what steps she will take to stop asylum seekers who have committed crimes and are deported making a new asylum application a",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-02/101725"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ministry of Defence: Departmental Expenditure Limits",
+        "date": "2025-12-12",
+        "summary": "To ask the Secretary of State for Defence, what the underspend and overspend was for (a) Capital Departmental Expenditure Limit and (b) Resource Departmental Expenditure Limit for the (i) Royal Navy, (ii) Army and (iii) RAF as at 1 November 2025.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-12/99482"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ajax Vehicles",
+        "date": "2025-12-03",
+        "summary": "To ask the Secretary of State for Defence, what recent estimate his Department has made of the cost in (a) time and (b) resource to (i) the Army and (ii) his Department of dealing with problems with the Ajax vehicle.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-03/96615"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ajax Vehicles: Noise",
+        "date": "2025-12-03",
+        "summary": "To ask the Secretary of State for Defence, What times scale he has been given for the noise and vibration issues with the Ajax vehicle to be resolved.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-03/96614"
+      },
+      {
+        "kind": "Written question",
+        "title": "Army: Vehicles",
+        "date": "2025-12-03",
+        "summary": "To ask the Secretary of State for Defence, what his estimate is for carrying out the necessary repairs for the fleet of MAN Logistic Support Vehicles; and how long will it be before the whole fleet is back in service.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-03/96613"
+      },
+      {
+        "kind": "Written question",
+        "title": "Army: Vehicles",
+        "date": "2025-12-03",
+        "summary": "To ask the Secretary of State for Defence, where were the Army's MAN Logistic Support Vehicle built; and what is the age of the vehicles.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-03/96612"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Cost Effectiveness",
+        "date": "2025-12-01",
+        "summary": "To ask the Secretary of State for Defence, what amount of financial savings the (a) Royal Navy, (b) Army, and (c) Royal Air Force have been asked to make in financial years (i) 2025-26 and (ii) 2026-27.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-01/95609"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Cost Effectiveness",
+        "date": "2025-11-24",
+        "summary": "To ask the Secretary of State for Defence, what amount of financial savings the (a) Royal Navy, (b) Army, and (c) Royal Air Force have been asked to make in (i) 2025-26 and (ii) 2026-27.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-11-24/93654"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ajax Vehicles: Procurement",
+        "date": "2025-11-18",
+        "summary": "To ask the Secretary of State for Defence, by what date he expects to have a full fleet of Ajax armoured vehicles.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-11-18/91910"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 304, Noes 28.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 308, Noes 81.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+        "date": "2026-04-22",
+        "summary": "Aye; Ayes 380, Noes 7.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

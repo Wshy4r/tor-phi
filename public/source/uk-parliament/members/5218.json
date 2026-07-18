@@ -1,0 +1,893 @@
+{
+  "member": {
+    "id": "5218",
+    "slug": "david-smith",
+    "name": "David Smith",
+    "sortName": "Smith, David",
+    "fullTitle": "David Smith MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "North Northumberland",
+    "house": "House of Commons",
+    "role": "MP for North Northumberland",
+    "officialUrl": "https://members.parliament.uk/member/5218/contact",
+    "recordUrl": "/country/uk/parliament/david-smith/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5218/Thumbnail",
+    "currentMembership": {
+      "constituency": "North Northumberland",
+      "constituencyId": 4212,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "david.smith.mp@parliament.uk"
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Berwick Office, Berwick Workspace, 90 Marygate, Berwick upon Tweed, TD15 1BN",
+        "Morpeth Office, 13 Telford Court, Morpeth, NE61 2DB",
+        "https://davidsmithnorth.co.uk/",
+        "https://www.facebook.com/DavidSmithNorthNorthumberland",
+        "https://x.com/dsnorthnorth"
+      ],
+      "websites": [
+        "https://davidsmithnorth.co.uk/"
+      ],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/DavidSmithNorthNorthumberland"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://x.com/dsnorthnorth"
+        ]
+      ]
+    },
+    "synopsis": "David Smith is the Labour MP for North Northumberland , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/david-smith/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5218/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5218"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5218/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5218/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5218/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5218/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5218"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-29",
+    "registeredInterestCount": 5
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/david-smith/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5218/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5218"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5218/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5218/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5218/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5218/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5218"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1921965,
+        "uin": "14175",
+        "heading": "Powers of Attorney: Universal Credit",
+        "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the potential impact of the Office of the Public Guardian’s fee exemption criteria for Lasting Powers of Attorney on people migrated from income-related Employment and Support Allow",
+        "answerText": "The criteria for the remission of or exemption from fees are prescribed in secondary legislation, namely the Public Guardian (Fees etc.) Regulations 2007 (Fees Regulations). The Fees Regulations require the Office of the Public Guardian (OPG) to grant a f...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Catherine Atkinson",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14175"
+      },
+      {
+        "id": 1911999,
+        "uin": "6609",
+        "heading": "Trees: Environment Protection",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate she has made of the cost to local authorities of removing hard plastic tree guards at the end of the usage cycle.",
+        "answerText": "It has not been possible to produce a single robust estimate of the cost to local authorities of removing hard plastic tree guards as costs vary depending on local circumstances, scale of planting and disposal arrangements. Tree planting grants recognise ...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6609"
+      },
+      {
+        "id": 1911998,
+        "uin": "6608",
+        "heading": "Trees: Environment Protection",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the environmental merits of biodegradable alternatives to hard plastic tree guards.",
+        "answerText": "The Department recognises the need to reduce the environmental impact of plastics in forestry, including tree guards. Forestry England is part of the UK Forest Industry Plastics Working Group, which focuses on reducing single-use plastics and exploring al...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6608"
+      },
+      {
+        "id": 1910951,
+        "uin": "5827",
+        "heading": "Security Guards: Retail Trade",
+        "questionText": "To ask the Secretary of State for the Home Department, whether her Department is taking steps to work with private security companies to ensure that security staff are provided with appropriate personal protective equipment (PPE) when operating in retail",
+        "answerText": "The Security Industry Authority (SIA) is the regulator of the private security industry and continues to work with security businesses to improve standards, training, and best practice in support of public safety. It is for individual businesses to determ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dan Jarvis",
+        "dateTabled": "2026-06-01",
+        "dateForAnswer": "2026-06-03",
+        "dateAnswered": "2026-06-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5827"
+      },
+      {
+        "id": 1901834,
+        "uin": "128885",
+        "heading": "Bank Services: Financial Conduct Authority",
+        "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential merits of the Treasury expanding the FCA’s remit to include in-person banking services.",
+        "answerText": "The Government supports initiatives which give customers access to in-person banking, as well as digital access. The Government is committed to supporting the financial services industry’s roll-out of 350 banking hubs by the end of this Parliament. Over...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-04-21",
+        "dateForAnswer": "2026-04-23",
+        "dateAnswered": "2026-04-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-21/128885"
+      },
+      {
+        "id": 1900193,
+        "uin": "127766",
+        "heading": "ME/CFS: Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of progress on the establishment of a specialised NHS service for people with very severe Myalgic Encephalomyelitis/Chronic Fatigue Syndrome, including t",
+        "answerText": "The action within July 2025’s final delivery plan on myalgic encephalomyelitis, also known as chronic fatigue syndrome (ME/CFS), to consider whether a specialised service should be prescribed by my Rt Hon. Friend, the Secretary of State for Health and Soc...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-04-15",
+        "dateForAnswer": "2026-04-20",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-15/127766"
+      },
+      {
+        "id": 1900192,
+        "uin": "127765",
+        "heading": "Banking Hubs",
+        "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of voluntary industry commitments to deliver banking hubs on adequate assurance of long term access to in person banking services.",
+        "answerText": "Banking is changing, with many customers benefitting from the convenience and flexibility of managing their finances remotely. However, the Government understands the importance of access to in‑person banking services for communities and high streets and ...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-04-15",
+        "dateForAnswer": "2026-04-20",
+        "dateAnswered": "2026-04-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-15/127765"
+      },
+      {
+        "id": 1899055,
+        "uin": "127026",
+        "heading": "Energy: Finance",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps his Department is taking to ensure that energy development project special purpose vehicles cover the financial liability of decommissioning.",
+        "answerText": "The Department operates a statutory scheme under the Energy Act 2004 to ensure that those responsible for constructing offshore energy installations are responsible for covering the financial liability of decommissioning. Regardless of how an installation...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-04-13",
+        "dateForAnswer": "2026-04-15",
+        "dateAnswered": "2026-04-21",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-13/127026"
+      },
+      {
+        "id": 1898023,
+        "uin": "125969",
+        "heading": "Post Office: Bank Services",
+        "questionText": "To ask the Secretary of State for Business and Trade, with reference to the Government response to the Future of Post Office Green Paper, whether her Department plans to facilitate discussions on potential collaboration between the Post Office and the ban",
+        "answerText": "On 21 January 2026, the government held joint discussions between the Post Office and the banking sector to explore where continued collaboration, on a commercial and voluntary basis, would allow all parties to better meet the needs of individuals and bus...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Blair McDougall",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/125969"
+      },
+      {
+        "id": 1895574,
+        "uin": "124347",
+        "heading": "Neurodiversity: Diagnosis",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential merits of informing parents/guardians of the estimated wait time for an autism or ADHD assessment upon application.",
+        "answerText": "The Government has recognised that, nationally, demand for assessments for autism and attention deficit hyperactivity disorder (ADHD) has grown significantly in recent years and that people are experiencing severe delays for accessing such assessments. Th...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Dr Zubir Ahmed",
+        "dateTabled": "2026-03-26",
+        "dateForAnswer": "2026-04-13",
+        "dateAnswered": "2026-04-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-26/124347"
+      },
+      {
+        "id": 1895573,
+        "uin": "124346",
+        "heading": "Students: Loans",
+        "questionText": "To ask the Secretary of State for Education, what steps the Government is taking to help ensure that those currently repaying Plan 2 student loans are able to pay off the initial capital owed and return to solvency.",
+        "answerText": "Student loans are not like commercial loans, as they carry significant protections for borrowers, and repayments are linked to income, not to the amount borrowed or interest applied. As repayments remain income-contingent, if a borrower’s salary remains t...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-03-26",
+        "dateForAnswer": "2026-04-13",
+        "dateAnswered": "2026-04-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-26/124346"
+      },
+      {
+        "id": 1894829,
+        "uin": "123863",
+        "heading": "Mental Health: Children",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact on children's mental health of an expanded play therapy offer in the NHS.",
+        "answerText": "Whilst no such specific assessment has been made of the impact on children’s mental health of an expanded play therapy offer in the National Health Service, we are committed to ensuring that children and young people can access the support they need for t...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Dr Zubir Ahmed",
+        "dateTabled": "2026-03-25",
+        "dateForAnswer": "2026-04-13",
+        "dateAnswered": "2026-04-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-25/123863"
+      },
+      {
+        "id": 1894162,
+        "uin": "123367",
+        "heading": "Poultry: Animal Housing",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department has made an assessment of the potential merits of introducing import restrictions on enriched cages for laying hens, pullets and breeder layers.",
+        "answerText": "I refer the hon. Member to the answer given on 18 March 2026 to the hon. Member for Newcastle upon Tyne East and Wallsend, PQ UIN 120331.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-03-24",
+        "dateForAnswer": "2026-03-25",
+        "dateAnswered": "2026-03-31",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-24/123367"
+      },
+      {
+        "id": 1893958,
+        "uin": "123055",
+        "heading": "Childcare: Finance",
+        "questionText": "To ask the Secretary of State for Education, what capital funding is available to increase the number of childcare places in settings that are already at capacity, including those operating within primary schools.",
+        "answerText": "High-quality early years education is central to our mission to break down barriers to opportunity, give every child the best possible start in life, and is essential to our Plan for Change. This government is boosting availability and access through the ...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-03-23",
+        "dateForAnswer": "2026-03-25",
+        "dateAnswered": "2026-04-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-23/123055"
+      },
+      {
+        "id": 1891028,
+        "uin": "120692",
+        "heading": "Railways: Housing",
+        "questionText": "To ask the Secretary of State for Transport, what assessment he has made of the potential impact of housing repairs that require contributions from Network Rail before proceeding on financial costs to homeowners.",
+        "answerText": "Network Rail is responsible for assessing and managing potential impacts that its infrastructure or activities may have on neighbouring properties. Where homeowners believe that damage may be linked to railway operations, assets or work, Network Rail has ...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-03-13",
+        "dateForAnswer": "2026-03-17",
+        "dateAnswered": "2026-03-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-13/120692"
+      },
+      {
+        "id": 1891029,
+        "uin": "120693",
+        "heading": "Railways: Housing",
+        "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to help ensure that homeowners near railway lines being (a) created and (b) reopened are informed of the potential impact of new electrification or rail infrastructure on the",
+        "answerText": "The Department for Transport expects Network Rail to proactively and transparently engage with lineside neighbours who live close to major rail infrastructure works. Network Rail’s established consultation and communication procedures require project team...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-03-13",
+        "dateForAnswer": "2026-03-17",
+        "dateAnswered": "2026-03-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-13/120693"
+      },
+      {
+        "id": 1886699,
+        "uin": "117548",
+        "heading": "Gift Aid",
+        "questionText": "To ask the Chancellor of the Exchequer, what progress her Department has made in amending the rules on Gift Aid.",
+        "answerText": "The government is pleased to confirm that charities will continue to be eligible for Gift Aid following implementation of the Digital Markets, Competition and Consumers Act 2024. HMRC has published guidance setting out that where subscriptions are current...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-03-03",
+        "dateForAnswer": "2026-03-05",
+        "dateAnswered": "2026-03-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-03/117548"
+      },
+      {
+        "id": 1886436,
+        "uin": "117177",
+        "heading": "Motability",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking to ensure that recent changes to the Motability Scheme, including the removal of VAT zero-rating on advance payments and the introduction of Insurance Premium Tax on",
+        "answerText": "The Motability Scheme is a lifeline for many disabled people and families, supporting their independence by enabling them to lease a car, wheelchair accessible vehicle, scooter or powered wheelchair in exchange for an eligible disability benefit allowance...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2026-03-02",
+        "dateForAnswer": "2026-03-04",
+        "dateAnswered": "2026-03-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-02/117177"
+      },
+      {
+        "id": 1884131,
+        "uin": "115305",
+        "heading": "School Games: Finance",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what plans her Department has for funding the School Games Organiser Network after July 2026.",
+        "answerText": "The Government has now confirmed funding for the SGO Network until the end of the 2026/27 financial year.",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Stephanie Peacock",
+        "dateTabled": "2026-02-23",
+        "dateForAnswer": "2026-02-25",
+        "dateAnswered": "2026-04-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-23/115305"
+      },
+      {
+        "id": 1884130,
+        "uin": "115304",
+        "heading": "Primary Education: Physical Education and Sports",
+        "questionText": "To ask the Secretary of State for Education, whether she has made an assessment of how Primary PE and Sport will be funded in the 2026–27 academic year; and when she plans to announce future funding arrangements for the Primary PE and Sport Premium.",
+        "answerText": "Arrangements for the funding of PE and sport in the 2026/27 academic year and future will be confirmed in due course.",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Georgia Gould",
+        "dateTabled": "2026-02-23",
+        "dateForAnswer": "2026-02-25",
+        "dateAnswered": "2026-03-03",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-23/115304"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 11,
+        "No": 14
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2366,
+          "number": 16,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 94,
+          "noCount": 297,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2366"
+        },
+        {
+          "id": 2365,
+          "number": 15,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 20",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 90,
+          "noCount": 290,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2365"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 7,
+        "category": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+        "items": [
+          {
+            "id": 6255,
+            "text": "Type of land/property: Residential property Number of properties: 1 Location: Northumberland Ownership details: Co-owned with a family member Rental income: until 28 October 2024 Rental income details: The rental was paid to my family member (Registered 15 July 2024; updated 16 October 2025)",
+            "createdWhen": "2026-02-13",
+            "amendedWhen": "2025-11-21",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 6250,
+            "text": "Trustee, Together for the Common Good. This is an unpaid role. Date interest ended: 23 January 2026 (Registered 15 July 2024; updated 24 January 2026)",
+            "createdWhen": "2026-02-03",
+            "amendedWhen": "2025-07-16",
+            "isCorrection": false
+          },
+          {
+            "id": 11899,
+            "text": "Formal Appointment by the Government as the UK Special Envoy for Freedom of Religion or Belief. This is an unpaid role. Date interest arose: 27 February 2025 (Registered 28 February 2025)",
+            "createdWhen": "2026-03-02",
+            "amendedWhen": "2025-03-25",
+            "isCorrection": false
+          },
+          {
+            "id": 13795,
+            "text": "Director of Blue Labour Campaign Limited. This is an unpaid role. Date interest arose: 22 October 2025 (Registered 7 November 2025)",
+            "createdWhen": "2025-11-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14401,
+            "text": "I was elected as Secretary of the Labour Rural Research Group (LRRG), a formally constituted group within the Labour Party focused on rural policy development and advocacy. This is an unpaid role. I work with the Exec to provide strategic direction and organisation for the group. Date interest arose: 12 January 2026 (Registered 24 January 2026)",
+            "createdWhen": "2026-02-03",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Security Guards: Retail Trade",
+        "date": "2026-06-01",
+        "summary": "To ask the Secretary of State for the Home Department, whether her Department is taking steps to work with private security companies to ensure that security staff are provided with appropriate personal protective equipment (PPE) when operating in retail",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5827"
+      },
+      {
+        "kind": "Written question",
+        "title": "Energy: Finance",
+        "date": "2026-04-13",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps his Department is taking to ensure that energy development project special purpose vehicles cover the financial liability of decommissioning.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-13/127026"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 304, Noes 28.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 308, Noes 81.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

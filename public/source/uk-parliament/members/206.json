@@ -1,0 +1,971 @@
+{
+  "member": {
+    "id": "206",
+    "slug": "mr-david-lammy",
+    "name": "Mr David Lammy",
+    "sortName": "Lammy, Mr David",
+    "fullTitle": "Rt Hon David Lammy MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Tottenham",
+    "house": "House of Commons",
+    "role": "MP for Tottenham",
+    "officialUrl": "https://members.parliament.uk/member/206/contact",
+    "recordUrl": "/country/uk/parliament/mr-david-lammy/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/206/Thumbnail",
+    "currentMembership": {
+      "constituency": "Tottenham",
+      "constituencyId": 4368,
+      "startDate": "2000-06-22",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "david.lammy.mp@parliament.uk "
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "http://www.davidlammy.co.uk",
+        "https://twitter.com/DavidLammy"
+      ],
+      "websites": [
+        "http://www.davidlammy.co.uk"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/DavidLammy"
+        ]
+      ]
+    },
+    "synopsis": "The Rt Hon Mr David Lammy is the Labour MP for Tottenham , and has been an MP continually since 22 June 2000. He currently holds the Government posts of Deputy Prime Minister, and Lord Chancellor and Secretary of State for Justice.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/mr-david-lammy/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/206/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/206"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/206/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/206/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/206/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/206/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=206"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-01",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-03-07",
+    "registeredInterestCount": 4
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/mr-david-lammy/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/206/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/206"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/206/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/206/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/206/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/206/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=206"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1694653,
+        "uin": "17488",
+        "heading": "Foreign, Commonwealth and Development Office: Defamation",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, with reference to paragraphs 7.16 and 7.17 of the Ministerial Code, on how many occasions Ministers in his Department have informed the Law Officers that they are the defendants i",
+        "answerText": "The FCDO are unable to confirm these details in line with paragraph 2.13 of the Ministerial Code which states: \"The fact that the Law Officers have advised or have not advised and the content of their advice must not be disclosed outside Government withou...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17488"
+      },
+      {
+        "id": 1681950,
+        "uin": "9379",
+        "heading": "China: Climate Change",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps he has taken to collaborate with the People’s Republic of China on climate change.",
+        "answerText": "The UK is committed to working with China on climate change, as part of the \"engage\" pillar of our policy towards China. China is the largest emitter of carbon and the largest investor in sustainable energy. The choices that China makes will be critical t...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Anne-Marie Trevelyan",
+        "dateTabled": "2024-01-15",
+        "dateForAnswer": "2024-01-17",
+        "dateAnswered": "2024-01-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9379"
+      },
+      {
+        "id": 1681951,
+        "uin": "9380",
+        "heading": "China: Foreign Relations",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how many ministerial there have been to the People’s Republic of China in the last twelve months.",
+        "answerText": "The former Foreign Secretary James Cleverly visited Beijing in August 2023 and had bilateral meetings with Foreign Minister Wang Yi and Vice President Han Zheng. Lord Johnson, Minister for Investment, DBT, visited Beijing and Shanghai in September 2023. H...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Anne-Marie Trevelyan",
+        "dateTabled": "2024-01-15",
+        "dateForAnswer": "2024-01-17",
+        "dateAnswered": "2024-01-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9380"
+      },
+      {
+        "id": 1681945,
+        "uin": "9376",
+        "heading": "China: Foreign Relations",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how many discussions he had with his counterpart in the People’s Republic of China in the final quarter of 2023.",
+        "answerText": "The Foreign Secretary had a phone call with Foreign Minister and Director of the Office of the Foreign Affairs Commission Wang Yi on 5 December 2023. During the conversation, the Foreign Secretary and Wang Yi discussed the UK-China relationship, the situa...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Anne-Marie Trevelyan",
+        "dateTabled": "2024-01-15",
+        "dateForAnswer": "2024-01-17",
+        "dateAnswered": "2024-01-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9376"
+      },
+      {
+        "id": 1681946,
+        "uin": "9377",
+        "heading": "China: Taiwan",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps he has taken to help prevent risk of conflict in the Taiwan Strait.",
+        "answerText": "The UK has a clear interest in peace and stability in the Taiwan Strait. We consider the Taiwan issue one to be settled peacefully by the people on both sides of the Taiwan Strait through constructive dialogue, without the threat or use of force or coerci...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Anne-Marie Trevelyan",
+        "dateTabled": "2024-01-15",
+        "dateForAnswer": "2024-01-17",
+        "dateAnswered": "2024-01-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9377"
+      },
+      {
+        "id": 1681947,
+        "uin": "9378",
+        "heading": "China: Taiwan",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what assessment he has made of the potential implications for his policies of the increase in Chinese aerial incursions and military activity in the Taiwan Strait.",
+        "answerText": "The UK has a clear interest in peace and stability in the Taiwan Strait. We consider the Taiwan issue one to be settled peacefully by the people on both sides of the Taiwan Strait through constructive dialogue, without the threat or use of force or coerci...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Anne-Marie Trevelyan",
+        "dateTabled": "2024-01-15",
+        "dateForAnswer": "2024-01-18",
+        "dateAnswered": "2024-01-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9378"
+      },
+      {
+        "id": 1681881,
+        "uin": "9375",
+        "heading": "Ukraine: International Assistance",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what recent discussions he has had with his international counterparts on the adequacy of aid to Ukraine.",
+        "answerText": "On his 12 January visit to Kyiv, the Prime Minister reiterated the UK's unwavering support for Ukraine as he announced increased UK military funding of £2.5 billion for next financial year and signed an historic UK-Ukraine Agreement on Security Cooperatio...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Leo Docherty",
+        "dateTabled": "2024-01-15",
+        "dateForAnswer": "2024-01-18",
+        "dateAnswered": "2024-01-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9375"
+      },
+      {
+        "id": 1681777,
+        "uin": "9318",
+        "heading": "Ukraine: Development Aid",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how much official development assistance his Department plans to provide to Ukraine in the (a) 2023-24 and (b) 2024-25 financial years.",
+        "answerText": "The total UK military, humanitarian and economic support committed to Ukraine since the invasion now amounts to almost £12 billion. In 2023/24 the FCDO plans to provide £223.3 million of Official Development Assistance for Ukraine, with a focus on providi...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Leo Docherty",
+        "dateTabled": "2024-01-12",
+        "dateForAnswer": "2024-01-17",
+        "dateAnswered": "2024-01-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-12/9318"
+      },
+      {
+        "id": 1681780,
+        "uin": "9321",
+        "heading": "North Korea: Russia",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps he has taken to help prevent the supply of Democratic People's Republic of Korea ammunitions to Russia.",
+        "answerText": "The UK strongly condemns the Democratic People's Republic of Korea's (DPRK) export and Russia's procurement of DPRK ballistic missiles, and Russia's decision to use DPRK-supplied missiles in recent attacks against Ukraine. The transfer of these weapons in...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Leo Docherty",
+        "dateTabled": "2024-01-12",
+        "dateForAnswer": "2024-01-17",
+        "dateAnswered": "2024-01-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-12/9321"
+      },
+      {
+        "id": 1681778,
+        "uin": "9319",
+        "heading": "Russia: Ukraine",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what assessment he has made of the implications for his policies of Russia’s escalating air attacks on Ukraine.",
+        "answerText": "Russia's latest bombardment has come at vast cost - and significantly depleted their stockpiles - with limited strategic military effect. We deplore the recent attacks which have resulted in over 90 civilian casualties, including children. We are sending ...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Leo Docherty",
+        "dateTabled": "2024-01-12",
+        "dateForAnswer": "2024-01-17",
+        "dateAnswered": "2024-01-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-12/9319"
+      },
+      {
+        "id": 1681779,
+        "uin": "9320",
+        "heading": "Iran: Russia",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps he has taken to help prevent the supply of Iranian drones to Russia.",
+        "answerText": "The UK strongly condemns Iran's provision of unmanned aerial vehicles (UAVs) to Russia, which have been used to kill Ukrainian civilians and attack critical infrastructure. We continue to expose this desperate alliance and hold Iran to account for its sup...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Leo Docherty",
+        "dateTabled": "2024-01-12",
+        "dateForAnswer": "2024-01-17",
+        "dateAnswered": "2024-01-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-12/9320"
+      },
+      {
+        "id": 1678213,
+        "uin": "6963",
+        "heading": "Guyana: Venezuela",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, whether he has had discussions with his counterpart in Venezuela on the border dispute with Guyana in the last three months.",
+        "answerText": "The UK Government does not recognise the legitimacy of the Maduro regime. The recent steps taken by Venezuela with respect to the Essequibo region of Guyana are unjustified and should cease. The UK supports Guyana's territorial integrity. We are clear tha...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2023-12-14",
+        "dateForAnswer": "2023-12-18",
+        "dateAnswered": "2023-12-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-14/6963"
+      },
+      {
+        "id": 1675183,
+        "uin": "4905",
+        "heading": "Foreign, Commonwealth and Development Office: Consultants",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how much his Department has spent on external consultancy fees in each of the last ten years.",
+        "answerText": "FCDO consultancy spend in 2020-21, 2021-22 and 2022-2023 was £2.7 million, £1.4 million and £3.9 million respectively. Total FCO plus DFID spend for years 2019-20, 2018-19, 2017-18, 2016-17 and 2015-16 was £3.0 million, £2.6 milion, £1.3 million, £3.3 mil...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2023-12-04",
+        "dateForAnswer": "2023-12-07",
+        "dateAnswered": "2023-12-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-04/4905"
+      },
+      {
+        "id": 1675184,
+        "uin": "4906",
+        "heading": "Foreign, Commonwealth and Development Office: Agency Workers",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how much his Department spent on temporary agency staff in each of the past ten years.",
+        "answerText": "Total temporary agency staff spend for those financial years are in the table below. This information is published in FCDO's Annual Report & Accounts and can be found online.YEAR£mFY20137.68FY20148.10FY20155.56FY20165.03FY20176.34FY20184.09FY20196.66FY202...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2023-12-04",
+        "dateForAnswer": "2023-12-07",
+        "dateAnswered": "2023-12-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-04/4906"
+      },
+      {
+        "id": 1669995,
+        "uin": "1780",
+        "heading": "Western Sahara: Peace Negotiations",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what assessment he has made of the implications for his policies of the security situation in Western Sahara; and what steps he is taking with his international counterparts to he",
+        "answerText": "The UK supported United Nations Security Council Resolution 2703 on 30 October, which renewed the United Nations Mission for the Referendum in Western Sahara (MINURSO) mandate for 12 months. The UK supports UN-led efforts to reach a just, lasting, and mut...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2023-11-14",
+        "dateForAnswer": "2023-11-16",
+        "dateAnswered": "2023-11-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1780"
+      },
+      {
+        "id": 1669997,
+        "uin": "1782",
+        "heading": "Alaa Abd El-Fattah",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, when he last held discussions with his Egyptian counterpart on the case of Alaa Abdel Fattah.",
+        "answerText": "Ministers and officials continue to raise Mr El-Fattah's case at the highest levels with the Egyptian Government and have been consistently clear in our calls for his release, whilst continuing to press the need for urgent consular access. The Prime Minis...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2023-11-14",
+        "dateForAnswer": "2023-11-16",
+        "dateAnswered": "2023-11-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1782"
+      },
+      {
+        "id": 1669994,
+        "uin": "1779",
+        "heading": "Afghanistan: Earthquakes",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps his Department is taking to provide support to Afghanistan following the earthquakes in October 2023.",
+        "answerText": "Following the first earthquake on 7 October, FCDO quickly allocated £1 million to the Red Cross to help meet emergency needs, and a further £1 million to the Afghanistan Humanitarian Fund (AHF) in response to further shocks. This support will ensure affec...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Leo Docherty",
+        "dateTabled": "2023-11-14",
+        "dateForAnswer": "2023-11-16",
+        "dateAnswered": "2023-11-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1779"
+      },
+      {
+        "id": 1669993,
+        "uin": "1778",
+        "heading": "Israel: West Bank",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, when he last had discussions with his Israeli counterpart on recent increases in violence in the West Bank.",
+        "answerText": "The Foreign Secretary last raised settler violence with his Israeli counterpart on 17 November. Reports of Palestinian civilians being murdered by settlers in Occupied Palestinian Territories are appalling. Whilst we welcome statements from Israeli Minist...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2023-11-14",
+        "dateForAnswer": "2023-11-16",
+        "dateAnswered": "2023-11-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1778"
+      },
+      {
+        "id": 1669992,
+        "uin": "1777",
+        "heading": "Israel: Palestinians",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what recent discussions he has had with his (a) Israeli and (b) Palestinian counterparts on the recent escalation of violence in the West Bank.",
+        "answerText": "The Foreign Secretary last raised settler violence with his Israeli counterpart on 17 November. Reports of Palestinian civilians being murdered by settlers in Occupied Palestinian Territories are appalling. Whilst we welcome statements from Israeli Minist...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2023-11-14",
+        "dateForAnswer": "2023-11-16",
+        "dateAnswered": "2023-11-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1777"
+      },
+      {
+        "id": 1669988,
+        "uin": "1773",
+        "heading": "Gaza: British Nationals Abroad",
+        "questionText": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what discussions he has had with his (a) Egyptian and (b) Israeli counterparts on ensuring British nationals fleeing Gaza are not separated from their families.",
+        "answerText": "As the Prime Minister and former Foreign Secretary have said, the safety of British nationals remains our top priority. We are working closely with the Egyptian and Israeli authorities round the clock to ensure our British nationals can leave Gaza as soon...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2023-11-14",
+        "dateForAnswer": "2023-11-16",
+        "dateAnswered": "2023-11-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1773"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-01",
+      "totals": {
+        "Aye": 18,
+        "No": 7
+      },
+      "recent": [
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        },
+        {
+          "id": 2354,
+          "number": 4,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (p)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 316,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2354"
+        },
+        {
+          "id": 2353,
+          "number": 3,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (l)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 78,
+          "noCount": 408,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2353"
+        },
+        {
+          "id": 2352,
+          "number": 2,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (o)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2352"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2345,
+          "number": 510,
+          "date": "2026-04-27",
+          "title": "Northern Ireland Troubles Bill: Carry-over motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 176,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2345"
+        },
+        {
+          "id": 2344,
+          "number": 509,
+          "date": "2026-04-27",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on its Amendments 88A, 88C and 88E to 88P and propose Amendments (a) to (f)",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 164,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2344"
+        },
+        {
+          "id": 2343,
+          "number": 508,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: Amendments (a) to (h) in lieu of Lords Amendments 85 and 86, 97 to 116, 120, 121 and 123",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 271,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2343"
+        },
+        {
+          "id": 2342,
+          "number": 507,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 94B and 94C",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 269,
+          "noCount": 170,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2342"
+        },
+        {
+          "id": 2340,
+          "number": 505,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 89B and 89C",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 273,
+          "noCount": 167,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2340"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        },
+        {
+          "id": 2325,
+          "number": 490,
+          "date": "2026-04-20",
+          "title": "Crime and Policing Bill: Amendments (a) to (d) in lieu of Lords Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 156,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2325"
+        },
+        {
+          "id": 2324,
+          "number": 489,
+          "date": "2026-04-20",
+          "title": "Crime and Policing Bill: Amendment (a) to Amendment 2B and Amendment (b) to Amendment 2C in lieu of Lords Amendments 2D and 2E",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 293,
+          "noCount": 159,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2324"
+        },
+        {
+          "id": 2298,
+          "number": 466,
+          "date": "2026-03-25",
+          "title": "Victims and Courts Bill: motion to disagree with Lords Amendment 6",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 290,
+          "noCount": 163,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2298"
+        },
+        {
+          "id": 2297,
+          "number": 465,
+          "date": "2026-03-25",
+          "title": "Victims and Courts Bill: motion to disagree with Lords Amendment 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 292,
+          "noCount": 162,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2297"
+        },
+        {
+          "id": 2296,
+          "number": 464,
+          "date": "2026-03-25",
+          "title": "Victims and Courts Bill: motion to disagree with Lords Amendment 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 300,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2296"
+        },
+        {
+          "id": 2295,
+          "number": 463,
+          "date": "2026-03-25",
+          "title": "Victims and Courts Bill: motion to disagree with Lords Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 286,
+          "noCount": 163,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2295"
+        },
+        {
+          "id": 2294,
+          "number": 462,
+          "date": "2026-03-25",
+          "title": "Victims and Courts Bill: motion to disagree with Lords Amendment 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 295,
+          "noCount": 162,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2294"
+        },
+        {
+          "id": 2293,
+          "number": 461,
+          "date": "2026-03-25",
+          "title": "Victims and Courts Bill: motion to disagree with Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 291,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2293"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 15020,
+            "text": "Name of donor: The Football Association Premier League Address of donor: Brunel Building, 57 North Wharf Road, London W2 1HQ Amount of donation or nature and value if donation in kind: Football match and hospitality for David Lammy and guest. A donation of £856 was made by David Lammy to the Premier League Charitable Foundation in thanks, value £856 Date received: 22 March 2026 Date accepted: 22 March 2026 Donor status: company, registration 02719699 (Registered 15 April 2026; updated 30 April 2026)",
+            "createdWhen": "2026-05-27",
+            "amendedWhen": "2026-05-19",
+            "isCorrection": false
+          },
+          {
+            "id": 15389,
+            "text": "Name of donor: Tottenham Hotspur Limited Address of donor: Lilywhite House, 782 High Road, London N17 0BX Amount of donation or nature and value if donation in kind: Two tickets to football match on 11 May 2026. I did not use my ticket but my guest did, value £1,598 Date received: 11 May 2026 Date accepted: 11 May 2026 Donor status: company, registration 01706358 (Registered 8 June 2026)",
+            "createdWhen": "2026-06-16",
+            "amendedWhen": "2026-06-16",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+        "items": [
+          {
+            "id": 2182,
+            "text": "Type of land/property: Residential property Number of properties: 1 Location: Tottenham Rental income: Yes",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 1811,
+            "text": "Barrister (non-practising).",
+            "createdWhen": "2024-08-16",
+            "amendedWhen": "2024-05-13",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Foreign, Commonwealth and Development Office: Defamation",
+        "date": "2024-03-07",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, with reference to paragraphs 7.16 and 7.17 of the Ministerial Code, on how many occasions Ministers in his Department have informed the Law Officers that they are the defendants i",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17488"
+      },
+      {
+        "kind": "Written question",
+        "title": "China: Climate Change",
+        "date": "2024-01-15",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps he has taken to collaborate with the People’s Republic of China on climate change.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9379"
+      },
+      {
+        "kind": "Written question",
+        "title": "China: Foreign Relations",
+        "date": "2024-01-15",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how many ministerial there have been to the People’s Republic of China in the last twelve months.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9380"
+      },
+      {
+        "kind": "Written question",
+        "title": "China: Foreign Relations",
+        "date": "2024-01-15",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how many discussions he had with his counterpart in the People’s Republic of China in the final quarter of 2023.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9376"
+      },
+      {
+        "kind": "Written question",
+        "title": "China: Taiwan",
+        "date": "2024-01-15",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps he has taken to help prevent risk of conflict in the Taiwan Strait.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9377"
+      },
+      {
+        "kind": "Written question",
+        "title": "China: Taiwan",
+        "date": "2024-01-15",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what assessment he has made of the potential implications for his policies of the increase in Chinese aerial incursions and military activity in the Taiwan Strait.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9378"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ukraine: International Assistance",
+        "date": "2024-01-15",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what recent discussions he has had with his international counterparts on the adequacy of aid to Ukraine.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-15/9375"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ukraine: Development Aid",
+        "date": "2024-01-12",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how much official development assistance his Department plans to provide to Ukraine in the (a) 2023-24 and (b) 2024-25 financial years.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-12/9318"
+      },
+      {
+        "kind": "Written question",
+        "title": "North Korea: Russia",
+        "date": "2024-01-12",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps he has taken to help prevent the supply of Democratic People's Republic of Korea ammunitions to Russia.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-12/9321"
+      },
+      {
+        "kind": "Written question",
+        "title": "Russia: Ukraine",
+        "date": "2024-01-12",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what assessment he has made of the implications for his policies of Russia’s escalating air attacks on Ukraine.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-12/9319"
+      },
+      {
+        "kind": "Written question",
+        "title": "Iran: Russia",
+        "date": "2024-01-12",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps he has taken to help prevent the supply of Iranian drones to Russia.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-12/9320"
+      },
+      {
+        "kind": "Written question",
+        "title": "Guyana: Venezuela",
+        "date": "2023-12-14",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, whether he has had discussions with his counterpart in Venezuela on the border dispute with Guyana in the last three months.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-14/6963"
+      },
+      {
+        "kind": "Written question",
+        "title": "Foreign, Commonwealth and Development Office: Consultants",
+        "date": "2023-12-04",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how much his Department has spent on external consultancy fees in each of the last ten years.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-04/4905"
+      },
+      {
+        "kind": "Written question",
+        "title": "Foreign, Commonwealth and Development Office: Agency Workers",
+        "date": "2023-12-04",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, how much his Department spent on temporary agency staff in each of the past ten years.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-04/4906"
+      },
+      {
+        "kind": "Written question",
+        "title": "Western Sahara: Peace Negotiations",
+        "date": "2023-11-14",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what assessment he has made of the implications for his policies of the security situation in Western Sahara; and what steps he is taking with his international counterparts to he",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1780"
+      },
+      {
+        "kind": "Written question",
+        "title": "Alaa Abd El-Fattah",
+        "date": "2023-11-14",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, when he last held discussions with his Egyptian counterpart on the case of Alaa Abdel Fattah.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1782"
+      },
+      {
+        "kind": "Written question",
+        "title": "Afghanistan: Earthquakes",
+        "date": "2023-11-14",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what steps his Department is taking to provide support to Afghanistan following the earthquakes in October 2023.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1779"
+      },
+      {
+        "kind": "Written question",
+        "title": "Israel: West Bank",
+        "date": "2023-11-14",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, when he last had discussions with his Israeli counterpart on recent increases in violence in the West Bank.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1778"
+      },
+      {
+        "kind": "Written question",
+        "title": "Israel: Palestinians",
+        "date": "2023-11-14",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what recent discussions he has had with his (a) Israeli and (b) Palestinian counterparts on the recent escalation of violence in the West Bank.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1777"
+      },
+      {
+        "kind": "Written question",
+        "title": "Gaza: British Nationals Abroad",
+        "date": "2023-11-14",
+        "summary": "To ask the Minister of State, Foreign, Commonwealth and Development Office, what discussions he has had with his (a) Egyptian and (b) Israeli counterparts on ensuring British nationals fleeing Gaza are not separated from their families.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-11-14/1773"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+        "date": "2026-04-22",
+        "summary": "Aye; Ayes 380, Noes 7.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

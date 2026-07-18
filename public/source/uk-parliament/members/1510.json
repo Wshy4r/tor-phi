@@ -1,0 +1,935 @@
+{
+  "member": {
+    "id": "1510",
+    "slug": "ed-miliband",
+    "name": "Ed Miliband",
+    "sortName": "Miliband, Ed",
+    "fullTitle": "Rt Hon Ed Miliband MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Doncaster North",
+    "house": "House of Commons",
+    "role": "MP for Doncaster North",
+    "officialUrl": "https://members.parliament.uk/member/1510/contact",
+    "recordUrl": "/country/uk/parliament/ed-miliband/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/1510/Thumbnail",
+    "currentMembership": {
+      "constituency": "Doncaster North",
+      "constituencyId": 4015,
+      "startDate": "2005-05-05",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "ed.miliband.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 7318",
+        "01302875462"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Constituency office",
+        "https://www.facebook.com/edmiliband",
+        "https://twitter.com/Ed_Miliband"
+      ],
+      "websites": [],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/edmiliband"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/Ed_Miliband"
+        ]
+      ]
+    },
+    "synopsis": "The Rt Hon Ed Miliband is the Labour MP for Doncaster North , and has been an MP continually since 5 May 2005. He currently holds the Government post of Secretary of State for Energy Security and Net Zero.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/ed-miliband/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/1510/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/1510"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/1510/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/1510/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/1510/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/1510/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=1510"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-06-24",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2021-07-19",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/ed-miliband/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/1510/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/1510"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/1510/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/1510/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/1510/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/1510/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=1510"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1348425,
+        "uin": "35564",
+        "heading": "Business Premises: Ventilation",
+        "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the Answer of 14 July 2021 to Question 30321 on Business Premises: Coronavirus, what budget has been made available for enforcement activities in respect of business premises ventilation in",
+        "answerText": "The Health and Safety Executive (HSE) allocates resources based on planned levels of activity to deliver it’s published strategy and plans. It does not allocate budgets by specific risk areas such as business premises ventilation, but inspectors will take...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2021-07-19",
+        "dateForAnswer": "2021-07-22",
+        "dateAnswered": "2021-07-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-07-19/35564"
+      },
+      {
+        "id": 1345467,
+        "uin": "30321",
+        "heading": "Business Premises: Coronavirus",
+        "questionText": "To ask the Secretary of State for Business, Energy and Industrial Strategy, what steps he is taking to help ensure adequate ventilation in businesses to reduce risk of covid-19 infection; what plans he has to issue guidance to businesses on ventilation of",
+        "answerText": "Public Health England has published guidance on the ventilation of indoor spaces which can be found here: https://www.gov.uk/government/publications/covid-19-ventilation-of-indoor-spaces-to-stop-the-spread-of-coronavirus/ventilation-of-indoor-spaces-to-st...",
+        "answeringBody": "Department for Business, Energy and Industrial Strategy",
+        "answeringMember": "Paul Scully",
+        "dateTabled": "2021-07-09",
+        "dateForAnswer": "2021-07-14",
+        "dateAnswered": "2021-07-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-07-09/30321"
+      },
+      {
+        "id": 1310510,
+        "uin": "184380",
+        "heading": "Department for Business, Energy and Industrial Strategy: Business Interests",
+        "questionText": "To ask the Secretary of State for Business, Energy and Industrial Strategy, whether any officials in his Department receive any remuneration for paid work for organisations or companies outside of Government.",
+        "answerText": "On 23 April, the Cabinet Secretary wrote to the Chair of the Public Administration and Constitutional Affairs Committee on the management of outside interests in the Civil Service.The Committee published this letter on 26 April. It can be found here:https...",
+        "answeringBody": "Department for Business, Energy and Industrial Strategy",
+        "answeringMember": "Amanda Solloway",
+        "dateTabled": "2021-04-20",
+        "dateForAnswer": "2021-04-26",
+        "dateAnswered": "2021-04-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-04-20/184380"
+      },
+      {
+        "id": 1310530,
+        "uin": "184381",
+        "heading": "Electricity Interconnectors: Portsmouth",
+        "questionText": "To ask the Secretary of State for Business, Energy and Industrial Strategy, whether the (a) Minister for Business, Energy and Clean Growth and (b) Minister for Climate Change and Corporate Responsibility have had discussions (i) in person and (ii) by e-ma",
+        "answerText": "Information regarding meetings of ministers with stakeholders is published online[1], and there have been no discussions or email correspondence between my noble Friend the Parliamentary Under Secretary of State and I, and stakeholders from the Aquind int...",
+        "answeringBody": "Department for Business, Energy and Industrial Strategy",
+        "answeringMember": "Anne-Marie Trevelyan",
+        "dateTabled": "2021-04-20",
+        "dateForAnswer": "2021-04-26",
+        "dateAnswered": "2021-04-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-04-20/184381"
+      },
+      {
+        "id": 1288729,
+        "uin": "157031",
+        "heading": "Bounce Back Loan Scheme",
+        "questionText": "To ask the Secretary of State for Business, Energy and Industrial Strategy, what assessment his Department has made of the effect of the Pay As You Grow scheme on loss rates from the Bounce Back Loan Scheme.",
+        "answerText": "The Pay As You Grow measures give Bounce Back Loan borrowers more time and greater flexibility to repay their loans. Work is currently underway with data scientists, other Government departments and external consultants on a range of projects to develop o...",
+        "answeringBody": "Department for Business, Energy and Industrial Strategy",
+        "answeringMember": "Paul Scully",
+        "dateTabled": "2021-02-23",
+        "dateForAnswer": "2021-03-01",
+        "dateAnswered": "2021-03-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-23/157031"
+      },
+      {
+        "id": 1288730,
+        "uin": "157032",
+        "heading": "Coronavirus Business Interruption Loan Scheme",
+        "questionText": "To ask the Secretary of State for Business, Energy and Industrial Strategy, what assessment his Department has made of the effect of allowing extensions on repayment periods from six to 10 years on loss rates from the Coronavirus Business Interruption Loa",
+        "answerText": "The Government has enabled lenders to extend the repayment period for Coronavirus Business Interruption Loan (CBILS) facilities beyond 6 years (up to a maximum of 10 years) where this is needed in connection with the provision of forbearance. CBILS term e...",
+        "answeringBody": "Department for Business, Energy and Industrial Strategy",
+        "answeringMember": "Paul Scully",
+        "dateTabled": "2021-02-23",
+        "dateForAnswer": "2021-03-01",
+        "dateAnswered": "2021-03-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-23/157032"
+      },
+      {
+        "id": 1288728,
+        "uin": "157030",
+        "heading": "Bounce Back Loan Scheme and Coronavirus Business Interruption Loan Scheme",
+        "questionText": "To ask the Secretary of State for Business, Energy and Industrial Strategy, what his Department’s latest estimate is of the loss rate of the (a) Bounce Back Loan Scheme and (b) Coronavirus Business Interruption Loan Scheme.",
+        "answerText": "The 2019-20 BEIS Annual Report and Accounts published on 30 September 2020 provided initial indicative loss ranges for both the Bounce Back Loan Scheme (BBLS) and the Coronavirus Business Interruption Loan Scheme (CBILS). For BBLS, losses were estimated a...",
+        "answeringBody": "Department for Business, Energy and Industrial Strategy",
+        "answeringMember": "Paul Scully",
+        "dateTabled": "2021-02-23",
+        "dateForAnswer": "2021-03-01",
+        "dateAnswered": "2021-03-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-23/157030"
+      },
+      {
+        "id": 1282535,
+        "uin": "146799",
+        "heading": "Paternity Leave",
+        "questionText": "To ask the Secretary of State for Business, Energy and Industrial Strategy, if he will publish his Department's estimate of the number of fathers who were eligible for shared parental leave in the latest quarter; and how many new fathers are ineligible fo",
+        "answerText": "Shared Parental Leave (SPL) and Pay was introduced in December 2014 for the parents of children due or adopted from 5 April 2015. The scheme enables eligible working parents to share up to 50 weeks of leave and up to 37 weeks of pay in the first year, whe...",
+        "answeringBody": "Department for Business, Energy and Industrial Strategy",
+        "answeringMember": "Paul Scully",
+        "dateTabled": "2021-02-01",
+        "dateForAnswer": "2021-02-03",
+        "dateAnswered": "2021-02-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-01/146799"
+      },
+      {
+        "id": 1282534,
+        "uin": "146798",
+        "heading": "Paternity Leave",
+        "questionText": "To ask the Secretary of State for Business, Energy and Industrial Strategy, if he will publish his Department's estimate of the take up of shared parental leave by fathers (a) on the latest figures available as (i) an absolute number and (ii) proportion o",
+        "answerText": "Shared Parental Leave (SPL) and Pay was introduced in December 2014 for the parents of children due or adopted from 5 April 2015. The scheme enables eligible working parents to share up to 50 weeks of leave and up to 37 weeks of pay in the first year, whe...",
+        "answeringBody": "Department for Business, Energy and Industrial Strategy",
+        "answeringMember": "Paul Scully",
+        "dateTabled": "2021-02-01",
+        "dateForAnswer": "2021-02-03",
+        "dateAnswered": "2021-02-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-01/146798"
+      },
+      {
+        "id": 1141624,
+        "uin": "281664",
+        "heading": "Social Security Benefits: Appeals",
+        "questionText": "To ask the Secretary of State for Justice, what proportion of benefits appeals resulted in a decision being overturned in each Government region in the last 12 months.",
+        "answerText": "Information about the outcomes of appeals in the First-tier Tribunal (Social Security and Child Support) is published at: www.gov.uk/government/collections/tribunals-statistics Decisions on benefit, typically on a person’s entitlement to benefit, or its r...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Edward Argar",
+        "dateTabled": "2019-07-24",
+        "dateForAnswer": "2019-09-03",
+        "dateAnswered": "2019-09-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281664"
+      },
+      {
+        "id": 1141623,
+        "uin": "281663",
+        "heading": "Social Security Benefits: Appeals",
+        "questionText": "To ask the Secretary of State for Justice, what proportion of people who appealed benefits decisions were successful in their appeal in the last 12 months.",
+        "answerText": "Information about the outcomes of appeals in the First-tier Tribunal (Social Security and Child Support) is published at: www.gov.uk/government/collections/tribunals-statistics Decisions on benefit, typically on a person’s entitlement to benefit, or its r...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Edward Argar",
+        "dateTabled": "2019-07-24",
+        "dateForAnswer": "2019-09-03",
+        "dateAnswered": "2019-09-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281663"
+      },
+      {
+        "id": 1141622,
+        "uin": "281662",
+        "heading": "Social Security Benefits: Appeals",
+        "questionText": "To ask the Secretary of State for Justice, what proportion of people who appealed benefits decisions in Doncaster in the last 12 months were successful.",
+        "answerText": "Information about the outcomes of appeals in the First-tier Tribunal (Social Security and Child Support) is published at: www.gov.uk/government/collections/tribunals-statistics Decisions on benefit, typically on a person’s entitlement to benefit, or its r...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Edward Argar",
+        "dateTabled": "2019-07-24",
+        "dateForAnswer": "2019-09-03",
+        "dateAnswered": "2019-09-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281662"
+      },
+      {
+        "id": 1141627,
+        "uin": "281667",
+        "heading": "Social Security Benefits: Appeals",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what proportion of benefits decisions have been appealed in each Government region in the most recent period for which figures are available.",
+        "answerText": "Information on appeal outcomes in relation to Employment and Support Allowance (ESA) Work Capability Assessments by several geographical areas is available on Stat-Xplore.https://stat-xplore.dwp.gov.uk/ Guidance on how to use Stat-Xplore can be found here...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Justin Tomlinson",
+        "dateTabled": "2019-07-24",
+        "dateForAnswer": "2019-09-03",
+        "dateAnswered": "2019-09-05",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281667"
+      },
+      {
+        "id": 1141626,
+        "uin": "281666",
+        "heading": "Social Security Benefits: Appeals",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what proportion of benefits decisions have been appealed in the most recent period for which figures are available.",
+        "answerText": "Information on appeal outcomes in relation to Employment and Support Allowance (ESA) Work Capability Assessments by several geographical areas is available on Stat-Xplore.https://stat-xplore.dwp.gov.uk/ Guidance on how to use Stat-Xplore can be found here...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Justin Tomlinson",
+        "dateTabled": "2019-07-24",
+        "dateForAnswer": "2019-09-03",
+        "dateAnswered": "2019-09-05",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281666"
+      },
+      {
+        "id": 1141625,
+        "uin": "281665",
+        "heading": "Social Security Benefits: Appeals",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what proportion of benefits decisions in Doncaster have been appealed in the most recent period for which figures are available.",
+        "answerText": "Information on appeal outcomes in relation to Employment and Support Allowance (ESA) Work Capability Assessments by several geographical areas is available on Stat-Xplore.https://stat-xplore.dwp.gov.uk/ Guidance on how to use Stat-Xplore can be found here...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Justin Tomlinson",
+        "dateTabled": "2019-07-24",
+        "dateForAnswer": "2019-09-03",
+        "dateAnswered": "2019-09-05",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281665"
+      },
+      {
+        "id": 1137762,
+        "uin": "275163",
+        "heading": "Pension Credit: Doncaster North",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many people in Doncaster North constituency that are eligible to claim pension credit do not claim that benefit.",
+        "answerText": "The information requested on the number of people who are eligible to claim Pension Credit but do not claim the benefit is only available at national level. Official statistics on the take-up of income related benefits at Great Britain level, including pe...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Guy Opperman",
+        "dateTabled": "2019-07-09",
+        "dateForAnswer": "2019-07-11",
+        "dateAnswered": "2019-07-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-09/275163"
+      },
+      {
+        "id": 1137760,
+        "uin": "275162",
+        "heading": "Deportation: Human Trafficking",
+        "questionText": "To ask the Secretary of State for the Home Department, what support his Department provides to young people that were victims of trafficking after they have been returned to their country of origin.",
+        "answerText": "All confirmed victims of modern slavery who have no right to reside in the UK, or who are seeking or have sought asylum, are entitled to use the Voluntary Return Service funded by the Home Office. Individuals will receive a tailored package of support, wh...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Caroline Nokes",
+        "dateTabled": "2019-07-09",
+        "dateForAnswer": "2019-07-11",
+        "dateAnswered": "2019-07-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-09/275162"
+      },
+      {
+        "id": 1137759,
+        "uin": "275161",
+        "heading": "Deportation: Human Trafficking",
+        "questionText": "To ask the Secretary of State for the Home Department, how many young people that were victims of trafficking have been removed from the UK after they reached 18 years of age in the last 12 months.",
+        "answerText": "This Government is committed to supporting victims of trafficking and the introduction of the Modern Slavery Act 2015 has ensured we protect those in need and target those committing this abhorrent crime.All applications are looked at on a case-by-case ba...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Caroline Nokes",
+        "dateTabled": "2019-07-09",
+        "dateForAnswer": "2019-07-11",
+        "dateAnswered": "2019-07-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-09/275161"
+      },
+      {
+        "id": 1137412,
+        "uin": "274476",
+        "heading": "Universities: Admissions",
+        "questionText": "To ask the Secretary of State for Education, whether he has made an assessment of how the sharing with universities of additional indicators of applicants’ disadvantage and under-representation in higher education could enable universities to make further",
+        "answerText": "Widening access and participation in higher education (HE) is a priority for the government. This means that everyone with the capability to succeed in HE should have the opportunity to participate, regardless of their background.The government has made p...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Chris Skidmore",
+        "dateTabled": "2019-07-08",
+        "dateForAnswer": "2019-07-10",
+        "dateAnswered": "2019-07-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-08/274476"
+      },
+      {
+        "id": 1137411,
+        "uin": "274475",
+        "heading": "Universities: Admissions",
+        "questionText": "To ask the Secretary of State for Education, if he will make an assessment of the potential merits of making additional indicators of pupils’ disadvantage and under-representation in higher education accessible to universities in order to support their wi",
+        "answerText": "Widening access and participation in higher education (HE) is a priority for the government. This means that everyone with the capability to succeed in HE should have the opportunity to participate, regardless of their background.The government has made p...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Chris Skidmore",
+        "dateTabled": "2019-07-08",
+        "dateForAnswer": "2019-07-10",
+        "dateAnswered": "2019-07-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-08/274475"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-06-24",
+      "totals": {
+        "Aye": 18,
+        "No": 7
+      },
+      "recent": [
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        },
+        {
+          "id": 2354,
+          "number": 4,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (p)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 316,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2354"
+        },
+        {
+          "id": 2353,
+          "number": 3,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (l)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 78,
+          "noCount": 408,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2353"
+        },
+        {
+          "id": 2352,
+          "number": 2,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (o)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2352"
+        },
+        {
+          "id": 2351,
+          "number": 1,
+          "date": "2026-05-19",
+          "title": "King's Speech Motion for an Address: amendment (i)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2351"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2345,
+          "number": 510,
+          "date": "2026-04-27",
+          "title": "Northern Ireland Troubles Bill: Carry-over motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 176,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2345"
+        },
+        {
+          "id": 2344,
+          "number": 509,
+          "date": "2026-04-27",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on its Amendments 88A, 88C and 88E to 88P and propose Amendments (a) to (f)",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 164,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2344"
+        },
+        {
+          "id": 2343,
+          "number": 508,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: Amendments (a) to (h) in lieu of Lords Amendments 85 and 86, 97 to 116, 120, 121 and 123",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 271,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2343"
+        },
+        {
+          "id": 2342,
+          "number": 507,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 94B and 94C",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 269,
+          "noCount": 170,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2342"
+        },
+        {
+          "id": 2341,
+          "number": 506,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 36, 90 and 155, insist on Amendments 155A to 155F and propose Amendment (a)",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 270,
+          "noCount": 170,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2341"
+        },
+        {
+          "id": 2340,
+          "number": 505,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 89B and 89C",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 273,
+          "noCount": 167,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2340"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        },
+        {
+          "id": 2285,
+          "number": 453,
+          "date": "2026-03-18",
+          "title": "Opposition day: Student loans",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 88,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2285"
+        },
+        {
+          "id": 2277,
+          "number": 445,
+          "date": "2026-03-10",
+          "title": "Courts and Tribunals Bill: Second Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 203,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2277"
+        },
+        {
+          "id": 2276,
+          "number": 444,
+          "date": "2026-03-10",
+          "title": "Courts and Tribunals Bill: Reasoned Amendment to Second Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 203,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2276"
+        },
+        {
+          "id": 2274,
+          "number": 442,
+          "date": "2026-03-09",
+          "title": "Children's Wellbeing and Schools Bill: motion to disagree with Lords Amendment 102",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 315,
+          "noCount": 163,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2274"
+        },
+        {
+          "id": 2273,
+          "number": 441,
+          "date": "2026-03-09",
+          "title": "Children's Wellbeing and Schools Bill: motion to disagree with Lords Amendment 44",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 315,
+          "noCount": 109,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2273"
+        },
+        {
+          "id": 2272,
+          "number": 440,
+          "date": "2026-03-09",
+          "title": "Children's Wellbeing and Schools Bill: motion to disagree with Lords Amendment 41",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 316,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2272"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Business Premises: Coronavirus",
+        "date": "2021-07-09",
+        "summary": "To ask the Secretary of State for Business, Energy and Industrial Strategy, what steps he is taking to help ensure adequate ventilation in businesses to reduce risk of covid-19 infection; what plans he has to issue guidance to businesses on ventilation of",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-07-09/30321"
+      },
+      {
+        "kind": "Written question",
+        "title": "Department for Business, Energy and Industrial Strategy: Business Interests",
+        "date": "2021-04-20",
+        "summary": "To ask the Secretary of State for Business, Energy and Industrial Strategy, whether any officials in his Department receive any remuneration for paid work for organisations or companies outside of Government.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-04-20/184380"
+      },
+      {
+        "kind": "Written question",
+        "title": "Electricity Interconnectors: Portsmouth",
+        "date": "2021-04-20",
+        "summary": "To ask the Secretary of State for Business, Energy and Industrial Strategy, whether the (a) Minister for Business, Energy and Clean Growth and (b) Minister for Climate Change and Corporate Responsibility have had discussions (i) in person and (ii) by e-ma",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-04-20/184381"
+      },
+      {
+        "kind": "Written question",
+        "title": "Bounce Back Loan Scheme",
+        "date": "2021-02-23",
+        "summary": "To ask the Secretary of State for Business, Energy and Industrial Strategy, what assessment his Department has made of the effect of the Pay As You Grow scheme on loss rates from the Bounce Back Loan Scheme.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-23/157031"
+      },
+      {
+        "kind": "Written question",
+        "title": "Coronavirus Business Interruption Loan Scheme",
+        "date": "2021-02-23",
+        "summary": "To ask the Secretary of State for Business, Energy and Industrial Strategy, what assessment his Department has made of the effect of allowing extensions on repayment periods from six to 10 years on loss rates from the Coronavirus Business Interruption Loa",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-23/157032"
+      },
+      {
+        "kind": "Written question",
+        "title": "Bounce Back Loan Scheme and Coronavirus Business Interruption Loan Scheme",
+        "date": "2021-02-23",
+        "summary": "To ask the Secretary of State for Business, Energy and Industrial Strategy, what his Department’s latest estimate is of the loss rate of the (a) Bounce Back Loan Scheme and (b) Coronavirus Business Interruption Loan Scheme.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-23/157030"
+      },
+      {
+        "kind": "Written question",
+        "title": "Paternity Leave",
+        "date": "2021-02-01",
+        "summary": "To ask the Secretary of State for Business, Energy and Industrial Strategy, if he will publish his Department's estimate of the number of fathers who were eligible for shared parental leave in the latest quarter; and how many new fathers are ineligible fo",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-01/146799"
+      },
+      {
+        "kind": "Written question",
+        "title": "Paternity Leave",
+        "date": "2021-02-01",
+        "summary": "To ask the Secretary of State for Business, Energy and Industrial Strategy, if he will publish his Department's estimate of the take up of shared parental leave by fathers (a) on the latest figures available as (i) an absolute number and (ii) proportion o",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2021-02-01/146798"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Appeals",
+        "date": "2019-07-24",
+        "summary": "To ask the Secretary of State for Justice, what proportion of benefits appeals resulted in a decision being overturned in each Government region in the last 12 months.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281664"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Appeals",
+        "date": "2019-07-24",
+        "summary": "To ask the Secretary of State for Justice, what proportion of people who appealed benefits decisions were successful in their appeal in the last 12 months.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281663"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Appeals",
+        "date": "2019-07-24",
+        "summary": "To ask the Secretary of State for Justice, what proportion of people who appealed benefits decisions in Doncaster in the last 12 months were successful.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281662"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Appeals",
+        "date": "2019-07-24",
+        "summary": "To ask the Secretary of State for Work and Pensions, what proportion of benefits decisions have been appealed in each Government region in the most recent period for which figures are available.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281667"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Appeals",
+        "date": "2019-07-24",
+        "summary": "To ask the Secretary of State for Work and Pensions, what proportion of benefits decisions have been appealed in the most recent period for which figures are available.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281666"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Appeals",
+        "date": "2019-07-24",
+        "summary": "To ask the Secretary of State for Work and Pensions, what proportion of benefits decisions in Doncaster have been appealed in the most recent period for which figures are available.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-24/281665"
+      },
+      {
+        "kind": "Written question",
+        "title": "Deportation: Human Trafficking",
+        "date": "2019-07-09",
+        "summary": "To ask the Secretary of State for the Home Department, what support his Department provides to young people that were victims of trafficking after they have been returned to their country of origin.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2019-07-09/275162"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 304, Noes 28.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 308, Noes 81.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+        "date": "2026-04-22",
+        "summary": "Aye; Ayes 380, Noes 7.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

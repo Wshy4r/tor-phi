@@ -1,0 +1,925 @@
+{
+  "member": {
+    "id": "5138",
+    "slug": "ian-roome",
+    "name": "Ian Roome",
+    "sortName": "Roome, Ian",
+    "fullTitle": "Ian Roome MP",
+    "party": "Liberal Democrat",
+    "partyAbbreviation": "LD",
+    "partyColor": "#fc7d0b",
+    "constituency": "North Devon",
+    "house": "House of Commons",
+    "role": "MP for North Devon",
+    "officialUrl": "https://members.parliament.uk/member/5138/contact",
+    "recordUrl": "/country/uk/parliament/ian-roome/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5138/Thumbnail",
+    "currentMembership": {
+      "constituency": "North Devon",
+      "constituencyId": 4202,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "ian.roome.mp@parliament.uk"
+      ],
+      "phones": [
+        "01271 410470"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "The Castle Centre, 25 Castle Street, Barnstaple, North Devon, EX31 1DR",
+        "https://www.facebook.com/Ianbarum/",
+        "https://x.com/IanRoomeMP"
+      ],
+      "websites": [],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/Ianbarum/"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://x.com/IanRoomeMP"
+        ]
+      ]
+    },
+    "synopsis": "Ian Roome is the Liberal Democrat MP for North Devon , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/ian-roome/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5138/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5138"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5138/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5138/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5138/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5138/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5138"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-01",
+    "registeredInterestCount": 5
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/ian-roome/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5138/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5138"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5138/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5138/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5138/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5138/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5138"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1923250,
+        "uin": "15254",
+        "heading": "Mobile Broadband: Standards",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps her Department is taking to compare the quality of consumer mobile phone signal in specific geographic areas against the quality of service assurances published by mobile net",
+        "answerText": "The regulator, Ofcom, is responsible for reporting on mobile network coverage across the UK. Ofcom’s reporting in their Connected Nations reports and the coverage maps available in the ‘Map Your Mobile’ tool, is based primarily on coverage predictions fro...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15254"
+      },
+      {
+        "id": 1923030,
+        "uin": "15119",
+        "heading": "Solar Power: Nature Conservation",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps his department is taking to ensure that the development of solar farms supports the protection and enhancement of wildlife and natural habitats.",
+        "answerText": "All solar projects are subject to a rigorous planning process, in which the impacts on wildlife and habitats are considered. Biodiversity net gain is also a legal requirement under the Environment Act 2021 and associated regulations. This means that to ac...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15119"
+      },
+      {
+        "id": 1922523,
+        "uin": "14588",
+        "heading": "Arctic: Marines",
+        "questionText": "To ask the Secretary of State for Defence, what steps his department is taking to progress the transformation of the UK Commando Force into a warfighting formation focused on the High North, including an increase in Royal Marine numbers deployed to the re",
+        "answerText": "The Government is continuing to transform the UK Commando Force into a more agile, lethal and technology-enabled warfighting formation, optimised for operations in the Euro-Atlantic and High North alongside NATO Allies. The £100 million announced for new ...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14588"
+      },
+      {
+        "id": 1921878,
+        "uin": "14071",
+        "heading": "Pigs: Slaughterhouses",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department is taking steps to implement the policy recommendations of the Animal Welfare Committee's independent report into the carbon dioxide gas stunning of pigs, publis",
+        "answerText": "I refer the hon. Member to the answer given to the hon. Member for Epsom and Ewell, Helen Maguire, on 20 May 2026 to PQ UIN 613.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-03",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14071"
+      },
+      {
+        "id": 1920575,
+        "uin": "13321",
+        "heading": "Family Hubs",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what guidance is issued to local authorities, Family Hubs and NHS services on delivering evidence-based parent–infant relationship support in the first 1,001 days following birth.",
+        "answerText": "We understand the importance of parent-infant relationships on a baby’s cognitive, emotional, and physical development. That is why we are committed to improving parent-infant relationship support.Through Healthy Babies, we are investing £109 million in 7...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-25",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-25/13321"
+      },
+      {
+        "id": 1920577,
+        "uin": "13323",
+        "heading": "Family Hubs",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what data his Department collects on outcomes for babies and parents receiving parent–infant relationship support in the first 1,001 days following birth.",
+        "answerText": "We understand the importance of parent-infant relationships on a baby’s cognitive, emotional, and physical development. That is why we are committed to improving parent-infant relationship support.Health visiting services provide parenting support to all ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-25",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-25/13323"
+      },
+      {
+        "id": 1920576,
+        "uin": "13322",
+        "heading": "Family Hubs",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what data his Department collects on the provision of parent–infant relationship support in the first 1,001 days following birth.",
+        "answerText": "We understand the importance of parent-infant relationships on a baby’s cognitive, emotional, and physical development. That is why we are committed to improving parent-infant relationship support.Health visiting services provide parenting support to all ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-25",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-25/13322"
+      },
+      {
+        "id": 1920573,
+        "uin": "13320",
+        "heading": "Family Hubs",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of trends in the level of variation between local authorities in the provision of parent–infant relationship support as part of the Healthy Child Programme and Family Hu",
+        "answerText": "We understand the importance of parent-infant relationships on a baby’s cognitive, emotional, and physical development. That is why we are committed to improving parent-infant relationship support.Health visiting services provide parenting support to all ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-25",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-25/13320"
+      },
+      {
+        "id": 1919205,
+        "uin": "12354",
+        "heading": "Countryside Stewardship Scheme and Sustainable Farming Incentive",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to introduce an offline application process for the Sustainable Farming Incentive and the Countryside Stewardship Higher Tier Scheme.",
+        "answerText": "The Rural Payments Agency recognises the importance of ensuring that farmers and land managers can access environmental land management schemes. Applications for the Sustainable Farming Incentive and Countryside Stewardship Higher Tier are made through th...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-06-30",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12354"
+      },
+      {
+        "id": 1919206,
+        "uin": "12355",
+        "heading": "Countryside Stewardship Scheme and Sustainable Farming Incentive",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department is taking steps to ensure those managing common land will be eligible to apply for the Sustainable Farming Incentive and Countryside Stewardship Higher Tier Sche",
+        "answerText": "Defra understands the importance of Commons and recognises the importance of bringing them under these schemes. For technical reasons, commons groups will not be able to apply for SFI on common land when the application window opens later this month or ap...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-06-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12355"
+      },
+      {
+        "id": 1917852,
+        "uin": "11282",
+        "heading": "Social Media: Children",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what criteria she will use to designate social media platforms included in a ban for those under 16 years of age; and whether she will regularly review the criteria for inclusion.",
+        "answerText": "Keeping children safe online is a priority for this government. That is why the Secretary of State announced a ban on social media platforms offering their services to under-16s. We aim to use the same model as Australia. This means capturing user to user...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-06-18",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-18/11282"
+      },
+      {
+        "id": 1917405,
+        "uin": "10885",
+        "heading": "Housing: Mould",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment they have made of the adequacy of guidance on the treatment of established mould in homes; and whether he has had discussions with industry bodies in the housing,",
+        "answerText": "My Department publishes guidance on ‘Damp and mould: understanding and addressing the health risks for rented housing providers’ which can be found on gov.uk here. This guidance was developed with an advisory group consisting of academics and experts as w...",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Matthew Pennycook",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10885"
+      },
+      {
+        "id": 1915996,
+        "uin": "9737",
+        "heading": "Public Houses: Planning",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps he is taking to help ensure that the National Planning Policy Framework minimises the number of community pubs lost to closure.",
+        "answerText": "I refer the hon. Member to the answer given to question UIN 120463 on 23 March 2026.",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Matthew Pennycook",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9737"
+      },
+      {
+        "id": 1916157,
+        "uin": "9889",
+        "heading": "Shipping: Territorial Waters",
+        "questionText": "To ask the Secretary of State for Transport, what steps she is taking to verify the claimed registered nationalities of ships sailing in UK territorial waters.",
+        "answerText": "The Government continuously monitors UK waters to ensure the safety of mariners, protect the marine environment and uphold the UK's national security.Where steps are required to verify the flag status of a vessel, this is done on a case-by-case basis in c...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9889"
+      },
+      {
+        "id": 1913800,
+        "uin": "7789",
+        "heading": "School Meals: Nutrition",
+        "questionText": "To ask the Secretary of State for Education, what steps her Department is taking to support schools to provide nutritious school meals.",
+        "answerText": "We are committed to raising the healthiest generation ever and we are consulting on proposed updates to the School Food Standards, closing on 12 June. The changes we propose to make are related to increasing fibre, reducing sugar and further restricting f...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7789"
+      },
+      {
+        "id": 1913798,
+        "uin": "7787",
+        "heading": "School Meals: Nutrition",
+        "questionText": "To ask the Secretary of State for Education, whether her Department plans to update the Requirements for School Food Regulations 2014 in line with current dietary advice.",
+        "answerText": "We are committed to raising the healthiest generation ever and we are consulting on proposed updates to the School Food Standards, closing on 12 June. The changes we propose to make are related to increasing fibre, reducing sugar and further restricting f...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7787"
+      },
+      {
+        "id": 1913803,
+        "uin": "7791",
+        "heading": "Public Health: Local Government Finance",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether the size of the Public Health Grant provided to local authorities is proportional to the population of each local authority.",
+        "answerText": "Public Health Grant allocations have been confirmed for the next three years to enable local authorities to plan and make the best use of the funding available. The majority of funding which makes up the Public Health Grant will continue to be distributed...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7791"
+      },
+      {
+        "id": 1913121,
+        "uin": "7294",
+        "heading": "HM Coastguard: Staff",
+        "questionText": "To ask the Secretary of State for Transport, whether her Department has prepared contingency plans against any significant reduction in the number of personnel available to support the Coastguard Rescue Service.",
+        "answerText": "Public safety remains our priority. Contingency plans are in place to enable the continuation of maritime and coastal search and rescue.Alongside the Coastguard Rescue Service, HM Coastguard will continue to draw upon the full UK Search and Rescue system,...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-06-05",
+        "dateForAnswer": "2026-06-09",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-05/7294"
+      },
+      {
+        "id": 1912447,
+        "uin": "6925",
+        "heading": "Merlin Helicopters: Safety",
+        "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to review safety checks carried out on Royal Navy Merlin Mk2 and Mk4 helicopters.",
+        "answerText": "A full investigation is being conducted into the cause of the crash involving a Royal Navy Merlin helicopter on 3 June 2026. All military flying operates under robust Military Aviation Authority regulations, with Royal Navy aircraft subject to rigorous an...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-06-04",
+        "dateForAnswer": "2026-06-11",
+        "dateAnswered": "2026-06-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-04/6925"
+      },
+      {
+        "id": 1908112,
+        "uin": "3555",
+        "heading": "Dentistry: Apprentices",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what plans the Department have to provide additional funding to support the delivery of the dental hygienist apprenticeship where the cost of clinical training exceeds the apprenticeship funding band.",
+        "answerText": "To ensure the overall affordability of the programme, the maximum government contribution to the cost of any apprenticeship, including the level 6 dental hygienist standard, is £27,000. Employers are able to negotiate a price for their apprentice’s traini...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3555"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 5,
+        "Aye": 20
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 12,
+        "category": "1. Employment and earnings",
+        "items": [
+          {
+            "id": 8631,
+            "text": "Role, work or services: Devon County Councillor Until: 1 May 2025. Payer: Devon County Council (County Council), Devon County Council, Topsham Road County Hall, Exeter EX2 4QD (Registered 1 August 2024; updated 12 June 2025)",
+            "createdWhen": "2026-02-12",
+            "amendedWhen": "2025-06-17",
+            "isCorrection": false
+          },
+          {
+            "id": 8635,
+            "text": "Remuneration: £1,256 a month Until: 1 May 2025. Hours: 40 hrs a month estimate of hours worked as it depends on casework. (Registered 1 August 2024; updated 12 June 2025)",
+            "createdWhen": "2026-02-12",
+            "amendedWhen": "2025-06-17",
+            "isCorrection": false
+          },
+          {
+            "id": 8623,
+            "text": "Role, work or services: District Councillor Until: 11 March 2025. Payer: North Devon District Council, North Devon District Council, PO Box 379, Barnstaple EX32 2GR Additional information: 10% of this councillor allowance is donated to North Devon Liberal Democrats (Registered 1 August 2024; updated 12 June 2025)",
+            "createdWhen": "2026-02-12",
+            "amendedWhen": "2025-06-17",
+            "isCorrection": false
+          },
+          {
+            "id": 8628,
+            "text": "Remuneration: £901.15 a month this payment includes a SRA for being Leader (going forward I will not receive this SRA) Until: 11 June 2025. Hours: 20 hrs a month this is an estimate of hours as it depends on casework. (Registered 1 August 2024; updated 12 June 2025)",
+            "createdWhen": "2025-06-17",
+            "amendedWhen": "2024-08-16",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 10904,
+            "text": "Name of donor: National Liberal Club Address of donor: 1 Whitehall Place Westminster, London SW1A 2HE Amount of donation or nature and value if donation in kind: honorary membership of National Liberal Club, for those who reside outside of London, value £1,310.75 Date received: 16 September 2024 to 31 December 2025 Date accepted: 16 September 2024 Donor status: company, registration 01355034 (Registered 9 October 2024)",
+            "createdWhen": "2025-12-31",
+            "amendedWhen": "2024-10-16",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Solar Power: Nature Conservation",
+        "date": "2026-07-01",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps his department is taking to ensure that the development of solar farms supports the protection and enhancement of wildlife and natural habitats.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15119"
+      },
+      {
+        "kind": "Written question",
+        "title": "Arctic: Marines",
+        "date": "2026-06-30",
+        "summary": "To ask the Secretary of State for Defence, what steps his department is taking to progress the transformation of the UK Commando Force into a warfighting formation focused on the High North, including an increase in Royal Marine numbers deployed to the re",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14588"
+      },
+      {
+        "kind": "Written question",
+        "title": "Shipping: Territorial Waters",
+        "date": "2026-06-15",
+        "summary": "To ask the Secretary of State for Transport, what steps she is taking to verify the claimed registered nationalities of ships sailing in UK territorial waters.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9889"
+      },
+      {
+        "kind": "Written question",
+        "title": "Merlin Helicopters: Safety",
+        "date": "2026-06-04",
+        "summary": "To ask the Secretary of State for Defence, what steps his Department is taking to review safety checks carried out on Royal Navy Merlin Mk2 and Mk4 helicopters.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-04/6925"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "No; Ayes 308, Noes 81.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

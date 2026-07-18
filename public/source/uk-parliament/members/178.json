@@ -1,0 +1,1003 @@
+{
+  "member": {
+    "id": "178",
+    "slug": "john-mcdonnell",
+    "name": "John McDonnell",
+    "sortName": "McDonnell, John",
+    "fullTitle": "Rt Hon John McDonnell MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Hayes and Harlington",
+    "house": "House of Commons",
+    "role": "MP for Hayes and Harlington",
+    "officialUrl": "https://members.parliament.uk/member/178/contact",
+    "recordUrl": "/country/uk/parliament/john-mcdonnell/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/178/Thumbnail",
+    "currentMembership": {
+      "constituency": "Hayes and Harlington",
+      "constituencyId": 4091,
+      "startDate": "1997-05-01",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "mcdonnellj@parliament.uk"
+      ],
+      "phones": [
+        "0207 219 4100",
+        "020 8569 0010"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Pump Lane, Hayes, UB3 3NB",
+        "http://www.john-mcdonnell.net",
+        "https://twitter.com/johnmcdonnellMP"
+      ],
+      "websites": [
+        "http://www.john-mcdonnell.net"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/johnmcdonnellMP"
+        ]
+      ]
+    },
+    "synopsis": "The Rt Hon John McDonnell is the Labour MP for Hayes and Harlington , and has been an MP continually since 1 May 1997.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/john-mcdonnell/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/178/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/178"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/178/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/178/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/178/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/178/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=178"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-03",
+    "registeredInterestCount": 4
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/john-mcdonnell/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/178/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/178"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/178/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/178/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/178/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/178/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=178"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1924021,
+        "uin": "15667",
+        "heading": "Railways: Defibrillators",
+        "questionText": "To ask the Secretary of State for Transport, which train companies install defibrillators on trains for i) DFT Operator Ltd managed Train Operating Companies (TOCs), and ii) DFT franchised TOCs.",
+        "answerText": "Decisions on whether to install defibrillators are a matter for individual Train Operating Companies, taking in to account their unique operational circumstances and wider safety arrangements. The Department does not hold information on which Train Operat...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-07-03",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-03/15667"
+      },
+      {
+        "id": 1922872,
+        "uin": "14758",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, with reference to the Data (Use and Access) Act 2025, on what lawful basis are Automated Decision-Making in HMRC being made.",
+        "answerText": "HMRC operates as set out in the Commissioners for Revenue and Customs Act 2005 and related legislation. HMRC uses automated decision-making where it has a lawful basis under its statutory functions. In relation to the UK GDPR, this is most commonly in rel...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14758"
+      },
+      {
+        "id": 1922883,
+        "uin": "14769",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, whether HMRC maintains a (a) public register and (b) internal inventory of automated decision-making systems.",
+        "answerText": "HMRC maintains records relating to all automated decision-making identified through its governance and Data Protection Impact Assessment (DPIA) processes. HMRC does not maintain a public register dedicated specifically to automated decision-making systems...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14769"
+      },
+      {
+        "id": 1922880,
+        "uin": "14766",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, what discussions (a) her Department and (b) HMRC has had with recognised trade unions in HMRC regarding the (i) introduction and (ii) use of automated decision-making systems affecting staff.",
+        "answerText": "We are not aware of any automated decision-making systems within HMRC that are used in relation to employment, recruitment, performance management, discipline or allocation of work.We maintain regular engagement with our Trade Unions on workforce, recruit...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14766"
+      },
+      {
+        "id": 1922879,
+        "uin": "14765",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, to what extent are automated decision-making systems in HMRC used in relation to civil service employment, including recruitment, performance management, discipline, or allocation of work.",
+        "answerText": "We are not aware of any automated decision-making systems within HMRC that are used in relation to employment, recruitment, performance management, discipline or allocation of work.We maintain regular engagement with our Trade Unions on workforce, recruit...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14765"
+      },
+      {
+        "id": 1922882,
+        "uin": "14768",
+        "heading": "Revenue and Customs: Data Protection",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps HMRC is taking to ensure compliance with data protection requirements under the Data (Use and Access) Act 2025 relating to the processing of special category data, including data relating to health or pro",
+        "answerText": "HMRC has a comprehensive approach to data governance for compliance with requirements under the Data (Use and Access) Act 2025 and other data protection legislation. This includes, for example, requiring the legislative conditions are met for the use of s...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14768"
+      },
+      {
+        "id": 1922874,
+        "uin": "14760",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps HMRC are taking to ensure compliance with requirements under the Data (Use and Access) Act 2025 relating to (a) automated decision-making and (b) rights to (i) information, (ii) human review, and (iii) ch",
+        "answerText": "HMRC has a comprehensive approach to data governance for compliance with requirements under the Data (Use and Access) Act 2025 and other data protection legislation. This includes, for example, requiring the legislative conditions are met for the use of s...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14760"
+      },
+      {
+        "id": 1922873,
+        "uin": "14759",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, what guidance HMRC provides internally on compliance with the Data (Use and Access) Act 2025 in relation to automated decision-making.",
+        "answerText": "HMRC has a comprehensive approach to data governance for compliance with requirements under the Data (Use and Access) Act 2025 and other data protection legislation. This includes, for example, requiring the legislative conditions are met for the use of s...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14759"
+      },
+      {
+        "id": 1922876,
+        "uin": "14762",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps HMRC are taking to enable individuals to (a) seek human review of and (b) to challenge decisions made by automated systems.",
+        "answerText": "HMRC informs customers about its use of automated decision-making through its Privacy Notice and, where appropriate, through communications relating to specific decisions and services.Individuals may challenge decisions and seek review through existing HM...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14762"
+      },
+      {
+        "id": 1922875,
+        "uin": "14761",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, how individuals are informed by HMRC that decisions affecting them have been taken (a) in whole and (b) in part by automated means.",
+        "answerText": "HMRC informs customers about its use of automated decision-making through its Privacy Notice and, where appropriate, through communications relating to specific decisions and services.Individuals may challenge decisions and seek review through existing HM...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14761"
+      },
+      {
+        "id": 1922881,
+        "uin": "14767",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps HMRC has taken to assess and mitigate risks of (a) bias and (b) discrimination arising from the use of automated decision-making systems.",
+        "answerText": "HMRC assesses and mitigates risks of bias and discrimination through impact assessments and other governance controls, including Data Protection Impact Assessments (DPIAs). HMRC has updated and expanded the support available to staff when planning and imp...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14767"
+      },
+      {
+        "id": 1922878,
+        "uin": "14764",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps HMRC is taking to ensure that human oversight of automated decisions is (a) substantive and (b) effective.",
+        "answerText": "HMRC assesses and mitigates risks of bias and discrimination through impact assessments and other governance controls, including Data Protection Impact Assessments (DPIAs). HMRC has updated and expanded the support available to staff when planning and imp...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14764"
+      },
+      {
+        "id": 1922877,
+        "uin": "14763",
+        "heading": "Revenue and Customs: Artificial Intelligence",
+        "questionText": "To ask the Chancellor of the Exchequer, how does HMRC (a) define and (b) ensure meaningful human involvement in decisions supported or made by automated systems.",
+        "answerText": "HMRC assesses and mitigates risks of bias and discrimination through impact assessments and other governance controls, including Data Protection Impact Assessments (DPIAs). HMRC has updated and expanded the support available to staff when planning and imp...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14763"
+      },
+      {
+        "id": 1917249,
+        "uin": "10551",
+        "heading": "National Institute for Health and Care Excellence",
+        "questionText": "To ask the Secretary of State for Health and Social Care, where NHSE's powers to negotiate commercial agreements with companies whose products are undergoing NICE appraisal will be transferred.",
+        "answerText": "The Health Bill currently before Parliament will abolish NHS England and move the majority of its powers and functions to my Rt Hon. Friend, the Secretary of State for Health and Social Care.Commercial negotiations will continue uninterrupted up to and be...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10551"
+      },
+      {
+        "id": 1915744,
+        "uin": "9314",
+        "heading": "Parents: Allowances",
+        "questionText": "To ask the Chancellor of the Exchequer, if she will consider counting a married couple as a single family unit and transfer the personal allowances of an unpaid parent to the working parent.",
+        "answerText": "Marriage Allowance allows a spouse or civil partner to transfer ten per cent of their income tax personal allowance, as long as the partner is not paying tax at higher rates. In 2026-27, the Marriage Allowance is worth up to £252. There are no current pla...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-06-12",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-12/9314"
+      },
+      {
+        "id": 1909139,
+        "uin": "4064",
+        "heading": "Trade Agreements: USA",
+        "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department is taking to undertake further trade negotiations with the US under the General Terms of the Economic Prosperity Deal.",
+        "answerText": "Through negotiations on the Economic Prosperity Deal, the UK is the only country to have achieved a 10% tariff for autos within quota and a 0% tariff for pharmaceuticals. Furthermore, in April, President Trump announced the removal of tariffs on UK whisky...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Chris Bryant",
+        "dateTabled": "2026-05-29",
+        "dateForAnswer": "2026-06-02",
+        "dateAnswered": "2026-06-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-29/4064"
+      },
+      {
+        "id": 1907899,
+        "uin": "3183",
+        "heading": "Further Education: Pay",
+        "questionText": "To ask the Secretary of State for Education, what recent discussions she has had with the Association of Colleges on the adequacy of further education staff pay levels relative to school teacher pay.",
+        "answerText": "Further education (FE) teachers are central to delivering high-quality technical education. Last year, the department announced an additional £190 million for colleges and other 16 to 19 providers for the 2025/26 financial year to support them with key pr...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3183"
+      },
+      {
+        "id": 1907897,
+        "uin": "3182",
+        "heading": "Further Education: Pay",
+        "questionText": "To ask the Secretary of State for Education, whether her Department plans to provide additional funding to further education colleges to support staff pay awards in the 2026–27 academic year.",
+        "answerText": "Further education (FE) teachers are central to delivering high-quality technical education. Last year, the department announced an additional £190 million for colleges and other 16 to 19 providers for the 2025/26 financial year to support them with key pr...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3182"
+      },
+      {
+        "id": 1907894,
+        "uin": "3180",
+        "heading": "Further Education: Pay",
+        "questionText": "To ask the Secretary of State for Education, what recent discussions she has had with the Association of Colleges on narrowing the pay gap between further education college lecturers and school teachers.",
+        "answerText": "Further education (FE) teachers are central to delivering high-quality technical education. Last year, the department announced an additional £190 million for colleges and other 16 to 19 providers for the 2025/26 financial year to support them with key pr...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3180"
+      },
+      {
+        "id": 1907911,
+        "uin": "3190",
+        "heading": "Export Controls",
+        "questionText": "To ask the Secretary of State for Business and Trade, what measures are in place to ensure that UK-origin controlled goods comply with licensing requirements when transiting third countries.",
+        "answerText": "The UK assesses every export licence application on a case-by-case basis against strict assessment criteria, the Strategic Export Licensing Criteria (the SELC). This includes an assessment on the risk of diversion of products to or through destinations su...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Chris Bryant",
+        "dateTabled": "2026-05-20",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-03",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-20/3190"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 13,
+        "Aye": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+        "items": [
+          {
+            "id": 11276,
+            "text": "Name of donor: Public and Commercial Services Union (PCS) Address of donor: 160 Falcon Road, London SW11 2LN Amount of donation or nature and value if donation in kind: Administration and coordination of the PCS Parliamentary Group, which I chair, by Solidarity Consulting Ltd, from 15 October 2024 to 14 October 2025, value £34,358, value £34,358 Donor status: trade union (Registered 20 November 2024)",
+            "createdWhen": "2024-11-27",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 11275,
+            "text": "Name of donor: Rail, Maritime and Transport Union Address of donor: Unity House, 39 Chalton Street, London NW1 1JD Amount of donation or nature and value if donation in kind: Administration and coordination of the RMT Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd from 12 October 2024 to 11 October 2025, value £22,211 Donor status: trade union (Registered 20 November 2024)",
+            "createdWhen": "2025-10-29",
+            "amendedWhen": "2024-11-27",
+            "isCorrection": false
+          },
+          {
+            "id": 13671,
+            "text": "Name of donor: Rail, Maritime and Transport Union Address of donor: Unity House, 39 Chalton Street, London NW1 1JD Amount of donation or nature and value if donation in kind: Administration and coordination of the RMT Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd from 13 October 2025 to 12 October 2026, value £25,091 Donor status: trade union (Registered 29 October 2025)",
+            "createdWhen": "2025-11-04",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13669,
+            "text": "Name of donor: Public and Commercial Services Union (PCS) Address of donor: 160 Falcon Road, London SW11 2LN Amount of donation or nature and value if donation in kind: Administration and coordination of the PCS Parliamentary Group, which I chair, by Solidarity Consulting Ltd, from 15 October 2025 to 14 October 2026, value £36,077 Donor status: trade union (Registered 29 October 2025)",
+            "createdWhen": "2026-02-09",
+            "amendedWhen": "2025-11-04",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

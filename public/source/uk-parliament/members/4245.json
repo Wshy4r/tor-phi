@@ -1,0 +1,171 @@
+{
+  "member": {
+    "id": "4245",
+    "slug": "paul-maskey",
+    "name": "Paul Maskey",
+    "sortName": "Maskey, Paul",
+    "fullTitle": "Paul Maskey MP",
+    "party": "Sinn Féin",
+    "partyAbbreviation": "SF",
+    "partyColor": "#02665f",
+    "constituency": "Belfast West",
+    "house": "House of Commons",
+    "role": "MP for Belfast West",
+    "officialUrl": "https://members.parliament.uk/member/4245/contact",
+    "recordUrl": "/country/uk/parliament/paul-maskey/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4245/Thumbnail",
+    "currentMembership": {
+      "constituency": "Belfast West",
+      "constituencyId": 4424,
+      "startDate": "2011-06-09",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "paul.maskey.mp@parliament.uk",
+        "westbelfastmp@sinnfein.ie"
+      ],
+      "phones": [
+        "0207 219 3000",
+        "02896 206 402"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Unit 32, Kennedy Centre, 564-568 Falls Road, Belfast, BT12 9AE",
+        "https://www.sinnfein.ie/",
+        "https://twitter.com/PaulMaskeyMP"
+      ],
+      "websites": [
+        "https://www.sinnfein.ie/"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/PaulMaskeyMP"
+        ]
+      ]
+    },
+    "synopsis": "Paul Maskey is the Sinn Féin MP for Belfast West , and has been an MP continually since 9 June 2011.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/paul-maskey/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4245/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4245"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4245/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4245/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4245/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4245/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4245"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 0,
+    "latestVoteDate": "",
+    "writtenQuestionCount": 0,
+    "latestQuestionDate": "",
+    "registeredInterestCount": 1
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/paul-maskey/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4245/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4245"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4245/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4245/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4245/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4245/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4245"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [],
+    "votes": {
+      "totalPositions": 0,
+      "latestDate": "",
+      "totals": {},
+      "recent": [],
+      "watch": []
+    },
+    "registeredInterests": [
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 12637,
+            "text": "Name of donor: Friends of Sinn Féin USA Address of donor: 1212 6th Avenue, Fifth Floor, New York, NY 10036 USA Estimate of the probable value (or amount of any donation): Flights (£706.75) and accommodation (£684.10), value £1,390.85 Destination of visit: United States (New York) Dates of visit: 4 June 2025 to 7 June 2025 Purpose of visit: To speak at Glór na Móna (Irish language organisation) event in New York to promote their new building development proposals Croí na Carraige in west Belfast. (Registered 16 June 2025)",
+            "createdWhen": "2025-06-17",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": []
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

@@ -1,0 +1,1155 @@
+{
+  "member": {
+    "id": "400",
+    "slug": "john-healey",
+    "name": "John Healey",
+    "sortName": "Healey, John",
+    "fullTitle": "Rt Hon John Healey MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Rawmarsh and Conisbrough",
+    "house": "House of Commons",
+    "role": "MP for Rawmarsh and Conisbrough",
+    "officialUrl": "https://members.parliament.uk/member/400/contact",
+    "recordUrl": "/country/uk/parliament/john-healey/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/400/Thumbnail",
+    "currentMembership": {
+      "constituency": "Rawmarsh and Conisbrough",
+      "constituencyId": 4251,
+      "startDate": "1997-05-01",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "john.healey.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 4031",
+        "01709 875943"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "79 High Street, Wath upon Dearne, Rotherham, S63 7QB",
+        "http://www.johnhealeymp.co.uk",
+        "https://twitter.com/JohnHealey_MP"
+      ],
+      "websites": [
+        "http://www.johnhealeymp.co.uk"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/JohnHealey_MP"
+        ]
+      ]
+    },
+    "synopsis": "The Rt Hon John Healey is the Labour MP for Rawmarsh and Conisbrough , and has been an MP continually since 1 May 1997.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/john-healey/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/400/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/400"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/400/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/400/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/400/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/400/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=400"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-05-21",
+    "registeredInterestCount": 5
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/john-healey/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/400/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/400"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/400/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/400/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/400/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/400/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=400"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1719621,
+        "uin": "27278",
+        "heading": "Landing Ship Dock Auxiliaries: Decommissioning",
+        "questionText": "To ask the Secretary of State for Defence, what the out of service date is for the Royal Fleet Auxiliary’s Bay-class ships.",
+        "answerText": "The Secretary of State confirmed in his speech to the First Sea Lord’s Sea Power Conference on 14 May 2024 that up to six Multi Role Support Ships will replace our current amphibious fleet, including the Bay Class Landing Ship Dock (Auxiliaries) and RFA A...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27278"
+      },
+      {
+        "id": 1719620,
+        "uin": "27277",
+        "heading": "RFA Argus: Decommissioning",
+        "questionText": "To ask the Secretary of State for Defence, what the out of service date is for RFA Argus.",
+        "answerText": "The Secretary of State confirmed in his speech to the First Sea Lord’s Sea Power Conference on 14 May 2024 that up to six Multi Role Support Ships will replace our current amphibious fleet, including the Bay Class Landing Ship Dock (Auxiliaries) and RFA A...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27277"
+      },
+      {
+        "id": 1719626,
+        "uin": "27283",
+        "heading": "Multi-role Support Ships",
+        "questionText": "To ask the Secretary of State for Defence, with reference to his Department's press release entitled New Golden Age of shipbuilding as new UK-built warships boost Navy building programme to up to 28 ships and submarines, published on 14 May 2024, where th",
+        "answerText": "As announced by the Secretary of State, it is intended that the Multi Role Support Ships will be built in the UK.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27283"
+      },
+      {
+        "id": 1719619,
+        "uin": "27276",
+        "heading": "HMS Bulwark",
+        "questionText": "To ask the Secretary of State for Defence, when HMS Bulwark will next deploy.",
+        "answerText": "I refer the right hon. Member to the answer I gave on 17 April 2024 to Question 21289 to the hon. Member for Plymouth, Sutton and Devonport (Mr Pollard).",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27276"
+      },
+      {
+        "id": 1719211,
+        "uin": "26953",
+        "heading": "Ministry of Defence: Written Questions",
+        "questionText": "To ask the Secretary of State for Defence, when he plans to respond to Question 21542 on Armed Forces: Housing tabled by the Rt hon. Member for Wentworth and Dearne on 15 April 2024.",
+        "answerText": "I responded to the right hon. Member on 24 May 2024.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26953"
+      },
+      {
+        "id": 1719210,
+        "uin": "26952",
+        "heading": "Ministry of Defence: Written Questions",
+        "questionText": "To ask the Secretary of State for Defence, when he plans to respond to Question 21541 on Armed Forces: Housing tabled by the Rt hon. Member for Wentworth and Dearne on 15 April 2024.",
+        "answerText": "I responded to the right hon. Member on 24 May 2024.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26952"
+      },
+      {
+        "id": 1719215,
+        "uin": "26956",
+        "heading": "Armed Forces: Recruitment",
+        "questionText": "To ask the Secretary of State for Defence, pursuant to the Answer of 16 May 2024 to Question 25754 on Armed Forces: Recruitment, what other programmes the Senior Responsible Officer has responsibility for.",
+        "answerText": "Approximately 10% of the Senior Responsible Officer’s (SRO) programmed meeting time was spent on the Recruiting Partnering Project in the last 12 months, alongside their other duties. This is the only programme for which they are the SRO. The SRO is suppo...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26956"
+      },
+      {
+        "id": 1719212,
+        "uin": "26954",
+        "heading": "Armed Forces: Recruitment",
+        "questionText": "To ask the Secretary of State for Defence, pursuant to the Answer of 16 May 2024 to Question 25754 on Armed Forces: Recruitment, if he will make an estimate of the proportion of the senior responsible officer’s time that was spent working on the Recruitin",
+        "answerText": "Approximately 10% of the Senior Responsible Officer’s (SRO) programmed meeting time was spent on the Recruiting Partnering Project in the last 12 months, alongside their other duties. This is the only programme for which they are the SRO. The SRO is suppo...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26954"
+      },
+      {
+        "id": 1719213,
+        "uin": "26955",
+        "heading": "Local Government: Elections",
+        "questionText": "To ask the Secretary of State for Levelling Up, Housing and Communities, pursuant to the Answer of 16 May 2024 to Question 25157 on Local Government: Elections, whether the number of veterans turned away from polling stations on 2 May 2024 after attemptin",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Levelling Up, Housing and Communities",
+        "answeringMember": "Simon Hoare",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26955"
+      },
+      {
+        "id": 1719219,
+        "uin": "26959",
+        "heading": "HMS Westminster: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how much his Department has spent on (a) upkeep and (b) maintenance of HMS Westminster since October 2022.",
+        "answerText": "As I advised on 15 January 2024 when I answered Question 8349 to the right hon. Member for Rayleigh and Wickford (Mr Francois), in the financial year 2023-24, £100 million has been allocated for Type 23 refits and of this sum about £50 million has been ex...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26959"
+      },
+      {
+        "id": 1719220,
+        "uin": "26960",
+        "heading": "Ukraine: Military Aid",
+        "questionText": "To ask the Secretary of State for Defence, how many and what proportion of Ukrainian military personnel have been trained via Operation INTERFLEX.",
+        "answerText": "Under Operation INTERFLEX, the UK along with support from its allies has trained over 40,000 Ukrainian recruits to date. This is part of the broader training programme administered by the Ukrainian Government.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Leo Docherty",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26960"
+      },
+      {
+        "id": 1718345,
+        "uin": "26345",
+        "heading": "Armed Forces: Recruitment",
+        "questionText": "To ask the Secretary of State for Defence, with reference to the Answer of 25 July 2023 to Question 194671, what his Department's recruitment targets for the armed forces are for 2024-25.",
+        "answerText": "Recruitment targets for Regular Serving personnel in 2024-25 currently are summarised below:Royal NavyOfficers 450Sailors 2,864 ArmyOfficers 677Soldiers 9,800 Royal Air ForceOfficers 462Aviators 2,615 In my answers to Questions 7264, 8358, 12118 and 17290...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-20",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26345"
+      },
+      {
+        "id": 1717513,
+        "uin": "25756",
+        "heading": "Armed Forces: Recruitment",
+        "questionText": "To ask the Secretary of State for Defence, how many (a) full time and (b) reservist Armed Forces personnel are working on recruitment for the (i) British Army, (ii) Royal Navy, (iii) RAF and (iv) Royal Marines as of 13 May 2024.",
+        "answerText": "It has not proved possible to respond to the right hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-13",
+        "dateForAnswer": "2024-05-16",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-13/25756"
+      },
+      {
+        "id": 1717507,
+        "uin": "25750",
+        "heading": "Armed Forces: Recruitment",
+        "questionText": "To ask the Secretary of State for Defence, how many (a) of his Department's civilian personnel, (b) Armed Forces personnel and (c) external private contractors work on recruitment for the (i) Royal Navy, (ii) British Army, (iii) Royal Air Force and (iv) R",
+        "answerText": "It has not proved possible to respond to the right hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-13",
+        "dateForAnswer": "2024-05-16",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-13/25750"
+      },
+      {
+        "id": 1716905,
+        "uin": "25432",
+        "heading": "Defence Business Services: Contracts",
+        "questionText": "To ask the Secretary of State for Defence, if he will list all the contracts managed by Defence Business Services.",
+        "answerText": "It has not proved possible to respond to the right hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25432"
+      },
+      {
+        "id": 1716904,
+        "uin": "25431",
+        "heading": "Defence Business Services: Contracts",
+        "questionText": "To ask the Secretary of State for Defence, what the total value is of the contracts managed by Defence Business Services.",
+        "answerText": "It has not proved possible to respond to the right hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25431"
+      },
+      {
+        "id": 1716897,
+        "uin": "25424",
+        "heading": "Ministry of Defence: Data Protection",
+        "questionText": "To ask the Secretary of State for Defence, how many (a) armed forces (i) personnel and (ii) families and (b) civil servants in his Department have been affected by personal data incidents related to Defence Children Services schools and settings in each y",
+        "answerText": "The number of personal data incidents that have been correctly reported to the Army Warning Advice and Reporting Point (WARP) that have affected Defence Children Services schools and settings since 2010 and the number of affected individuals that have bee...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25424"
+      },
+      {
+        "id": 1716896,
+        "uin": "25423",
+        "heading": "Ministry of Defence: Data Protection",
+        "questionText": "To ask the Secretary of State for Defence, how many personal data incidents have affected Defence Children Services schools and settings since 2010.",
+        "answerText": "The number of personal data incidents that have been correctly reported to the Army Warning Advice and Reporting Point (WARP) that have affected Defence Children Services schools and settings since 2010 and the number of affected individuals that have bee...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-09",
+        "dateForAnswer": "2024-05-14",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25423"
+      },
+      {
+        "id": 1700902,
+        "uin": "21542",
+        "heading": "Armed Forces: Housing",
+        "questionText": "To ask the Secretary of State for Defence, how many notices to quit have been issued by the Defence Infrastructure Organisation to (a) service and (b) non service families in Service Family Accommodation properties in the UK in each month since January 20",
+        "answerText": "Data on the number of Notices to Quit (NTQs) issued to Service personnel and their families in Service Family Accommodation (SFA) properties in the UK is available from April 2022; the implementation date of the current service contract: YearNo of NTQs is...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-04-15",
+        "dateForAnswer": "2024-04-17",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-15/21542"
+      },
+      {
+        "id": 1700901,
+        "uin": "21541",
+        "heading": "Armed Forces: Housing",
+        "questionText": "To ask the Secretary of State for Defence, how many notices to quit have been issued by the Defence Infrastructure Organisation to (a) service and (b) non service families in Service Family Accommodation properties in the UK in each year since 2010.",
+        "answerText": "Data on the number of Notices to Quit (NTQs) issued to Service personnel and their families in Service Family Accommodation (SFA) properties in the UK is available from April 2022; the implementation date of the current service contract: YearNo of NTQs is...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-04-15",
+        "dateForAnswer": "2024-04-17",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-15/21541"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 12,
+        "No": 13
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 7,
+        "category": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+        "items": [
+          {
+            "id": 12364,
+            "text": "Type of land/property: Residential property (Two bed apartment owned by me and my two siblings, following the death of my mother. Probate was 10 Jan 2025. The value is £180,000 and I own a third.) Number of properties: 1 Location: Hove Interest held: from 10 January 2025 until 7 November 2025 Ownership details: I no longer have any ownership in this property (ownership now with my two sisters) (Registered 7 May 2025; updated 13 November 2025)",
+            "createdWhen": "2026-06-03",
+            "amendedWhen": "2025-11-18",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 1881,
+            "text": "Member of Goldthorpe Towns Fund Board. This is an unpaid role. Date interest arose: 1 May 2020 Date interest ended: 23 May 2024 (Registered 11 April 2023; updated 22 October 2025)",
+            "createdWhen": "2025-11-04",
+            "amendedWhen": "2024-04-18",
+            "isCorrection": false
+          },
+          {
+            "id": 1878,
+            "text": "Chair of Rotherham 9th Scouts Group. This is an unpaid role. (Registered 11 April 2023)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 3544,
+            "text": "Executive Committee Member of the British American Parliamentary Group. This is an unpaid role. Date interest arose: 12 July 2023 Date interest ended: 4 July 2024 (Registered 4 January 2024; updated 21 October 2025)",
+            "createdWhen": "2025-11-04",
+            "amendedWhen": "2024-04-18",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": "9. Family members employed and paid from parliamentary expenses",
+        "items": [
+          {
+            "id": 2714,
+            "text": "Name: Jackie Bate Relationship: Spouse Role: Office Manager Working pattern: Part time",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Landing Ship Dock Auxiliaries: Decommissioning",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, what the out of service date is for the Royal Fleet Auxiliary’s Bay-class ships.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27278"
+      },
+      {
+        "kind": "Written question",
+        "title": "RFA Argus: Decommissioning",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, what the out of service date is for RFA Argus.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27277"
+      },
+      {
+        "kind": "Written question",
+        "title": "Multi-role Support Ships",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, with reference to his Department's press release entitled New Golden Age of shipbuilding as new UK-built warships boost Navy building programme to up to 28 ships and submarines, published on 14 May 2024, where th",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27283"
+      },
+      {
+        "kind": "Written question",
+        "title": "HMS Bulwark",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, when HMS Bulwark will next deploy.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27276"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ministry of Defence: Written Questions",
+        "date": "2024-05-20",
+        "summary": "To ask the Secretary of State for Defence, when he plans to respond to Question 21542 on Armed Forces: Housing tabled by the Rt hon. Member for Wentworth and Dearne on 15 April 2024.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26953"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ministry of Defence: Written Questions",
+        "date": "2024-05-20",
+        "summary": "To ask the Secretary of State for Defence, when he plans to respond to Question 21541 on Armed Forces: Housing tabled by the Rt hon. Member for Wentworth and Dearne on 15 April 2024.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26952"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Recruitment",
+        "date": "2024-05-20",
+        "summary": "To ask the Secretary of State for Defence, pursuant to the Answer of 16 May 2024 to Question 25754 on Armed Forces: Recruitment, what other programmes the Senior Responsible Officer has responsibility for.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26956"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Recruitment",
+        "date": "2024-05-20",
+        "summary": "To ask the Secretary of State for Defence, pursuant to the Answer of 16 May 2024 to Question 25754 on Armed Forces: Recruitment, if he will make an estimate of the proportion of the senior responsible officer’s time that was spent working on the Recruitin",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26954"
+      },
+      {
+        "kind": "Written question",
+        "title": "HMS Westminster: Repairs and Maintenance",
+        "date": "2024-05-20",
+        "summary": "To ask the Secretary of State for Defence, how much his Department has spent on (a) upkeep and (b) maintenance of HMS Westminster since October 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26959"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ukraine: Military Aid",
+        "date": "2024-05-20",
+        "summary": "To ask the Secretary of State for Defence, how many and what proportion of Ukrainian military personnel have been trained via Operation INTERFLEX.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/26960"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Recruitment",
+        "date": "2024-05-15",
+        "summary": "To ask the Secretary of State for Defence, with reference to the Answer of 25 July 2023 to Question 194671, what his Department's recruitment targets for the armed forces are for 2024-25.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26345"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Recruitment",
+        "date": "2024-05-13",
+        "summary": "To ask the Secretary of State for Defence, how many (a) full time and (b) reservist Armed Forces personnel are working on recruitment for the (i) British Army, (ii) Royal Navy, (iii) RAF and (iv) Royal Marines as of 13 May 2024.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-13/25756"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Recruitment",
+        "date": "2024-05-13",
+        "summary": "To ask the Secretary of State for Defence, how many (a) of his Department's civilian personnel, (b) Armed Forces personnel and (c) external private contractors work on recruitment for the (i) Royal Navy, (ii) British Army, (iii) Royal Air Force and (iv) R",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-13/25750"
+      },
+      {
+        "kind": "Written question",
+        "title": "Defence Business Services: Contracts",
+        "date": "2024-05-09",
+        "summary": "To ask the Secretary of State for Defence, if he will list all the contracts managed by Defence Business Services.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25432"
+      },
+      {
+        "kind": "Written question",
+        "title": "Defence Business Services: Contracts",
+        "date": "2024-05-09",
+        "summary": "To ask the Secretary of State for Defence, what the total value is of the contracts managed by Defence Business Services.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25431"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ministry of Defence: Data Protection",
+        "date": "2024-05-09",
+        "summary": "To ask the Secretary of State for Defence, how many (a) armed forces (i) personnel and (ii) families and (b) civil servants in his Department have been affected by personal data incidents related to Defence Children Services schools and settings in each y",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25424"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ministry of Defence: Data Protection",
+        "date": "2024-05-09",
+        "summary": "To ask the Secretary of State for Defence, how many personal data incidents have affected Defence Children Services schools and settings since 2010.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-09/25423"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Housing",
+        "date": "2024-04-15",
+        "summary": "To ask the Secretary of State for Defence, how many notices to quit have been issued by the Defence Infrastructure Organisation to (a) service and (b) non service families in Service Family Accommodation properties in the UK in each month since January 20",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-15/21542"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Housing",
+        "date": "2024-04-15",
+        "summary": "To ask the Secretary of State for Defence, how many notices to quit have been issued by the Defence Infrastructure Organisation to (a) service and (b) non service families in Service Family Accommodation properties in the UK in each year since 2010.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-15/21541"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

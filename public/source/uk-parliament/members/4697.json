@@ -1,0 +1,155 @@
+{
+  "member": {
+    "id": "4697",
+    "slug": "orfhlaith-begley",
+    "name": "Órfhlaith Begley",
+    "sortName": "Begley, Órfhlaith",
+    "fullTitle": "Órfhlaith Begley MP",
+    "party": "Sinn Féin",
+    "partyAbbreviation": "SF",
+    "partyColor": "#02665f",
+    "constituency": "West Tyrone",
+    "house": "House of Commons",
+    "role": "MP for West Tyrone",
+    "officialUrl": "https://members.parliament.uk/member/4697/contact",
+    "recordUrl": "/country/uk/parliament/orfhlaith-begley/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4697/Thumbnail",
+    "currentMembership": {
+      "constituency": "West Tyrone",
+      "constituencyId": 4438,
+      "startDate": "2018-05-03",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Órfhlaith Begley is the Sinn Féin MP for West Tyrone , and has been an MP continually since 3 May 2018.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/orfhlaith-begley/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4697/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4697"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4697/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4697/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4697/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4697/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4697"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 0,
+    "latestVoteDate": "",
+    "writtenQuestionCount": 0,
+    "latestQuestionDate": "",
+    "registeredInterestCount": 1
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/orfhlaith-begley/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4697/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4697"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4697/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4697/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4697/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4697/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4697"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [],
+    "votes": {
+      "totalPositions": 0,
+      "latestDate": "",
+      "totals": {},
+      "recent": [],
+      "watch": []
+    },
+    "registeredInterests": [
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 12182,
+            "text": "Appointment to Board of Governors to Our Lady of Lourdes Primary School. This is an unpaid role. Date interest arose: 3 April 2025 (Registered 3 April 2025)",
+            "createdWhen": "2025-04-08",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": []
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

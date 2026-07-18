@@ -1,0 +1,959 @@
+{
+  "member": {
+    "id": "5326",
+    "slug": "edward-morello",
+    "name": "Edward Morello",
+    "sortName": "Morello, Edward",
+    "fullTitle": "Edward Morello MP",
+    "party": "Liberal Democrat",
+    "partyAbbreviation": "LD",
+    "partyColor": "#fc7d0b",
+    "constituency": "West Dorset",
+    "house": "House of Commons",
+    "role": "MP for West Dorset",
+    "officialUrl": "https://members.parliament.uk/member/5326/contact",
+    "recordUrl": "/country/uk/parliament/edward-morello/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5326/Thumbnail",
+    "currentMembership": {
+      "constituency": "West Dorset",
+      "constituencyId": 4390,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "edward.morello.mp@parliament.uk"
+      ],
+      "phones": [
+        "01305 819666"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Constituency office"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Edward Morello is the Liberal Democrat MP for West Dorset , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/edward-morello/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5326/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5326"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5326/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5326/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5326/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5326/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5326"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-06",
+    "registeredInterestCount": 3
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/edward-morello/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5326/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5326"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5326/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5326/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5326/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5326/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5326"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1924553,
+        "uin": "16302",
+        "heading": "Railways: West Dorset",
+        "questionText": "To ask the Secretary of State for Transport, what discussions his Department has had with rail operators on service reliability caused by climate change affecting West Dorset.",
+        "answerText": "The Department engages regularly with Network Rail and the Train Operating Companies (TOCs) on the impact of extreme weather and climate change on rail service reliability across the network, including on routes serving rural areas such as West Dorset. Ne...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/16302"
+      },
+      {
+        "id": 1924555,
+        "uin": "16304",
+        "heading": "Bus Services: West Dorset",
+        "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 2 July 2026 to Question 14261, how much funding her Department is providing under the Bus Service Operators Grant to West Dorset; and whether her Department plans to provide ring fence",
+        "answerText": "BSOG is paid directly to eligible bus and community transport operators, rather than being allocated by constituency. The Department for Transport does not hold information on the amount of Bus Service Operators Grant (BSOG) funding provided specifically ...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/16304"
+      },
+      {
+        "id": 1924556,
+        "uin": "16305",
+        "heading": "Community Transport: West Dorset",
+        "questionText": "To ask the Secretary of State for Transport, what assessment his Department has made of the impact of community transport on rural mobility in West Dorset.",
+        "answerText": "Bus services can be a lifeline in rural areas and can often be the only means of accessing essential services. The Government is, therefore, helping improve local bus services across the country, including through the Bus Services Act 2025, which puts the...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/16305"
+      },
+      {
+        "id": 1924590,
+        "uin": "16311",
+        "heading": "Police: Finance",
+        "questionText": "To ask the Secretary of State for the Home Department, whether her Department plans to review police funding formulas to reflect rurality.",
+        "answerText": "The Police Reform White Paper confirmed that we will review the funding formula once police reform is underway.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/16311"
+      },
+      {
+        "id": 1924589,
+        "uin": "16310",
+        "heading": "Police: West Dorset",
+        "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the effectiveness of rural policing in West Dorset.",
+        "answerText": "The Police Reform White Paper confirmed that we will review the funding formula once police reform is underway.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/16310"
+      },
+      {
+        "id": 1924588,
+        "uin": "16309",
+        "heading": "Police: West Dorset",
+        "questionText": "To ask the Secretary of State for the Home Department, what steps her Department is taking to support policing in West Dorset.",
+        "answerText": "The Police Reform White Paper confirmed that we will review the funding formula once police reform is underway.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/16309"
+      },
+      {
+        "id": 1922046,
+        "uin": "14256",
+        "heading": "Economic Growth: West Dorset",
+        "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of economic growth opportunities in West Dorset.",
+        "answerText": "DBT works closely with other Government Departments and local partner organisations, including Local Authorities, to collect intelligence and data, identify issues, and support the development and delivery of initiatives to open up opportunities for econo...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Blair McDougall",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14256"
+      },
+      {
+        "id": 1922041,
+        "uin": "14251",
+        "heading": "Hospitality Industry: Rural Areas",
+        "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department is taking to support seasonal hospitality businesses in rural constituencies such as West Dorset.",
+        "answerText": "We are delivering permanently lower business rates multipliers for over 750,000 retail, hospitality and leisure properties, backed by a £4.3 billion support package over three years, including transitional relief to protect businesses from large bill incr...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14251"
+      },
+      {
+        "id": 1922042,
+        "uin": "14252",
+        "heading": "Public Houses: West Dorset",
+        "questionText": "To ask the Secretary of State for Business and Trade, what support his Department is providing to pubs in West Dorset.",
+        "answerText": "Since April 2026, every pub has benefited from a 15% cut to their business rates bills, followed by a two year real terms freeze. Around three‑quarters of pubs will see their bills stay the same or fall, saving the average pub around £1,650 this year. A r...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14252"
+      },
+      {
+        "id": 1922040,
+        "uin": "14250",
+        "heading": "Hospitality Industry: West Dorset",
+        "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of the impact of rising costs on hospitality businesses in West Dorset.",
+        "answerText": "The Government recognises that hospitality businesses, including those in West Dorset, continue to face cost pressures arising from wider economic conditions. While the Department has not made a specific assessment for West Dorset, we remain in regular di...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14250"
+      },
+      {
+        "id": 1922044,
+        "uin": "14254",
+        "heading": "Public Houses: Rural Areas",
+        "questionText": "To ask the Secretary of State for Business and Trade, whether his Department plans to review support available for rural pubs in constituencies such as West Dorset.",
+        "answerText": "The Department keeps the adequacy of support for rural pubs under regular review, working closely with HM Treasury and industry representatives including through the Hospitality Sector Council. Since April 2026, every pub has benefited from a 15% cut to t...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14254"
+      },
+      {
+        "id": 1922039,
+        "uin": "14249",
+        "heading": "Hospitality Industry: West Dorset",
+        "questionText": "To ask the Secretary of State for Business and Trade, what recent support his Department is providing to hospitality businesses in West Dorset.",
+        "answerText": "We are delivering permanently lower business rates multipliers for over 750,000 retail, hospitality and leisure properties, backed by a £4.3 billion support package over three years, including transitional relief to protect businesses from large bill incr...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14249"
+      },
+      {
+        "id": 1922043,
+        "uin": "14253",
+        "heading": "Public Houses: West Dorset",
+        "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of the financial sustainability of pubs in West Dorset.",
+        "answerText": "The Department has not made a specific assessment of the financial sustainability of pubs in West Dorset. However, the Government recognises the pressures facing pubs and the wider hospitality sector and continues to engage closely with industry represent...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14253"
+      },
+      {
+        "id": 1922048,
+        "uin": "14258",
+        "heading": "Hotels: West Dorset",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of tourism sector challenges facing hotels in West Dorset.",
+        "answerText": "DCMS maintains an ongoing dialogue with stakeholders, industry partners, and the Visitor Economy Advisory Council to closely monitor and address the challenges facing the tourism and hospitality sectors, including hotels in West Dorset. To support these v...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Stephanie Peacock",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14258"
+      },
+      {
+        "id": 1922047,
+        "uin": "14257",
+        "heading": "Hotels: West Dorset",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what support her Department is providing to hotels in West Dorset.",
+        "answerText": "DCMS maintains an ongoing dialogue with stakeholders, industry partners, and the Visitor Economy Advisory Council to closely monitor and address the challenges facing the tourism and hospitality sectors, including hotels in West Dorset. To support these v...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Stephanie Peacock",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14257"
+      },
+      {
+        "id": 1922038,
+        "uin": "14248",
+        "heading": "Solar Power: Innovation",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps his Department is taking to support innovation in the solar sector.",
+        "answerText": "The UK has huge potential for solar power, and the Government is committed to working with industry to radically increase our existing solar capacity to meet our Net Zero goals utilising innovation funded through UK Research & Innovation and Innovate ...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14248"
+      },
+      {
+        "id": 1922054,
+        "uin": "14264",
+        "heading": "Railways: West Dorset",
+        "questionText": "To ask the Secretary of State for Transport, what discussions his Department has had with rail operators on service reliability affecting West Dorset.",
+        "answerText": "The Department works closely with train operators and Network Rail to improve reliability and performance on services across the network, including those serving West Dorset. Improvement activity includes targeted work to address infrastructure reliabilit...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14264"
+      },
+      {
+        "id": 1916243,
+        "uin": "9960",
+        "heading": "Dental Services: Children",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what support his Department is providing to increase the number of NHS dentists treating children in West Dorset.",
+        "answerText": "No assessment has been made on waiting times for children’s National Health Service dental appointments.The responsibility for commissioning primary care services, including NHS dentistry, to meet the needs of the local population has been delegated to in...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9960"
+      },
+      {
+        "id": 1916242,
+        "uin": "9959",
+        "heading": "Dental Services: Children",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the adequacy of waiting times for children’s NHS dental appointments in West Dorset.",
+        "answerText": "No assessment has been made on waiting times for children’s National Health Service dental appointments.The responsibility for commissioning primary care services, including NHS dentistry, to meet the needs of the local population has been delegated to in...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9959"
+      },
+      {
+        "id": 1916240,
+        "uin": "9957",
+        "heading": "Dental Services: Children",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to improve access to NHS dentistry for children in West Dorset.",
+        "answerText": "No assessment has been made on waiting times for children’s National Health Service dental appointments.The responsibility for commissioning primary care services, including NHS dentistry, to meet the needs of the local population has been delegated to in...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9957"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 6,
+        "Aye": 19
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2346,
+          "number": 511,
+          "date": "2026-04-27",
+          "title": "Children's School and Wellbeing Bill: Amendments (a) to (j) in lieu of Lords Amendments 38V to 38X",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 272,
+          "noCount": 64,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2346"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 15963,
+            "text": "Name of donor: Bath Rugby Club Address of donor: Farleigh House, Farleigh Hungerford, Bath BA2 7RW Amount of donation or nature and value if donation in kind: Three tickets to Bath Rugby vs Leicester Tigers, for myself, my wife, and son (adult tickets £125.00 each, junior ticket £65.00), value £315 Date received: 6 June 2026 Date accepted: 6 June 2026 Donor status: company, registration 03170814 (Registered 29 June 2026)",
+            "createdWhen": "2026-06-30",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 13374,
+            "text": "Name of donor: HM Government of Gibraltar Address of donor: Gibraltar House, 150 Strand, London WC2R 1JA Estimate of the probable value (or amount of any donation): Flights (£489), accommodation (£525) and meals (£250), value £1,264 Destination of visit: Gibraltar Dates of visit: 8 September 2025 to 11 September 2025 Purpose of visit: To represent the Liberal Democrats at the Gibraltar National Day celebrations (Registered 26 September 2025)",
+            "createdWhen": "2025-10-08",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14738,
+            "text": "Name of donor: HM Government of Cayman Islands Address of donor: 133 Elgin Avenue, George Town, Grand Cayman KY1-9000, Cayman Islands Estimate of the probable value (or amount of any donation): Flights (£2905.60), accommodation (£1919.63), transfers (£206.00), subsistence (£577.83), commemorative item (£64.34), value £5,673.40 Destination of visit: Cayman Islands Dates of visit: 13 February 2026 to 17 February 2026 Purpose of visit: Fact finding visit to UK Overseas Territory, exploring natural disaster responsiveness and preparedness, financial regulation, environmental management, and governance. (Registered 12 March 2026)",
+            "createdWhen": "2026-03-24",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Solar Power: Innovation",
+        "date": "2026-06-29",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps his Department is taking to support innovation in the solar sector.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14248"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "No; Ayes 308, Noes 81.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

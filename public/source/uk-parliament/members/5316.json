@@ -1,0 +1,1111 @@
+{
+  "member": {
+    "id": "5316",
+    "slug": "mike-reader",
+    "name": "Mike Reader",
+    "sortName": "Reader, Mike",
+    "fullTitle": "Mike Reader MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Northampton South",
+    "house": "House of Commons",
+    "role": "MP for Northampton South",
+    "officialUrl": "https://members.parliament.uk/member/5316/contact",
+    "recordUrl": "/country/uk/parliament/mike-reader/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5316/Thumbnail",
+    "currentMembership": {
+      "constituency": "Northampton South",
+      "constituencyId": 4222,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "mike.reader.mp@parliament.uk",
+        "mike.reader.casework@parliament.uk "
+      ],
+      "phones": [
+        "0207 219 3000"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Constituency office",
+        "https://www.mikereader.co.uk",
+        "https://facebook.com/MikeReaderLabour",
+        "https://twitter.com/mike_reader"
+      ],
+      "websites": [
+        "https://www.mikereader.co.uk"
+      ],
+      "social": [
+        [
+          "Facebook",
+          "https://facebook.com/MikeReaderLabour"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/mike_reader"
+        ]
+      ]
+    },
+    "synopsis": "Mike Reader is the Labour MP for Northampton South , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/mike-reader/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5316/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5316"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5316/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5316/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5316/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5316/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5316"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-09",
+    "registeredInterestCount": 17
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/mike-reader/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5316/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5316"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5316/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5316/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5316/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5316/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5316"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1914426,
+        "uin": "8389",
+        "heading": "Heating: VAT",
+        "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential merits of extending 0% VAT relief to clean heating technologies such as heat batteries, including on initial costs, the number of households adopting low-carbon heating",
+        "answerText": "The Government is supporting heat batteries by including them in the Boiler Upgrade Scheme, with a £2,500 grant to support homes that are not suitable for heat pumps. Heat batteries will become eligible once new product and installation standards are in p...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-06-09",
+        "dateForAnswer": "2026-06-11",
+        "dateAnswered": "2026-06-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-09/8389"
+      },
+      {
+        "id": 1914425,
+        "uin": "8388",
+        "heading": "Heating: VAT",
+        "questionText": "To ask the Chancellor of the Exchequer, whether she has made an assessment of the potential merits of extending 0% VAT relief to clean heating technologies, including heat batteries.",
+        "answerText": "The Government is supporting heat batteries by including them in the Boiler Upgrade Scheme, with a £2,500 grant to support homes that are not suitable for heat pumps. Heat batteries will become eligible once new product and installation standards are in p...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-06-09",
+        "dateForAnswer": "2026-06-11",
+        "dateAnswered": "2026-06-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-09/8388"
+      },
+      {
+        "id": 1912003,
+        "uin": "6613",
+        "heading": "Timber: Housing",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the quantity of (a) commercial forest timber and (b) waste wood products that will be needed to achieve the government’s target of 1.5million",
+        "answerText": "We recognise the important role timber can play in supporting Net Zero, including through reducing embodied emissions in construction and storing carbon. The Government relaunched a more ambitious Timber in Construction Roadmap in February 2025 to increas...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6613"
+      },
+      {
+        "id": 1912001,
+        "uin": "6611",
+        "heading": "Timber: Housing",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate he has made of the extent to which imported timber will be used in future housing construction.",
+        "answerText": "We recognise the important role timber can play in supporting Net Zero, including through reducing embodied emissions in construction and storing carbon. The Government relaunched a more ambitious Timber in Construction Roadmap in February 2025 to increas...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6611"
+      },
+      {
+        "id": 1912000,
+        "uin": "6610",
+        "heading": "Timber: Housing",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate her Department has made of the volume of structural timber required to meet the government’s housing delivery ambitions during this Parliament.",
+        "answerText": "We recognise the important role timber can play in supporting Net Zero, including through reducing embodied emissions in construction and storing carbon. The Government relaunched a more ambitious Timber in Construction Roadmap in February 2025 to increas...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6610"
+      },
+      {
+        "id": 1910890,
+        "uin": "5799",
+        "heading": "Government Departments: Catering",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if her department will update the Government Buying Standards for Food and Catering Services to require applicable government agencies to purchase higher welfare products, including ca",
+        "answerText": "The National Procurement Policy Statement underscores the government’s commitment to increasing procurement of food that meets higher environmental standards, supporting local suppliers and upholding ethical sourcing practises, including sourcing products...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-06-01",
+        "dateForAnswer": "2026-06-03",
+        "dateAnswered": "2026-06-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5799"
+      },
+      {
+        "id": 1910888,
+        "uin": "5798",
+        "heading": "Government Departments: Catering",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department will be strengthening the animal welfare provisions of the Government Buying Standards for Food and Catering Services.",
+        "answerText": "The National Procurement Policy Statement underscores the government’s commitment to increasing procurement of food that meets higher environmental standards, supporting local suppliers and upholding ethical sourcing practises, including sourcing products...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-06-01",
+        "dateForAnswer": "2026-06-03",
+        "dateAnswered": "2026-06-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5798"
+      },
+      {
+        "id": 1910885,
+        "uin": "5797",
+        "heading": "Government Departments: Catering",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when her Department expects to implement the policy of requiring government catering contracts to favour high-quality, high-welfare products.",
+        "answerText": "The National Procurement Policy Statement underscores the government’s commitment to increasing procurement of food that meets higher environmental standards, supporting local suppliers and upholding ethical sourcing practises, including sourcing products...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-06-01",
+        "dateForAnswer": "2026-06-03",
+        "dateAnswered": "2026-06-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5797"
+      },
+      {
+        "id": 1903206,
+        "uin": "129921",
+        "heading": "Food: Manufacturing Industries",
+        "questionText": "To ask the Chancellor of the Exchequer, whether she has considered the potential merits of introducing support for food and drink manufacturers.",
+        "answerText": "The Government recognises the important role that food and drink manufacturers play in growing our economy, accounting for £37 billion in Gross Value Added in 2023. We understand, and are taking seriously, the possible impacts of the conflict in the Middl...",
+        "answeringBody": "Treasury",
+        "answeringMember": "James Murray",
+        "dateTabled": "2026-04-27",
+        "dateForAnswer": "2026-04-29",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-27/129921"
+      },
+      {
+        "id": 1903209,
+        "uin": "129924",
+        "heading": "Palace of Westminster: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Education, if she has considered the skills needed for the Restoration and Renewal Programme and the funding of FE courses that contribute to the skills base required for the Programme.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-04-27",
+        "dateForAnswer": "2026-04-29",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-27/129924"
+      },
+      {
+        "id": 1903208,
+        "uin": "129923",
+        "heading": "Local Housing Allowance: Older People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, if he has assessed the potential impact of the freeze on Local Housing Allowance on levels of poverty among older private renters.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2026-04-27",
+        "dateForAnswer": "2026-04-29",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-27/129923"
+      },
+      {
+        "id": 1903207,
+        "uin": "129922",
+        "heading": "Food: Supply Chains",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of the cost of regulation introduced since 2019 on the food and drink supply chain, including in farming, manufacturing,",
+        "answerText": "Food and drink inflation is determined by a range of factors and it is not always possible to isolate the direct impact of regulation on food prices. However, Defra is taking action to reduce cost pressures in the food system, including from regulation. I...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-04-27",
+        "dateForAnswer": "2026-04-29",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-27/129922"
+      },
+      {
+        "id": 1903147,
+        "uin": "129791",
+        "heading": "Health Lottery: Ownership",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with the Gambling Commission on the suitability of the current ownership arrangements of the Health Lottery.",
+        "answerText": "DCMS Ministers and officials have had no discussions with the Gambling Commission on the ownership arrangements of the Health Lottery.",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Ian Murray",
+        "dateTabled": "2026-04-24",
+        "dateForAnswer": "2026-04-29",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-24/129791"
+      },
+      {
+        "id": 1902090,
+        "uin": "129032",
+        "heading": "National Lottery Community Fund",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate she has made of the potential impact of the time taken to complete the National Lottery licence transition on the change in the amount of funding provided through the National Lotte",
+        "answerText": "Allwyn, as the new operator of the National Lottery, has successfully delivered its technical transformation programme. This marks the biggest investment in the National Lottery since 2009, and will support Allwyn’s commitment to double weekly good cause ...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Ian Murray",
+        "dateTabled": "2026-04-21",
+        "dateForAnswer": "2026-04-23",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-21/129032"
+      },
+      {
+        "id": 1902092,
+        "uin": "129034",
+        "heading": "National Lottery",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to support the transformation of the National Lottery.",
+        "answerText": "The National Lottery is a national institution and a unique source of national pride and funding for good causes. It is a huge contributor to the Government’s Plan for Change, providing £1.9 billion in 2024/25 to the arts, heritage, sport and community se...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Ian Murray",
+        "dateTabled": "2026-04-21",
+        "dateForAnswer": "2026-04-23",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-21/129034"
+      },
+      {
+        "id": 1902091,
+        "uin": "129033",
+        "heading": "Gambling Commission: Public Appointments",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what her planned timetable is for appointing a permanent Chief Executive of the Gambling Commission.",
+        "answerText": "The appointment of a permanent Chief Executive is a matter for the Gambling Commission. The Commission will identify a preferred candidate, with the appointment subject to the Secretary of State approving the terms and conditions. Officials are in regular...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Ian Murray",
+        "dateTabled": "2026-04-21",
+        "dateForAnswer": "2026-04-23",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-21/129033"
+      },
+      {
+        "id": 1898231,
+        "uin": "126177",
+        "heading": "Financial Services: Regulation",
+        "questionText": "To ask the Chancellor of the Exchequer, what role her Department has in (a) monitoring and (b) supporting the governance and accountability of bodies established following Competition and Markets Authority remedies, where those bodies are funded by regula",
+        "answerText": "The Competition and Markets Authority (CMA) is responsible for ensuring that the obligations under Part 2 of the Retail Banking Market Investigation Order (the Order), and the accompanying Agreed Arrangements, are satisfied. The Government is aware that O...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126177"
+      },
+      {
+        "id": 1898230,
+        "uin": "126176",
+        "heading": "Open Banking",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps her Department is taking to ensure that decisions relating to the future regulatory framework for Open Banking and Open Finance reflect high standards of governance, transparency, and employment protectio",
+        "answerText": "The Competition and Markets Authority (CMA) is responsible for ensuring that the obligations under Part 2 of the Retail Banking Market Investigation Order (the Order), and the accompanying Agreed Arrangements, are satisfied. The Government is aware that O...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126176"
+      },
+      {
+        "id": 1898229,
+        "uin": "126175",
+        "heading": "Open Banking: Conditions of Employment",
+        "questionText": "To ask the Chancellor of the Exchequer, whether she has had discussions with the CMA9 banks on the potential impact of reported employment practices at Open Banking Limited on public and industry confidence in the Open Banking and Open Finance framework.",
+        "answerText": "The Competition and Markets Authority (CMA) is responsible for ensuring that the obligations under Part 2 of the Retail Banking Market Investigation Order (the Order), and the accompanying Agreed Arrangements, are satisfied. The Government is aware that O...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126175"
+      },
+      {
+        "id": 1898228,
+        "uin": "126174",
+        "heading": "Open Banking",
+        "questionText": "To ask the Chancellor of the Exchequer, whether her Department has held discussions with the Competition and Markets Authority on the adequacy of Open Banking Limited's governance and accountability arrangements in the context of its role in open banking",
+        "answerText": "The Competition and Markets Authority (CMA) is responsible for ensuring that the obligations under Part 2 of the Retail Banking Market Investigation Order (the Order), and the accompanying Agreed Arrangements, are satisfied. The Government is aware that O...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126174"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 8,
+        "No": 17
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2366,
+          "number": 16,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 94,
+          "noCount": 297,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2366"
+        },
+        {
+          "id": 2365,
+          "number": 15,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 20",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 90,
+          "noCount": 290,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2365"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+        "items": [
+          {
+            "id": 14400,
+            "text": "Name of donor: Homes for Britain Ltd Address of donor: 12 Old Bond Street, London W1S 4PW Amount of donation or nature and value if donation in kind: £2,155 fundraiser donation Donor status: company, registration 14724694 (Registered 26 January 2026)",
+            "createdWhen": "2026-02-03",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 12656,
+            "text": "Name of donor: Mace Consult Limited Address of donor: 155 Moorgate, London EC2M 6XB Amount of donation or nature and value if donation in kind: May 2025 costs of legal services arranged and paid for by Mace Consult Limited, instructing Pinsent Masons LLP to act on their behalf in employment tribunal case, value £161.28 Date received: 31 May 2025 to 31 May 2025 Date accepted: 31 May 2025 Donor status: company, registration 07094851 (Registered 17 June 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-07-01",
+            "isCorrection": false
+          },
+          {
+            "id": 12654,
+            "text": "Name of donor: Built Enviroment Networking Limited Address of donor: 5th Floor 133 Houndsditch, London EC3A 7BX Amount of donation or nature and value if donation in kind: Hotel room for 2 nights £225 per night (£550 in total for 2 night's stay), value £550 Date received: 19 May 2025 to 21 May 2025 Date accepted: 19 May 2025 Donor status: company, registration 07110641 (Registered 26 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12729,
+            "text": "Name of donor: Mace Consult Limited Address of donor: 155 Moorgate, London EC2M 6XB Amount of donation or nature and value if donation in kind: June 2025 costs of legal services arranged and paid for by Mace Consult Limited, instructing Pinsent Masons LLP to act on their behalf in employment tribunal case, value £201.60 Date received: 27 June 2025 Date accepted: 27 June 2025 Donor status: company, registration 07094851 (Registered 27 June 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-07-01",
+            "isCorrection": false
+          },
+          {
+            "id": 12753,
+            "text": "Name of donor: Jockey Club Racecourses Ltd Address of donor: 21-27 Lambs Conduit Street, London, England WC1N 3NL Amount of donation or nature and value if donation in kind: In my role as an Ambassador for Labour Society of Sport, I accepted two tickets from the Jockey Club for an organised visit, value £680 Date received: 6 June 2025 Date accepted: 6 June 2025 Donor status: company, registration 02909409 (Registered 30 June 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-07-01",
+            "isCorrection": false
+          },
+          {
+            "id": 13038,
+            "text": "Name of donor: The British Racing Drivers' Club Limited Address of donor: Silverstone Circuit, Silverstone, Towcester, Northamptonshire NN12 8TN Amount of donation or nature and value if donation in kind: Attended the British Grand Prix as local MP and member of the All-Party Parliamentary Group on Motorsports, value £1,195 Date received: 6 July 2025 Date accepted: 6 July 2025 Donor status: company, registration 00257980 (Registered 31 July 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-08-05",
+            "isCorrection": false
+          },
+          {
+            "id": 13037,
+            "text": "Name of donor: Nutricia Limited Address of donor: Newmarket Avenue, Whitehorse Business Park, Trowbridge, Wiltshire BA14 0XQ Amount of donation or nature and value if donation in kind: Attended Wimbledon with Danone (Evian Water) in capacity as chair of the All-Party Parliamentary Group for Food and Drink, value £540 Date received: 5 July 2025 Date accepted: 5 July 2025 Donor status: company, registration 00275552 (Registered 31 July 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-08-05",
+            "isCorrection": false
+          },
+          {
+            "id": 13036,
+            "text": "Name of donor: Mace Consult Limited Address of donor: 155 Moorgate, London EC2M 6XB Amount of donation or nature and value if donation in kind: May 2025 cost of legal services arranged and paid for by Mace Consult Limited, instructing Pinsent Masons LLP to act on their behalf in employment tribunal case, value £575.04 Date received: 31 July 2025 Date accepted: 31 July 2025 Donor status: company, registration 07094851 (Registered 31 July 2025)",
+            "createdWhen": "2025-08-05",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13933,
+            "text": "Name of donor: Mace Consult Limited Address of donor: 155 Moorgate, London EC2M 6XB Amount of donation or nature and value if donation in kind: October 2025 costs of legal services arranged and paid for by Mace Consult Limited, instructing Pinsent Masons LLP to act on their behalf in employment tribunal case, value £90.72 Date received: 31 October 2025 Date accepted: 31 October 2025 Donor status: company, registration 07094851 (Registered 20 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13935,
+            "text": "Name of donor: SME4LABOUR LTD Address of donor: Flat 80 County Hall North Block, 5 Chicheley Street, London SE1 7PN Amount of donation or nature and value if donation in kind: Accepted ticket to attend SME4Labour Gala & Excellence Awards, value £300 Date received: 4 November 2025 Date accepted: 4 November 2025 Donor status: company, registration 10685562 (Registered 21 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14174,
+            "text": "Name of donor: Mace Consult Limited Address of donor: 155 Moorgate, London EC2M 6XB Amount of donation or nature and value if donation in kind: November 2025 costs of legal services arranged and paid for by Mace Consult Limited, instructing Pinsent Masons LLP to act on their behalf in employment tribunal case, value £45.36 Date received: 30 November 2025 Date accepted: 30 November 2025 Donor status: company, registration 07094851 (Registered 18 December 2025)",
+            "createdWhen": "2026-01-06",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14550,
+            "text": "Name of donor: Mace Consult Limited Address of donor: 155 Moorgate, London EC2M 6XB Amount of donation or nature and value if donation in kind: January 2026 costs of legal services arranged and paid for by Mace Consult Limited, instructing Pinsent Masons LLP to act on their behalf in employment tribunal case, value £162.48 Date received: 31 January 2026 Date accepted: 31 January 2026 Donor status: company, registration 07094851 (Registered 22 April 2026)",
+            "createdWhen": "2026-04-29",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15087,
+            "text": "Name of donor: Mace Consult Limited Address of donor: 155 Moorgate, London EC2M 6XB Amount of donation or nature and value if donation in kind: February 2026 costs of legal services arranged and paid for by Mace Consult Limited, instructing Pinsent Masons LLP to act on their behalf in employment tribunal case, value £149.04 Date received: 28 February 2026 Date accepted: 28 February 2026 Donor status: company, registration 07094851 (Registered 22 April 2026)",
+            "createdWhen": "2026-04-29",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15559,
+            "text": "Name of donor: Mace Consult Limited Address of donor: 155 Moorgate, London EC2M 6XB Amount of donation or nature and value if donation in kind: May 2026 costs of legal services arranged and paid for by Mace Consult Limited, instructing Pinsent Masons LLP to act on their behalf in employment tribunal case, value £725.76 Date received: 31 May 2026 Date accepted: 31 May 2026 Donor status: company, registration 07094851 (Registered 22 June 2026)",
+            "createdWhen": "2026-06-30",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 13534,
+            "text": "Name of donor: Armed Forces Parliamentary Trust Address of donor: House of Commons, London, SW1A 0AA Estimate of the probable value (or amount of any donation): £709.22 london Heathrow to Bahrain Friday 2nd May 2025, return Monday 5th May 2025, paid by myself online and reimbursed afterwards by the Armed Forces Parliamentary Trust Destination of visit: Bahrain Dates of visit: 2 May 2025 to 5 May 2025 Purpose of visit: As member of the Armed Forces Parliamentary Scheme, visited military installations in Bahrain on this organised visit for Parliamentarians. (Registered 14 October 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13937,
+            "text": "Name of donor: Coca-Cola Europacific Partners plc Address of donor: Pemberton House, Bakers Road, Uxbridge UB8 1EZ Estimate of the probable value (or amount of any donation): Train travel (£160) and overnight accommodation (£300), value £460 Destination of visit: Belgium Dates of visit: 26 October 2025 to 27 October 2025 Purpose of visit: In my role as Chair of the APPG for Food and Drink, I was invited to visit Coca Cola's Research and Development site in Brussels. (Registered 21 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+        "items": [
+          {
+            "id": 6515,
+            "text": "Type of land/property: Residential property (House) Number of properties: 1 Location: Rushden Ownership details: Co-owned with my wife Rental income: Yes (Registered 17 July 2024)",
+            "createdWhen": "2025-07-17",
+            "amendedWhen": "2024-08-16",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Heating: VAT",
+        "date": "2026-06-09",
+        "summary": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential merits of extending 0% VAT relief to clean heating technologies such as heat batteries, including on initial costs, the number of households adopting low-carbon heating",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-09/8389"
+      },
+      {
+        "kind": "Written question",
+        "title": "Heating: VAT",
+        "date": "2026-06-09",
+        "summary": "To ask the Chancellor of the Exchequer, whether she has made an assessment of the potential merits of extending 0% VAT relief to clean heating technologies, including heat batteries.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-09/8388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

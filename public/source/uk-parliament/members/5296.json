@@ -1,0 +1,969 @@
+{
+  "member": {
+    "id": "5296",
+    "slug": "freddie-van-mierlo",
+    "name": "Freddie van Mierlo",
+    "sortName": "van Mierlo, Freddie",
+    "fullTitle": "Freddie van Mierlo MP",
+    "party": "Liberal Democrat",
+    "partyAbbreviation": "LD",
+    "partyColor": "#fc7d0b",
+    "constituency": "Henley and Thame",
+    "house": "House of Commons",
+    "role": "MP for Henley and Thame",
+    "officialUrl": "https://members.parliament.uk/member/5296/contact",
+    "recordUrl": "/country/uk/parliament/freddie-van-mierlo/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5296/Thumbnail",
+    "currentMembership": {
+      "constituency": "Henley and Thame",
+      "constituencyId": 4095,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "freddie.vanmierlo.mp@parliament.uk"
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Freddie van Mierlo is the Liberal Democrat MP for Henley and Thame , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/freddie-van-mierlo/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5296/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5296"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5296/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5296/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5296/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5296/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5296"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-03",
+    "registeredInterestCount": 3
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/freddie-van-mierlo/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5296/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5296"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5296/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5296/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5296/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5296/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5296"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1923957,
+        "uin": "15869",
+        "heading": "Members: Correspondence",
+        "questionText": "To ask the Secretary of State for Health and Social Care, when he plans to respond to the letter of 2nd June 2026 from the Hon. Member for Henley and Thame.",
+        "answerText": "I replied to the Hon. Member’s correspondence of 2 June about the NHS Thames Valley Integrated Care Board on 9 July 2026.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-07-03",
+        "dateForAnswer": "2026-07-09",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-03/15869"
+      },
+      {
+        "id": 1923016,
+        "uin": "15106",
+        "heading": "Maternity Services: Recruitment",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of maternity services not recruiting newly qualified midwives on patient safety, continuity of care and overall costs.",
+        "answerText": "We are aware of the difficulties newly qualified midwives are experiencing in securing employment in the National Health Service. NHS England actively monitors future nursing and midwifery student numbers, current vacancies, and staff turnover and is taki...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-07",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15106"
+      },
+      {
+        "id": 1923015,
+        "uin": "15105",
+        "heading": "Maternity Services: Recruitment",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what estimate he has made of the number of newly qualified midwives in England in 2026 unable to secure employment within NHS maternity services; and whether he plans to introduce a nationally fund",
+        "answerText": "We are aware of the difficulties newly qualified midwives are experiencing in securing employment in the National Health Service. NHS England actively monitors future nursing and midwifery student numbers, current vacancies, and staff turnover and is taki...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-07",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15105"
+      },
+      {
+        "id": 1923026,
+        "uin": "15116",
+        "heading": "Disabled Facilities Grants",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of whether funding provided to local authorities for Disabled Facilities Grants (DFG) is adequate for them to meet the cost of adaptations, in the context of increases i",
+        "answerText": "In England, we continue to fund the Disabled Facilities Grant (DFG) which is delivered by local authorities. This grant helps eligible older and disabled people on low incomes to adapt their homes to make them safe and suitable for their needs.We have con...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15116"
+      },
+      {
+        "id": 1923020,
+        "uin": "15110",
+        "heading": "Culture and Sports: Children",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to ensure adequate opportunities for under 16s to engage in sport and cultural activities.",
+        "answerText": "The Government is committed to ensuring that everyone, including children and young people, have access to and benefit from quality sport and cultural opportunities.Our arm’s length body Sport England works to increase participation in grassroots sport, i...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Stephanie Peacock",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-07",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15110"
+      },
+      {
+        "id": 1923019,
+        "uin": "15109",
+        "heading": "Social Clubs: Young People",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to ensure adequate opportunities for under 16s to engage in joint social activities with other young people.",
+        "answerText": "We’re working closely across government to expand access to real‑world activities as we know that strong offline connections between young people are essential to supporting their wellbeing and their development. In December 2025, DCMS published ‘Youth Ma...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Stephanie Peacock",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-07",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15109"
+      },
+      {
+        "id": 1923021,
+        "uin": "15111",
+        "heading": "Individual Savings Accounts",
+        "questionText": "To ask the Chancellor of the Exchequer, pursuant to Question 7286 answered on 15 June 2026, what assessment she has made of the adequacy of the metric used to assess the £450,000 Lifetime Isa limit for first time buyers; and whether she has made an estima",
+        "answerText": "The UK House Price Index is an official statistic produced jointly by HM Land Registry, the Office for National Statistics and other government departments. Information on the methodology used to calculate house prices and averages is available at: About ...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Rachel Blake",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15111"
+      },
+      {
+        "id": 1917317,
+        "uin": "10804",
+        "heading": "Pregnancy: Streptococcus",
+        "questionText": "To ask the Secretary of State for Health and Social Care, when the UK National Screening Committee is scheduled to review the evidence from the GBS3 trial, to consider whether screening for Group B Streptococcus should be routinely offered during pregnanc",
+        "answerText": "The UK National Screening Committee is in close contact with the GBS3 trial researchers and stands ready to commence a review of the evidence for antenatal screening for Group B Streptococcus as soon as the trial reports.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10804"
+      },
+      {
+        "id": 1917333,
+        "uin": "10820",
+        "heading": "Maternity Services: Strategic Lawsuits against Public Participation",
+        "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to answer of 10 June 2026 to question 3175, if he will take steps to have those discussions.",
+        "answerText": "There are no current plans to have discussions with My Rt Hon. Friend, the Secretary of State for Justice on protecting maternity safety campaigners from Strategic Lawsuit Against Public Participation.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10820"
+      },
+      {
+        "id": 1917336,
+        "uin": "10823",
+        "heading": "Cuckooing",
+        "questionText": "To ask the Secretary of State for the Home Department, what timeframe her Department has set for publishing statutory guidance to police forces on the offence of cuckooing under the Crime and Policing Act 2026.",
+        "answerText": "The Crime and Policing Act introduces a new offence of ‘cuckooing’ (controlling another’s home for criminal purposes). The new cuckooing offence will ensure that we are taking strong action against those who prey on vulnerable people and help to ensure th...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10823"
+      },
+      {
+        "id": 1917311,
+        "uin": "10798",
+        "heading": "Teesside Freeport: Land",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment she has made of the value for money to the taxpayer of the arrangements between the South Tees Development Corporation and Teesworks Ltd in relation to the acquisition,",
+        "answerText": "The Government recognises the importance of securing value for money for taxpayers and is committed to making the UK a world leader in AI, attracting private investment, supporting growth and creating high-quality jobs.Commercial arrangements relating to ...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10798"
+      },
+      {
+        "id": 1917338,
+        "uin": "10825",
+        "heading": "Universal Credit",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what steps she is taking to ensure that Universal Credit claimants can obtain clear and consistent guidance on whether particular financial receipts including the sale of personal possessions must be de",
+        "answerText": "The Department does not routinely require receipts for the sale or disposal of personal possessions. Claimants must declare capital that may affect entitlement to means-tested benefits and are continually advised and reminded of their responsibility for d...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10825"
+      },
+      {
+        "id": 1917335,
+        "uin": "10822",
+        "heading": "Thames Water: Standards",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what contingency planning her Department has undertaken to monitor and improve Thames Water’s Asset Health Index in future.",
+        "answerText": "In line with Section 2 duties of the Water Industry Act 1991, the Secretary of State has given her preliminary views on the London and Valley Water Consortium’s Proposal to Ofwat, but it is for Ofwat to decide whether to reject or accept the Proposal. The...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Emma Hardy",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10822"
+      },
+      {
+        "id": 1917334,
+        "uin": "10821",
+        "heading": "Thames Water: Standards",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to her letter of Monday 15th June 2026 to Ofwat on Thames Water’s performance and infrastructure, what assessment she has made of the potential implications for her Depa",
+        "answerText": "In line with Section 2 duties of the Water Industry Act 1991, the Secretary of State has given her preliminary views on the London and Valley Water Consortium’s Proposal to Ofwat, but it is for Ofwat to decide whether to reject or accept the Proposal. The...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Emma Hardy",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10821"
+      },
+      {
+        "id": 1917315,
+        "uin": "10802",
+        "heading": "Thames Water",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to question asked by the hon. member for Henley and Thame during a statement to the house on 16th June by the Secretary of State on Thames Water, if she will publish outputs o",
+        "answerText": "The Government is preparing for all eventualities including special administration. The work done by FTI would not be appropriate to make public. It would also not be appropriate at this time to make public the current spending on contingency planning.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Emma Hardy",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10802"
+      },
+      {
+        "id": 1917309,
+        "uin": "10796",
+        "heading": "Neurodiversity: Children",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what estimate he has made of a) the number of children and adolescents who have been waiting for more than 5 years for assessment by neurodevelopmental diagnostic services and b) the effectiveness",
+        "answerText": "Published data on Autism Waiting times does not include figures on the number of people waiting over five years for an assessment. However, there is data based on how long those who are being seen following a referral for an assessment for autism have wai...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10796"
+      },
+      {
+        "id": 1916696,
+        "uin": "10301",
+        "heading": "House of Commons: Absent Voting",
+        "questionText": "To ask the hon. Member for Blaenau Gwent and Rhymney, representing the House of Commons Commission, whether the Commission has made an assessment of the potential merits of implementing remote digital voting in the House of Commons.",
+        "answerText": "Introducing remote digital voting would be a matter for the House itself and not for the Commission. Remote voting was used for a short period during the pandemic but was replaced by a system of proxies and pass reader voting. The hon. Member could raise ...",
+        "answeringBody": "House of Commons Commission",
+        "answeringMember": "Nick Smith",
+        "dateTabled": "2026-06-16",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10301"
+      },
+      {
+        "id": 1916040,
+        "uin": "9775",
+        "heading": "Maternity Services: Safety",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps he will take to ensure that (a) quality and (b) safety of maternity services are more (i) clearly and (ii) consistently reflected in CQC ratings.",
+        "answerText": "The Care Quality Commission (CQC) is committed to strengthening its oversight of maternity services and has commissioned an independent developmental review to identify opportunities to improve how quality and safety are assessed and reflected in ratings,...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9775"
+      },
+      {
+        "id": 1916049,
+        "uin": "9784",
+        "heading": "Project Gigabit",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment she has made of the potential impact of Project Gigabit contract redesign on the roll out of gigabit broadband.",
+        "answerText": "This government is committed to achieving nationwide gigabit broadband coverage by 2032. We are making good progress on Project Gigabit, and as of the end of March 2026, over 1.4 million premises in hard-to-reach communities across the UK had been upgrade...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9784"
+      },
+      {
+        "id": 1906236,
+        "uin": "1857",
+        "heading": "Maternity Services: Reviews",
+        "questionText": "To ask the Secretary of State for Health and Social Care, if he will make it his policy to produce a set of specific local recommendations for each trust included in the Amos review of maternity and neonatal care following the publication of the National",
+        "answerText": "The National Maternity and Neonatal Investigation, led by Baroness Amos, is bringing together the findings from past reviews, local investigations in selected trusts, and evidence from families and staff into one single set of national recommendations.The...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-05-15",
+        "dateForAnswer": "2026-05-20",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-15/1857"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 14,
+        "Aye": 11
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2339,
+          "number": 504,
+          "date": "2026-04-22",
+          "title": "Crime and Policing Bill: motion to insist on Amendments 439C and 439D and disagree with Lords Amendments 439E and 439F",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 253,
+          "noCount": 143,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2339"
+        },
+        {
+          "id": 2338,
+          "number": 503,
+          "date": "2026-04-22",
+          "title": "Children's Wellbeing and Schools Bill: motion to insist on Amendment 38J and disagree with Lords Amendments 38V to 38X",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 260,
+          "noCount": 161,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2338"
+        },
+        {
+          "id": 2337,
+          "number": 502,
+          "date": "2026-04-22",
+          "title": "Pensions Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88A and 88C and propose amendments (a) to (j) in lieu of Amendment 88B",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 272,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2337"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        },
+        {
+          "id": 2323,
+          "number": 488,
+          "date": "2026-04-15",
+          "title": "Children's Wellbeing and Schools Bill: Amendments (a) to (c) in lieu of Lords Amendment 106",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 248,
+          "noCount": 139,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2323"
+        },
+        {
+          "id": 2322,
+          "number": 487,
+          "date": "2026-04-15",
+          "title": "Children's Wellbeing and Schools Bill: Amendments (a) to (e) in lieu of Lords Amendment 102",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 259,
+          "noCount": 136,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2322"
+        },
+        {
+          "id": 2321,
+          "number": 486,
+          "date": "2026-04-15",
+          "title": "Children's Wellbeing and Schools Bill: motion to disagree with Lords Amendment 41B",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 254,
+          "noCount": 144,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2321"
+        },
+        {
+          "id": 2320,
+          "number": 485,
+          "date": "2026-04-15",
+          "title": "Children's Wellbeing and Schools Bill: Amendments (a) to (f) in lieu of Lords Amendment 38",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 256,
+          "noCount": 150,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2320"
+        },
+        {
+          "id": 2319,
+          "number": 484,
+          "date": "2026-04-15",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendment 78",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 277,
+          "noCount": 150,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2319"
+        },
+        {
+          "id": 2317,
+          "number": 482,
+          "date": "2026-04-15",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendment 43",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 273,
+          "noCount": 159,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2317"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2336,
+          "number": 501,
+          "date": "2026-04-22",
+          "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 380,
+          "noCount": 7,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+        "items": [
+          {
+            "id": 14679,
+            "text": "Name of donor: Tom Kilroy Address of donor: private Amount of donation or nature and value if donation in kind: £5,000 Donor status: individual (Registered 5 March 2026)",
+            "createdWhen": "2026-03-10",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14752,
+            "text": "Name of donor: Bratton Ventures Ltd Address of donor: Houseboat Antje, Cheyne Walk, London SW10 0DG Amount of donation or nature and value if donation in kind: £5,000 Donor status: company, registration 15754779 (Registered 13 March 2026)",
+            "createdWhen": "2026-03-24",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 14259,
+            "text": "Name of donor: National Liberal Club Address of donor: 1 Whitehall Place, London SW1A 2HE Amount of donation or nature and value if donation in kind: Membership of the club for one year, value £1,140 Date received: 1 January 2026 to 31 December 2026 Date accepted: 1 January 2026 Donor status: company, registration 01355034 (Registered 5 January 2026)",
+            "createdWhen": "2026-01-06",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "No; Ayes 308, Noes 81.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026",
+        "date": "2026-04-22",
+        "summary": "Aye; Ayes 380, Noes 7.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2336"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

@@ -1,0 +1,983 @@
+{
+  "member": {
+    "id": "221",
+    "slug": "dan-norris",
+    "name": "Dan Norris",
+    "sortName": "Norris, Dan",
+    "fullTitle": "Dan Norris MP",
+    "party": "Independent",
+    "partyAbbreviation": "Ind",
+    "partyColor": "#909090",
+    "constituency": "North East Somerset and Hanham",
+    "house": "House of Commons",
+    "role": "MP for North East Somerset and Hanham",
+    "officialUrl": "https://members.parliament.uk/member/221/contact",
+    "recordUrl": "/country/uk/parliament/dan-norris/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/221/Thumbnail",
+    "currentMembership": {
+      "constituency": "North East Somerset and Hanham",
+      "constituencyId": 4209,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "dan.norris.mp@parliament.uk"
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Dan Norris is the Independent MP for North East Somerset and Hanham , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/dan-norris/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/221/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/221"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/221/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/221/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/221/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/221/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=221"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-01",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-06",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/dan-norris/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/221/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/221"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/221/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/221/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/221/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/221/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=221"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1924289,
+        "uin": "15909",
+        "heading": "Bus Services: Franchises",
+        "questionText": "To ask the Secretary of State for Transport, whether her Department maintains a list of which local transport authorities are seeking to make use of the franchising powers in the Bus Services Act 2025.",
+        "answerText": "Decisions on whether to pursue bus franchising are for individual local transport authorities and local leaders to make, with the new powers streamlining the franchising process for those that choose to do so. The Department is committed to making bus fra...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/15909"
+      },
+      {
+        "id": 1920725,
+        "uin": "13446",
+        "heading": "Health Services: North East Somerset and Hanham",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to reduce waiting times for elective treatment in North East Somerset and Hanham.",
+        "answerText": "We are committed to returning by March 2029 to the National Health Service constitutional standard that 92% of patients wait no longer than 18 weeks from referral to consultant-led treatment. As a first step towards achieving this, we have delivered again...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13446"
+      },
+      {
+        "id": 1920731,
+        "uin": "13449",
+        "heading": "Sheep: Animal Welfare",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she plans to take following the consultation on tail docking and castration in lambs.",
+        "answerText": "The Government is currently analysing the consultation responses and will publish a formal response in due course.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-03",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13449"
+      },
+      {
+        "id": 1920729,
+        "uin": "13448",
+        "heading": "Public Sector: Borrowing",
+        "questionText": "To ask the Chancellor of the Exchequer, what recent discussions she has had with the Office for Budgetary Responsibility on public borrowing.",
+        "answerText": "The Office for Budget Responsibility (OBR) is the government’s official forecaster responsible for assessing the UK economic and fiscal outlook. The OBR published its latest Economic and Fiscal Outlook in March providing an interim update on the economy a...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Torsten Bell",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13448"
+      },
+      {
+        "id": 1920726,
+        "uin": "13447",
+        "heading": "Ukraine: Military Aid",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what discussions were held with President Trump at the G7 Summit on support for Ukraine.",
+        "answerText": "I refer the Hon Member to the statement made by the Deputy Prime Minister on 22 June, and his answers to the questions raised in response.",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Stephen Doughty",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13447"
+      },
+      {
+        "id": 1913369,
+        "uin": "7360",
+        "heading": "Carbon Budgets: South West",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what discussions he has had with the West of England Mayoral Authority on the implementation of Carbon Budget 7.",
+        "answerText": "The Department regularly engages with local government on net zero delivery, strategy and policy through the Local Net Zero Delivery Group, and with Metro Mayors through quarterly roundtables.",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Katie White",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7360"
+      },
+      {
+        "id": 1913367,
+        "uin": "7358",
+        "heading": "Carbon Budgets: Tidal Power",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the potential impact of tidal power on achieving Carbon Budget 7.",
+        "answerText": "The Clean Power 2030 Action Plan recognises that while emerging renewable technologies such as tidal stream are expected to play a limited role in the 2030 energy mix, scaling up deployment of these technologies could be critical to achieving the UK’s lon...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Katie White",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7358"
+      },
+      {
+        "id": 1913368,
+        "uin": "7359",
+        "heading": "Heating: North East Somerset",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what estimate his Department has made of the number of homes in North East Somerset and Hanham constituency to be fitted with low-carbon heating systems under policies supporting Carbon Budge",
+        "answerText": "Information on heat pumps and biomass boilers installed through the Boiler Upgrade Scheme is published in Table Q1.3 of the Boiler Upgrade Scheme Statistics release. By the end of March 2026, 238 heat pumps and fewer than 5 biomass boilers had been instal...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Martin McCluskey",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7359"
+      },
+      {
+        "id": 1913365,
+        "uin": "7356",
+        "heading": "Game: Animal Breeding",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of using raised laying cages for breeding pheasants and partridges on the welfare of those birds.",
+        "answerText": "The Government remains firmly committed to maintaining and improving animal welfare and is aware of the strong public feeling on keeping gamebirds in cages. As stated in the Animal Welfare Strategy, the Government will improve its understanding of the wel...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7356"
+      },
+      {
+        "id": 1913366,
+        "uin": "7357",
+        "heading": "Game: Gun Sports",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when her Department last commissioned research on the ecological effects of gamebird shooting.",
+        "answerText": "Defra’s Gamebird Research Programme has recently published the findings of a number of research projects relating to the ecological impacts of gamebird shooting and associated activity. Whilst some research projects are ongoing, Natural England is plannin...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7357"
+      },
+      {
+        "id": 1913364,
+        "uin": "7355",
+        "heading": "Game: Birds",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of released gamebirds on populations of native invertebrates, reptiles and ground-nesting birds.",
+        "answerText": "Defra’s Gamebird rapid evidence review was published in 2020 and is available here. Further research into these findings was published in 2025 and again this year, available here and here respectively. Defra has also funded research into the impacts of ga...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7355"
+      },
+      {
+        "id": 1911300,
+        "uin": "5853",
+        "heading": "Knives: Crime",
+        "questionText": "To ask the Secretary of State for the Home Department, what recent steps her Department has taken to tackle knife crime in the North East Somerset and Hanham constituency.",
+        "answerText": "We have set a clear and ambitious target: to halve knife crime in a decade. We are already seeing results. Since the start of this Parliament, knife crime has fallen by 10% and knife homicides are down 27%, at their lowest level in a decade. In Avon and S...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-06-02",
+        "dateForAnswer": "2026-06-04",
+        "dateAnswered": "2026-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-02/5853"
+      },
+      {
+        "id": 1911327,
+        "uin": "5854",
+        "heading": "Western Forest",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps were taken to protect the newly establishing trees in the Western Forest during May’s heatwave.",
+        "answerText": "The Western Forest has used a range of measures to mitigate unseasonal weather. This includes early-season planting, using mulch mats, and planting resilient cell-grown saplings that are matched to local conditions. Defra and the National Forest Company a...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-02",
+        "dateForAnswer": "2026-06-04",
+        "dateAnswered": "2026-06-04",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-02/5854"
+      },
+      {
+        "id": 1906137,
+        "uin": "1650",
+        "heading": "NHS: Contracts",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether (a) his department (b) ICBs are routinely informed when major NHS contractors face significant tax enforcement action.",
+        "answerText": "HM Revenue and Customs is subject to a statutory duty of taxpayer confidentiality, which generally prevents it from disclosing information to other Government bodies except where there is a lawful basis to do so.Accordingly, while information may be share...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-05-15",
+        "dateForAnswer": "2026-05-19",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-15/1650"
+      },
+      {
+        "id": 1906129,
+        "uin": "1646",
+        "heading": "Patients: Transport",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department has made an assessment of the adequacy of the resilience of outsourced non-emergency patient transport services.",
+        "answerText": "Integrated care boards (ICBs) are responsible for their delegated functions, including services contracted to private providers such as non-emergency patient transport schemes (NEPTS). The delegation framework for commissioning in the National Health Serv...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-05-15",
+        "dateForAnswer": "2026-05-19",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-15/1646"
+      },
+      {
+        "id": 1906125,
+        "uin": "1645",
+        "heading": "Ambulance Services: Private Sector",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what financial monitoring arrangements Integrated Care Boards are required to maintain for private ambulance contractors delivering NHS-funded services.",
+        "answerText": "Integrated care boards (ICBs) are responsible for their delegated functions, including services contracted to private providers such as non-emergency patient transport schemes (NEPTS). The delegation framework for commissioning in the National Health Serv...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-05-15",
+        "dateForAnswer": "2026-05-19",
+        "dateAnswered": "2026-06-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-15/1645"
+      },
+      {
+        "id": 1906133,
+        "uin": "1649",
+        "heading": "NHS: VAT",
+        "questionText": "To ask the Chancellor of the Exchequer, whether it is the policy of HM Revenue and Customs to inform NHS commissioners of concerns regarding unpaid VAT liabilities prior to filing a winding-up petition.",
+        "answerText": "It is not HMRC’s policy to inform NHS Commissioners of unpaid liabilities. HMRC is unable to discuss debts held by third parties with NHS Commissioners due to taxpayer confidentiality rules. This includes companies that have been contracted to deliver NHS...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-05-15",
+        "dateForAnswer": "2026-05-19",
+        "dateAnswered": "2026-05-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-15/1649"
+      },
+      {
+        "id": 1905488,
+        "uin": "1103",
+        "heading": "Internet: Young People",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps she is taking to improve the safety of young people online in North East Somerset and Hanham.",
+        "answerText": "Protecting children from harm online is a priority for the Secretary of State. That is why the Secretary of State launched the consultation ‘Growing up in an Online World’ on how to go further to protect children and has committed to respond by the Summer...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-05-14",
+        "dateForAnswer": "2026-05-18",
+        "dateAnswered": "2026-05-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-14/1103"
+      },
+      {
+        "id": 1905492,
+        "uin": "1104",
+        "heading": "Electric Vehicles: Training",
+        "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the adequacy of workforce training capacity to support the transition to electric vehicles.",
+        "answerText": "The Government is committed to ensuring the UK has the right skills to remain at the forefront of the manufacturing and maintenance of electric vehicles (EVs).The number of EV qualified technicians has risen rapidly. According to data from the Institute o...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-05-14",
+        "dateForAnswer": "2026-05-18",
+        "dateAnswered": "2026-05-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-14/1104"
+      },
+      {
+        "id": 1905495,
+        "uin": "1105",
+        "heading": "Fly-tipping: North East Somerset and Hanham",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to reduce fly tipping in North East Somerset and Hanham.",
+        "answerText": "Local councils are responsible for tackling fly-tipping in their area and have a range of enforcement powers to help them do so. These include fixed penalty notices of up to £1000 and prosecution action. To support councils to make better use of their pow...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-05-14",
+        "dateForAnswer": "2026-05-18",
+        "dateAnswered": "2026-05-19",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-14/1105"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-01",
+      "totals": {
+        "Aye": 9,
+        "No": 16
+      },
+      "recent": [
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Ukraine: Military Aid",
+        "date": "2026-06-26",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what discussions were held with President Trump at the G7 Summit on support for Ukraine.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13447"
+      },
+      {
+        "kind": "Written question",
+        "title": "Carbon Budgets: South West",
+        "date": "2026-06-08",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what discussions he has had with the West of England Mayoral Authority on the implementation of Carbon Budget 7.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7360"
+      },
+      {
+        "kind": "Written question",
+        "title": "Carbon Budgets: Tidal Power",
+        "date": "2026-06-08",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the potential impact of tidal power on achieving Carbon Budget 7.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7358"
+      },
+      {
+        "kind": "Written question",
+        "title": "Heating: North East Somerset",
+        "date": "2026-06-08",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what estimate his Department has made of the number of homes in North East Somerset and Hanham constituency to be fitted with low-carbon heating systems under policies supporting Carbon Budge",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7359"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

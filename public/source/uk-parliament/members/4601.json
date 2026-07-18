@@ -1,0 +1,981 @@
+{
+  "member": {
+    "id": "4601",
+    "slug": "andrew-bowie",
+    "name": "Andrew Bowie",
+    "sortName": "Bowie, Andrew",
+    "fullTitle": "Andrew Bowie MP",
+    "party": "Conservative",
+    "partyAbbreviation": "Con",
+    "partyColor": "#0063ba",
+    "constituency": "West Aberdeenshire and Kincardine",
+    "house": "House of Commons",
+    "role": "MP for West Aberdeenshire and Kincardine",
+    "officialUrl": "https://members.parliament.uk/member/4601/contact",
+    "recordUrl": "/country/uk/parliament/andrew-bowie/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4601/Thumbnail",
+    "currentMembership": {
+      "constituency": "West Aberdeenshire and Kincardine",
+      "constituencyId": 4448,
+      "startDate": "2017-06-08",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "andrew.bowie.mp@parliament.uk"
+      ],
+      "phones": [
+        "0207 219 2791",
+        "01330 705013"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Constituency office",
+        "https://www.andrewbowie.org.uk"
+      ],
+      "websites": [
+        "https://www.andrewbowie.org.uk"
+      ],
+      "social": []
+    },
+    "synopsis": "Andrew Bowie is the Conservative MP for West Aberdeenshire and Kincardine , and has been an MP continually since 8 June 2017. He currently undertakes the roles of Shadow Minister (Energy Security and Net Zero), and Shadow Secretary of State for Scotland.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/andrew-bowie/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4601/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4601"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4601/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4601/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4601/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4601/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4601"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-02",
+    "registeredInterestCount": 5
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/andrew-bowie/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4601/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4601"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4601/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4601/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4601/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4601/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4601"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1923440,
+        "uin": "15399",
+        "heading": "Destroyers",
+        "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the decision to move away from destroyer-led air defence fleets at a time when other major naval powers are increasing the size of their destroyer fleets.",
+        "answerText": "The Royal Navy continues to maintain a highly capable maritime air defence force centred on the Type 45 Destroyer fleet. This will be initially enhanced, then replaced by components within the Hybrid Navy concept including the Common Combat Vessel, Type 9...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15399"
+      },
+      {
+        "id": 1923442,
+        "uin": "15401",
+        "heading": "Type 45 Destroyers",
+        "questionText": "To ask the Secretary of State for Defence, whether he has made an assessment of the potential risks in maritime air defence capability as the Type 45 destroyers approach retirement without a replacement.",
+        "answerText": "The role of Maritime Air Defence, currently delivered by Type 45 Destroyers, will be delivered in the future by a mix of crewed Common Combat Vessels and uncrewed, autonomous missile (Type 91) and sensor (Type 94) ships. The decision to move to this hybri...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15401"
+      },
+      {
+        "id": 1923441,
+        "uin": "15400",
+        "heading": "Type 83 Destroyers",
+        "questionText": "To ask the Secretary of State for Defence, what analysis was used for the decision to replace the Type 83 programme with a hybrid navy approach.",
+        "answerText": "The role of Maritime Air Defence, currently delivered by Type 45 Destroyers, will be delivered in the future by a mix of crewed Common Combat Vessels and uncrewed, autonomous missile (Type 91) and sensor (Type 94) ships. The decision to move to this hybri...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15400"
+      },
+      {
+        "id": 1923438,
+        "uin": "15397",
+        "heading": "Type 83 Destroyers",
+        "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact on the Royal Navy’s high-end air defence capability of cancelling a planned class of up to eight Type 83 destroyers intended to replace the Type 45 fleet.",
+        "answerText": "The role of Maritime Air Defence, currently delivered by Type 45 Destroyers, will be delivered in the future by a mix of crewed Common Combat Vessels and uncrewed, autonomous missile (Type 91) and sensor (Type 94) ships. The decision to move to this hybri...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15397"
+      },
+      {
+        "id": 1923437,
+        "uin": "15396",
+        "heading": "Type 83 Destroyers",
+        "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact on the Royal Navy’s high-end air defence capability of cancelling a planned class of up to eight Type 83 destroyers intended to replace the Type 45 fleet.",
+        "answerText": "The role of Maritime Air Defence, currently delivered by Type 45 Destroyers, will be delivered in the future by a mix of crewed Common Combat Vessels and uncrewed, autonomous missile (Type 91) and sensor (Type 94) ships. The decision to move to this hybri...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15396"
+      },
+      {
+        "id": 1923439,
+        "uin": "15398",
+        "heading": "Warships",
+        "questionText": "To ask the Secretary of State for Defence, how many crewed surface combatants he expects the Royal Navy to operate in the 2030s under the revised fleet model and how this compares with previous plans.",
+        "answerText": "The exact mix of platforms and timing will be the subject of detailed further work that remains sensitive. Beyond 2030, the Royal Navy will move increasingly toward a hybrid model; crewed where necessary, uncrewed where possible to increase the total numb...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15398"
+      },
+      {
+        "id": 1923446,
+        "uin": "15405",
+        "heading": "Nuclear Reactors: Scotland",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, with reference to Great British Energy – Nuclear's Technical Advice on Potential Future Nuclear Power Plant Siting in Scotland report, what assessment he has made of the types of reactor tech",
+        "answerText": "Great British Energy – Nuclear's (GBE N's) study of Scotland's potential for new nuclear indicates that it has land areas with high potential for future new nuclear development of all scales - microreactors, Small Modular Reactors, Advanced Modular Reacto...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15405"
+      },
+      {
+        "id": 1923445,
+        "uin": "15404",
+        "heading": "Nuclear Power: Scotland",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, with reference to Great British Energy – Nuclear's Technical Advice on Potential Future Nuclear Power Plant Siting in Scotland report, what estimate he has made of the number of jobs that cou",
+        "answerText": "GBE N's study of Scotland's potential for new nuclear indicates that it has land areas with high potential for future development. New nuclear projects can deliver billions of pounds of investment and thousands of high-quality jobs to a region. While the ...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15404"
+      },
+      {
+        "id": 1923444,
+        "uin": "15403",
+        "heading": "Nuclear Power: Scotland",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, with reference to Great British Energy – Nuclear's Technical Advice on Potential Future Nuclear Power Plant Siting in Scotland report, what assessment he has made of the potential generating",
+        "answerText": "GBE N's study of Scotland's potential for new nuclear identified potential land areas rather than specific sites, and does not make an assessment of potential generating capacity. However, the report indicates that Scotland has land areas with high potent...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15403"
+      },
+      {
+        "id": 1923443,
+        "uin": "15402",
+        "heading": "Nuclear Power: Scotland",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, with reference to Great British Energy – Nuclear's Technical Advice on Potential Future Nuclear Power Plant Siting in Scotland report, what discussions he has had with the Scottish Government",
+        "answerText": "Ministers commissioned GBE N's study of Scotland's potential for new nuclear last autumn. The study indicates that Scotland has land areas with high potential for future development. We remain open to discussions with the Scottish Government regarding opp...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15402"
+      },
+      {
+        "id": 1923436,
+        "uin": "15395",
+        "heading": "Warships: Shipbuilding",
+        "questionText": "To ask the Secretary of State for Defence, what discussions he has held with representatives of the Scottish shipbuilding industry on the impact of changes to Royal Navy procurement plans on investment and workforce retention.",
+        "answerText": "The Defence Investment Plan (DIP) has committed to a pipeline of work in Type 26 and Type 31 construction which will employ the prime Scottish shipyards (BAE Systems and Babcock) well into the 2030s, securing thousands of jobs and millions of pounds of ec...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15395"
+      },
+      {
+        "id": 1923435,
+        "uin": "15394",
+        "heading": "Warships: Shipbuilding",
+        "questionText": "To ask the Secretary of State for Defence, whether the planned Common Combat Vessel programme will deliver an equivalent pipeline of work for Scottish yards to that anticipated under the Type 83 destroyer programme.",
+        "answerText": "The Defence Investment Plan (DIP) has committed to a pipeline of work in Type 26 and Type 31 construction which will employ the prime Scottish shipyards (BAE Systems and Babcock) well into the 2030s, securing thousands of jobs and millions of pounds of ec...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15394"
+      },
+      {
+        "id": 1923434,
+        "uin": "15393",
+        "heading": "Type 83 Destroyers",
+        "questionText": "To ask the Secretary of State for Defence, what estimate he has made of the loss of potential work for Scottish shipbuilding under the Type 83 programme, including at yards in Govan, Scotstoun and Rosyth.",
+        "answerText": "The Defence Investment Plan (DIP) has committed to a pipeline of work in Type 26 and Type 31 construction which will employ the prime Scottish shipyards (BAE Systems and Babcock) well into the 2030s, securing thousands of jobs and millions of pounds of ec...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15393"
+      },
+      {
+        "id": 1923421,
+        "uin": "15392",
+        "heading": "Type 83 Destroyers",
+        "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact on employment at BAE Systems’ shipyards on the Clyde of the decision to cancel or not proceed with the Type 83 destroyer programme.",
+        "answerText": "The Defence Investment Plan (DIP) has committed to a pipeline of work in Type 26 and Type 31 construction which will employ the prime Scottish shipyards (BAE Systems and Babcock) well into the 2030s, securing thousands of jobs and millions of pounds of ec...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15392"
+      },
+      {
+        "id": 1915669,
+        "uin": "9381",
+        "heading": "HM Coastguard: Pay",
+        "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of changes to coastguard rescue officers pay on public safety.",
+        "answerText": "Changing the Coastguard Rescue Service (CRS) operating model was not something which we wanted to do but is a mandated consequence of the Court of Appeal ruling.Recruitment into membership of the CRS continues as it has previously. The new model of volunt...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-06-12",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-12/9381"
+      },
+      {
+        "id": 1915668,
+        "uin": "9380",
+        "heading": "HM Coastguard: Voluntary Work",
+        "questionText": "To ask the Secretary of State for Transport, what steps she will take to monitor operational readiness following the Maritime Coastguard Agency transition to a revised volunteer model for coastguard rescue officers.",
+        "answerText": "Changing the Coastguard Rescue Service (CRS) operating model was not something which we wanted to do but is a mandated consequence of the Court of Appeal ruling.Recruitment into membership of the CRS continues as it has previously. The new model of volunt...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-06-12",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-12/9380"
+      },
+      {
+        "id": 1915667,
+        "uin": "9379",
+        "heading": "HM Coastguard: Voluntary Work",
+        "questionText": "To ask the Secretary of State for Transport, what factors were taken into consideration in the determination of the September 2026 transition date for the Maritime Coastguard Agency's revised volunteer model.",
+        "answerText": "Changing the Coastguard Rescue Service (CRS) operating model was not something which we wanted to do but is a mandated consequence of the Court of Appeal ruling.Recruitment into membership of the CRS continues as it has previously. The new model of volunt...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-06-12",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-12/9379"
+      },
+      {
+        "id": 1915666,
+        "uin": "9378",
+        "heading": "HM Coastguard: Recruitment",
+        "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of the revised volunteer model on the recruitment of coastguard rescue officers in rural coastal areas.",
+        "answerText": "Changing the Coastguard Rescue Service (CRS) operating model was not something which we wanted to do but is a mandated consequence of the Court of Appeal ruling.Recruitment into membership of the CRS continues as it has previously. The new model of volunt...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-06-12",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-12/9378"
+      },
+      {
+        "id": 1915665,
+        "uin": "9377",
+        "heading": "HM Coastguard: Labour Turnover and Recruitment",
+        "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the (a) recruitment, (b) retention and (c) operational capability of Coastguard Rescue Officers across different coastal regions.",
+        "answerText": "Changing the Coastguard Rescue Service (CRS) operating model was not something which we wanted to do but is a mandated consequence of the Court of Appeal ruling.Recruitment into membership of the CRS continues as it has previously. The new model of volunt...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-06-12",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-12/9377"
+      },
+      {
+        "id": 1913655,
+        "uin": "7589",
+        "heading": "Natural Gas: Energy Supply",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what impact the delay in responding to the gas resilience consultation will have on (a) energy security and (b) preparedness for future supply shocks.",
+        "answerText": "The GB gas system has a strong track record of reliability, consistently meeting demand, including during periods of global uncertainty. We work closely with Ofgem, NESO and National Gas to monitor security of supply; and are confident that National Gas, ...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7589"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 13,
+        "Aye": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2401,
+          "number": 50,
+          "date": "2026-07-07",
+          "title": "Opposition Day: Early release of prisoners",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 115,
+          "noCount": 0,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2401"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+        "items": [
+          {
+            "id": 15232,
+            "text": "Name of donor: Alasdair J D Locke Address of donor: private Amount of donation or nature and value if donation in kind: £20,000 to cover the cost of salary for a member of staff Donor status: individual (Registered 14 May 2026)",
+            "createdWhen": "2026-05-19",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 13246,
+            "text": "Name of donor: Conservative Friends of Israel Ltd Address of donor: Conservative Friends of Israel Ltd, PO Box 72288, London SW1P 9LB Estimate of the probable value (or amount of any donation): Air travel, accommodation and hospitality (value has been estimated), value £4,220 Destination of visit: Israel (Israel and the Palestinian Authority) Dates of visit: 25 August 2025 to 29 August 2025 Purpose of visit: Fact finding political delegation (Registered 7 September 2025)",
+            "createdWhen": "2025-09-17",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13305,
+            "text": "Name of donor: Stockholm Chamber of Commerce Address of donor: Regeringsgatan 29, 111 53 Stockholm Estimate of the probable value (or amount of any donation): Flights (£495), accommodation (£230), food and beverages at event (estimated £80), value £805 Destination of visit: Sweden Dates of visit: 20 August 2025 to 22 August 2025 Purpose of visit: Engagement with Swedish businesses investing in UK (Registered 15 September 2025)",
+            "createdWhen": "2025-09-17",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 1688,
+            "text": "Vice-Chairman of the Conservative Party. Date interest arose: 28 July 2019 (Registered 11 January 2021; updated 30 July 2021)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 2618,
+            "text": "Unpaid director of Conservative Union Research Unit Ltd, which will provide research and briefings to Members on topics related to strengthening the union of the United Kingdom. Date interest arose: 14 June 2021 (Registered 29 July 2021)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Destroyers",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, what assessment he has made of the decision to move away from destroyer-led air defence fleets at a time when other major naval powers are increasing the size of their destroyer fleets.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15399"
+      },
+      {
+        "kind": "Written question",
+        "title": "Type 45 Destroyers",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, whether he has made an assessment of the potential risks in maritime air defence capability as the Type 45 destroyers approach retirement without a replacement.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15401"
+      },
+      {
+        "kind": "Written question",
+        "title": "Type 83 Destroyers",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, what analysis was used for the decision to replace the Type 83 programme with a hybrid navy approach.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15400"
+      },
+      {
+        "kind": "Written question",
+        "title": "Type 83 Destroyers",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact on the Royal Navy’s high-end air defence capability of cancelling a planned class of up to eight Type 83 destroyers intended to replace the Type 45 fleet.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15397"
+      },
+      {
+        "kind": "Written question",
+        "title": "Type 83 Destroyers",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact on the Royal Navy’s high-end air defence capability of cancelling a planned class of up to eight Type 83 destroyers intended to replace the Type 45 fleet.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15396"
+      },
+      {
+        "kind": "Written question",
+        "title": "Warships",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, how many crewed surface combatants he expects the Royal Navy to operate in the 2030s under the revised fleet model and how this compares with previous plans.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15398"
+      },
+      {
+        "kind": "Written question",
+        "title": "Nuclear Reactors: Scotland",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, with reference to Great British Energy – Nuclear's Technical Advice on Potential Future Nuclear Power Plant Siting in Scotland report, what assessment he has made of the types of reactor tech",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15405"
+      },
+      {
+        "kind": "Written question",
+        "title": "Nuclear Power: Scotland",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, with reference to Great British Energy – Nuclear's Technical Advice on Potential Future Nuclear Power Plant Siting in Scotland report, what estimate he has made of the number of jobs that cou",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15404"
+      },
+      {
+        "kind": "Written question",
+        "title": "Nuclear Power: Scotland",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, with reference to Great British Energy – Nuclear's Technical Advice on Potential Future Nuclear Power Plant Siting in Scotland report, what assessment he has made of the potential generating",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15403"
+      },
+      {
+        "kind": "Written question",
+        "title": "Nuclear Power: Scotland",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, with reference to Great British Energy – Nuclear's Technical Advice on Potential Future Nuclear Power Plant Siting in Scotland report, what discussions he has had with the Scottish Government",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15402"
+      },
+      {
+        "kind": "Written question",
+        "title": "Warships: Shipbuilding",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, what discussions he has held with representatives of the Scottish shipbuilding industry on the impact of changes to Royal Navy procurement plans on investment and workforce retention.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15395"
+      },
+      {
+        "kind": "Written question",
+        "title": "Warships: Shipbuilding",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, whether the planned Common Combat Vessel programme will deliver an equivalent pipeline of work for Scottish yards to that anticipated under the Type 83 destroyer programme.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15394"
+      },
+      {
+        "kind": "Written question",
+        "title": "Type 83 Destroyers",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, what estimate he has made of the loss of potential work for Scottish shipbuilding under the Type 83 programme, including at yards in Govan, Scotstoun and Rosyth.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15393"
+      },
+      {
+        "kind": "Written question",
+        "title": "Type 83 Destroyers",
+        "date": "2026-07-02",
+        "summary": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact on employment at BAE Systems’ shipyards on the Clyde of the decision to cancel or not proceed with the Type 83 destroyer programme.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15392"
+      },
+      {
+        "kind": "Written question",
+        "title": "Natural Gas: Energy Supply",
+        "date": "2026-06-08",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what impact the delay in responding to the gas resilience consultation will have on (a) energy security and (b) preparedness for future supply shocks.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7589"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "No; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

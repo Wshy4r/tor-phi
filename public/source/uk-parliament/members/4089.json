@@ -1,0 +1,926 @@
+{
+  "member": {
+    "id": "4089",
+    "slug": "tessa-munt",
+    "name": "Tessa Munt",
+    "sortName": "Munt, Tessa",
+    "fullTitle": "Tessa Munt MP",
+    "party": "Liberal Democrat",
+    "partyAbbreviation": "LD",
+    "partyColor": "#fc7d0b",
+    "constituency": "Wells and Mendip Hills",
+    "house": "House of Commons",
+    "role": "MP for Wells and Mendip Hills",
+    "officialUrl": "https://members.parliament.uk/member/4089/contact",
+    "recordUrl": "/country/uk/parliament/tessa-munt/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4089/Thumbnail",
+    "currentMembership": {
+      "constituency": "Wells and Mendip Hills",
+      "constituencyId": 4387,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "tessa.munt.mp@parliament.uk"
+      ],
+      "phones": [
+        "01934 440639"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Tessa Munt Freepost"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Tessa Munt is the Liberal Democrat MP for Wells and Mendip Hills , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/tessa-munt/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4089/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4089"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4089/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4089/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4089/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4089/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4089"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-23",
+    "registeredInterestCount": 6
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/tessa-munt/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4089/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4089"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4089/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4089/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4089/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4089/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4089"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1918947,
+        "uin": "12112",
+        "heading": "Children: Care Homes",
+        "questionText": "To ask the Secretary of State for Education, how many children are assigned to Children's Homes awaiting registration with Ofsted in (a) England, (b) Somerset and North Somerset and (c) Wells and Mendip Hills constituency.",
+        "answerText": "This is a matter for His Majesty’s Chief Inspector, Sir Martyn Oliver. I have asked him to write to the hon. Member for Wells and Mendip Hills and a copy of his reply will be placed in the Libraries of both Houses.",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12112"
+      },
+      {
+        "id": 1918942,
+        "uin": "12111",
+        "heading": "Children: Care Homes",
+        "questionText": "To ask the Secretary of State for Education, how many Children's Homes are awaiting registration with Ofsted in (a) England, (b) Somerset and North Somerset and (c) Wells and Mendip Hills constituency.",
+        "answerText": "This is a matter for His Majesty’s Chief Inspector, Sir Martyn Oliver. I have asked him to write to the hon. Member for Wells and Mendip Hills and a copy of his reply will be placed in the Libraries of both Houses.",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12111"
+      },
+      {
+        "id": 1915344,
+        "uin": "9001",
+        "heading": "Tyres: Waste Disposal",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the answer of the 20th April 2026 to Question 124082, how many of the 548 shipments referenced in her response as having taken place between the 28th October 2025 and",
+        "answerText": "I refer the hon. Member to the answer given to her on 4 June 2026 to PQ UIN 6743.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-11",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-11/9001"
+      },
+      {
+        "id": 1915345,
+        "uin": "9002",
+        "heading": "Tyres: Waste Disposal",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to her answer of the 25th February to question 113532, how many of the 14 exporters or brokers referenced who had been issued with a warning notice have subsequently com",
+        "answerText": "I refer the hon. Member to the answer given to her on 9 June 2026 for PQ UIN 6745.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-11",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-11/9002"
+      },
+      {
+        "id": 1915342,
+        "uin": "9000",
+        "heading": "Tyres: Waste Disposal",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Answer of the 20th April 2026 to Question 124082, how many of the 3277 shipments referenced in her response as having taken place between the 28th October 2025 an",
+        "answerText": "I refer the hon. Member to the answer given to her on 9 June 2026 for PQ UIN 6742.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-11",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-11/9000"
+      },
+      {
+        "id": 1915348,
+        "uin": "9003",
+        "heading": "Tyres: Waste Disposal",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to her answer of the 25 February to question 113532, how many exporters or brokers who failed to comply with the requirement to provide post shipment information within",
+        "answerText": "I refer the hon. Member to the answer given to her on 9 June 2026 for PQ UIN 6746.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-11",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-11/9003"
+      },
+      {
+        "id": 1914580,
+        "uin": "8512",
+        "heading": "Chinook Helicopters: Accidents",
+        "questionText": "To ask the Minister for the Cabinet Office, whether his Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "answerText": "The Cabinet Office has conducted an extensive search of The National Archives (TNA) search engine, Discovery, and their own records and can confirm that the records relating to Chinook ZD576 that it still holds are in the process of being transferred to T...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Nick Thomas-Symonds",
+        "dateTabled": "2026-06-10",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-10/8512"
+      },
+      {
+        "id": 1914581,
+        "uin": "8513",
+        "heading": "Chinook Helicopters: Accidents",
+        "questionText": "To ask the Chancellor of the Exchequer, whether her Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "answerText": "The Treasury has conducted an extensive search of The National Archive’s (TNA) search engine, Discovery, and their own records and have been unable to locate any departmental records relating to Chinook ZD576.Our thoughts and sympathies remain with the fa...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-06-10",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-10/8513"
+      },
+      {
+        "id": 1914579,
+        "uin": "8511",
+        "heading": "Chinook Helicopters: Accidents",
+        "questionText": "To ask the Secretary of State for Northern Ireland, whether his Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "answerText": "The Northern Ireland Office has records held at The National Archives regarding the events involving Chinook ZD576. Our thoughts and sympathies remain with the families, friends, and colleagues of all those who died in the Mull of Kintyre crash.",
+        "answeringBody": "Northern Ireland Office",
+        "answeringMember": "Hilary Benn",
+        "dateTabled": "2026-06-10",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-10/8511"
+      },
+      {
+        "id": 1914578,
+        "uin": "8510",
+        "heading": "Chinook Helicopters: Accidents",
+        "questionText": "To ask the Secretary of State for Scotland, whether his Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "answerText": "The Scotland Office has conducted an extensive search of our own records, as well as the National Archive’s (TNA) search engine, Discovery, and has been unable to locate any documentation relating to Chinook ZD576. My thoughts and sympathies remain with t...",
+        "answeringBody": "Scotland Office",
+        "answeringMember": "Kirsty McNeill",
+        "dateTabled": "2026-06-10",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-10/8510"
+      },
+      {
+        "id": 1914019,
+        "uin": "8011",
+        "heading": "Tyres: Waste Disposal",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what criteria were used by the Environment Agency to assess the 50 approved recovery sites for end-of-life tyres in India; and whether those criteria applied the principles of Environm",
+        "answerText": "The criteria include having the relevant permits, authorisations and contracts in place to move and process waste tyres. Approved recovery sites must have the Indian tyres extended producer responsibility registration. Evidence of these is assessed on a ...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-09",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-09/8011"
+      },
+      {
+        "id": 1914018,
+        "uin": "8010",
+        "heading": "Tyres: Waste Disposal",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what plans she has to (a) remove and (b) replace the requirement for geo-tagged photographic evidence as part of the post-shipment information required under the enhanced verification",
+        "answerText": "The Environment Agency is not currently planning to remove or replace the requirement for geo‑tagged photographs. Where geo-tagged photos are not available alternative evidence will be considered.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-09",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-09/8010"
+      },
+      {
+        "id": 1914017,
+        "uin": "8009",
+        "heading": "Tyres: Waste Disposal",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions she has had with her Indian counterpart on that country changing its laws relating to importing end-of-life tyres for pyrolysis; and if she will make an assessment of",
+        "answerText": "Government is engaging with the Indian authorities, including the Indian Ministry of Environment, Forest, and Climate Change, to confirm their legal position on the regulatory controls that apply for the import of end-of-life tyres to India. We continue t...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-09",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-09/8009"
+      },
+      {
+        "id": 1914020,
+        "uin": "8012",
+        "heading": "Tyres: Waste Disposal",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of EU Regulation 2024/1157 on the UK market for end-of-life tyres; and whether she has assessed the risk that the UK could become a",
+        "answerText": "Under EU Regulation 2024/1157, the EU is restricting exports of ‘green list’ waste, including end-of-life tyres, to non-OECD countries from 21 May 2027. Non-OECD countries will, however, be able to apply to the European Commission for an exemption from th...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-09",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-09/8012"
+      },
+      {
+        "id": 1914016,
+        "uin": "8008",
+        "heading": "Tyres: Waste Disposal",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the answer of 25 February 2026 to question 113530, how many of the 50 receiving sites approved by the Environment Agency have post shipment information outstanding be",
+        "answerText": "As of 10 June 2026, the Environment Agency (EA) has 66 receiving sites in India that it has assessed as suitable to receive waste tyres. There are shipments beyond 16 weeks for 20 of these sites. For these shipments, the EA has received information explai...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2026-06-09",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-09/8008"
+      },
+      {
+        "id": 1913360,
+        "uin": "7398",
+        "heading": "Chinook Helicopters: Accidents",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether her Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "answerText": "The Department of Science, Innovation and Technology have conducted an extensive search of The National Archive’s (TNA) search engine, Discovery, and their own records and have been able to locate any records relating to Chinook ZD576.Our thoughts and sym...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7398"
+      },
+      {
+        "id": 1913359,
+        "uin": "7397",
+        "heading": "Chinook Helicopters: Accidents",
+        "questionText": "To ask the Secretary of State for Business and Trade, whether his Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "answerText": "The Department for Business and Trade (DBT) have conducted an extensive search of The National Archive’s (TNA) search engine, Discovery, and their own records and have been unable to locate any records relating to Chinook ZD576. Our thoughts and sympathie...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7397"
+      },
+      {
+        "id": 1913362,
+        "uin": "7400",
+        "heading": "Chinook Helicopters: Accidents",
+        "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "answerText": "The Department for Work and Pensions have conducted an extensive search of The National Archive’s search engine, Discovery, and their own records and have been unable to locate any records relating to Chinook ZD576. Our thoughts and sympathies remain with...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7400"
+      },
+      {
+        "id": 1913363,
+        "uin": "7401",
+        "heading": "Chinook Helicopters: Accidents",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether his Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "answerText": "The Foreign, Commonwealth and Development Office have conducted an extensive search of The National Archives' (TNA) search engine, Discovery, and their own records and have located records relating only to attendance at a funeral and a memorial service fo...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Seema Malhotra",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7401"
+      },
+      {
+        "id": 1913361,
+        "uin": "7399",
+        "heading": "Chinook Helicopters: Accidents",
+        "questionText": "To ask the Secretary of State for Transport, whether her Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "answerText": "Our deepest sympathies remain with the bereaved families of this tragic accident. The investigation into Chinook ZD576 was led by the RAF, who asked the Air Accident Investigation Branch (a part of the Department for Transport) to assist the investigation...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7399"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 9,
+        "Aye": 16
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2345,
+          "number": 510,
+          "date": "2026-04-27",
+          "title": "Northern Ireland Troubles Bill: Carry-over motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 176,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2345"
+        },
+        {
+          "id": 2344,
+          "number": 509,
+          "date": "2026-04-27",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on its Amendments 88A, 88C and 88E to 88P and propose Amendments (a) to (f)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 164,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2344"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 12,
+        "category": "1. Employment and earnings",
+        "items": [
+          {
+            "id": 9483,
+            "text": "Role, work or services: Councillor Payer: Somerset Council, County Hall, Taunton, Somerset (Registered 4 August 2024)",
+            "createdWhen": "2024-08-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 9520,
+            "text": "Remuneration: £15,500 a year From: 5 May 2017. Hours: 15 hrs a week approximate (Registered 4 August 2024)",
+            "createdWhen": "2024-08-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+        "items": [
+          {
+            "id": 9547,
+            "text": "Type of land/property: Residential property (Flat) Number of properties: 1 Location: Somerset (Registered 4 August 2024)",
+            "createdWhen": "2024-08-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 14146,
+            "text": "Director, Inaura School Date interest arose: 5 July 2024 Date interest ended: 24 February 2025 (Registered 15 December 2025) This is a late entry to which the rectification procedure was applied on 28 January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",
+            "createdWhen": "2026-03-25",
+            "amendedWhen": "2026-02-03",
+            "isCorrection": true
+          },
+          {
+            "id": 14145,
+            "text": "Vice Chair of WhistleblowersUK, a not for profit organisation. This is an unpaid role. Date interest arose: 5 July 2024 (Registered 15 December 2025) This is a late entry to which the rectification procedure was applied on 28 January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",
+            "createdWhen": "2026-03-25",
+            "amendedWhen": "2026-02-03",
+            "isCorrection": true
+          },
+          {
+            "id": 14144,
+            "text": "Director of WhistleblowersUK, a not for profit organisation Date interest arose: 5 July 2024 (Registered 15 December 2025) This is a late entry to which the rectification procedure was applied on 28 January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",
+            "createdWhen": "2026-02-03",
+            "amendedWhen": "2025-12-16",
+            "isCorrection": true
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Chinook Helicopters: Accidents",
+        "date": "2026-06-08",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether his Department (a) currently holds and (b) previously held any documentation relating to the Chinook ZD576 which crashed on 2 June 1994.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7401"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

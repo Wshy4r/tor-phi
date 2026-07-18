@@ -1,0 +1,1009 @@
+{
+  "member": {
+    "id": "4654",
+    "slug": "matt-rodda",
+    "name": "Matt Rodda",
+    "sortName": "Rodda, Matt",
+    "fullTitle": "Matt Rodda MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Reading Central",
+    "house": "House of Commons",
+    "role": "MP for Reading Central",
+    "officialUrl": "https://members.parliament.uk/member/4654/contact",
+    "recordUrl": "/country/uk/parliament/matt-rodda/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4654/Thumbnail",
+    "currentMembership": {
+      "constituency": "Reading Central",
+      "constituencyId": 4253,
+      "startDate": "2017-06-08",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "matt.rodda.mp@parliament.uk",
+        "mattroddampcasework@parliament.uk"
+      ],
+      "phones": [
+        "0207 219 3980",
+        "0118 466 1252"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Constituency office"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Matt Rodda is the Labour MP for Reading Central , and has been an MP continually since 8 June 2017.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/matt-rodda/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4654/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4654"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4654/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4654/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4654/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4654/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4654"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2025-12-18",
+    "registeredInterestCount": 1
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/matt-rodda/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4654/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4654"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4654/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4654/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4654/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4654/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4654"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1867586,
+        "uin": "907138",
+        "heading": "Climate Change",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what scientific evidence his Department is using to inform its work on climate change.",
+        "answerText": "This Department’s approach is founded on the best scientific evidence which, according to the Intergovernmental Panel on Climate Change, says that ambitious action to reach net zero by mid-century is essential to limiting warming to as low as possible. Ou...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Ed Miliband",
+        "dateTabled": "2025-12-18",
+        "dateForAnswer": "2026-01-06",
+        "dateAnswered": "2026-01-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-18/907138"
+      },
+      {
+        "id": 1740223,
+        "uin": "13033",
+        "heading": "Incinerators: Construction",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether his Department plans to re-introduce the moratorium on allowing the development of incinerators to go ahead; and what his policy is when an incinerator project has received pla",
+        "answerText": "The Government is committed to transitioning to a circular economy, which will support economic growth, deliver green jobs, promote the efficient and productive use of resources, minimise negative environmental impacts and help us accelerate to Net Zero. ...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2024-11-06",
+        "dateForAnswer": "2024-11-12",
+        "dateAnswered": "2024-11-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-11-06/13033"
+      },
+      {
+        "id": 1740224,
+        "uin": "13034",
+        "heading": "Parking: Anti-social Behaviour",
+        "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to tackle persistent nuisance parking on public highways.",
+        "answerText": "I fully understand concerns in relation to inconsiderate parking. The responsibility for traffic management generally rests with the appropriate local authority, including the provision or restriction of on-street parking, as they are best placed to consi...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Lilian Greenwood",
+        "dateTabled": "2024-11-06",
+        "dateForAnswer": "2024-11-12",
+        "dateAnswered": "2024-11-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-11-06/13034"
+      },
+      {
+        "id": 1735258,
+        "uin": "9754",
+        "heading": "Royal Berkshire Hospital: Construction",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what the (a) business case status and (b) RIBA stage is of the scheme to rebuild the Royal Berkshire Hospital.",
+        "answerText": "The standard process confirming the total funding amount for major infrastructure projects involves review and approval of a Full Business Case. All trusts in the Programme have previously received indicative funding allocations to support planning, howev...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2024-10-17",
+        "dateForAnswer": "2024-10-22",
+        "dateAnswered": "2024-10-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-10-17/9754"
+      },
+      {
+        "id": 1735257,
+        "uin": "9753",
+        "heading": "Royal Berkshire Hospital: Construction",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how much funding (a) his Department has allocated and (b) was confirmed by the Treasury by 31 July 2024 for the (i) rebuild of Royal Berkshire Hospital and (ii) New Hospitals Programme.",
+        "answerText": "The standard process confirming the total funding amount for major infrastructure projects involves review and approval of a Full Business Case. All trusts in the Programme have previously received indicative funding allocations to support planning, howev...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2024-10-17",
+        "dateForAnswer": "2024-10-22",
+        "dateAnswered": "2024-10-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-10-17/9753"
+      },
+      {
+        "id": 1735252,
+        "uin": "9752",
+        "heading": "Royal Berkshire Hospital: Construction",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how much funding the scheme to rebuild the Royal Berkshire Hospital has received up to the end of the 2023-24 financial year.",
+        "answerText": "The standard process confirming the total funding amount for major infrastructure projects involves review and approval of a Full Business Case. All trusts in the Programme have previously received indicative funding allocations to support planning, howev...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2024-10-17",
+        "dateForAnswer": "2024-10-22",
+        "dateAnswered": "2024-10-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-10-17/9752"
+      },
+      {
+        "id": 1735090,
+        "uin": "9751",
+        "heading": "Royal Berkshire Hospital: Construction",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what estimate his Department has made of the cost of rebuilding the Royal Berkshire Hospital.",
+        "answerText": "The standard process confirming the total funding amount for major infrastructure projects involves review and approval of a Full Business Case. All trusts in the Programme have previously received indicative funding allocations to support planning, howev...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2024-10-17",
+        "dateForAnswer": "2024-10-22",
+        "dateAnswered": "2024-10-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-10-17/9751"
+      },
+      {
+        "id": 1717834,
+        "uin": "26215",
+        "heading": "Ministry of Justice: ICT",
+        "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 13 May 2024 to Question 25013 on Ministry of Justice: ICT, for what reason his Department considers publishing the latest available figures on the number of red-rated systems it holds a",
+        "answerText": "In response to question 25013, the department responded with a cautionary response to withhold releasing information on the red-rated systems due to potential security risks. However, upon revising our previous response we have concluded that we are able ...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Mike Freer",
+        "dateTabled": "2024-05-14",
+        "dateForAnswer": "2024-05-17",
+        "dateAnswered": "2024-05-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26215"
+      },
+      {
+        "id": 1716056,
+        "uin": "25015",
+        "heading": "Department for Environment, Food and Rural Affairs: ICT",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated I",
+        "answerText": "The Central Digital and Data Office (CDDO), in the Cabinet Office, has established a programme to support departments managing legacy IT. CDDO has agreed a framework to identify ‘red-rated’ systems, indicating high levels of risk surrounding certain asset...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Sir Mark Spencer",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-09",
+        "dateAnswered": "2024-05-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25015"
+      },
+      {
+        "id": 1716060,
+        "uin": "25018",
+        "heading": "Department for Business and Trade: ICT",
+        "questionText": "To ask the Secretary of State for Business and Trade, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated IT systems are use",
+        "answerText": "The Central Digital and Data Office (CDDO), in the Cabinet Office, has established a programme to support departments managing legacy IT. CDDO has agreed a framework to identify ‘red-rated’ systems, indicating high levels of risk surrounding certain asset...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Alan Mak",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-09",
+        "dateAnswered": "2024-05-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25018"
+      },
+      {
+        "id": 1716058,
+        "uin": "25017",
+        "heading": "Department for Education: ICT",
+        "questionText": "To ask the Secretary of State for Education, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated IT systems are used by her",
+        "answerText": "The Central Digital and Data Office (CDDO), in the Cabinet Office, has established a programme to support departments managing legacy IT. CDDO has agreed a framework to identify ‘red-rated’ systems, indicating high levels of risk surrounding certain asset...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Damian Hinds",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-09",
+        "dateAnswered": "2024-05-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25017"
+      },
+      {
+        "id": 1716057,
+        "uin": "25016",
+        "heading": "Foreign, Commonwealth and Development Office: ICT",
+        "questionText": "To ask the Deputy Foreign Secretary, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated IT systems are used by his Departme",
+        "answerText": "The Central Digital and Data Office (CDDO), in the Cabinet Office, has established a programme to support departments managing legacy IT. CDDO has agreed a framework to identify 'red-rated' systems, indicating high levels of risk surrounding certain asset...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "David Rutley",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-09",
+        "dateAnswered": "2024-05-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25016"
+      },
+      {
+        "id": 1716051,
+        "uin": "25010",
+        "heading": "Ministry of Defence: ICT",
+        "questionText": "To ask the Secretary of State for Defence, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated IT systems are used by his De",
+        "answerText": "It is not appropriate to release sensitive information held about specific red-rated systems or more detailed plans for remediation within the Ministry of Defence’s IT estate, as this information could indicate which systems are at risk, and may highlight...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25010"
+      },
+      {
+        "id": 1716052,
+        "uin": "25011",
+        "heading": "Home Office: ICT",
+        "questionText": "To ask the Secretary of State for the Home Department, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, a) how many red-rated IT systems are",
+        "answerText": "The Central Digital and Data Office (CDDO), in the Cabinet Office, has established a programme to support departments managing legacy IT. CDDO has agreed a framework to identify ‘red-rated’ systems, indicating high levels of risk surrounding certain asset...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Chris Philp",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25011"
+      },
+      {
+        "id": 1716140,
+        "uin": "25019",
+        "heading": "Ministry of Defence: ICT",
+        "questionText": "To ask the Secretary of State for Defence, whether his Department has made an assessment of the potential national security risks associated with IT infrastructure operated by (a) his Department's arm’s-length bodies and (b) private firms under contract t",
+        "answerText": "The Ministry of Defence (MOD) takes the security of its IT infrastructure, that of its arm’s length bodies and of its suppliers, very seriously. However, the MOD does not comment on specific details of individual risk assessments as this could give useful...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25019"
+      },
+      {
+        "id": 1716053,
+        "uin": "25012",
+        "heading": "Department for Work and Pensions: ICT",
+        "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated IT systems are used",
+        "answerText": "I refer the hon. Member to a previous response I provided to Question UIN 3652. There have been no changes following the previous response. We continually monitor our Legacy IT systems to ensure any emerging risks are recorded and managed effectively.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Paul Maynard",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25012"
+      },
+      {
+        "id": 1716055,
+        "uin": "25014",
+        "heading": "Cabinet Office: ICT",
+        "questionText": "To ask the Minister for the Cabinet Office, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated IT systems are used by his D",
+        "answerText": "The Central Digital and Data Office (CDDO), in the Cabinet Office, has established a programme to support departments managing legacy IT. CDDO has agreed a framework to identify ‘red-rated’ systems, indicating high levels of risk surrounding certain asset...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Alex Burghart",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-13",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25014"
+      },
+      {
+        "id": 1716054,
+        "uin": "25013",
+        "heading": "Ministry of Justice: ICT",
+        "questionText": "To ask the Secretary of State for Justice, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated IT systems are used by his De",
+        "answerText": "The Central Digital and Data Office (CDDO), in the Cabinet Office, has established a programme to support departments managing legacy IT. CDDO has agreed a framework to identify ‘red-rated’ systems, indicating high levels of risk surrounding certain asset...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Mike Freer",
+        "dateTabled": "2024-05-07",
+        "dateForAnswer": "2024-05-09",
+        "dateAnswered": "2024-05-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25013"
+      },
+      {
+        "id": 1713020,
+        "uin": "23280",
+        "heading": "Artificial Intelligence: South Korea",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether her Department expects to send ministerial representatives to the South Korean AI safety summit.",
+        "answerText": "As this is a co-hosted Summit between the Republic of Korea and the United Kingdom, the Government can confirm that the Secretary of State will be attending the Summit in Seoul. At this moment, the Government cannot confirm if there will be any other mini...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Saqib Bhatti",
+        "dateTabled": "2024-04-23",
+        "dateForAnswer": "2024-04-26",
+        "dateAnswered": "2024-04-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-23/23280"
+      },
+      {
+        "id": 1713019,
+        "uin": "23279",
+        "heading": "Artificial Intelligence: Research",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to her Department's consultation outcome entitled A pro-innovation approach to AI regulation: Government response, CP 1019, updated on 6 February 2024, how much of the £1",
+        "answerText": "The Government is moving at pace to design the mechanism for allocating the £10m funding to jumpstart regulator capabilities. The Government is actively engaging with regulators to ensure this is delivered in a way that best supports their needs. The Gove...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Saqib Bhatti",
+        "dateTabled": "2024-04-23",
+        "dateForAnswer": "2024-04-26",
+        "dateAnswered": "2024-04-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-23/23279"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 12,
+        "No": 13
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+        "items": [
+          {
+            "id": 8029,
+            "text": "Name of donor: Guildford Labour Party Address of donor: 9b Martyr Road, Guildford GU1 4LF Amount of donation or nature and value if donation in kind: provision of staff time for a member of staff employed by Guildford Labour Party, who is working for me one day a week for some months during 2024, value £3,675 Donor status: registered party (Registered 29 July 2024)",
+            "createdWhen": "2024-08-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Climate Change",
+        "date": "2025-12-18",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what scientific evidence his Department is using to inform its work on climate change.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-18/907138"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ministry of Justice: ICT",
+        "date": "2024-05-14",
+        "summary": "To ask the Secretary of State for Justice, pursuant to the Answer of 13 May 2024 to Question 25013 on Ministry of Justice: ICT, for what reason his Department considers publishing the latest available figures on the number of red-rated systems it holds a",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26215"
+      },
+      {
+        "kind": "Written question",
+        "title": "Foreign, Commonwealth and Development Office: ICT",
+        "date": "2024-05-07",
+        "summary": "To ask the Deputy Foreign Secretary, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated IT systems are used by his Departme",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25016"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ministry of Defence: ICT",
+        "date": "2024-05-07",
+        "summary": "To ask the Secretary of State for Defence, with reference to the guidance by the Central Digital and Data Office entitled Guidance on the Legacy IT Risk Assessment Framework, published on 29 September 2023, how many red-rated IT systems are used by his De",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25010"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ministry of Defence: ICT",
+        "date": "2024-05-07",
+        "summary": "To ask the Secretary of State for Defence, whether his Department has made an assessment of the potential national security risks associated with IT infrastructure operated by (a) his Department's arm’s-length bodies and (b) private firms under contract t",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-07/25019"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

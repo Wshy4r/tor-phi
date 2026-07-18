@@ -1,0 +1,387 @@
+{
+  "member": {
+    "id": "M001219",
+    "name": "James C. Moylan",
+    "chamber": "House",
+    "party": "Republican",
+    "state": "GU",
+    "district": 0,
+    "districtLabel": "GU-0",
+    "role": "U.S. Representative for GU-0",
+    "currentTerm": {
+      "start": "2025-01-03",
+      "end": "2027-01-03",
+      "type": "rep",
+      "class": null
+    },
+    "firstTermStart": "2023-01-03",
+    "officialWebsite": "https://moylan.house.gov",
+    "contact": {
+      "address": "228 Cannon House Office Building Washington DC 20515-5301",
+      "phone": "202-225-1188",
+      "fax": null,
+      "contactForm": null,
+      "rssUrl": null
+    },
+    "identifiers": {
+      "bioguide": "M001219",
+      "govtrack": 456896,
+      "opensecrets": "N00050604",
+      "ballotpedia": "James Moylan",
+      "wikipedia": "James Moylan",
+      "wikidata": "Q114108969"
+    }
+  },
+  "generatedAt": "2026-07-11T16:33:48.433Z",
+  "officialSourceNotes": [
+    "Congress.gov data is stored from the official public API. API keys are used only during fetch and are not saved in this archive.",
+    "House member records include House Clerk profile fields and the latest available recent-vote pages where the House Clerk endpoint returned HTML.",
+    "Senate records include official source registry links. Some Senate XML endpoints can block automated clients; the URLs are retained for analyst follow-up."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi local archive record",
+      "url": "/source/us-congress-official/members/M001219.json"
+    },
+    {
+      "label": "Congress.gov API member detail",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    },
+    {
+      "label": "Congress.gov API sponsored legislation",
+      "url": "https://api.congress.gov/v3/member/M001219/sponsored-legislation?format=json&limit=25"
+    },
+    {
+      "label": "Congress.gov API cosponsored legislation",
+      "url": "https://api.congress.gov/v3/member/M001219/cosponsored-legislation?format=json&limit=25"
+    },
+    {
+      "label": "Congress.gov member page",
+      "url": "https://www.congress.gov/member/james-c-moylan/M001219"
+    },
+    {
+      "label": "Biographical Directory profile",
+      "url": "https://bioguide.congress.gov/search/bio/M001219"
+    },
+    {
+      "label": "Official congressional website",
+      "url": "https://moylan.house.gov"
+    },
+    {
+      "label": "House Clerk member profile",
+      "url": "https://clerk.house.gov/members/M001219"
+    },
+    {
+      "label": "House Clerk recent votes",
+      "url": "https://clerk.house.gov/Members/ViewRecentVotes?memberID=M001219&page=1"
+    },
+    {
+      "label": "House Clerk roll call votes",
+      "url": "https://clerk.house.gov/Votes"
+    },
+    {
+      "label": "House committee repository",
+      "url": "https://docs.house.gov/committee"
+    },
+    {
+      "label": "House disclosures",
+      "url": "https://disclosures-clerk.house.gov/"
+    }
+  ],
+  "congressGov": {
+    "profile": {
+      "sourceUrl": "https://api.congress.gov/v3/member/M001219?format=json",
+      "ok": null,
+      "status": "skipped",
+      "reason": "Set CONGRESS_GOV_API_KEY to import this official API record at scale. The public DEMO_KEY is intentionally not used by default because it rate-limits after a few requests."
+    },
+    "sponsoredLegislation": {
+      "sourceUrl": "https://api.congress.gov/v3/member/M001219/sponsored-legislation?format=json&limit=25",
+      "ok": null,
+      "status": "skipped",
+      "reason": "Set CONGRESS_GOV_API_KEY to import this official API record at scale. The public DEMO_KEY is intentionally not used by default because it rate-limits after a few requests."
+    },
+    "cosponsoredLegislation": {
+      "sourceUrl": "https://api.congress.gov/v3/member/M001219/cosponsored-legislation?format=json&limit=25",
+      "ok": null,
+      "status": "skipped",
+      "reason": "Set CONGRESS_GOV_API_KEY to import this official API record at scale. The public DEMO_KEY is intentionally not used by default because it rate-limits after a few requests."
+    }
+  },
+  "houseClerk": {
+    "profileUrl": "https://clerk.house.gov/members/M001219",
+    "profile": {
+      "source": "Office of the Clerk, U.S. House of Representatives",
+      "name": "James C. Moylan",
+      "photoUrl": "https://clerk.house.gov/images/members/M001219.jpg",
+      "contactLines": [
+        "The Honorable James C. Moylan\n&ndash;\nDelegate District\n-->",
+        "228 Cannon House Office Building",
+        "Phone: (202) 225-1188"
+      ],
+      "phone": "(202) 225-1188",
+      "committeesAndSubcommittees": [
+        {
+          "name": "Committee on Armed Services",
+          "url": "https://clerk.house.gov/Committees/AS00"
+        },
+        {
+          "name": "Readiness",
+          "url": "https://clerk.house.gov/Committees/AS03"
+        },
+        {
+          "name": "Seapower and Projection Forces",
+          "url": "https://clerk.house.gov/Committees/AS28"
+        },
+        {
+          "name": "Committee on Education and Workforce",
+          "url": "https://clerk.house.gov/Committees/ED00"
+        },
+        {
+          "name": "Early Childhood, Elementary, and Secondary Education",
+          "url": "https://clerk.house.gov/Committees/ED14"
+        },
+        {
+          "name": "Higher Education and Workforce Development",
+          "url": "https://clerk.house.gov/Committees/ED13"
+        },
+        {
+          "name": "Committee on Foreign Affairs",
+          "url": "https://clerk.house.gov/Committees/FA00"
+        },
+        {
+          "name": "East Asia and Pacific",
+          "url": "https://clerk.house.gov/Committees/FA05"
+        },
+        {
+          "name": "South and Central Asia",
+          "url": "https://clerk.house.gov/Committees/FA19"
+        }
+      ]
+    },
+    "profileFetch": {
+      "ok": true,
+      "status": 200,
+      "url": "https://clerk.house.gov/members/M001219",
+      "error": ""
+    },
+    "recentVotesUrl": "https://clerk.house.gov/Members/ViewRecentVotes?memberID=M001219&page=1",
+    "recentVotes": [
+      {
+        "page": 1,
+        "date": "5/15/2026",
+        "rollCallNumber": "174",
+        "billNumber": "H. R. 8469",
+        "billTitle": "Steube of Florida Part B Amendment No. 50",
+        "vote": "Not Voting",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026174?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "4/30/2026",
+        "rollCallNumber": "152",
+        "billNumber": "H. R. 7567",
+        "billTitle": "Spartz of Indiana Part B Amendment No. 49",
+        "vote": "No",
+        "status": "Agreed to",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026152?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "4/30/2026",
+        "rollCallNumber": "151",
+        "billNumber": "H. R. 7567",
+        "billTitle": "Self of Texas Part B Amendment No. 47",
+        "vote": "Aye",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026151?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "4/30/2026",
+        "rollCallNumber": "150",
+        "billNumber": "H. R. 7567",
+        "billTitle": "Scholten of Michigan Part B Amendment No. 39",
+        "vote": "Aye",
+        "status": "Agreed to",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026150?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "4/30/2026",
+        "rollCallNumber": "149",
+        "billNumber": "H. R. 7567",
+        "billTitle": "Moore of West Virginia Part B Amendment No. 36",
+        "vote": "Aye",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026149?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "4/30/2026",
+        "rollCallNumber": "148",
+        "billNumber": "H. R. 7567",
+        "billTitle": "Luna of Florida Part B Amendment No. 28",
+        "vote": "No",
+        "status": "Agreed to",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026148?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "4/30/2026",
+        "rollCallNumber": "147",
+        "billNumber": "H. R. 7567",
+        "billTitle": "Grothman of Wisconsin Part B Amendment No. 22",
+        "vote": "No",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026147?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "4/30/2026",
+        "rollCallNumber": "146",
+        "billNumber": "H. R. 7567",
+        "billTitle": "Grothman of Wisconsin Part B Amendment No. 20",
+        "vote": "Aye",
+        "status": "Agreed to",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026146?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "4/30/2026",
+        "rollCallNumber": "145",
+        "billNumber": "H. R. 7567",
+        "billTitle": "Crawford of Arkansas Part B Amendment No. 8",
+        "vote": "Aye",
+        "status": "Agreed to",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026145?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "4/30/2026",
+        "rollCallNumber": "144",
+        "billNumber": "H. R. 7567",
+        "billTitle": "Bentz of Oregon Part B Amendment No. 2",
+        "vote": "Aye",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026144?Page=1"
+      },
+      {
+        "page": 2,
+        "date": "1/22/2026",
+        "rollCallNumber": "44",
+        "billNumber": "H. R. 7148",
+        "billTitle": "Norman of South Carolina Part B Amendment No. 2",
+        "vote": "No",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/202644?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "1/22/2026",
+        "rollCallNumber": "43",
+        "billNumber": "H. R. 7148",
+        "billTitle": "Massie of Kentucky Part B Amendment No. 1",
+        "vote": "No",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/202643?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "1/14/2026",
+        "rollCallNumber": "27",
+        "billNumber": "H. R. 7006",
+        "billTitle": "Crane of Arizona Amendment No. 2",
+        "vote": "Not Voting",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/202627?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "1/14/2026",
+        "rollCallNumber": "26",
+        "billNumber": "H. R. 7006",
+        "billTitle": "Roy of Texas Amendment No. 1",
+        "vote": "Not Voting",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/202626?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "12/18/2025",
+        "rollCallNumber": "354",
+        "billNumber": "H. R. 4776",
+        "billTitle": "Roy of Texas Amendment No. 6",
+        "vote": "No",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2025354?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "12/18/2025",
+        "rollCallNumber": "353",
+        "billNumber": "H. R. 4776",
+        "billTitle": "Roy of Texas Amendment No. 5",
+        "vote": "No",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2025353?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "12/18/2025",
+        "rollCallNumber": "352",
+        "billNumber": "H. R. 4776",
+        "billTitle": "Clyde of Georgia Amendment No. 1",
+        "vote": "No",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2025352?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "12/11/2025",
+        "rollCallNumber": "327",
+        "billNumber": "H. R. 3383",
+        "billTitle": "Waters of California Part B Amendment No. 5",
+        "vote": "No",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2025327?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "12/11/2025",
+        "rollCallNumber": "326",
+        "billNumber": "H. R. 3383",
+        "billTitle": "Waters of California Part B Amendment No. 3",
+        "vote": "No",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2025326?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "12/11/2025",
+        "rollCallNumber": "325",
+        "billNumber": "H. R. 3383",
+        "billTitle": "Self of Texas Part B Amendment No. 1",
+        "vote": "No",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2025325?Page=2"
+      }
+    ],
+    "recentVoteFetches": [
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://clerk.house.gov/Members/ViewRecentVotes?memberID=M001219&page=1",
+        "error": ""
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://clerk.house.gov/Members/ViewRecentVotes?memberID=M001219&page=2",
+        "error": ""
+      }
+    ]
+  },
+  "senate": null
+}

@@ -1,0 +1,1363 @@
+{
+  "member": {
+    "id": "1572",
+    "slug": "sir-jeremy-hunt",
+    "name": "Sir Jeremy Hunt",
+    "sortName": "Hunt, Sir Jeremy",
+    "fullTitle": "Rt Hon Sir Jeremy Hunt MP",
+    "party": "Conservative",
+    "partyAbbreviation": "Con",
+    "partyColor": "#0063ba",
+    "constituency": "Godalming and Ash",
+    "house": "House of Commons",
+    "role": "MP for Godalming and Ash",
+    "officialUrl": "https://members.parliament.uk/member/1572/contact",
+    "recordUrl": "/country/uk/parliament/sir-jeremy-hunt/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/1572/Thumbnail",
+    "currentMembership": {
+      "constituency": "Godalming and Ash",
+      "constituencyId": 4064,
+      "startDate": "2005-05-05",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "huntj@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 6813",
+        "01428 609416"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "SW Surrey Conservative Association, 2 Royal Parade, Tilford Road, Hindhead, GU26 6TD",
+        "http://www.jeremyhunt.org/",
+        "https://twitter.com/Jeremy_Hunt"
+      ],
+      "websites": [
+        "http://www.jeremyhunt.org/"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/Jeremy_Hunt"
+        ]
+      ]
+    },
+    "synopsis": "The Rt Hon Sir Jeremy Hunt is the Conservative MP for Godalming and Ash , and has been an MP continually since 5 May 2005.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/sir-jeremy-hunt/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/1572/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/1572"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/1572/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/1572/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/1572/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/1572/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=1572"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-26",
+    "registeredInterestCount": 51
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/sir-jeremy-hunt/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/1572/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/1572"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/1572/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/1572/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/1572/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/1572/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=1572"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1920825,
+        "uin": "13476",
+        "heading": "Prescription Drugs: Shortages",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential merits of convening an emergency taskforce to address current medicine shortages.",
+        "answerText": "There are no plans to convene a taskforce on medicine shortages.There are around 14,000 licensed medicines and the overwhelming majority are in good supply. Medicine supply chains are complex, global and highly regulated and there are a number of reasons ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13476"
+      },
+      {
+        "id": 1920826,
+        "uin": "13477",
+        "heading": "Pharmacy: Drugs",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential merits of taking legislative steps to allow pharmacists to make safe substitutions when a prescribed medicine is unavailable.",
+        "answerText": "We consulted on proposals to enable pharmacist flexibilities when dispensing medicines and have considered the responses to this consultation, with further information available at the following link:https://www.gov.uk/government/consultations/enabling-ph...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13477"
+      },
+      {
+        "id": 1920827,
+        "uin": "13478",
+        "heading": "Accident and Emergency Departments: Standards",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the implications for his policy of ending corridor care of the findings of the Healthcare Services Safety Investigation Body’s report entitled Patient care in tempora",
+        "answerText": "The Government recognises that corridor care is unacceptable and should not become a normal part of National Health Service care. The finding of the Healthcare Services Safety Investigation Body's report Patient care in temporary care environments reinfor...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13478"
+      },
+      {
+        "id": 1920828,
+        "uin": "13479",
+        "heading": "NHS: Cybersecurity",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the long-term patient safety impact of the Synnovis ransomware attack on NHS trusts in south-east London.",
+        "answerText": "Cyber security is not just a technology risk. In 2024, a cyber-attack affecting Synnovis, a supplier of pathology services to the National Health Service, caused delays to over 11,000 out-patient and elective procedure appointments and, tragically, contri...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-03",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13479"
+      },
+      {
+        "id": 1910517,
+        "uin": "5313",
+        "heading": "Myanmar: Crimes against Humanity",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether her Department plans to refer the Arakan Army in Myanmar to international justice and accountability mechanisms, including via targeted financial sanctions, for poten",
+        "answerText": "The UK remains deeply concerned by reports of human rights violations in Myanmar, involving a range of armed actors, and we continue to push for accountability for such abuses, wherever they occur. In April, we co-sponsored the UN Human Rights Council res...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Seema Malhotra",
+        "dateTabled": "2026-06-01",
+        "dateForAnswer": "2026-06-03",
+        "dateAnswered": "2026-06-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5313"
+      },
+      {
+        "id": 1910516,
+        "uin": "5312",
+        "heading": "Myanmar: Crimes against Humanity",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps her Department is taking to support the investigation of war crimes, crimes against humanity and other mass atrocity crimes and egregious violations of human right",
+        "answerText": "The UK remains deeply concerned by reports of human rights violations in Myanmar, involving a range of armed actors, and we continue to push for accountability for such abuses, wherever they occur. In April, we co-sponsored the UN Human Rights Council res...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Seema Malhotra",
+        "dateTabled": "2026-06-01",
+        "dateForAnswer": "2026-06-03",
+        "dateAnswered": "2026-06-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5312"
+      },
+      {
+        "id": 1904117,
+        "uin": "32",
+        "heading": "Independent Investigation into East Kent Maternity Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what progress he has made on implementing the recommendations of the report Reading the Signals: Maternity and Neonatal Services in East Kent since its publication.",
+        "answerText": "Following publication of Dr Bill Kirkup’s report, Reading the Signals: Maternity and Neonatal Services in East Kent, Dr Kirkup was appointed by the Department to develop concrete actions to implement the report’s recommendations. In this work, Dr Kirkup c...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-05-13",
+        "dateForAnswer": "2026-05-18",
+        "dateAnswered": "2026-06-04",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-13/32"
+      },
+      {
+        "id": 1904118,
+        "uin": "33",
+        "heading": "Maternity Services at Shrewsbury and Telford Hospital NHS Trust Independent Review",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what progress he has made on implementing the 15 Immediate and Essential Actions set out in the final report of the Ockenden Review into maternity services at the Shrewsbury and Telford Hospital NH",
+        "answerText": "The Ockenden review into maternity services at the Shrewsbury and Telford hospital trust identified 15 Immediate and Essential Actions. Following its publication, NHS England wrote to all trusts and systems asking them to deliver the actions and report to...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-05-13",
+        "dateForAnswer": "2026-05-18",
+        "dateAnswered": "2026-06-04",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-13/33"
+      },
+      {
+        "id": 1901786,
+        "uin": "128683",
+        "heading": "General Medical Council: Appeals",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the Mann Review (March 2026) as potential justification for retaining the General Medical Council’s section 40A appeal power in the Draft Order.",
+        "answerText": "All of the proposals relating to the findings of the Williams Review and the Mann Review contained within the Reforming the General Medical Council legislative framework consultation, published 24 March 2026, are currently open for public consultation. We...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-04-21",
+        "dateForAnswer": "2026-04-28",
+        "dateAnswered": "2026-04-28",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-21/128683"
+      },
+      {
+        "id": 1901785,
+        "uin": "128682",
+        "heading": "General Medical Council: Appeals",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department continues to support Recommendation 6.1 of the Williams Review on removing the General Medical Council’s right of appeal under section 40A of the Medical Act 1983.",
+        "answerText": "All of the proposals relating to the findings of the Williams Review and the Mann Review contained within the Reforming the General Medical Council legislative framework consultation, published 24 March 2026, are currently open for public consultation. We...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-04-21",
+        "dateForAnswer": "2026-04-28",
+        "dateAnswered": "2026-04-28",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-21/128682"
+      },
+      {
+        "id": 1899957,
+        "uin": "127429",
+        "heading": "Fractures: Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what progress his Department has made on (a) developing and (b) publishing a national implementation plan for Fracture Liaison Services.",
+        "answerText": "Our 10-Year Health Plan committed to rolling out Fracture Liaison Services across every part of the country by 2030. Integrated care boards (ICBs) remain well-placed to make decisions according to local need. The Renewed Women’s Health Strategy sets an ex...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-04-15",
+        "dateForAnswer": "2026-04-20",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-15/127429"
+      },
+      {
+        "id": 1896492,
+        "uin": "124498",
+        "heading": "ME/CFS: Health Services",
+        "questionText": "To ask the Secretary of State for Health and Social Care, if he will require that healthcare professionals involved in the care of people with very severe ME complete condition-specific (a) training and (b) e-learning.",
+        "answerText": "NHS England, with support from the Department, has developed an e-learning programme to support healthcare professionals in the care of people with myalgic encephalomyelitis, also known as chronic fatigue syndrome (ME/CFS), of all levels of severity. All ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/124498"
+      },
+      {
+        "id": 1891268,
+        "uin": "120778",
+        "heading": "Respiratory Diseases: Godalming and Ash",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of trends in the (a) prevalence of respiratory disease and (b) number of emergency hospital admissions for respiratory conditions in Godalming and Ash consti",
+        "answerText": "Data is available for emergency Finished Admission Episodes (FAEs) where there was a primary diagnosis of 'respiratory conditions’. The following table shows the number of FAEs where there was a primary diagnosis of 'respiratory conditions’ for Godalming ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-03-16",
+        "dateForAnswer": "2026-03-18",
+        "dateAnswered": "2026-03-25",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-16/120778"
+      },
+      {
+        "id": 1888208,
+        "uin": "118163",
+        "heading": "Healthwatch",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how the functions of local Healthwatch will be delivered by ICBs and local authorities.",
+        "answerText": "The abolition of local Healthwatch (LHW) and the transfer of its functions will require primary legislation. The timing of this is subject to the will of Parliament and will happen when parliamentary time allows.We are proposing to place responsibility fo...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-03-05",
+        "dateForAnswer": "2026-03-09",
+        "dateAnswered": "2026-03-13",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-05/118163"
+      },
+      {
+        "id": 1889158,
+        "uin": "908201",
+        "heading": "City of London: Competition",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps she is taking to help improve the global competitiveness of the City of London.",
+        "answerText": "The government’s Financial Services Growth and Competitiveness Strategy , co-designed with industry, sets out the government’s ten-year plan to make the UK the world’s centre of choice for financial services investment now and in 2035. Since July, the Gov...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-03-04",
+        "dateForAnswer": "2026-03-10",
+        "dateAnswered": "2026-03-10",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-04/908201"
+      },
+      {
+        "id": 1882185,
+        "uin": "113482",
+        "heading": "Cystic Fibrosis: Royal Brompton Hospital",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure that Cystic Fibrosis patients living in North London are not adversely impacted by the proposed removal of respiratory services from the Royal Brompton Hospital.",
+        "answerText": "Any changes to services must follow established statutory processes, including full clinical engagement, consideration of patient impact, and public consultation where required. These processes are designed to ensure that any proposed reconfiguration main...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-02-20",
+        "dateForAnswer": "2026-02-24",
+        "dateAnswered": "2026-03-03",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-20/113482"
+      },
+      {
+        "id": 1882197,
+        "uin": "113483",
+        "heading": "Members: Correspondence",
+        "questionText": "To ask the Secretary of State for Justice, when he plans to respond to emails sent by the Rt Hon. Member for Godalming and Ash dated 18 November 2025 and 20 January 2026 concerning a case relating to a Magistrate.",
+        "answerText": "A response was sent on 24 February and the Department apologises for the significant delay in replying. We recognise that, on this occasion, the delay falls short of expected standards.",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Sarah Sackman",
+        "dateTabled": "2026-02-20",
+        "dateForAnswer": "2026-02-24",
+        "dateAnswered": "2026-03-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-20/113483"
+      },
+      {
+        "id": 1870902,
+        "uin": "105212",
+        "heading": "Gynaecology: Waiting Lists",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential impact of the NHS online hospital on levels of regional variation in gynaecology waiting times.",
+        "answerText": "Women’s health issues, including severe menopause symptoms and menstrual problems that may be a sign of endometriosis, fibroids, polycystic ovary syndrome, adenomyosis, or pelvic infection, will be among the conditions available for referral to NHS Online...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-01-13",
+        "dateForAnswer": "2026-01-15",
+        "dateAnswered": "2026-01-26",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-13/105212"
+      },
+      {
+        "id": 1870897,
+        "uin": "105209",
+        "heading": "Health Services: Women",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of the NHS online hospital on women’s health inequalities.",
+        "answerText": "Women’s health issues, including severe menopause symptoms and menstrual problems that may be a sign of endometriosis, fibroids, polycystic ovary syndrome, adenomyosis, or pelvic infection, will be among the conditions available for referral to NHS Online...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-01-13",
+        "dateForAnswer": "2026-01-15",
+        "dateAnswered": "2026-01-26",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-13/105209"
+      },
+      {
+        "id": 1870896,
+        "uin": "105174",
+        "heading": "Health Services: Women",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what estimate his Department has made of the workforce required to provide specialist women’s health services through the NHS online hospital.",
+        "answerText": "Analysis shows that the anticipated workforce available to provide women’s health services through the NHS online hospital, provides enough capacity to meet the demand for the service in the first three years.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-01-13",
+        "dateForAnswer": "2026-01-15",
+        "dateAnswered": "2026-02-05",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-13/105174"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 15,
+        "Aye": 10
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2345,
+          "number": 510,
+          "date": "2026-04-27",
+          "title": "Northern Ireland Troubles Bill: Carry-over motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 176,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2345"
+        },
+        {
+          "id": 2344,
+          "number": 509,
+          "date": "2026-04-27",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on its Amendments 88A, 88C and 88E to 88P and propose Amendments (a) to (f)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 164,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2344"
+        },
+        {
+          "id": 2343,
+          "number": 508,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: Amendments (a) to (h) in lieu of Lords Amendments 85 and 86, 97 to 116, 120, 121 and 123",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 271,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2343"
+        },
+        {
+          "id": 2342,
+          "number": 507,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 94B and 94C",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 269,
+          "noCount": 170,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2342"
+        },
+        {
+          "id": 2341,
+          "number": 506,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 36, 90 and 155, insist on Amendments 155A to 155F and propose Amendment (a)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 270,
+          "noCount": 170,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2341"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 12,
+        "category": "1. Employment and earnings",
+        "items": [
+          {
+            "id": 11008,
+            "text": "Role, work or services: speaking engagement Payer: Chartwell Partners Ltd (Publishing Agent), 123 Buckingham Palace Road, London SW1W 9SH (Registered 22 October 2024)",
+            "createdWhen": "2025-01-30",
+            "amendedWhen": "2024-10-31",
+            "isCorrection": false
+          },
+          {
+            "id": 12697,
+            "text": "Payment: £16,000 Work or services: Speaking engagement Received on: 20 June 2025. Hours: 3.5 hrs. Ultimate payer: Crowell and Moring UK LLP (International Law Firm), 199 Bishopsgate, London, EC2M 3TY (Registered 24 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12695,
+            "text": "Payment: £2,400 Work or services: Speaking engagement Received on: 12 June 2025. Hours: 1 hr. Ultimate payer: Fabric Ventures LLP (Venture Capital), 58 Wood Lane, London W12 7RZ (Registered 24 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12696,
+            "text": "Payment: £16,000 Work or services: Speaking engagement Received on: 12 June 2025. Hours: 2 hrs. Ultimate payer: MiP (Marketing in Partnership Ltd) (Event organisers), New London House, 172 Drury Lane, London WC2B 5QR (Registered 24 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12716,
+            "text": "Payment: £20,000 Work or services: Speaking engagement Received on: 26 June 2025. Hours: 8 hrs. Ultimate payer: Centerview Partners UK LLP (Investment Banking and Advisory Firm), 10 Norwich Street, London EC4A 1BD (Registered 26 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13026,
+            "text": "Payment expected: £14,500 Work or services: Speaking engagement Completed or provided on: 24 July 2025. Hours: 1.5 hrs. Ultimate payer: Primary Health Properties PLC (UK Real Estate Investment Trust), 5th Floor, Burdett House, 15-16 Buckingham St, London WC2N 6DU (Registered 29 July 2025)",
+            "createdWhen": "2025-08-05",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13311,
+            "text": "Payment: £30,000 Work or services: Speaking engagement Received on: 8 September 2025. Hours: 3.5 hrs. Ultimate payer: BNP Paribas APAC (Banking and financial services), 63/F, Two International Finance Centre, 8 Finance St, Central, Hong Kong (Registered 17 September 2025; updated 18 December 2025)",
+            "createdWhen": "2026-01-06",
+            "amendedWhen": "2025-10-08",
+            "isCorrection": false
+          },
+          {
+            "id": 13309,
+            "text": "Payment: £4,800 Work or services: Speaking engagement Received on: 12 September 2025. Hours: 1 hr. Ultimate payer: Company Chemists Association Ltd (Trade Assoc for large pharmacy operators), PO Box 2650, Watford WD18 1NB (Registered 17 September 2025)",
+            "createdWhen": "2025-10-08",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13318,
+            "text": "Payment expected: £4,800 Work or services: speaking engagement Completed or provided on: 16 September 2025. Hours: 1.15 hrs. Ultimate payer: Intelligence Squared Ltd (Media and events), 48 Sellons Ave, London NW10 4HH (Registered 17 September 2025)",
+            "createdWhen": "2025-10-08",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13358,
+            "text": "Payment: £24,000 Work or services: Speaking engagement Received on: 22 September 2025. Hours: 1.5 hrs. Ultimate payer: Bank of America, N.A. London (Banking & Financial Services), 2 King Edward St, London, EC1A 1HQ Paid directly to: a charity (Registered 30 September 2025)",
+            "createdWhen": "2025-10-08",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13762,
+            "text": "Payment: £24,000 Speaking engagement Work or services: Speaking at event Received on: 27 October 2025. Hours: 2 hrs. Ultimate payer: Siemens Healthcare Ltd (Healthcare technology), Siemens Healthcare Ltd, Parkview, Watchmoor Park, Camberley, Surrey GU15 3YL (Registered 5 November 2025)",
+            "createdWhen": "2025-11-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13869,
+            "text": "Payment expected: £16,000 Work or services: Speaking engagement Completed or provided on: 12 November 2025. Hours: 3 hrs. Ultimate payer: BNP Paribas (Banking & Financial Services), 10 Harewood Avenue, London NW1 6AA (Registered 13 November 2025)",
+            "createdWhen": "2025-11-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13982,
+            "text": "Payment: £12,000 Speaking engagement 14 November 2025 Work or services: Speaking engagement Received on: 19 November 2025. Hours: 3 hrs. Ultimate payer: LIFE Lebanon (Membership organisation for the Lebanese Diaspora), 85 Portland Street, London W1W 7LT (Registered 27 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13985,
+            "text": "Payment expected: £24,000 Work or services: Speaking engagement Completed or provided on: 13 November 2025. Hours: 1.5 hrs. Ultimate payer: Merrill Lynch International (Banking & Financial Services), 2 King Edward Street, London EC1A 1HQ Paid directly to: a charity (Registered 27 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13981,
+            "text": "Payment: £10,000 Speaking engagement 18 November 2025 Work or services: Speaking engagement Received on: 19 November 2025. Hours: 1.5 hrs. Ultimate payer: Lazard and Co (Financial Advisory and Asset Management), Lazard & Co, 20 Manchester Square, London W1U 3PZ (Registered 27 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13980,
+            "text": "Payment: £16,000 Speaking engagement 18 November 2025 Work or services: Speaking engagement Received on: 20 November 2025. Hours: 1.5 hrs. Ultimate payer: J P Morgan Securities Plc (Banking & Financial Services), J P Morgan Securities Plc, 25 Bank Street, London E14 5JP (Registered 27 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14569,
+            "text": "Payment: £16,000 Speaking engagement Work or services: Speaking engagement Received on: 11 February 2026. Hours: 2 hrs. Ultimate payer: Macfarlanes LLP (Legal Services), 20 Cursitor Street, London, EC4A 1LT (Registered 17 February 2026)",
+            "createdWhen": "2026-02-24",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14570,
+            "text": "Payment: £12,000 Speaking engagement Work or services: Speaking engagement Received on: 11 February 2026. Hours: 3.5 hrs. Ultimate payer: Dentons UK and Middle East LLP (Legal Services), One Fleet Place, London, EC4M 7WS (Registered 17 February 2026)",
+            "createdWhen": "2026-02-24",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14689,
+            "text": "Payment: £16,000 Speaking engagement for UBS on 4 March 2026 Work or services: Speaking engagement Received on: 5 March 2026. Hours: 1 hr. Ultimate payer: UBS AG London Branch (Banking & financial services), 5 Broadgate Street, London EC2M 2QS (Registered 6 March 2026)",
+            "createdWhen": "2026-03-10",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14925,
+            "text": "Payment: £17,000 Speaking engagement at event on 19/3/26 Work or services: Speaking engagement Received on: 20 March 2026. Hours: 3.5 hrs. Ultimate payer: HSBC UK Bank plc (Banking & Financial Services), 1 Centenary Square, Birmingham B1 1HQ (Registered 1 April 2026)",
+            "createdWhen": "2026-04-14",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14927,
+            "text": "Payment: £20,000 Speaking engagement at event in Bern on 26/3/26 Work or services: Speaking engagement Received on: 27 March 2026. Hours: 6 hrs. Ultimate payer: Visana Services AG (Health & Accident Insurance (Insurance Services)), Weltpoststrasse 19, 3000 Bern 15, Switzerland (Registered 1 April 2026)",
+            "createdWhen": "2026-04-14",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14924,
+            "text": "Payment: £17,000 Speaking engagement at event Work or services: Speaking engagement Received on: 18 March 2026. Hours: 3.5 hrs. Ultimate payer: HSBC UK Bank plc (Banking & Financial Services), 1 Centenary Square, Birmingham B1 1HQ (Registered 1 April 2026)",
+            "createdWhen": "2026-04-14",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14926,
+            "text": "Payment: £17,000 Speaking engagement on 25/3/26 Work or services: Speaking engagement Received on: 26 March 2026. Hours: 2.5 hrs. Ultimate payer: HSBC UK Bank plc (Banking & Financial Services), 1 Centenary Square, Birmingham B1 1HQ (Registered 1 April 2026)",
+            "createdWhen": "2026-04-14",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15164,
+            "text": "Payment: £17,000 Work or services: Speaking engagement (York) Received on: 1 May 2026. Hours: 3.5 hrs. Ultimate payer: HSBC UK Bank plc (Banking & Financial Services), 1 Centenary Square, Birmingham B1 1HQ (Registered 5 May 2026)",
+            "createdWhen": "2026-05-19",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15241,
+            "text": "Payment: £17,000 Speaking engagement on 12 May 2026 Work or services: Speaking engagement Received on: 13 May 2026. Hours: 3 hrs. Ultimate payer: HSBC UK Bank plc (Banking & Financial Services), 1 Centenary Square, Birmingham, B1 1HQ (Registered 15 May 2026)",
+            "createdWhen": "2026-05-19",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12721,
+            "text": "Role, work or services: Speaking engagement From: 23 June 2025. Until: 24 June 2025. Payer: A Bit of TLC Ltd (Curating & hosting events and activities), private address (Registered 26 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12722,
+            "text": "Payment: £250 Work or services: Speaking engagement Received on: 26 June 2025. Hours: 2 hrs. (Registered 26 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12983,
+            "text": "Role, work or services: Speaking engagement From: 18 July 2025. Until: 19 July 2025. Payer: Buxton Arts Festival Ltd (Reg. charity who promote the arts via an annual summer festival), 3 The Square, Buxton, Derbyshire, SK17 6AZ (Registered 24 July 2025)",
+            "createdWhen": "2025-08-05",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12984,
+            "text": "Payment: £300 Speakers fee Received on: 21 July 2025. Hours: 3 hrs. (Registered 24 July 2025)",
+            "createdWhen": "2025-08-05",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13626,
+            "text": "Role, work or services: Speaking engagement Until: 20 October 2025. Payer: Intelligence Squared Ltd (Events production, debates, discussions and podcasts), 48 Sellons Ave, London NW10 4HH (Registered 23 October 2025)",
+            "createdWhen": "2025-11-04",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13628,
+            "text": "Payment expected: £500 Work or services: Speaking engagement Completed or provided on: 20 October 2025. Hours: 2 hrs. (Registered 23 October 2025)",
+            "createdWhen": "2025-11-04",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14643,
+            "text": "Role, work or services: Appointment to Member of Advisory Board for RL Datix From: 12 February 2026. Until: 12 February 2027. Payer: RL Datix (EBT) Ltd (Global healthcare technology company that provides cloud-based software solutions to help healthcare and care organisations to improve safety, quality, workforce management, governance, risk and regulatory compliance.), 2nd Floor, 1 Church Rd, Richmond upon Thames, TW9 2QE (Registered 3 March 2026)",
+            "createdWhen": "2026-03-10",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14644,
+            "text": "Payment: £35,000 One off fee paid by RL Datix to Patient Safety Watch, of which Sir Jeremy is unpaid Director, Trustee and Chairman. The fee includes Sir Jeremy's attendance at advisory board meetings. Received on: 16 February 2026. Hours: 8 hrs Jeremy has been appointed to the the advisory board of RL Datix (EBT) Ltd, which includes his attendance at board meetings. Paid directly to: a charity (Registered 3 March 2026)",
+            "createdWhen": "2026-04-08",
+            "amendedWhen": "2026-03-10",
+            "isCorrection": false
+          },
+          {
+            "id": 15242,
+            "text": "Role, work or services: Speaking engagement in Japan From: 20 April 2026. Until: 23 April 2026. Payer: Oxford Institute of Digital Health, University of Oxford, Radcliffe Primary Care Building, Oxford OX2 6GG (Registered 19 May 2026)",
+            "createdWhen": "2026-06-03",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15243,
+            "text": "Payment expected: £2,500 Speaker fee Work or services: Speaking engagement for Oxford University as part of its CEO programme delegates at Tokyo University including workshop tasks and participation over three days. The payer covered the costs of my return flight to Japan (£10,343.19) and accommodation for three nights (£909) Completed or provided on: 24 April 2026. Hours: 24 hrs. (Registered 19 May 2026)",
+            "createdWhen": "2026-06-03",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 12531,
+            "text": "Name of donor: Charlie Nunn Address of donor: Lloyd Banking Group, 8th Floor, 33 Old Broad Street, London EC2N 1HZ Amount of donation or nature and value if donation in kind: Two tickets to Chelsea Flower show, value £605 Date received: 19 May 2025 Date accepted: 19 May 2025 Donor status: company, registration SC095000 (Registered 3 June 2025)",
+            "createdWhen": "2025-06-17",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12698,
+            "text": "Name of donor: Global Media IP Ltd Address of donor: 30 Leicester Square, London WC2H 7LA Amount of donation or nature and value if donation in kind: 5 VIP tickets to Summertime Ball, value £1,250 Date received: 15 June 2025 Date accepted: 15 June 2025 Donor status: company, registration 12002350 (Registered 24 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12717,
+            "text": "Name of donor: HSBC UK (Ian Stuart, CEO) Address of donor: 1 Centenary Square, Birmingham B1 1HQ Amount of donation or nature and value if donation in kind: A pair of tickets with hospitality for HSBC Queens tennis, value £1,236 Date received: 22 June 2025 Date accepted: 22 June 2025 Donor status: company, registration 9928412 (Registered 26 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12969,
+            "text": "Name of donor: LTA Ltd Address of donor: The National Tennis Centre, 100 Priory Lane, Roehampton, London, SW15 5JQ Amount of donation or nature and value if donation in kind: Two tickets and hospitality at Wimbledon Tennis Championships, value £1,316 Date received: 8 July 2025 Date accepted: 8 July 2025 Donor status: company, registration 07459469 (Registered 22 July 2025)",
+            "createdWhen": "2025-08-05",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15266,
+            "text": "Name of donor: Lloyds Banking Group (Charlie Nunn, Group Chief Executive) Address of donor: 8th floor, 33 Old Broad St, London EC2N 1HZ Amount of donation or nature and value if donation in kind: Two tickets and hospitality (dinner and champagne reception) for the Chelsea Flower show, value £919.50 Date received: 18 May 2026 Date accepted: 18 May 2026 Donor status: company, registration SC095000 (Registered 19 May 2026)",
+            "createdWhen": "2026-06-03",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 14003,
+            "text": "Name of donor: Gibraltar Tourist Board Address of donor: Eurosuites, 3rd floor, Block4, Eurotowers, Europort Rd, Gibraltar Estimate of the probable value (or amount of any donation): Flights, UK airport transfers, hotel for myself and my wife and a speaking fee, value £1,590.44 Destination of visit: Gibraltar Dates of visit: 15 November 2025 to 16 November 2025 Purpose of visit: Attendance at a literary festival (Registered 27 November 2025)",
+            "createdWhen": "2025-12-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14942,
+            "text": "Name of donor: US Patient Safety Movement Foundation Address of donor: 15642 Sand Canyon Ave #51268, Irvine, CA 92619 US Estimate of the probable value (or amount of any donation): Return flights (£5266.79) and hotel for two nights (£582.55), value £5,849.55 Destination of visit: United States Dates of visit: 26 February 2026 to 29 March 2026 Purpose of visit: Attendance at 12th Annual World Safety, Science & Technology Summit in Los Angeles (Registered 7 April 2026)",
+            "createdWhen": "2026-04-14",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+        "items": [
+          {
+            "id": 2849,
+            "text": "Type of land/property: Residential property (holiday house) Number of properties: 1 Location: no location provided, Italy Ownership details: half share Rental income: Yes",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 2850,
+            "text": "Type of land/property: Commercial property (office building) Number of properties: 1 Location: London Ownership details: half share Rental income: Yes (Updated 3 September 2018)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 2851,
+            "text": "Type of land/property: Residential property (apartments) Number of properties: 7 Location: Southampton Interest held: from 7 February 2018 Ownership details: owned by Mare Pond Properties Ltd Rental income: from 7 February 2018 (Registered 7 March 2018)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": "7. (i) Shareholdings: over 15% of issued share capital",
+        "items": [
+          {
+            "id": 2489,
+            "text": "Name of company or organisation: Mare Pond Properties Ltd Nature of business: A property holding company Held jointly with or on behalf of: Owned jointly with my wife Interest held: from 19 September 2017 (Registered 7 March 2018)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 10649,
+            "text": "Name of company or organisation: Sussex Street Speaking and Publishing Limited Nature of business: Limited company that will receive income and incur expenses related to my writing and speaking engagements. Held jointly with or on behalf of: Jointly with my partner Interest held: from 29 July 2024 (Registered 6 September 2024)",
+            "createdWhen": "2025-09-19",
+            "amendedWhen": "2024-10-02",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 1987,
+            "text": "Portfolio of shares held in a blind trust. (Registered 29 October 2019)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12229,
+            "text": "Unpaid Director, Trustee and Chairman of Patient Safety Watch. These are unpaid roles. Date interest arose: 6 November 2024 (Registered 15 April 2025)",
+            "createdWhen": "2025-04-29",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15265,
+            "text": "Unpaid Deputy Chair of Patient Safety Movement Foundation Date interest arose: 6 May 2026 (Registered 21 May 2026; updated 17 June 2026)",
+            "createdWhen": "2026-06-30",
+            "amendedWhen": "2026-06-03",
+            "isCorrection": false
+          },
+          {
+            "id": 15267,
+            "text": "Global Patient Safety Leadership Council Member Date interest arose: 19 January 2026 (Registered 21 May 2026)",
+            "createdWhen": "2026-06-03",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "NHS: Cybersecurity",
+        "date": "2026-06-26",
+        "summary": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the long-term patient safety impact of the Synnovis ransomware attack on NHS trusts in south-east London.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13479"
+      },
+      {
+        "kind": "Written question",
+        "title": "Myanmar: Crimes against Humanity",
+        "date": "2026-06-01",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether her Department plans to refer the Arakan Army in Myanmar to international justice and accountability mechanisms, including via targeted financial sanctions, for poten",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5313"
+      },
+      {
+        "kind": "Written question",
+        "title": "Myanmar: Crimes against Humanity",
+        "date": "2026-06-01",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps her Department is taking to support the investigation of war crimes, crimes against humanity and other mass atrocity crimes and egregious violations of human right",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-01/5312"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

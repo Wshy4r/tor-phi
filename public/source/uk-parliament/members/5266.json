@@ -1,0 +1,878 @@
+{
+  "member": {
+    "id": "5266",
+    "slug": "mike-tapp",
+    "name": "Mike Tapp",
+    "sortName": "Tapp, Mike",
+    "fullTitle": "Mike Tapp MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Dover and Deal",
+    "house": "House of Commons",
+    "role": "MP for Dover and Deal",
+    "officialUrl": "https://members.parliament.uk/member/5266/contact",
+    "recordUrl": "/country/uk/parliament/mike-tapp/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5266/Thumbnail",
+    "currentMembership": {
+      "constituency": "Dover and Deal",
+      "constituencyId": 4017,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "mike.tapp.mp@parliament.uk"
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Mike Tapp is the Labour MP for Dover and Deal , and has been an MP continually since 4 July 2024. He currently holds the Government post of Parliamentary Under-Secretary (Home Office).",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/mike-tapp/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5266/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5266"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5266/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5266/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5266/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5266/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5266"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 10,
+    "latestQuestionDate": "2025-07-21",
+    "registeredInterestCount": 2
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/mike-tapp/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5266/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5266"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5266/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5266/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5266/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5266/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5266"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1825560,
+        "uin": "69595",
+        "heading": "Cybersecurity: Local Government",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many local authorities have been subject to ransomware attacks in the last 12 months; and how much has been spent on recovering public data from those attacks.",
+        "answerText": "MHCLG have supported local authorities to respond to two ransomware incidents in the last 12 months. Historically, MHCLG has not collected data on local authority ransomware related expenditure but maintains a clear opposition to ransom payments. This gov...",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Jim McMahon",
+        "dateTabled": "2025-07-21",
+        "dateForAnswer": "2025-09-01",
+        "dateAnswered": "2025-09-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-21/69595"
+      },
+      {
+        "id": 1804666,
+        "uin": "53760",
+        "heading": "Undocumented Migrants: Databases",
+        "questionText": "To ask the Secretary of State for the Home Department, which database systems are the people who have arrived via small boat crossing checked against for (a) criminal and (b) counter-terrorism information; and how long does it take on average for full che",
+        "answerText": "The Home Office checks all small boat arrivals against a range of secure systems. These include internal databases, law enforcement records, biometric verification platforms and immigration history systems. Biometrics and biographic details taken are chec...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2025-05-20",
+        "dateForAnswer": "2025-05-22",
+        "dateAnswered": "2025-06-05",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-20/53760"
+      },
+      {
+        "id": 1791831,
+        "uin": "43745",
+        "heading": "Heat Pumps: Dover and Deal",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has made an assessment of the potential merits of using disused mine shafts for clean energy creation using heat pump technology in Dover and Deal constituency.",
+        "answerText": "To achieve net zero at lowest cost, we must look at how to accelerate all low carbon technologies including geothermal. The mine water from coal mines shows good potential as a renewable source for heat networks. The government is therefore supporting min...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Miatta Fahnbulleh",
+        "dateTabled": "2025-04-02",
+        "dateForAnswer": "2025-04-07",
+        "dateAnswered": "2025-04-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-02/43745"
+      },
+      {
+        "id": 1791832,
+        "uin": "43746",
+        "heading": "Ferries: Charging Points",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if his Department will take steps to ensure the Port of Dover has sufficient energy supply to the Port to implement electric ferry charging points.",
+        "answerText": "The Government published the Maritime Decarbonisation Strategy on 25 March, which outlines domestic goals and commitments to decarbonise maritime transport, and a call for evidence on Net Zero Ports was launched to assess future energy demand at ports lik...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2025-04-02",
+        "dateForAnswer": "2025-04-07",
+        "dateAnswered": "2025-04-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-02/43746"
+      },
+      {
+        "id": 1791830,
+        "uin": "43744",
+        "heading": "Police: Fees and Charges",
+        "questionText": "To ask the Secretary of State for the Home Department, if she will make it her policy to prevent the police from charging victims of theft whose cars have been stolen for the cost of holding or releasing those vehicles.",
+        "answerText": "The Road Traffic Regulation Act 1984 (RTRA) empowers the police to remove vehicles that are dangerously, illegally, or obstructively parked, or broken down or abandoned, which includes vehicles abandoned after theft.Removals and storage entail a cost, whi...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dame Diana Johnson",
+        "dateTabled": "2025-04-02",
+        "dateForAnswer": "2025-04-07",
+        "dateAnswered": "2025-04-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-02/43744"
+      },
+      {
+        "id": 1791294,
+        "uin": "43328",
+        "heading": "West Bank: Terrorism",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential implications for his policies of (a) the level of terrorist activity in the West Bank and (b) Iran's support for terrorism in the",
+        "answerText": "The UK remains concerned by the threat of terrorism in the West Bank and strongly condemns all acts of terrorism. Stability in the West Bank is crucial to ensure any ceasefire in Gaza can last. All sides should work to ensure a lowering of tension in the ...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2025-04-01",
+        "dateForAnswer": "2025-04-03",
+        "dateAnswered": "2025-04-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-01/43328"
+      },
+      {
+        "id": 1784625,
+        "uin": "38322",
+        "heading": "Police: Fees and Charges",
+        "questionText": "To ask the Secretary of State for the Home Department, if she will make it her policy to prevent the police from charging people whose cars have been stolen for the cost of holding those vehicles for evidential purposes.",
+        "answerText": "Whilst the police are empowered to charge vehicle owners prescribed sums for the recovery, storage, and disposal of their vehicles, victims of theft are not charged storage costs whilst vehicles are undergoing forensics examinations or for the cost for fo...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dame Diana Johnson",
+        "dateTabled": "2025-03-13",
+        "dateForAnswer": "2025-03-17",
+        "dateAnswered": "2025-03-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-03-13/38322"
+      },
+      {
+        "id": 1745739,
+        "uin": "17039",
+        "heading": "Asylum: Hotels",
+        "questionText": "To ask the Secretary of State for the Home Department, what was the maximum daily spend on hotel accommodation for asylum-seekers between July (a) 2021 and (b) 2024; and in which (i) month and (ii) year that maximum spend was reached.",
+        "answerText": "The Home Office does not publish data on daily numbers or cost of hotels in use as costs are subject to change depending on numbers being accommodated within the asylum system. However, the total expenditure on asylum is published in the Home Office Annua...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2024-11-29",
+        "dateForAnswer": "2024-12-03",
+        "dateAnswered": "2024-12-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-11-29/17039"
+      },
+      {
+        "id": 1743601,
+        "uin": "15602",
+        "heading": "Foreign Relations: Turkey",
+        "questionText": "To ask the Secretary of State for the Home Department, whether she has had discussions with her Turkish counterpart on a cooperation and security agreement; and whether she plans to hold such discussions before the end of the year.",
+        "answerText": "The Home Office continues to work closely with a wide range of agencies and governments around the world to pursue our shared objectives to tackle organised immigration crime. However, I can advise the Honourable Member that media reports suggesting that ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2024-11-21",
+        "dateForAnswer": "2024-11-25",
+        "dateAnswered": "2024-11-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-11-21/15602"
+      },
+      {
+        "id": 1735429,
+        "uin": "10012",
+        "heading": "Iran: Hamas and Hezbollah",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent steps his Department has taken to help disrupt Iran’s support for (a) Hamas, (b) Hezbollah and (c) the Houthis.",
+        "answerText": "The Foreign Secretary and Prime Minister made clear to their Iranian counterparts that Iran must cease its support for its proxies and partners during recent calls. We will continue to work alongside international partners to hold Iran to account for its ...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Hamish Falconer",
+        "dateTabled": "2024-10-18",
+        "dateForAnswer": "2024-10-22",
+        "dateAnswered": "2024-10-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-10-18/10012"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 9,
+        "No": 16
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2366,
+          "number": 16,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 94,
+          "noCount": 297,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2366"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 8,
+        "category": "7. (i) Shareholdings: over 15% of issued share capital",
+        "items": [
+          {
+            "id": 7611,
+            "text": "Name of company or organisation: Monki Dog Care Nature of business: Dog Day Care service Held jointly with or on behalf of: Wife (Registered 26 July 2024)",
+            "createdWhen": "2025-07-30",
+            "amendedWhen": "2024-08-16",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 7614,
+            "text": "Director of Monki Dog Care Ltd. (Registered 26 July 2024)",
+            "createdWhen": "2024-08-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Cybersecurity: Local Government",
+        "date": "2025-07-21",
+        "summary": "To ask the Secretary of State for Housing, Communities and Local Government, how many local authorities have been subject to ransomware attacks in the last 12 months; and how much has been spent on recovering public data from those attacks.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-07-21/69595"
+      },
+      {
+        "kind": "Written question",
+        "title": "Undocumented Migrants: Databases",
+        "date": "2025-05-20",
+        "summary": "To ask the Secretary of State for the Home Department, which database systems are the people who have arrived via small boat crossing checked against for (a) criminal and (b) counter-terrorism information; and how long does it take on average for full che",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-20/53760"
+      },
+      {
+        "kind": "Written question",
+        "title": "Heat Pumps: Dover and Deal",
+        "date": "2025-04-02",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has made an assessment of the potential merits of using disused mine shafts for clean energy creation using heat pump technology in Dover and Deal constituency.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-02/43745"
+      },
+      {
+        "kind": "Written question",
+        "title": "Ferries: Charging Points",
+        "date": "2025-04-02",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, if his Department will take steps to ensure the Port of Dover has sufficient energy supply to the Port to implement electric ferry charging points.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-02/43746"
+      },
+      {
+        "kind": "Written question",
+        "title": "West Bank: Terrorism",
+        "date": "2025-04-01",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential implications for his policies of (a) the level of terrorist activity in the West Bank and (b) Iran's support for terrorism in the",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-04-01/43328"
+      },
+      {
+        "kind": "Written question",
+        "title": "Asylum: Hotels",
+        "date": "2024-11-29",
+        "summary": "To ask the Secretary of State for the Home Department, what was the maximum daily spend on hotel accommodation for asylum-seekers between July (a) 2021 and (b) 2024; and in which (i) month and (ii) year that maximum spend was reached.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-11-29/17039"
+      },
+      {
+        "kind": "Written question",
+        "title": "Foreign Relations: Turkey",
+        "date": "2024-11-21",
+        "summary": "To ask the Secretary of State for the Home Department, whether she has had discussions with her Turkish counterpart on a cooperation and security agreement; and whether she plans to hold such discussions before the end of the year.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-11-21/15602"
+      },
+      {
+        "kind": "Written question",
+        "title": "Iran: Hamas and Hezbollah",
+        "date": "2024-10-18",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent steps his Department has taken to help disrupt Iran’s support for (a) Hamas, (b) Hezbollah and (c) the Houthis.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-10-18/10012"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

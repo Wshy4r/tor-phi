@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.DS_Store
+data/*.db
+data/*.db-*
+data/*.sqlite
+data/github-social-sync*.log
+data/torphi-social-query-ids.json
+data/x-account-discovery-cache.json
+scripts/__pycache__/
+Social Analyzer/backend/config.json
+Social Analyzer/backend/*.db
+Social Analyzer/backend/*.db-*
+Social Analyzer/backend/.query_ids_cache.json
+Social Analyzer/backend/__pycache__/
+Social Analyzer/backend/venv/
+Social Analyzer/backend/.fb_browser_profile/
+Social Analyzer/backend/fb_media/
+Social Analyzer/.claude/
+Social Analyzer/twitter-analyzer-firefox.zip

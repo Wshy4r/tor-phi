@@ -1,0 +1,1143 @@
+{
+  "member": {
+    "id": "4018",
+    "slug": "helen-grant",
+    "name": "Helen Grant",
+    "sortName": "Grant, Helen",
+    "fullTitle": "Helen Grant MP",
+    "party": "Conservative",
+    "partyAbbreviation": "Con",
+    "partyColor": "#0063ba",
+    "constituency": "Maidstone and Malling",
+    "house": "House of Commons",
+    "role": "MP for Maidstone and Malling",
+    "officialUrl": "https://members.parliament.uk/member/4018/contact",
+    "recordUrl": "/country/uk/parliament/helen-grant/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4018/Thumbnail",
+    "currentMembership": {
+      "constituency": "Maidstone and Malling",
+      "constituencyId": 4164,
+      "startDate": "2010-05-06",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "helen.grant.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 7107"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "First Floor, 109 Week Street, Maidstone, Kent, ME14 1RB",
+        "http://www.helengrant.org/",
+        "https://twitter.com/HelenGrantMP"
+      ],
+      "websites": [
+        "http://www.helengrant.org/"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/HelenGrantMP"
+        ]
+      ]
+    },
+    "synopsis": "Helen Grant is the Conservative MP for Maidstone and Malling , and has been an MP continually since 6 May 2010. She currently undertakes the role of Shadow Solicitor General.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/helen-grant/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4018/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4018"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4018/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4018/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4018/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4018/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4018"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-07",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-29",
+    "registeredInterestCount": 14
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/helen-grant/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4018/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4018"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4018/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4018/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4018/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4018/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4018"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1921569,
+        "uin": "13789",
+        "heading": "Midwives: Recruitment",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of the availability of employment opportunities for newly qualified midwives; and what steps he is taking to ensure that qualified healthcare professiona",
+        "answerText": "We recognise the difficulties newly qualified midwives are experiencing when they are seeking employment in the National Health Service. We are investing £10.6 million to fund an additional 1,000 temporary roles to help newly qualified midwives join the N...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Karin Smyth",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/13789"
+      },
+      {
+        "id": 1894481,
+        "uin": "123167",
+        "heading": "British Transport Police: Finance",
+        "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the future funding arrangements for the British Transport Police in the context of rail nationalisation; and whether responsibility for its funding will transfer to central Gover",
+        "answerText": "The British Transport Police’s (BTP) budget is set annually by the British Transport Police Authority (BTPA), following proposals from the Force and views from industry. BTP's costs are passed on to individual Train Operating Companies, Network Rail, and ...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-03-24",
+        "dateForAnswer": "2026-03-26",
+        "dateAnswered": "2026-03-31",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-24/123167"
+      },
+      {
+        "id": 1894483,
+        "uin": "123169",
+        "heading": "Railways: Passengers",
+        "questionText": "To ask the Secretary of State for Transport, whether her Department will produce a specific passenger focused plan on train travel post rail-reform as recommended by the Public Accounts Committee.",
+        "answerText": "The Public Accounts Committee recommendation referred to the draft legislation of the previous Government. This Government has been clear it is committed to a relentless focus on passengers, as set out for example in the response to the consultation on th...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-03-24",
+        "dateForAnswer": "2026-03-26",
+        "dateAnswered": "2026-03-31",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-24/123169"
+      },
+      {
+        "id": 1894482,
+        "uin": "123168",
+        "heading": "Railways: Safety",
+        "questionText": "To ask the Secretary of State for Transport, whether an impact assessment regarding safety on trains following Royal Assent of the Passenger Railway Services (Public Ownership Bill) has been undertaken.",
+        "answerText": "The Department has not undertaken a specific impact assessment of the safety implications of the Passenger Railway Services (Public Ownership) Bill following Royal Assent, as the safety regime is not changing. However, the Government continues to monitor ...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-03-24",
+        "dateForAnswer": "2026-03-26",
+        "dateAnswered": "2026-03-31",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-24/123168"
+      },
+      {
+        "id": 1886821,
+        "uin": "117267",
+        "heading": "National Vehicle Crime Intelligence Service: Finance",
+        "questionText": "To ask the Secretary of State for the Home Department, what assessment has been made of the adequacy of levels of public resource available where constabularies act upon intelligence or referrals generated by industry-funded vehicle crime units.",
+        "answerText": "We fully recognise the serious and growing threat that freight crime poses to businesses, drivers, and the wider economy. The Government does not fund NaVCIS. Instead NaVCIS is funded by the industry, including finance and leasing companies, insurers and ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-03-03",
+        "dateForAnswer": "2026-03-05",
+        "dateAnswered": "2026-03-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-03/117267"
+      },
+      {
+        "id": 1886819,
+        "uin": "117266",
+        "heading": "Police: Finance",
+        "questionText": "To ask the Secretary of State for the Home Department, whether the Department intends to review transparency requirements for nationally operating police-associated units funded by private industry bodies.",
+        "answerText": "We fully recognise the serious and growing threat that freight crime poses to businesses, drivers, and the wider economy. The Government does not fund NaVCIS. Instead NaVCIS is funded by the industry, including finance and leasing companies, insurers and ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-03-03",
+        "dateForAnswer": "2026-03-05",
+        "dateAnswered": "2026-03-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-03/117266"
+      },
+      {
+        "id": 1886817,
+        "uin": "117265",
+        "heading": "National Vehicle Crime Intelligence Service: Finance",
+        "questionText": "To ask the Secretary of State for the Home Department, what safeguards are in place to ensure that outcome-linked funding arrangements do not give rise to perceived conflicts of interest in operational decision-making.",
+        "answerText": "We fully recognise the serious and growing threat that freight crime poses to businesses, drivers, and the wider economy. The Government does not fund NaVCIS. Instead NaVCIS is funded by the industry, including finance and leasing companies, insurers and ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-03-03",
+        "dateForAnswer": "2026-03-05",
+        "dateAnswered": "2026-03-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-03/117265"
+      },
+      {
+        "id": 1886813,
+        "uin": "117263",
+        "heading": "National Vehicle Crime Intelligence Service",
+        "questionText": "To ask the Secretary of State for the Home Department, what assessment has been made of the adequacy of the governance arrangements applying to the National Vehicle Crime Intelligence Service (NaVCIS), including its industry funding model.",
+        "answerText": "We fully recognise the serious and growing threat that freight crime poses to businesses, drivers, and the wider economy.The Government does not fund NaVCIS. Instead NaVCIS is funded by the industry, including finance and leasing companies, insurers and h...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-03-03",
+        "dateForAnswer": "2026-03-05",
+        "dateAnswered": "2026-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-03/117263"
+      },
+      {
+        "id": 1886816,
+        "uin": "117264",
+        "heading": "National Vehicle Crime Intelligence Service: Finance",
+        "questionText": "To ask the Secretary of State for the Home Department, whether Ministers have received information regarding funding arrangements for both fixed contributions and payments calculated by reference to the value of vehicles recovered.",
+        "answerText": "Vehicle recovery Statutory fees are prescribed in secondary legislation under road traffic vehicle recovery powers.The statutory framework provides for both fixed charges and variable payments that reflect the size, condition and recovery requirements of ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-03-03",
+        "dateForAnswer": "2026-03-05",
+        "dateAnswered": "2026-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-03/117264"
+      },
+      {
+        "id": 1880734,
+        "uin": "112592",
+        "heading": "Extracurricular Activities: Vetting",
+        "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential implications for her policies of barriers to adopting a unified national safeguarding framework for extracurricular activities involving children; and if she will m",
+        "answerText": "This government is committed to safeguarding children and protecting them from harm across all extracurricular activities.These activities often take place within out-of-school settings, however, some are run directly by schools and, if so, the schools’ e...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-02-11",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112592"
+      },
+      {
+        "id": 1880733,
+        "uin": "112591",
+        "heading": "Extracurricular Activities: Vetting",
+        "questionText": "To ask the Secretary of State for Education, how her Department assesses the effectiveness of safeguarding arrangements for extracurricular activities involving children, including voluntary compliance, self-regulation, and non-statutory guidance.",
+        "answerText": "This government is committed to safeguarding children and protecting them from harm across all extracurricular activities.These activities often take place within out-of-school settings, however, some are run directly by schools and, if so, the schools’ e...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-02-11",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112591"
+      },
+      {
+        "id": 1880732,
+        "uin": "112590",
+        "heading": "Extracurricular Activities: Vetting",
+        "questionText": "To ask the Secretary of State for Education, if she will make an assessment of the potential implications for her policies of evidence from public inquiries, serious case reviews and independent safeguarding reports on risks associated with unregulated ex",
+        "answerText": "This government is committed to safeguarding children and protecting them from harm across all extracurricular activities.These activities often take place within out-of-school settings, however, some are run directly by schools and, if so, the schools’ e...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-02-11",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112590"
+      },
+      {
+        "id": 1880731,
+        "uin": "112589",
+        "heading": "Extracurricular Activities: Vetting",
+        "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the potential merits of introducing mandatory safeguarding requirements for extracurricular activities involving children in England.",
+        "answerText": "This government is committed to safeguarding children and protecting them from harm across all extracurricular activities.These activities often take place within out-of-school settings, however, some are run directly by schools and, if so, the schools’ e...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-02-11",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-02-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112589"
+      },
+      {
+        "id": 1877569,
+        "uin": "109991",
+        "heading": "Higher Education: Liability",
+        "questionText": "To ask the Secretary of State for Education, whether she intends to publish statutory guidance or a code of practice setting out the duty of care owed by higher education providers to their students.",
+        "answerText": "Universities are already required to comply with their duties under the common law and legislation such as the Equality Act 2010, which includes an anticipatory duty to make reasonable adjustments for disabled students, including those with mental health ...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-02-02",
+        "dateForAnswer": "2026-02-04",
+        "dateAnswered": "2026-02-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-02/109991"
+      },
+      {
+        "id": 1876739,
+        "uin": "109529",
+        "heading": "Product Security and Telecommunications Infrastructure Act 2022",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what her planned timetable is for the implementation of (a) Sections 61 to 64 and (b) Section 70 of the Product Security and Telecommunications Infrastructure Act 2022; and whether her",
+        "answerText": "Government remains committed to implementing the remaining provisions of the Product Security and Telecommunications Infrastructure Act 2022 as soon as possible. Sections 61-64 of the Act will commence on 7 April 2026. My Department is considering options...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-01-29",
+        "dateForAnswer": "2026-02-02",
+        "dateAnswered": "2026-02-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-29/109529"
+      },
+      {
+        "id": 1876738,
+        "uin": "109528",
+        "heading": "Product Security and Telecommunications Infrastructure Act 2022",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment her Department has made of the potential merits of commencing Section 70 of the Product Security and Telecommunications Infrastructure Act 2022.",
+        "answerText": "Government remains committed to implementing the remaining provisions of the Product Security and Telecommunications Infrastructure Act 2022 as soon as possible. Sections 61-64 of the Act will commence on 7 April 2026. My Department is considering options...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-01-29",
+        "dateForAnswer": "2026-02-02",
+        "dateAnswered": "2026-02-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-29/109528"
+      },
+      {
+        "id": 1876737,
+        "uin": "109527",
+        "heading": "Product Security and Telecommunications Infrastructure Act 2022",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, when she plans to bring section 70 of the Product Security and Telecommunications Infrastructure Act 2022 into force.",
+        "answerText": "Government remains committed to implementing the remaining provisions of the Product Security and Telecommunications Infrastructure Act 2022 as soon as possible. Sections 61-64 of the Act will commence on 7 April 2026. My Department is considering options...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-01-29",
+        "dateForAnswer": "2026-02-02",
+        "dateAnswered": "2026-02-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-29/109527"
+      },
+      {
+        "id": 1871691,
+        "uin": "105675",
+        "heading": "NHS: Hearing Impairment and Visual Impairment",
+        "questionText": "To ask the Secretary of State for Health and Social Care, which recommendations of the Government’s British Sign Language Advisory Board he will implement to ensure the NHS is accessible to deaf and blind people.",
+        "answerText": "Under the Equality Act 2010, health and care organisations have a legal duty to make changes in their approach and provision to ensure that services are as accessible to disabled people as they are for everybody else.All National Health Service organisati...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Dr Zubir Ahmed",
+        "dateTabled": "2026-01-14",
+        "dateForAnswer": "2026-01-19",
+        "dateAnswered": "2026-01-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-14/105675"
+      },
+      {
+        "id": 1862210,
+        "uin": "98400",
+        "heading": "Rare Diseases: Gene Therapies",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to (a) support the development of treatments for Huntington's disease and (b) improve the ability of the NHS to deliver new gene therapies for people living with",
+        "answerText": "We recognise the significant challenges faced by those living with rare diseases such as Huntington’s Disease. The Department supports research into Huntington’s disease through the National Institute for Health and Care Research (NIHR). NIHR infrastructu...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Dr Zubir Ahmed",
+        "dateTabled": "2025-12-09",
+        "dateForAnswer": "2025-12-11",
+        "dateAnswered": "2025-12-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-09/98400"
+      },
+      {
+        "id": 1850976,
+        "uin": "89413",
+        "heading": "Road Works: Working Hours",
+        "questionText": "To ask the Secretary of State for Transport, what steps she is taking to support local councils in dealing with emergency road closures by utilities companies; and whether she plans to allow highways authorities to extend working hours in such situations.",
+        "answerText": "The Government recognises the importance of ensuring that emergency street works by utilities companies are managed efficiently and with minimal disruption to local communities. Highway authorities already have effective powers under the current legislati...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2025-11-11",
+        "dateForAnswer": "2025-11-13",
+        "dateAnswered": "2025-11-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-11-11/89413"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-07",
+      "totals": {
+        "Aye": 18,
+        "No": 7
+      },
+      "recent": [
+        {
+          "id": 2401,
+          "number": 50,
+          "date": "2026-07-07",
+          "title": "Opposition Day: Early release of prisoners",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 115,
+          "noCount": 0,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2401"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2351,
+          "number": 1,
+          "date": "2026-05-19",
+          "title": "King's Speech Motion for an Address: amendment (i)",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2351"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 12,
+        "category": "1. Employment and earnings",
+        "items": [
+          {
+            "id": 15201,
+            "text": "Role, work or services: Campaign Board Chair From: 8 May 2026. Until: 31 March 2029. Payer: Archeva Limited (A global movement committed to reshaping how Africa is perceived and engaged with worldwide), 1-3 Cranmer Street, Long Eaton, Nottingham NG10 1NJ (Registered 11 May 2026)",
+            "createdWhen": "2026-05-19",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15202,
+            "text": "Remuneration: £2,500 a quarter The initial payment has been backdated to 1 April 2026 due to services rendered in good faith during the period of negotiation. From: 8 May 2026. Until: 31 March 2029. Hours: 35 hrs a quarter Based on a commitment of 15 to 20 days per annum. Paid directly to: Helen Grant Limited (Registered 11 May 2026)",
+            "createdWhen": "2026-05-19",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15222,
+            "text": "Role, work or services: School Governor From: 4 June 2026. Payer: Rugby School Nigeria (British curriculum day and boarding school), Atlantic City, Avenue 2, Victoria Island, Lagos 106104, Nigeria (Registered 23 June 2026)",
+            "createdWhen": "2026-06-30",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15223,
+            "text": "Remuneration: £4,000 a month The initial payment has been backdated to 1 March 2026 due to services rendered in good faith during the period of negotiation (the agreement was signed by the Payer on 04 June 2026) From: 4 June 2026. Hours: 21 hrs a month The working time requirement is between 2 and 4 days per month. Paid directly to: Helen Grant Limited (Registered 23 June 2026)",
+            "createdWhen": "2026-06-30",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 12789,
+            "text": "Name of donor: Lawn Tennis Association Ltd Address of donor: National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ Amount of donation or nature and value if donation in kind: Two tickets to attend the HSBC tennis tournament at The Queens Club, London, including hospitality, value £1,015.12 Date received: 22 June 2025 Date accepted: 22 June 2025 Donor status: company, registration 07459469 (Registered 3 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12788,
+            "text": "Name of donor: Lawn Tennis Association Limited Address of donor: National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ Amount of donation or nature and value if donation in kind: One ticket to attend the HSBC tennis tournament at The Queens Club as co-chair of the APPG for Tennis, value £399.47 Date received: 12 June 2025 Date accepted: 12 June 2025 Donor status: company, registration 07459469 (Registered 3 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12914,
+            "text": "Name of donor: Lawn Tennis Association Address of donor: National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ Amount of donation or nature and value if donation in kind: Two tickets to attend the Wimbledon Tennis Championships with hospitality, value £640 Date received: 4 July 2025 Date accepted: 4 July 2025 Donor status: company, registration 07459469 (Registered 16 July 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-08-05",
+            "isCorrection": false
+          },
+          {
+            "id": 15023,
+            "text": "Name of donor: Channel 4 Address of donor: 124 Horseferry Road, London SW1P 2TX Amount of donation or nature and value if donation in kind: Four tickets, for myself and three guests, to attend the University Boat Race on the river Thames including hospitality, value £1,396 Date received: 4 April 2026 Date accepted: 4 April 2026 Donor status: company, registration 01533774 (Registered 15 April 2026)",
+            "createdWhen": "2026-04-29",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15874,
+            "text": "Name of donor: LTA Operations Limited Address of donor: The National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ Amount of donation or nature and value if donation in kind: Two tickets, including hospitality, at the Men's singles tennis final at Queens Club in London, value £810 Date received: 21 June 2026 Date accepted: 21 June 2026 Donor status: company, registration 07475460 (Registered 25 June 2026)",
+            "createdWhen": "2026-06-30",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+        "items": [
+          {
+            "id": 2815,
+            "text": "Type of land/property: Commercial property (offices and storage) Number of properties: 1 Location: Croydon Ownership details: held in trust by James Hay Pension Trustees Ltd, on behalf of myself and my husband Rental income: from 1 April 2017 (Updated 7 September 2015 and 3 April 2017)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 2816,
+            "text": "Type of land/property: Residential property (property) Number of properties: 1 Location: Surrey Interest held: from 3 December 2020 Ownership details: owned jointly with my husband Rental income: from 3 December 2020 (Registered 26 August 2021)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": "7. (i) Shareholdings: over 15% of issued share capital",
+        "items": [
+          {
+            "id": 11877,
+            "text": "Name of company or organisation: Helen Grant Limited Nature of business: Community Action Project for women and girls in Africa manufacturing fashion garments. The company is dormant and has never traded. Held jointly with or on behalf of: Jointly with my husband. Interest held: from 6 January 2020 (Registered 26 February 2025)",
+            "createdWhen": "2026-02-26",
+            "amendedWhen": "2025-03-11",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 11878,
+            "text": "Unpaid Director of Helen Grant Limited, a Company set up as a community action project for women and girls in Africa manufacturing fashion garments. The company is dormant and has never traded. Date interest arose: 6 January 2020 (Registered 26 February 2025)",
+            "createdWhen": "2025-03-11",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": "9. Family members employed and paid from parliamentary expenses",
+        "items": [
+          {
+            "id": 2707,
+            "text": "Name: Simon Grant Relationship: Spouse Role: Senior Parliamentary Assistant Working pattern: Full time Additional information: I also employ my husband, Simon Grant, as Office Manager. (Updated 18 November 2021)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Product Security and Telecommunications Infrastructure Act 2022",
+        "date": "2026-01-29",
+        "summary": "To ask the Secretary of State for Science, Innovation and Technology, what her planned timetable is for the implementation of (a) Sections 61 to 64 and (b) Section 70 of the Product Security and Telecommunications Infrastructure Act 2022; and whether her",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-29/109529"
+      },
+      {
+        "kind": "Written question",
+        "title": "Product Security and Telecommunications Infrastructure Act 2022",
+        "date": "2026-01-29",
+        "summary": "To ask the Secretary of State for Science, Innovation and Technology, what assessment her Department has made of the potential merits of commencing Section 70 of the Product Security and Telecommunications Infrastructure Act 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-29/109528"
+      },
+      {
+        "kind": "Written question",
+        "title": "Product Security and Telecommunications Infrastructure Act 2022",
+        "date": "2026-01-29",
+        "summary": "To ask the Secretary of State for Science, Innovation and Technology, when she plans to bring section 70 of the Product Security and Telecommunications Infrastructure Act 2022 into force.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-29/109527"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

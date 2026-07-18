@@ -1,0 +1,926 @@
+{
+  "member": {
+    "id": "5123",
+    "slug": "ms-polly-billington",
+    "name": "Ms Polly Billington",
+    "sortName": "Billington, Ms Polly",
+    "fullTitle": "Ms Polly Billington MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "East Thanet",
+    "house": "House of Commons",
+    "role": "MP for East Thanet",
+    "officialUrl": "https://members.parliament.uk/member/5123/contact",
+    "recordUrl": "/country/uk/parliament/ms-polly-billington/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5123/Thumbnail",
+    "currentMembership": {
+      "constituency": "East Thanet",
+      "constituencyId": 4031,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "polly.billington.mp@parliament.uk"
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Ms Polly Billington is the Labour MP for East Thanet , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/ms-polly-billington/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5123/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5123"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5123/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5123/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5123/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5123/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5123"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-04-10",
+    "registeredInterestCount": 2
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/ms-polly-billington/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5123/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5123"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5123/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5123/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5123/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5123/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5123"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1897985,
+        "uin": "125931",
+        "heading": "DNACPR Decisions",
+        "questionText": "To ask the Secretary of State for Health and Social Care, if he will make an assessment of the potential merits of amending Do not attempt cardiopulmonary resuscitation forms to include a confirmation of consultation field that must be signed by the patie",
+        "answerText": "No assessment of the potential merits of amending Do not attempt cardiopulmonary resuscitation (DNACPR) forms to include a confirmation of consultation field that must be signed by the patient or family has been undertaken.When a DNACPR decision is being ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Dr Zubir Ahmed",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-20",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/125931"
+      },
+      {
+        "id": 1897984,
+        "uin": "125930",
+        "heading": "DNACPR Decisions: Learning Disability",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether he has made an assessment of the potential merits of conducting a national audit of Do not attempt cardiopulmonary resuscitation orders for patients with learning disabilities.",
+        "answerText": "The Government is clear that the inappropriate or blanket use of Do not attempt cardiopulmonary resuscitation (DNACPR) decisions is wholly unacceptable, and that no one should have a DNACPR decision in place simply because they have a learning disability....",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Dr Zubir Ahmed",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-20",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/125930"
+      },
+      {
+        "id": 1890191,
+        "uin": "120128",
+        "heading": "Non-crime Hate Incidents",
+        "questionText": "To ask the Secretary of State for the Home Department, when her Department plans to publish the report on the College of Policing and National Police Chiefs’ Council review and recommendations on Non-Crime Hate Incidents.",
+        "answerText": "The final report of the College of Policing and the National Police Chiefs’ Council Review of Non-Crime Hate Incidents is expected to be published in the coming weeks.The Government will set out its response to the Review’s recommendations at that time.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-03-11",
+        "dateForAnswer": "2026-03-23",
+        "dateAnswered": "2026-03-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-11/120128"
+      },
+      {
+        "id": 1884866,
+        "uin": "115874",
+        "heading": "Electrical Substations and Renewable Energy: Development Consent Orders",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what discussion he has had with National Grid Electricity Transmission on the siting of new substations and the consenting process for renewable projects under the Development Consent Order r",
+        "answerText": "The Secretary of State has not held discussions with National Grid Electricity Transmission on the siting of new substations or the consenting process of renewable projects. In his quasi-judicial role in determining Nationally Significant Infrastructure P...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-02-25",
+        "dateForAnswer": "2026-03-09",
+        "dateAnswered": "2026-03-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-25/115874"
+      },
+      {
+        "id": 1884564,
+        "uin": "115573",
+        "heading": "Batteries and Data Centres",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department made of the potential merits of delaying connection offers for some protected battery projects and data centres to allow NESO and DESNZ to undertake other key a",
+        "answerText": "NESO’s connections reforms have reduced the queue for generation and storage connections by over half, with the queue now largely in line with the capacity ranges set out in the Clean Power 2030 Action Plan. We are aware that the volume of batteries in th...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-02-24",
+        "dateForAnswer": "2026-03-09",
+        "dateAnswered": "2026-03-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-24/115573"
+      },
+      {
+        "id": 1862739,
+        "uin": "98910",
+        "heading": "Energy: Standing Charges",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what discussions he has had with Ofgem about the balance between standing charges and unit rates for farmer and grower businesses.",
+        "answerText": "My Rt. Hon. Friend the Secretary of State has regular discussions with Ofgem on a range of issues. Standing charges predominantly recover fixed costs that do not vary by energy use. This includes supplier’s operational costs and the cost of essential netw...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Martin McCluskey",
+        "dateTabled": "2025-12-10",
+        "dateForAnswer": "2025-12-17",
+        "dateAnswered": "2025-12-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-10/98910"
+      },
+      {
+        "id": 1838948,
+        "uin": "79995",
+        "heading": "Israel: Palestine",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has had recent discussions with her Israeli counterpart on ending the detention of Palestinian children in Israeli prisons.",
+        "answerText": "I refer the Hon Member to the answer of 16 September to Question 76963.",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2025-10-10",
+        "dateForAnswer": "2025-10-20",
+        "dateAnswered": "2025-10-21",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-10-10/79995"
+      },
+      {
+        "id": 1838949,
+        "uin": "79996",
+        "heading": "Blood Cancer: Diagnosis",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to help increase early diagnosis for blood cancer.",
+        "answerText": "The Department continues to support the National Health Service to diagnose and treat cancer, including blood cancers, as early and fast as possible.To increase early diagnosis of blood cancer, the NHS has implemented non-specific symptom (NSS) pathways f...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Ashley Dalton",
+        "dateTabled": "2025-10-10",
+        "dateForAnswer": "2025-10-20",
+        "dateAnswered": "2025-10-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-10-10/79996"
+      },
+      {
+        "id": 1817196,
+        "uin": "63177",
+        "heading": "Nature Conservation: Job Creation",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether his Department has made an estimate of the potential number of jobs that can be created from nature restoration projects.",
+        "answerText": "The Government is committed to supporting job creation through nature restoration initiatives. In our policy-making process, we carefully consider a range of factors, including the potential for economic growth and employment. Our Nature for Climate Fund—...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2025-06-26",
+        "dateForAnswer": "2025-06-30",
+        "dateAnswered": "2025-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-26/63177"
+      },
+      {
+        "id": 1817197,
+        "uin": "63178",
+        "heading": "Nature Conservation and Ecology: Technical Excellence Colleges",
+        "questionText": "To ask the Secretary of State for Education, whether her Department plans to include skills training for nature restoration and ecological programmes as part of the new Technical Excellence Colleges.",
+        "answerText": "The department is introducing Technical Excellence Colleges (TECs) to specialise in training skilled workforces which industry needs in priority sectors. This starts with the launch of ten construction TECs from September 2025. This will be followed by th...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Janet Daby",
+        "dateTabled": "2025-06-26",
+        "dateForAnswer": "2025-06-30",
+        "dateAnswered": "2025-07-04",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-26/63178"
+      },
+      {
+        "id": 1816594,
+        "uin": "62869",
+        "heading": "Art and Design: Education",
+        "questionText": "To ask the Secretary of State for Education, whether her Department has made an assessment of the potential impact of art and design education on outcomes for students with SEND.",
+        "answerText": "The government established an independent Curriculum and Assessment Review in July 2024, covering ages 5 to 18. The Review seeks to deliver a rich, broad, inclusive and innovative curriculum that readies young people for life and work, including in arts s...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Catherine McKinnell",
+        "dateTabled": "2025-06-25",
+        "dateForAnswer": "2025-07-02",
+        "dateAnswered": "2025-07-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-25/62869"
+      },
+      {
+        "id": 1816593,
+        "uin": "62868",
+        "heading": "Learning Disability: Primary Care",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether the Learning Disability annual health check has been removed as a national target for primary care in the 2025-26 NHS plan.",
+        "answerText": "The national target to complete annual health checks for 75% of people with a learning disability is not included in the 2025/26 NHS Planning Guidance. Most recent data from 2023/24 shows 79.6% of checks were delivered, surpassing the previous 75% Nationa...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2025-06-25",
+        "dateForAnswer": "2025-07-02",
+        "dateAnswered": "2025-07-04",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-25/62868"
+      },
+      {
+        "id": 1816595,
+        "uin": "62870",
+        "heading": "Art and Design: Education",
+        "questionText": "To ask the Secretary of State for Education, whether her Department has made an assessment of the potential impact of art and design education on the school-readiness of children entering primary school.",
+        "answerText": "The government’s Plan for Change sets out the department’s ambition for a record proportion of children starting school ready to learn. We will measure progress through 75% of children at the end of reception reaching a good level of development in the ea...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2025-06-25",
+        "dateForAnswer": "2025-07-02",
+        "dateAnswered": "2025-07-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-25/62870"
+      },
+      {
+        "id": 1816596,
+        "uin": "62871",
+        "heading": "Arts: Curriculum",
+        "questionText": "To ask the Secretary of State for Education, whether the Enrichment Framework will (a) provide a minimum of 80 hours of enrichment across the academic year and (b) be in addition to curriculum time for arts subjects.",
+        "answerText": "The department, working closely with the Department for Culture, Media and Sport, has committed to publishing a new Enrichment Framework by the end of 2025. The framework is being developed alongside a working group consisting of experts from schools, you...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Catherine McKinnell",
+        "dateTabled": "2025-06-25",
+        "dateForAnswer": "2025-07-02",
+        "dateAnswered": "2025-07-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-25/62871"
+      },
+      {
+        "id": 1816597,
+        "uin": "62872",
+        "heading": "Land Use",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether his Department plans to include a strategic nature restoration programme within the Land Use Framework.",
+        "answerText": "The Government is analysing responses to the consultation on Land Use in England. The Consultation focused on the need for a strategic spatial approach to nature restoration, emissions reduction, new homes, and infrastructure. Responses to the consultatio...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Mary Creagh",
+        "dateTabled": "2025-06-25",
+        "dateForAnswer": "2025-07-02",
+        "dateAnswered": "2025-07-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-25/62872"
+      },
+      {
+        "id": 1815564,
+        "uin": "62051",
+        "heading": "Israel: Military Aid",
+        "questionText": "To ask the Secretary of State for Defence, pursuant to the Answer of 11 June 2025 to Question 56822 on Israel: Military Aid, how many Israel Defense Forces personnel have been trained by the UK armed forces in the last 12 months.",
+        "answerText": "The UK has a long history of providing assistance to other nations in the security and justice fields and continues to do so around the world. Fewer than ten IDF personnel have been trained in non-combat military courses in the UK in the last 12 months. T...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2025-06-23",
+        "dateForAnswer": "2025-06-26",
+        "dateAnswered": "2025-06-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-23/62051"
+      },
+      {
+        "id": 1808803,
+        "uin": "56996",
+        "heading": "Social Security Benefits: East Thanet",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many households who are receiving the maximum permitted benefits under the benefit cap have one or more children with a disability in East Thanet constituency.",
+        "answerText": "Households receiving disability benefits are exempt from the benefit cap. Households are exempt from the benefit cap if somebody in the household is receiving, for example, Disability Living Allowance or Personal Independence Payment. Universal Credit cus...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2025-06-03",
+        "dateForAnswer": "2025-06-09",
+        "dateAnswered": "2025-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-03/56996"
+      },
+      {
+        "id": 1808802,
+        "uin": "56995",
+        "heading": "Social Security Benefits: East Thanet",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many households who are receiving the maximum permitted benefits under the benefit cap have one or more adults with a disability in East Thanet constituency.",
+        "answerText": "Households receiving disability benefits are exempt from the benefit cap. Households are exempt from the benefit cap if somebody in the household is receiving, for example, Disability Living Allowance or Personal Independence Payment. Universal Credit cus...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2025-06-03",
+        "dateForAnswer": "2025-06-09",
+        "dateAnswered": "2025-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-03/56995"
+      },
+      {
+        "id": 1808801,
+        "uin": "56994",
+        "heading": "Social Security Benefits: East Thanet",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many households who are receiving the maximum permitted benefits under the benefit cap have three or more children in East Thanet constituency.",
+        "answerText": "Official Statistics on the number of households in Great Britain on Housing Benefit or Universal Credit who are affected by the benefit cap are published quarterly on Stat-Xplore and are currently available up to November 2024. These statistics include th...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2025-06-03",
+        "dateForAnswer": "2025-06-09",
+        "dateAnswered": "2025-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-03/56994"
+      },
+      {
+        "id": 1808800,
+        "uin": "56993",
+        "heading": "Social Security Benefits: East Thanet",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many people receive the maximum amount of permissible benefits under benefit caps in East Thanet constituency.",
+        "answerText": "Official Statistics on the number of households in Great Britain on Housing Benefit or Universal Credit who are affected by the benefit cap are published quarterly on Stat-Xplore and are currently available up to November 2024. These statistics include th...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2025-06-03",
+        "dateForAnswer": "2025-06-09",
+        "dateAnswered": "2025-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-03/56993"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 9,
+        "No": 16
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2356,
+          "number": 6,
+          "date": "2026-05-21",
+          "title": "Steel Industry (Nationalisation) Bill: Reasoned Amendment to Second Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 68,
+          "noCount": 242,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2356"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        },
+        {
+          "id": 2354,
+          "number": 4,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (p)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 316,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2354"
+        },
+        {
+          "id": 2353,
+          "number": 3,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (l)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 78,
+          "noCount": 408,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2353"
+        },
+        {
+          "id": 2352,
+          "number": 2,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (o)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2352"
+        },
+        {
+          "id": 2351,
+          "number": 1,
+          "date": "2026-05-19",
+          "title": "King's Speech Motion for an Address: amendment (i)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2351"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        },
+        {
+          "id": 2348,
+          "number": 513,
+          "date": "2026-04-28",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendments 15 to 24, 27, 30 to 34, 36, 38 to 42, 83 and 88, insist on Amendments 88C, 88E to 88P, 88R, 88S and 88W, and propose Amendments (a) to (j) in lieu of Amendments 88A, 88T, 88U and 88V",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2348"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2350,
+          "number": 515,
+          "date": "2026-04-28",
+          "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 304,
+          "noCount": 28,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+        },
+        {
+          "id": 2349,
+          "number": 514,
+          "date": "2026-04-28",
+          "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 308,
+          "noCount": 81,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 13884,
+            "text": "Name of donor: Parliamentary Renewable & Sustainable Energy Group (PRASEG) Secretariat for the APPG for Renewable & Sustainable Energy Address of donor: PRASEG, 10 Dean Farrar Street, London SW1H 0DX Estimate of the probable value (or amount of any donation): Accommodation, return flights and subsistence, value £808 Destination of visit: Denmark (Copenhagen) Dates of visit: 23 October 2025 to 24 October 2025 Purpose of visit: APPG visit to high-level meetings and site visits in Copenhagen cross-channel cooperation for decarbonising heat and energy. (Registered 14 November 2025)",
+            "createdWhen": "2025-11-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15379,
+            "text": "Name of donor: Yachad Address of donor: Star House, 104-108 Grafton Road, London NW5 4BA Estimate of the probable value (or amount of any donation): Flights, accommodation, hospitality, travel, value £2,169 Destination of visit: Israel and Palestine (Various including Ramallah and Hebron) Dates of visit: 24 May 2026 to 28 May 2026 Purpose of visit: To meet with a wide range of individuals, public officials and organisations, as well as to visit locations where violence has taken place, to understand the steps needed to achieve a resolution to the Israel-Palestine conflict and to adequately respond to the humanitarian situation in Gaza. (Registered 5 June 2026)",
+            "createdWhen": "2026-06-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Electrical Substations and Renewable Energy: Development Consent Orders",
+        "date": "2026-02-25",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what discussion he has had with National Grid Electricity Transmission on the siting of new substations and the consenting process for renewable projects under the Development Consent Order r",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-25/115874"
+      },
+      {
+        "kind": "Written question",
+        "title": "Batteries and Data Centres",
+        "date": "2026-02-24",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department made of the potential merits of delaying connection offers for some protected battery projects and data centres to allow NESO and DESNZ to undertake other key a",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-24/115573"
+      },
+      {
+        "kind": "Written question",
+        "title": "Energy: Standing Charges",
+        "date": "2025-12-10",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what discussions he has had with Ofgem about the balance between standing charges and unit rates for farmer and grower businesses.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-10/98910"
+      },
+      {
+        "kind": "Written question",
+        "title": "Israel: Palestine",
+        "date": "2025-10-10",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has had recent discussions with her Israeli counterpart on ending the detention of Palestinian children in Israeli prisons.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-10-10/79995"
+      },
+      {
+        "kind": "Written question",
+        "title": "Israel: Military Aid",
+        "date": "2025-06-23",
+        "summary": "To ask the Secretary of State for Defence, pursuant to the Answer of 11 June 2025 to Question 56822 on Israel: Military Aid, how many Israel Defense Forces personnel have been trained by the UK armed forces in the last 12 months.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-23/62051"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: East Thanet",
+        "date": "2025-06-03",
+        "summary": "To ask the Secretary of State for Work and Pensions, how many households who are receiving the maximum permitted benefits under the benefit cap have one or more children with a disability in East Thanet constituency.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-03/56996"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: East Thanet",
+        "date": "2025-06-03",
+        "summary": "To ask the Secretary of State for Work and Pensions, how many households who are receiving the maximum permitted benefits under the benefit cap have one or more adults with a disability in East Thanet constituency.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-03/56995"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: East Thanet",
+        "date": "2025-06-03",
+        "summary": "To ask the Secretary of State for Work and Pensions, how many households who are receiving the maximum permitted benefits under the benefit cap have three or more children in East Thanet constituency.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-03/56994"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: East Thanet",
+        "date": "2025-06-03",
+        "summary": "To ask the Secretary of State for Work and Pensions, how many people receive the maximum amount of permissible benefits under benefit caps in East Thanet constituency.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-03/56993"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Immigration and Asylum (Provision of Accommodation to Failed Asylum-Seekers) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 304, Noes 28.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2350"
+      },
+      {
+        "kind": "Vote",
+        "title": "Draft Asylum Seekers (Reception Conditions) (Amendment) Regulations 2026",
+        "date": "2026-04-28",
+        "summary": "Aye; Ayes 308, Noes 81.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2349"
+      },
+      {
+        "kind": "Registered interest",
+        "title": "4. Visits outside the UK",
+        "date": "2025-11-18",
+        "summary": "Name of donor: Parliamentary Renewable & Sustainable Energy Group (PRASEG) Secretariat for the APPG for Renewable & Sustainable Energy Address of donor: PRASEG, 10 Dean Farrar Street, London SW1H 0DX Estimate of the probable value (or amount of any donation): Accommodation, return flights and subsistence, value £808 Destination of visit: Denmark (Copenhagen) Dates of visit: 23 October 2025 to 24 October 2025 Purpose of visit: APPG visit to high-level meetings and site visits in Copenhagen cross-channel cooperation for decarbonising heat and energy. (Registered 14 November 2025)",
+        "sourceUrl": "https://members.parliament.uk/members/commons/interests"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "member": {
+    "id": "D000626",
+    "name": "Warren Davidson",
+    "chamber": "House",
+    "party": "Republican",
+    "state": "OH",
+    "district": 8,
+    "districtLabel": "OH-8",
+    "role": "U.S. Representative for OH-8",
+    "currentTerm": {
+      "start": "2025-01-03",
+      "end": "2027-01-03",
+      "type": "rep",
+      "class": null
+    },
+    "firstTermStart": "2016-06-09",
+    "officialWebsite": "https://davidson.house.gov",
+    "contact": {
+      "address": "2113 Rayburn House Office Building Washington DC 20515-3508",
+      "phone": "202-225-6205",
+      "fax": null,
+      "contactForm": null,
+      "rssUrl": null
+    },
+    "identifiers": {
+      "bioguide": "D000626",
+      "govtrack": 412675,
+      "opensecrets": "N00038767",
+      "ballotpedia": "Warren Davidson",
+      "wikipedia": "Warren Davidson",
+      "wikidata": "Q24458117"
+    }
+  },
+  "generatedAt": "2026-07-11T16:33:48.433Z",
+  "officialSourceNotes": [
+    "Congress.gov data is stored from the official public API. API keys are used only during fetch and are not saved in this archive.",
+    "House member records include House Clerk profile fields and the latest available recent-vote pages where the House Clerk endpoint returned HTML.",
+    "Senate records include official source registry links. Some Senate XML endpoints can block automated clients; the URLs are retained for analyst follow-up."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi local archive record",
+      "url": "/source/us-congress-official/members/D000626.json"
+    },
+    {
+      "label": "Congress.gov API member detail",
+      "url": "https://api.congress.gov/v3/member/D000626?format=json"
+    },
+    {
+      "label": "Congress.gov API sponsored legislation",
+      "url": "https://api.congress.gov/v3/member/D000626/sponsored-legislation?format=json&limit=25"
+    },
+    {
+      "label": "Congress.gov API cosponsored legislation",
+      "url": "https://api.congress.gov/v3/member/D000626/cosponsored-legislation?format=json&limit=25"
+    },
+    {
+      "label": "Congress.gov member page",
+      "url": "https://www.congress.gov/member/warren-davidson/D000626"
+    },
+    {
+      "label": "Biographical Directory profile",
+      "url": "https://bioguide.congress.gov/search/bio/D000626"
+    },
+    {
+      "label": "Official congressional website",
+      "url": "https://davidson.house.gov"
+    },
+    {
+      "label": "House Clerk member profile",
+      "url": "https://clerk.house.gov/members/D000626"
+    },
+    {
+      "label": "House Clerk recent votes",
+      "url": "https://clerk.house.gov/Members/ViewRecentVotes?memberID=D000626&page=1"
+    },
+    {
+      "label": "House Clerk roll call votes",
+      "url": "https://clerk.house.gov/Votes"
+    },
+    {
+      "label": "House committee repository",
+      "url": "https://docs.house.gov/committee"
+    },
+    {
+      "label": "House disclosures",
+      "url": "https://disclosures-clerk.house.gov/"
+    }
+  ],
+  "congressGov": {
+    "profile": {
+      "sourceUrl": "https://api.congress.gov/v3/member/D000626?format=json",
+      "ok": null,
+      "status": "skipped",
+      "reason": "Set CONGRESS_GOV_API_KEY to import this official API record at scale. The public DEMO_KEY is intentionally not used by default because it rate-limits after a few requests."
+    },
+    "sponsoredLegislation": {
+      "sourceUrl": "https://api.congress.gov/v3/member/D000626/sponsored-legislation?format=json&limit=25",
+      "ok": null,
+      "status": "skipped",
+      "reason": "Set CONGRESS_GOV_API_KEY to import this official API record at scale. The public DEMO_KEY is intentionally not used by default because it rate-limits after a few requests."
+    },
+    "cosponsoredLegislation": {
+      "sourceUrl": "https://api.congress.gov/v3/member/D000626/cosponsored-legislation?format=json&limit=25",
+      "ok": null,
+      "status": "skipped",
+      "reason": "Set CONGRESS_GOV_API_KEY to import this official API record at scale. The public DEMO_KEY is intentionally not used by default because it rate-limits after a few requests."
+    }
+  },
+  "houseClerk": {
+    "profileUrl": "https://clerk.house.gov/members/D000626",
+    "profile": {
+      "source": "Office of the Clerk, U.S. House of Representatives",
+      "name": "Warren Davidson",
+      "photoUrl": "https://clerk.house.gov/images/members/D000626.jpg",
+      "contactLines": [
+        "The Honorable Warren Davidson\n&ndash;\n8th District\n-->",
+        "2113 Rayburn House Office Building",
+        "Phone: (202) 225-6205"
+      ],
+      "phone": "(202) 225-6205",
+      "committeesAndSubcommittees": [
+        {
+          "name": "Committee on Financial Services",
+          "url": "https://clerk.house.gov/Committees/BA00"
+        },
+        {
+          "name": "Capital Markets",
+          "url": "https://clerk.house.gov/Committees/BA16"
+        },
+        {
+          "name": "Digital Assets, Financial Technology, and Artificial Intelligence",
+          "url": "https://clerk.house.gov/Committees/BA21"
+        },
+        {
+          "name": "National Security, Illicit Finance, and International Financial Institutions",
+          "url": "https://clerk.house.gov/Committees/BA10"
+        },
+        {
+          "name": "Committee on Foreign Affairs",
+          "url": "https://clerk.house.gov/Committees/FA00"
+        },
+        {
+          "name": "Europe",
+          "url": "https://clerk.house.gov/Committees/FA14"
+        },
+        {
+          "name": "Oversight and Intelligence",
+          "url": "https://clerk.house.gov/Committees/FA17"
+        }
+      ]
+    },
+    "profileFetch": {
+      "ok": true,
+      "status": 200,
+      "url": "https://clerk.house.gov/members/D000626",
+      "error": ""
+    },
+    "recentVotesUrl": "https://clerk.house.gov/Members/ViewRecentVotes?memberID=D000626&page=1",
+    "recentVotes": [
+      {
+        "page": 1,
+        "date": "6/30/2026",
+        "rollCallNumber": "233",
+        "billNumber": "H. Res. 1399",
+        "billTitle": "Directing the Committee on Ethics to preserve and publicly release records relating to monetary settlements involving acts of sexual harassment",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026233?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "6/30/2026",
+        "rollCallNumber": "232",
+        "billNumber": "H. Con. Res. 108",
+        "billTitle": "Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from hostilities in Lebanon",
+        "vote": "Nay",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026232?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "6/30/2026",
+        "rollCallNumber": "231",
+        "billNumber": "H. Res. 1398",
+        "billTitle": "Providing for consideration of the bills H.R. 8800, H.R. 8595, and H.R. 8884; and providing for consideration of the resolution H. Res. 1383",
+        "vote": "Aye",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026231?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "6/30/2026",
+        "rollCallNumber": "230",
+        "billNumber": "H. Res. 1398",
+        "billTitle": "Providing for consideration of the bills H.R. 8800, H.R. 8595, and H.R. 8884; and providing for consideration of the resolution H. Res. 1383",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026230?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "6/29/2026",
+        "rollCallNumber": "229",
+        "billNumber": "H. R. 7128",
+        "billTitle": "TRIA Program Reauthorization Act",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026229?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "6/29/2026",
+        "rollCallNumber": "228",
+        "billNumber": "H. R. 7757",
+        "billTitle": "KIDS Act",
+        "vote": "Nay",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026228?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "6/25/2026",
+        "rollCallNumber": "227",
+        "billNumber": "H. R. 2478",
+        "billTitle": "Financial Exploitation Prevention Act",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026227?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "6/24/2026",
+        "rollCallNumber": "226",
+        "billNumber": "H. R. 915",
+        "billTitle": "Small Business Technological Advancement Act",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026226?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "6/24/2026",
+        "rollCallNumber": "225",
+        "billNumber": "H. R. 7401",
+        "billTitle": "Small Business Lending Fraud Prevention Act",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026225?Page=1"
+      },
+      {
+        "page": 1,
+        "date": "6/23/2026",
+        "rollCallNumber": "224",
+        "billNumber": "H. R. 6644",
+        "billTitle": "Housing for the 21st Century Act",
+        "vote": "Nay",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026224?Page=1"
+      },
+      {
+        "page": 2,
+        "date": "6/23/2026",
+        "rollCallNumber": "223",
+        "billNumber": "S. 629",
+        "billTitle": "Emergency Conservation Program Improvement Act",
+        "vote": "Not Voting",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026223?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "6/11/2026",
+        "rollCallNumber": "222",
+        "billNumber": "H. Res. 1335",
+        "billTitle": "Condemning actors seeking to defraud the U.S. Government, and expressing the sense of the House of Representatives that government-wide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the U.S., and that Federal program eligibility should be verified before payment",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026222?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "6/11/2026",
+        "rollCallNumber": "221",
+        "billNumber": "H. R. 9238",
+        "billTitle": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes",
+        "vote": "Nay",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026221?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "6/10/2026",
+        "rollCallNumber": "220",
+        "billNumber": "H. R. 8464",
+        "billTitle": "Stopping Fraudulent Payments Act",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026220?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "6/10/2026",
+        "rollCallNumber": "219",
+        "billNumber": "H. R. 8464",
+        "billTitle": "Stopping Fraudulent Payments Act",
+        "vote": "Nay",
+        "status": "Failed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026219?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "6/10/2026",
+        "rollCallNumber": "218",
+        "billNumber": "H. R. 8312",
+        "billTitle": "Fraud Prevention and Accountability Act",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026218?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "6/10/2026",
+        "rollCallNumber": "217",
+        "billNumber": "H. R. 7892",
+        "billTitle": "No Aid for Ghost Students Act",
+        "vote": "Yea",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026217?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "6/9/2026",
+        "rollCallNumber": "216",
+        "billNumber": "H. R. 5408",
+        "billTitle": "Faster Labor Contracts Act",
+        "vote": "Nay",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026216?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "6/9/2026",
+        "rollCallNumber": "215",
+        "billNumber": "H. Res. 1140",
+        "billTitle": "Providing for consideration of the bill (H.R. 5408) to accelerate workplace time-to-contract under the National Labor Relations Act",
+        "vote": "Nay",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026215?Page=2"
+      },
+      {
+        "page": 2,
+        "date": "6/9/2026",
+        "rollCallNumber": "214",
+        "billNumber": "S. 2",
+        "billTitle": "Secure America Act",
+        "vote": "Aye",
+        "status": "Passed",
+        "sourceUrl": "https://clerk.house.gov/Votes/2026214?Page=2"
+      }
+    ],
+    "recentVoteFetches": [
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://clerk.house.gov/Members/ViewRecentVotes?memberID=D000626&page=1",
+        "error": ""
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://clerk.house.gov/Members/ViewRecentVotes?memberID=D000626&page=2",
+        "error": ""
+      }
+    ]
+  },
+  "senate": null
+}

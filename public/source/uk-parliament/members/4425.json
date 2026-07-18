@@ -1,0 +1,942 @@
+{
+  "member": {
+    "id": "4425",
+    "slug": "jo-stevens",
+    "name": "Jo Stevens",
+    "sortName": "Stevens, Jo",
+    "fullTitle": "Rt Hon Jo Stevens MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Cardiff East",
+    "house": "House of Commons",
+    "role": "MP for Cardiff East",
+    "officialUrl": "https://members.parliament.uk/member/4425/contact",
+    "recordUrl": "/country/uk/parliament/jo-stevens/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4425/Thumbnail",
+    "currentMembership": {
+      "constituency": "Cardiff East",
+      "constituencyId": 4504,
+      "startDate": "2015-05-07",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "jo.stevens.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 8290",
+        "02921 329736"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "116 Albany Road, Roath, Cardiff, CF24 3RU",
+        "http://www.jostevens.co.uk/",
+        "https://twitter.com/jostevenslabour"
+      ],
+      "websites": [
+        "http://www.jostevens.co.uk/"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/jostevenslabour"
+        ]
+      ]
+    },
+    "synopsis": "The Rt Hon Jo Stevens is the Labour MP for Cardiff East , and has been an MP continually since 7 May 2015. She currently holds the Government post of Secretary of State for Wales.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/jo-stevens/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4425/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4425"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4425/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4425/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4425/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4425/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4425"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-05-08",
+    "registeredInterestCount": 1
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/jo-stevens/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4425/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4425"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4425/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4425/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4425/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4425/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4425"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1716404,
+        "uin": "25248",
+        "heading": "Tata Steel: Port Talbot",
+        "questionText": "To ask the Secretary of State for Wales, with reference to the Fifth Tata Steel / Port Talbot Transition Board Statement, published on 25 April 2024, if he will publish the local economic action plan.",
+        "answerText": "The Tata Steel/Port Talbot Transition Board has been set up to support those affected by Tata Steel’s decarbonisation transition, backed by a £100 million fund. Of that funding, £80 million is provided by the UK Government and £20 million will be provided...",
+        "answeringBody": "Wales Office",
+        "answeringMember": "David T C Davies",
+        "dateTabled": "2024-05-08",
+        "dateForAnswer": "2024-05-14",
+        "dateAnswered": "2024-05-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-08/25248"
+      },
+      {
+        "id": 1716403,
+        "uin": "25247",
+        "heading": "Tata Steel: Port Talbot",
+        "questionText": "To ask the Secretary of State for Wales, whether the Tata Steel / Port Talbot Transition Board has made a recent assessment of the potential impact of blast furnace closures on jobs in the supply chain.",
+        "answerText": "This Government is supporting Tata Steel with £500 million towards building an electric arc furnace, securing the future of steelmaking at Port Talbot. This will protect 5,000 steel jobs and thousands more in the supply chain. The Tata Steel/Port Talbot T...",
+        "answeringBody": "Wales Office",
+        "answeringMember": "David T C Davies",
+        "dateTabled": "2024-05-08",
+        "dateForAnswer": "2024-05-14",
+        "dateAnswered": "2024-05-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-08/25247"
+      },
+      {
+        "id": 1714984,
+        "uin": "24256",
+        "heading": "Minimum Wage: Wales",
+        "questionText": "To ask the Secretary of State for Business and Trade, how many employers in Wales her Department named as being non-compliant with minimum wage legislation in each year since 2019.",
+        "answerText": "The government takes enforcement of the minimum wage seriously. We take robust action against employers who do not pay their staff correctly. Publicly naming employers who do not comply with the rules is an important part of enforcement. Table 1: Employer...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kevin Hollinrake",
+        "dateTabled": "2024-04-30",
+        "dateForAnswer": "2024-05-02",
+        "dateAnswered": "2024-05-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-30/24256"
+      },
+      {
+        "id": 1714983,
+        "uin": "24255",
+        "heading": "Minimum Wage: Wales",
+        "questionText": "To ask the Secretary of State for Business and Trade, in how many cases businesses in Wales were found to be non-compliant with minimum wage legislation in each year since 2019.",
+        "answerText": "All businesses – irrespective of their size or business sector – are responsible for paying the correct minimum wage to their staff. The government is clear that anyone entitled to be paid the minimum wage should receive it and takes robust enforcement ac...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kevin Hollinrake",
+        "dateTabled": "2024-04-30",
+        "dateForAnswer": "2024-05-02",
+        "dateAnswered": "2024-05-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-30/24255"
+      },
+      {
+        "id": 1714982,
+        "uin": "24254",
+        "heading": "Minimum Wage: Enforcement",
+        "questionText": "To ask the Secretary of State for Business and Trade, how many times her Department has taken enforcement action against businesses for non-compliance with minimum wage legislation in each financial year since 2015.",
+        "answerText": "All businesses – irrespective of their size or business sector – are responsible for paying the correct minimum wage to their staff. The government is clear that anyone entitled to be paid the minimum wage should receive it and takes robust enforcement ac...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kevin Hollinrake",
+        "dateTabled": "2024-04-30",
+        "dateForAnswer": "2024-05-02",
+        "dateAnswered": "2024-05-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-30/24254"
+      },
+      {
+        "id": 1714985,
+        "uin": "24257",
+        "heading": "Minimum Wage: Enforcement",
+        "questionText": "To ask the Chancellor of the Exchequer, how many minimum wage investigations HMRC concluded in each financial year since 2019 in Wales.",
+        "answerText": "The Government is determined that everyone who is entitled to the National Minimum Wage (NMW) receives it.HMRC continues to crack down on employers who ignore the law, ensuring that workers receive the wages they are entitled to.Data on the number of clos...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-04-30",
+        "dateForAnswer": "2024-05-02",
+        "dateAnswered": "2024-05-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-30/24257"
+      },
+      {
+        "id": 1714750,
+        "uin": "24069",
+        "heading": "Driving Licences",
+        "questionText": "To ask the Secretary of State for Transport, whether his Department undertook an impact assessment on separating International Drivers Permits from other DVLA delivered services.",
+        "answerText": "The Driver and Vehicle Licensing Agency carried out an open competition for the contract to provide a counter service for International Driving Permits (IDPs), in line with the Public Contract Regulations 2015. PayPoint was awarded the contract.The new co...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Guy Opperman",
+        "dateTabled": "2024-04-29",
+        "dateForAnswer": "2024-05-01",
+        "dateAnswered": "2024-05-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-29/24069"
+      },
+      {
+        "id": 1713086,
+        "uin": "23227",
+        "heading": "Members: Correspondence",
+        "questionText": "To ask the Secretary of State for Business and Trade, when she plans to respond to the correspondence of 30 March 2024 from the hon. Member for Cardiff Central.",
+        "answerText": "The correspondence from the hon. Member for Cardiff Central was responded to on 26th April 2024.",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kevin Hollinrake",
+        "dateTabled": "2024-04-23",
+        "dateForAnswer": "2024-04-25",
+        "dateAnswered": "2024-05-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-23/23227"
+      },
+      {
+        "id": 1695128,
+        "uin": "17995",
+        "heading": "Research: Tax Allowances",
+        "questionText": "To ask the Chancellor of the Exchequer, how many applications for R&D tax credits were denied in each month in 2023.",
+        "answerText": "HMRC publish R&D statistics annually, the latest publication can be found on Gov.uk at Research and Development Tax Credits Statistics: September 2023.",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-11",
+        "dateForAnswer": "2024-03-13",
+        "dateAnswered": "2024-03-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-11/17995"
+      },
+      {
+        "id": 1695127,
+        "uin": "17994",
+        "heading": "Research: Tax Allowances",
+        "questionText": "To ask the Chancellor of the Exchequer, how many applications for R&D tax credits were approved in each month in 2023.",
+        "answerText": "HMRC publish R&D statistics annually, the latest publication can be found on Gov.uk at Research and Development Tax Credits Statistics: September 2023.",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-11",
+        "dateForAnswer": "2024-03-13",
+        "dateAnswered": "2024-03-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-11/17994"
+      },
+      {
+        "id": 1695126,
+        "uin": "17993",
+        "heading": "Research: Tax Allowances",
+        "questionText": "To ask the Chancellor of the Exchequer, how many applications for R&D tax credits were outstanding in each month in 2023.",
+        "answerText": "HMRC publish R&D statistics annually, the latest publication can be found on Gov.uk at Research and Development Tax Credits Statistics: September 2023.",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-11",
+        "dateForAnswer": "2024-03-13",
+        "dateAnswered": "2024-03-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-11/17993"
+      },
+      {
+        "id": 1694666,
+        "uin": "17695",
+        "heading": "Wales Office: Defamation",
+        "questionText": "To ask the Secretary of State for Wales, with reference to paragraphs 7.16 and 7.17 of the Ministerial Code, on how many occasions Ministers in his Department have informed the Law Officers that they are the defendants in a libel action in (a) their perso",
+        "answerText": "As per paragraph 2.13 of the Ministerial Code, it is not possible to disclose whether Law Officers have or have not provided advice on such matters. Paragraph 2.13 states: “The fact that the Law Officers have advised or have not advised, and the content o...",
+        "answeringBody": "Wales Office",
+        "answeringMember": "David T C Davies",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17695"
+      },
+      {
+        "id": 1693930,
+        "uin": "17219",
+        "heading": "Railway Stations: St Athan",
+        "questionText": "To ask the Secretary of State for Transport, with reference to his Department's new story entitled New railway station backed for the Vale of Glamorgan, published on 19 February 2024, how much funding his Department has committed to fund the development o",
+        "answerText": "As part of the government’s plan to grow the economy through continued investment in local transport we have committed to explore options for a new station at St Athan. We are currently working with Network Rail, Transport for Wales, and the Vale of Glamo...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Huw Merriman",
+        "dateTabled": "2024-03-05",
+        "dateForAnswer": "2024-03-07",
+        "dateAnswered": "2024-03-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-05/17219"
+      },
+      {
+        "id": 1693929,
+        "uin": "17149",
+        "heading": "Tŷ William Morgan: Staff",
+        "questionText": "To ask the Secretary of State for Wales, what the average level of staff attendance has been at the UK Government hub in Cardiff, Ty William Morgan in each month since December 2022.",
+        "answerText": "The Wales Office does not hold data on average levels of staff attendance for UK Government departments and agencies, and other public bodies, based in the UK Government hub in Ty William Morgan, Cardiff.",
+        "answeringBody": "Wales Office",
+        "answeringMember": "David T C Davies",
+        "dateTabled": "2024-03-05",
+        "dateForAnswer": "2024-03-11",
+        "dateAnswered": "2024-03-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-05/17149"
+      },
+      {
+        "id": 1690449,
+        "uin": "14893",
+        "heading": "Arson: Wales",
+        "questionText": "To ask the Secretary of State for the Home Department, what steps he is taking to help tackle arson in (a) Cardiff Central constituency, (b) Cardiff local authority area and (c) Wales.",
+        "answerText": "The Government is committed to tackling and preventing arson. We know the serious impact that arson can have on both individuals and the wider community.We are committed to ensuring fire services have the resources they need to do their vital work and to ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Chris Philp",
+        "dateTabled": "2024-02-20",
+        "dateForAnswer": "2024-02-23",
+        "dateAnswered": "2024-02-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-20/14893"
+      },
+      {
+        "id": 1690451,
+        "uin": "14894",
+        "heading": "Anti-social Behaviour: Wales",
+        "questionText": "To ask the Secretary of State for the Home Department, what steps he is taking to help tackle anti-social behaviour in (a) Cardiff Central constituency, (b) Cardiff local authority area and (c) Wales.",
+        "answerText": "Last year the Government launched the Anti-social Behaviour Action Plan https://www.gov.uk/government/publications/anti-social-behaviour-action-plan ensuring the police, local authorities and other relevant agencies have the tools they need to tackle anti...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Chris Philp",
+        "dateTabled": "2024-02-20",
+        "dateForAnswer": "2024-02-23",
+        "dateAnswered": "2024-02-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-20/14894"
+      },
+      {
+        "id": 1690017,
+        "uin": "14613",
+        "heading": "Fraud: Wales",
+        "questionText": "To ask the Secretary of State for the Home Department, what steps he is taking to help tackle fraud-related crime in (a) Cardiff Central constituency, (b) Cardiff local authority area and (c) Wales.",
+        "answerText": "In May 2023, the Government published the Fraud Strategy which set out a national response to address the threat of fraud. This includes steps to block fraud, improve the law enforcement response and empower victims.Through the Online Safety Act and the O...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Tom Tugendhat",
+        "dateTabled": "2024-02-19",
+        "dateForAnswer": "2024-02-22",
+        "dateAnswered": "2024-02-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-19/14613"
+      },
+      {
+        "id": 1690019,
+        "uin": "14614",
+        "heading": "Cybercrime: Wales",
+        "questionText": "To ask the Secretary of State for the Home Department, what steps he is taking to help tackle cyber-related crime in (a) Cardiff Central constituency, (b) Cardiff local authority area and (c) Wales.",
+        "answerText": "Tacking cyber crime is at the heart of the Government’s National Cyber Strategy 2022-25, which is supported by £2.6 billion of investment through the National Cyber Fund.Key to delivery is ensuring that local policing has the resources needed to deal with...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Tom Tugendhat",
+        "dateTabled": "2024-02-19",
+        "dateForAnswer": "2024-02-21",
+        "dateAnswered": "2024-02-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-19/14614"
+      },
+      {
+        "id": 1690016,
+        "uin": "14612",
+        "heading": "Hate Crime: Wales",
+        "questionText": "To ask the Secretary of State for the Home Department, what steps he is taking to help tackle hate crime in (a) Cardiff Central constituency, (b) Cardiff local authority area and (c) Wales.",
+        "answerText": "The Government is clear that all forms of hate crime are completely unacceptable. We have a robust legislative framework in place to respond to hate crimes which target race, religion, disability, sexual orientation and transgender identity, and expect th...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Laura Farris",
+        "dateTabled": "2024-02-19",
+        "dateForAnswer": "2024-02-22",
+        "dateAnswered": "2024-02-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-19/14612"
+      },
+      {
+        "id": 1690020,
+        "uin": "14615",
+        "heading": "Burglary: Wales",
+        "questionText": "To ask the Secretary of State for the Home Department, what steps he is taking to help tackle burglaries in (a) Cardiff Central constituency, (b) Cardiff local authority area and (c) Wales.",
+        "answerText": "The Crime Survey for England and Wales data shows a 56% fall in domestic burglaries when comparing the year ending September 2023 with year ending March 2010. This is clearly good news; however, we recognise the impact domestic burglary can have on indivi...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Chris Philp",
+        "dateTabled": "2024-02-19",
+        "dateForAnswer": "2024-02-22",
+        "dateAnswered": "2024-02-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-19/14615"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 10,
+        "No": 15
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 2084,
+            "text": "Solicitor, non-practising since 8 May 2015. (Registered 19 July 2021)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

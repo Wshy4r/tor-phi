@@ -1,0 +1,98 @@
+name: TOR Phi Social Harvest
+
+on:
+  workflow_dispatch:
+    inputs:
+      country:
+        description: Country id to scrape
+        default: usa
+        required: true
+      owner_type:
+        description: Owner type
+        default: Congress
+        required: true
+      target_tweets:
+        description: Revisit accounts below this tweet count
+        default: "100"
+        required: true
+      max_accounts:
+        description: Accounts per run
+        default: "5"
+        required: true
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: torphi-social-harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Rebuild social account registry
+        run: npm run sync:social-accounts
+
+      - name: Import text archive into SQLite
+        run: python3 scripts/import-social-archive-jsonl.py
+
+      - name: Capture next social batch
+        env:
+          TORPHI_X_CT0: ${{ secrets.TORPHI_X_CT0 }}
+          TORPHI_X_AUTH_TOKEN: ${{ secrets.TORPHI_X_AUTH_TOKEN }}
+          TORPHI_X_MAX_RATE_WAIT: "0"
+        run: |
+          COUNTRY="${{ inputs.country || 'usa' }}"
+          OWNER_TYPE="${{ inputs.owner_type || 'Congress' }}"
+          TARGET_TWEETS="${{ inputs.target_tweets || '100' }}"
+          MAX_ACCOUNTS="${{ inputs.max_accounts || '5' }}"
+          python3 scripts/torphi-social-capture.py \
+            --country "$COUNTRY" \
+            --owner-type "$OWNER_TYPE" \
+            --all \
+            --only-under-tweet-count "$TARGET_TWEETS" \
+            --max-capture-targets "$MAX_ACCOUNTS" \
+            --pages 5 \
+            --source auto \
+            --pause 0.7 \
+            --stop-after-rate-limits 1
+
+      - name: Export website snapshot and text archive
+        env:
+          TORPHI_SOCIAL_EXPORT_PUBLIC_ONLY: "1"
+        run: |
+          python3 scripts/export-social-snapshot.py
+          python3 scripts/export-social-archive-jsonl.py
+
+      - name: Commit archive changes
+        run: |
+          git config user.name "TOR Phi Social Bot"
+          git config user.email "torphi-social-bot@users.noreply.github.com"
+          git add social-archive public/source/social src/socialAccountRegistry.js
+          if git diff --cached --quiet; then
+            echo "No social archive changes to commit."
+          else
+            git commit -m "Update TOR Phi social archive [skip ci]"
+            git pull --rebase
+            git push
+          fi

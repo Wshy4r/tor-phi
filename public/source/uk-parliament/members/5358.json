@@ -1,0 +1,957 @@
+{
+  "member": {
+    "id": "5358",
+    "slug": "john-cooper",
+    "name": "John Cooper",
+    "sortName": "Cooper, John",
+    "fullTitle": "John Cooper MP",
+    "party": "Conservative",
+    "partyAbbreviation": "Con",
+    "partyColor": "#0063ba",
+    "constituency": "Dumfries and Galloway",
+    "house": "House of Commons",
+    "role": "MP for Dumfries and Galloway",
+    "officialUrl": "https://members.parliament.uk/member/5358/contact",
+    "recordUrl": "/country/uk/parliament/john-cooper/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5358/Thumbnail",
+    "currentMembership": {
+      "constituency": "Dumfries and Galloway",
+      "constituencyId": 4462,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "john.cooper.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 8080",
+        "01387 468229"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "20 Academy Street, Dumfries, DG1 1BY"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "John Cooper is the Conservative MP for Dumfries and Galloway , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/john-cooper/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5358/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5358"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5358/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5358/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5358/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5358/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5358"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-29",
+    "registeredInterestCount": 2
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/john-cooper/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5358/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5358"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5358/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5358/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5358/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5358/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5358"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1922031,
+        "uin": "14241",
+        "heading": "Apprentices: Accountancy",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the potential impact of changes to Level 7 apprenticeship funding on (a) workforce supply in frontline public services and (b) the Government's policy of moving care from",
+        "answerText": "Apprenticeships are a devolved matter, and the response outlines the information for England only.This Government is investing in young people’s futures and reversing the sharp decline in apprenticeship starts amongst young people – which have fallen by 4...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14241"
+      },
+      {
+        "id": 1922030,
+        "uin": "14240",
+        "heading": "Apprentices: Accountancy",
+        "questionText": "To ask the Secretary of State for Work and Pensions, whether all apprenticeship providers, employers and end-point assessment organisations have been informed of the funding bands, eligibility criteria and delivery arrangements that will apply to new Leve",
+        "answerText": "Apprenticeships are a devolved matter, and the response outlines the information for England only.This Government is investing in young people’s futures and reversing the sharp decline in apprenticeship starts amongst young people – which have fallen by 4...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14240"
+      },
+      {
+        "id": 1922029,
+        "uin": "14239",
+        "heading": "Apprentices: Accountancy",
+        "questionText": "To ask the Secretary of State for Work and Pensions, whether he considered retaining Level 7 apprenticeship funding until age 25 for occupations such as accountancy and law before deciding on a blanket cut-off at age 21; and what assessment he made of the",
+        "answerText": "Apprenticeships are a devolved matter, and the response outlines the information for England only.This Government is investing in young people’s futures and reversing the sharp decline in apprenticeship starts amongst young people – which have fallen by 4...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14239"
+      },
+      {
+        "id": 1922028,
+        "uin": "14238",
+        "heading": "Apprentices: Accountancy",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the total cost to businesses to fund Level 7 accountancy apprenticeship costs following planned reforms to Government funding.",
+        "answerText": "Apprenticeships are a devolved matter, and the response outlines the information for England only.This Government is investing in young people’s futures and reversing the sharp decline in apprenticeship starts amongst young people – which have fallen by 4...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14238"
+      },
+      {
+        "id": 1922027,
+        "uin": "14237",
+        "heading": "Apprentices: Accountancy",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what evidence the Government used to conclude that there would be no significant long-term reduction in the supply of skills following the removal of public funding for most Level 7 apprenticeships.",
+        "answerText": "Apprenticeships are a devolved matter, and the response outlines the information for England only.This Government is investing in young people’s futures and reversing the sharp decline in apprenticeship starts amongst young people – which have fallen by 4...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14237"
+      },
+      {
+        "id": 1922026,
+        "uin": "14236",
+        "heading": "Apprentices: Accountancy",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many Level 7 accountancy apprenticeships were undertaken in 2024/25 and what estimate his Department has made for the corresponding number in 2026/27.",
+        "answerText": "Apprenticeships are a devolved matter, and the response outlines the information for England only.This Government is investing in young people’s futures and reversing the sharp decline in apprenticeship starts amongst young people – which have fallen by 4...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14236"
+      },
+      {
+        "id": 1922025,
+        "uin": "14235",
+        "heading": "Apprentices: Accountancy",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the total cost to his Department of providing funding for Level 7 accountancy apprenticeships for (a) all ages, (b) under 25s and (c) under 22s.",
+        "answerText": "Apprenticeships are a devolved matter, and the response outlines the information for England only.This Government is investing in young people’s futures and reversing the sharp decline in apprenticeship starts amongst young people – which have fallen by 4...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/14235"
+      },
+      {
+        "id": 1919891,
+        "uin": "12986",
+        "heading": "Driving Tests: Dumfries and Galloway",
+        "questionText": "To ask the Secretary of State for Transport, what the average waiting time is for driving tests at (a) Dumfries, (b) Stranraer, (c) Castle Douglas, and (d) Newton Stewart test centres.",
+        "answerText": "The Driver and Vehicle Standards Agency has now published more detailed data-sets so learners can get better understanding of the booking system. More information and waiting time data, including for Dumfries, Stranraer, Castle Douglas, and Newton Stewart...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-06-24",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-24/12986"
+      },
+      {
+        "id": 1917275,
+        "uin": "10773",
+        "heading": "Armed Forces: Northern Ireland",
+        "questionText": "To ask the Secretary of State for Defence, of the civil claims notified to his Department relating to events that occurred during the Troubles in Northern Ireland from 1969, how many of these claims have led to compensation being paid.",
+        "answerText": "The Ministry of Defence records on compensation do not extend back to 1969, and therfore we are unable to confirm the number of claims that have resulted in compensation payments. Information related to Northern Ireland Troubles-related claims has since 2...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10773"
+      },
+      {
+        "id": 1917274,
+        "uin": "10772",
+        "heading": "Veterans: Northern Ireland",
+        "questionText": "To ask the Secretary of State for Defence, of the civil claims notified to his Department relating to events that occurred during the Troubles in Northern Ireland from 1969, how many veterans were involved in the events relating to these civil claims.",
+        "answerText": "The Ministry of Defence does not hold centrally recorded data identifying the number of veterans involved in the events giving rise to civil claims relating to the Troubles in Northern Ireland.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10772"
+      },
+      {
+        "id": 1917272,
+        "uin": "10770",
+        "heading": "Roisin Nugent",
+        "questionText": "To ask the Secretary of State for Northern Ireland, how much legal aid was granted to Rosene Nugent and her legal representatives for the Judicial review of the Coroner's Inquest and the Court of Appeal.",
+        "answerText": "The UK Government does not hold this information as Justice and legal aid are devolved in Northern Ireland. The Legal Services Agency, an executive agency sponsored by the Northern Ireland Department of Justice, administers the provision of legal aid in N...",
+        "answeringBody": "Northern Ireland Office",
+        "answeringMember": "Hilary Benn",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10770"
+      },
+      {
+        "id": 1917273,
+        "uin": "10771",
+        "heading": "Intelligence Services: Northern Ireland",
+        "questionText": "To ask the Secretary of State for Defence, of the security service personnel who have been charged with criminal offences alleged to have been committed during the Troubles between 1969 and1998, what sentences were imposed on those who were convicted.",
+        "answerText": "The Ministry of Defence does not hold records relating to Security Service personnel.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10771"
+      },
+      {
+        "id": 1916822,
+        "uin": "10418",
+        "heading": "Armed Forces: Northern Ireland",
+        "questionText": "To ask the Secretary of State for Defence, how many personnel in the (a) military, (b) police and (c) intelligence services who were charged and prosecuted in Northern Ireland for any criminal offence connected to the Troubles during the period of Operati",
+        "answerText": "The Ministry of Defence does not hold comprehensive records of personnel charged or prosecuted in Northern Ireland for Troubles-related offences between 1969 and 1998, or equivalent figures for police, security or intelligence personnel.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-16",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10418"
+      },
+      {
+        "id": 1916764,
+        "uin": "10364",
+        "heading": "Armed Forces: Northern Ireland",
+        "questionText": "To ask the Secretary of State for Defence, how many (a) military, (b) police, (c) security forces and (d) intelligence personnel were (i) charged and (ii) prosecuted in Northern Ireland for a criminal offence connected to the Troubles between 1969 and1998",
+        "answerText": "The Ministry of Defence does not hold comprehensive records of personnel charged or prosecuted in Northern Ireland for Troubles-related offences between 1969 and 1998, or equivalent figures for police, security or intelligence personnel.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-16",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10364"
+      },
+      {
+        "id": 1916772,
+        "uin": "10372",
+        "heading": "Coroners: Standards",
+        "questionText": "To ask the Secretary of State for Justice, how many inquests are outstanding; and how many of those inquests involve use of force by the military, the police and paramilitaries.",
+        "answerText": "The Ministry of Justice publishes statistics on the operation of coroner services annually here: https://www.gov.uk/government/collections/coroners-and-burials-statistics. However, we do not collect real-time information on the number of open inquests or ...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Catherine Atkinson",
+        "dateTabled": "2026-06-16",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10372"
+      },
+      {
+        "id": 1916773,
+        "uin": "10373",
+        "heading": "Veterans: Coroners",
+        "questionText": "To ask the Secretary of State for Defence, how many veterans are involved in outstanding inquests.",
+        "answerText": "The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 halted all legacy inquests relating to the Troubles in Northern Ireland from 1 May 2024. The passage of the Troubles Bill will enable a number of paused inquests to restart. However, we aw...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Mr Calvin Bailey",
+        "dateTabled": "2026-06-16",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10373"
+      },
+      {
+        "id": 1916769,
+        "uin": "10369",
+        "heading": "Intelligence Services: Northern Ireland",
+        "questionText": "To ask the Secretary of State for Defence, how many security service personnel have been charged with criminal offences alleged to have been committed during the Troubles since 1998.",
+        "answerText": "The Ministry of Defence does not hold records relating to Security Service personnel.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-16",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10369"
+      },
+      {
+        "id": 1916766,
+        "uin": "10366",
+        "heading": "Intelligence Services: Northern Ireland",
+        "questionText": "To ask the Secretary of State for Defence, how many security service personnel have been investigated by (a) the police and (b) the Historic Enquiries Team for allegations of criminal misconduct during the Troubles.",
+        "answerText": "The Ministry of Defence does not hold records relating to Security Service personnel.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-16",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10366"
+      },
+      {
+        "id": 1916767,
+        "uin": "10367",
+        "heading": "Terrorism: Northern Ireland",
+        "questionText": "To ask the Secretary of State for Defence, how many cases have been referred to the police in Northern Ireland for investigation relating to alleged Troubles’ related crimes.",
+        "answerText": "The Ministry of Defence does not record or hold information on referrals to the police for investigation, either in Northern Ireland or in any part of the UK, including allegations of crimes relating to the Troubles.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-16",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10367"
+      },
+      {
+        "id": 1916771,
+        "uin": "10371",
+        "heading": "Armed Forces: Northern Ireland",
+        "questionText": "To ask the Secretary of State for Defence, how many civil claims have been notified to his Department on events that occurred during the Troubles in Northern Ireland from 1969.",
+        "answerText": "The Ministry of Defence is currently managing 957 civil claims relating to events connected with the Troubles in Northern Ireland.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Louise Sandher-Jones",
+        "dateTabled": "2026-06-16",
+        "dateForAnswer": "2026-06-18",
+        "dateAnswered": "2026-06-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10371"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 13,
+        "Aye": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2401,
+          "number": 50,
+          "date": "2026-07-07",
+          "title": "Opposition Day: Early release of prisoners",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 115,
+          "noCount": 0,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2401"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2366,
+          "number": 16,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 12",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 94,
+          "noCount": 297,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2366"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 13514,
+            "text": "Name of donor: Taiwanese Ministry of Foreign Affairs Address of donor: 2 Ketagalan Blvd, Zhongzheng District, Taipei City 100202, Taiwan Estimate of the probable value (or amount of any donation): Flights and transportation (£4,587), Accommodation (£885), Hospitality (£335), value £5,807 Destination of visit: Taiwan Dates of visit: 27 September 2025 to 3 October 2025 Purpose of visit: Travelled to Taiwan as part of a parliamentary delegation to explore cooperation opportunities between the UK and Taiwan (Registered 13 October 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15139,
+            "text": "Name of donor: Konrad Adenauer Stiftung Address of donor: 42 Essex Street London WC2R 3JF Estimate of the probable value (or amount of any donation): Flights and transportation (£467.35), Accommodation (£330), Meals (£105), value £902.35 Destination of visit: Italy Dates of visit: 17 April 2026 to 19 April 2026 Purpose of visit: Participation in the German British Dialogue (Registered 30 April 2026)",
+            "createdWhen": "2026-05-19",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Northern Ireland",
+        "date": "2026-06-17",
+        "summary": "To ask the Secretary of State for Defence, of the civil claims notified to his Department relating to events that occurred during the Troubles in Northern Ireland from 1969, how many of these claims have led to compensation being paid.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10773"
+      },
+      {
+        "kind": "Written question",
+        "title": "Veterans: Northern Ireland",
+        "date": "2026-06-17",
+        "summary": "To ask the Secretary of State for Defence, of the civil claims notified to his Department relating to events that occurred during the Troubles in Northern Ireland from 1969, how many veterans were involved in the events relating to these civil claims.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10772"
+      },
+      {
+        "kind": "Written question",
+        "title": "Intelligence Services: Northern Ireland",
+        "date": "2026-06-17",
+        "summary": "To ask the Secretary of State for Defence, of the security service personnel who have been charged with criminal offences alleged to have been committed during the Troubles between 1969 and1998, what sentences were imposed on those who were convicted.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10771"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Northern Ireland",
+        "date": "2026-06-16",
+        "summary": "To ask the Secretary of State for Defence, how many personnel in the (a) military, (b) police and (c) intelligence services who were charged and prosecuted in Northern Ireland for any criminal offence connected to the Troubles during the period of Operati",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10418"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Northern Ireland",
+        "date": "2026-06-16",
+        "summary": "To ask the Secretary of State for Defence, how many (a) military, (b) police, (c) security forces and (d) intelligence personnel were (i) charged and (ii) prosecuted in Northern Ireland for a criminal offence connected to the Troubles between 1969 and1998",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10364"
+      },
+      {
+        "kind": "Written question",
+        "title": "Veterans: Coroners",
+        "date": "2026-06-16",
+        "summary": "To ask the Secretary of State for Defence, how many veterans are involved in outstanding inquests.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10373"
+      },
+      {
+        "kind": "Written question",
+        "title": "Intelligence Services: Northern Ireland",
+        "date": "2026-06-16",
+        "summary": "To ask the Secretary of State for Defence, how many security service personnel have been charged with criminal offences alleged to have been committed during the Troubles since 1998.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10369"
+      },
+      {
+        "kind": "Written question",
+        "title": "Intelligence Services: Northern Ireland",
+        "date": "2026-06-16",
+        "summary": "To ask the Secretary of State for Defence, how many security service personnel have been investigated by (a) the police and (b) the Historic Enquiries Team for allegations of criminal misconduct during the Troubles.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10366"
+      },
+      {
+        "kind": "Written question",
+        "title": "Terrorism: Northern Ireland",
+        "date": "2026-06-16",
+        "summary": "To ask the Secretary of State for Defence, how many cases have been referred to the police in Northern Ireland for investigation relating to alleged Troubles’ related crimes.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10367"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Northern Ireland",
+        "date": "2026-06-16",
+        "summary": "To ask the Secretary of State for Defence, how many civil claims have been notified to his Department on events that occurred during the Troubles in Northern Ireland from 1969.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10371"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "No; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Registered interest",
+        "title": "4. Visits outside the UK",
+        "date": "2025-10-21",
+        "summary": "Name of donor: Taiwanese Ministry of Foreign Affairs Address of donor: 2 Ketagalan Blvd, Zhongzheng District, Taipei City 100202, Taiwan Estimate of the probable value (or amount of any donation): Flights and transportation (£4,587), Accommodation (£885), Hospitality (£335), value £5,807 Destination of visit: Taiwan Dates of visit: 27 September 2025 to 3 October 2025 Purpose of visit: Travelled to Taiwan as part of a parliamentary delegation to explore cooperation opportunities between the UK and Taiwan (Registered 13 October 2025)",
+        "sourceUrl": "https://members.parliament.uk/members/commons/interests"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

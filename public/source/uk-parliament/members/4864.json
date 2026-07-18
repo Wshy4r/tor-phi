@@ -1,0 +1,1091 @@
+{
+  "member": {
+    "id": "4864",
+    "slug": "olivia-blake",
+    "name": "Olivia Blake",
+    "sortName": "Blake, Olivia",
+    "fullTitle": "Olivia Blake MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Sheffield Hallam",
+    "house": "House of Commons",
+    "role": "MP for Sheffield Hallam",
+    "officialUrl": "https://members.parliament.uk/member/4864/contact",
+    "recordUrl": "/country/uk/parliament/olivia-blake/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4864/Thumbnail",
+    "currentMembership": {
+      "constituency": "Sheffield Hallam",
+      "constituencyId": 4283,
+      "startDate": "2019-12-12",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "olivia.blake.mp@parliament.uk"
+      ],
+      "phones": [
+        "0207 219 3552"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "https://www.facebook.com/oliviablakeuk",
+        "https://www.instagram.com/oliviablake_mp/",
+        "https://twitter.com/_oliviablake"
+      ],
+      "websites": [],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/oliviablakeuk"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/oliviablake_mp/"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/_oliviablake"
+        ]
+      ]
+    },
+    "synopsis": "Olivia Blake is the Labour MP for Sheffield Hallam , and has been an MP continually since 12 December 2019.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/olivia-blake/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4864/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4864"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4864/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4864/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4864/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4864/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4864"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-01",
+    "registeredInterestCount": 6
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/olivia-blake/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4864/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4864"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4864/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4864/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4864/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4864/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4864"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1922993,
+        "uin": "15018",
+        "heading": "Sheep: Animal Welfare",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what progress her Department has made in implementing the Animal Welfare Committee's recommendations on lamb castration and tail docking.",
+        "answerText": "As a result of considering the recommendations in the Animal Welfare Committee’s Opinion on the Implications of Castration and Tail Docking for the Welfare of Lambs, the Government issued a UK-wide consultation on lamb castration and tail docking which la...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15018"
+      },
+      {
+        "id": 1922996,
+        "uin": "15021",
+        "heading": "Local Government: Recall Petitions",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will introduce recall petition powers for communities in relation to their elected council representatives.",
+        "answerText": "The government is not currently proposing to introduce recall petition powers for councillors. Instead, we are committed to strengthening the local government standards regime through a comprehensive package of reforms. The government response to the ‘Str...",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Alison McGovern",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15021"
+      },
+      {
+        "id": 1923124,
+        "uin": "15022",
+        "heading": "Kashmir: Politics and Government",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what coordination has taken place between her Department and international partners regarding the ongoing issues in Jammu and Kashmir.",
+        "answerText": "I refer the Hon Member to the answer provided on 16 June in response to Question 7530, and I can assure her that we are continuing to monitor developments carefully, and discuss them with our international counterparts as necessary.",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Mr Hamish Falconer",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15022"
+      },
+      {
+        "id": 1922994,
+        "uin": "15019",
+        "heading": "Road Works",
+        "questionText": "To ask the Secretary of State for Transport, if she will review the national standards that utility companies are required to follow for roads and pavements, including reviewing section 58 of the Highways Act 1980 to reduce the requirement for a resurface",
+        "answerText": "Restrictions on street works following substantial road works are provided for under section 58 of the New Roads and Street Works Act 1991. The criteria for applying those restrictions, including the circumstances in which road works qualify as substantia...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15019"
+      },
+      {
+        "id": 1919454,
+        "uin": "12554",
+        "heading": "Osteoporosis: Diagnosis",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the causes of delays in issuing Dual-Energy X-ray Absorptiometry results within NHS trusts in England.",
+        "answerText": "Ensuring patients receive their diagnostic test results, including dual-energy X-ray absorptiometry (DEXA) results quickly is a priority for the Government.NHS England guidance, published in August 2023, sets out that imaging reports must be provided with...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12554"
+      },
+      {
+        "id": 1919456,
+        "uin": "12556",
+        "heading": "Osteoporosis: Diagnosis",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of delayed Dual-Energy X-ray Absorptiometry scan results on timely diagnosis and treatment of osteoporosis.",
+        "answerText": "NHS England guidance sets out that imaging reports must be provided within four weeks, or 28 days, of image acquisition. All National Health Service providers and imaging networks are expected to meet this. Guidance can be found at the following link:http...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12556"
+      },
+      {
+        "id": 1919466,
+        "uin": "12566",
+        "heading": "Reserve Forces: Long Service Awards",
+        "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the adequacy of current eligibility criteria for long-service medallic recognition for former Volunteer Reserve personnel who completed service prior to 1 April 1999; an",
+        "answerText": "Prior to the introduction of the Volunteer Reserves Service Medal in April 1999, service in the Reserve Forces was appropriately recognised by the separate decorations and medals that were awarded respectively to officers and other ranks in each of the Se...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Mr Calvin Bailey",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-06-30",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12566"
+      },
+      {
+        "id": 1918796,
+        "uin": "11793",
+        "heading": "Deprivation of Liberty Safeguards: Disability",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the implications for the rights of disabled people of the recent Supreme Court ruling concerning the assessment of deprivation of liberty.",
+        "answerText": "The Department’s priority is to safeguard vulnerable people and ensure their rights are protected. We are considering the Supreme Court’s judgment carefully, which sets out the factors to be applied when determining whether a person is deprived of their l...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-06-22",
+        "dateForAnswer": "2026-06-24",
+        "dateAnswered": "2026-06-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-22/11793"
+      },
+      {
+        "id": 1901512,
+        "uin": "128429",
+        "heading": "Shareholders: Digital Technology",
+        "questionText": "To ask the Chancellor of the Exchequer, what consideration has the Government made of the potential impact of shareholder digitisation on a) cooperatives, b) small businesses and c) social enterprises.",
+        "answerText": "The Digitisation Taskforce, chaired by Sir Douglas Flint, published a report in July 2025 with its recommendations on how to modernise the UK’s shareholding framework, including removing paper shares. The report focused on companies whose securities are t...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-04-20",
+        "dateForAnswer": "2026-04-22",
+        "dateAnswered": "2026-04-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-20/128429"
+      },
+      {
+        "id": 1901501,
+        "uin": "128418",
+        "heading": "Immigration: Domestic Abuse",
+        "questionText": "To ask the Secretary of State for the Home Department, what assessment her department has made of the potential impact of the proposed changes to indefinite leave to remain for survivors of domestic abuse.",
+        "answerText": "Proposals for introducing an earned settlement model, as set out in the Command Paper “A Fairer Pathway to Settlement” (CP1448), were subject to a public consultation, which opened on 20 November 2025 and closed on 12 February 2026.As part of this consult...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Mike Tapp",
+        "dateTabled": "2026-04-20",
+        "dateForAnswer": "2026-04-22",
+        "dateAnswered": "2026-04-22",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-20/128418"
+      },
+      {
+        "id": 1897635,
+        "uin": "125581",
+        "heading": "Civil Servants: Workplace Pensions",
+        "questionText": "To ask the Minister for the Cabinet Office, what assessment he has made of the potential merits of providing compensation payments to those impacted by delays to the Civil Service Pension Scheme.",
+        "answerText": "The Cabinet Office awarded the contract to administer the Civil Service Pension Scheme to Capita in November 2023 under the previous government. The issues and delays facing a number of civil servants and pension scheme members in receiving their pension ...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Satvir Kaur",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/125581"
+      },
+      {
+        "id": 1897536,
+        "uin": "125482",
+        "heading": "Employment Schemes: Chronic Illnesses",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what measures he is taking to support long-term sick people to gain paid and accessible employment.",
+        "answerText": "Long-term sickness continues to be the most common reason for economic inactivity among the working age population. We know that good work is good for health, so we want everyone to get work and get on in work, whoever they are and wherever they live. In ...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Dame Diana Johnson",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/125482"
+      },
+      {
+        "id": 1897540,
+        "uin": "125486",
+        "heading": "Childcare: Fees and Charges",
+        "questionText": "To ask the Secretary of State for Education, whether she plans to take steps to prevent childcare providers from asking parents of children who are receiving publicly-funded care to pay extra charges.",
+        "answerText": "It is important that government childcare entitlements are accessible and affordable for families. Government funding is intended to deliver 15 or 30 hours a week of free, high-quality, flexible childcare. The 15 or 30 hours must be able to be accessed fr...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/125486"
+      },
+      {
+        "id": 1894867,
+        "uin": "123770",
+        "heading": "Asylum: Temporary Accommodation",
+        "questionText": "To ask the Secretary of State for the Home Department, what alternative accommodation will be provided to women and children asylum seekers once they are removed from hotels.",
+        "answerText": "Home Office officials keep the asylum accommodation estate under continual review. As part of this estate management, operational adjustments are made on an ongoing basis to ensure sufficient and suitable capacity is maintained to meet expected levels of ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Alex Norris",
+        "dateTabled": "2026-03-25",
+        "dateForAnswer": "2026-04-13",
+        "dateAnswered": "2026-04-17",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-25/123770"
+      },
+      {
+        "id": 1894848,
+        "uin": "123756",
+        "heading": "Great British Railways: Workplace Pensions",
+        "questionText": "To ask the Secretary of State for Transport, pursuant to the answer to question UIN 120893 on 24 March 2026, what steps she is taking to protect the pensions of those who joined the Rail Pensions Scheme after midnight on 4 November 1993 in the transition",
+        "answerText": "We plan for the Railways Pension Scheme to continue to be the primary vehicle through which most rail employees build up their pension provision. This includes those employees who started working post-1993. The Railways Pension Scheme provides a defined b...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-03-25",
+        "dateForAnswer": "2026-04-13",
+        "dateAnswered": "2026-04-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-25/123756"
+      },
+      {
+        "id": 1894866,
+        "uin": "123769",
+        "heading": "Asylum: Women",
+        "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the potential impact of proposed asylum and returns reforms on women.",
+        "answerText": "Equality impacts will be considered for individual policies as they continue to be developed and will be kept under review to ensure there are no unintended impacts.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Alex Norris",
+        "dateTabled": "2026-03-25",
+        "dateForAnswer": "2026-04-13",
+        "dateAnswered": "2026-04-13",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-25/123769"
+      },
+      {
+        "id": 1893167,
+        "uin": "122309",
+        "heading": "Environment Protection: Water Companies",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she has assessed the potential merits of a statutory mechanism similar to Section 37 of the Health and Safety at Work etc. Act 1974 for environmental damage overseen by senior",
+        "answerText": "The Government set out its new vision for water through a White Paper published on 20 January 2026. To truly turn around the water sector we need the right people in to do the job. We want the sector to be attractive to high quality senior leaders, acting...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Emma Hardy",
+        "dateTabled": "2026-03-19",
+        "dateForAnswer": "2026-03-23",
+        "dateAnswered": "2026-03-24",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-19/122309"
+      },
+      {
+        "id": 1892702,
+        "uin": "121916",
+        "heading": "Music: Streaming",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether she has made an assessment of the potential merits of bringing forward legislative proposals on music streaming royalties with respect to a) the adequacy of renumeration for musicians and",
+        "answerText": "Ensuring that music creators are fairly compensated for their work is crucial to the ongoing success of our world-class music industry, as this is what allows them to invest their time, effort, and money into creating music.Through the Creator Remuneratio...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Ian Murray",
+        "dateTabled": "2026-03-18",
+        "dateForAnswer": "2026-03-23",
+        "dateAnswered": "2026-03-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-18/121916"
+      },
+      {
+        "id": 1879006,
+        "uin": "111224",
+        "heading": "Supply Teachers: Conditions of Employment",
+        "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the potential merits of a Substitute Teachers Register to help ensure supply teachers are not underpaid or maltreated by their employer.",
+        "answerText": "I refer my hon. Friend, the Member for Sheffield Hallam to the answer of 26 February 2026 to Question 109848",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Georgia Gould",
+        "dateTabled": "2026-02-05",
+        "dateForAnswer": "2026-02-09",
+        "dateAnswered": "2026-03-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-05/111224"
+      },
+      {
+        "id": 1875775,
+        "uin": "108815",
+        "heading": "Strokes: Transcranial Magnetic Stimulation",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has been made of the potential merits of using Transcranial Magnetic Stimulation as treatment for post-stroke complications other than depression.",
+        "answerText": "The 2023 National Institute for Health and Care guideline NG236, on recommendations on stroke rehabilitation, reviewed the evidence and concluded that whilst there was some evidence on the effect of repetitive transcranial magnetic stimulation in the shor...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Dr Zubir Ahmed",
+        "dateTabled": "2026-01-27",
+        "dateForAnswer": "2026-01-29",
+        "dateAnswered": "2026-02-03",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-27/108815"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 14,
+        "No": 11
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (b) Any other support not included in Category 2(a)",
+        "items": [
+          {
+            "id": 12151,
+            "text": "Name of donor: The Refugee, Asylum and Migration Policy Project (RAMP) Address of donor: The Courtyard, High Street, Ascot SL5 7HP Amount of donation or nature and value if donation in kind: Research services provided for two days a week for up to seventy-eight days between 1 April 2025 to 31 December 2025 (value stated is the maximum), value £19,500 Date received: 1 April 2025 to 31 December 2025 Date accepted: 1 April 2025 Donor status: company, registration 12373468 (Registered 2 April 2025)",
+            "createdWhen": "2026-05-08",
+            "amendedWhen": "2025-04-08",
+            "isCorrection": false
+          },
+          {
+            "id": 13111,
+            "text": "Name of donor: Zero Hour Ltd Address of donor: Second Floor, 123 Promenade, Cheltenham, England, GL50 1NW Amount of donation or nature and value if donation in kind: Amount of donation or nature and value if donation in kind: Administration and coordination of the Climate and Nature Crisis Caucus, which I chair, provided by Zero Hour Ltd, value £9,147 Date received: 15 July 2025 to 15 July 2026 Date accepted: 15 July 2025 Donor status: company, registration 12846343 (Registered 12 August 2025)",
+            "createdWhen": "2025-09-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14253,
+            "text": "Name of donor: The Refugee, Asylum and Migration Policy Project (RAMP) Address of donor: The Courtyard, High Street, Ascot SL5 7HP Amount of donation or nature and value if donation in kind: Research services provided for two days a week between 1st January 2026 and 31st March 2026 (value stated is the maximum), value £3,250 Date received: 1 January 2026 to 31 March 2026 Date accepted: 1 January 2026 Donor status: company, registration 12373468 (Registered 5 January 2026)",
+            "createdWhen": "2026-01-06",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15027,
+            "text": "Name of donor: The Refugee, Asylum and Migration Policy Project (RAMP) Address of donor: The Courtyard, High Street, Ascot SL5 7HP Amount of donation or nature and value if donation in kind: Research services shared with Tony Vaughan and Lord Rees between 1st April 2026 and 31st December 2026, (value stated is the maximum), value £9,945 Date received: 1 April 2026 to 31 December 2026 Date accepted: 1 April 2026 Donor status: company, registration 12373468 (Registered 16 April 2026)",
+            "createdWhen": "2026-04-29",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 14170,
+            "text": "Name of donor: Myleene Klass Address of donor: private Amount of donation or nature and value if donation in kind: Two tickets and hospitality to see Hans Zimmer for myself and my husband, value £450 Date received: 1 December 2025 Date accepted: 1 December 2025 Donor status: individual (Registered 17 December 2025)",
+            "createdWhen": "2026-01-06",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 12805,
+            "text": "Name of donor: Refugee Asylum and Migration Policy (RAMP) Address of donor: The Courtyard, High Street, Ascot SL5 7HP Estimate of the probable value (or amount of any donation): Transportation and food (£260 per person) and translation costs (£175 per person), value £435 Destination of visit: France (Calais) Dates of visit: 12 June 2025 to 12 June 2025 Purpose of visit: To learn more about UK/French cooperation to tackle Channel crossings. (Registered 4 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Kashmir: Politics and Government",
+        "date": "2026-07-01",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what coordination has taken place between her Department and international partners regarding the ongoing issues in Jammu and Kashmir.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/15022"
+      },
+      {
+        "kind": "Written question",
+        "title": "Osteoporosis: Diagnosis",
+        "date": "2026-06-23",
+        "summary": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the causes of delays in issuing Dual-Energy X-ray Absorptiometry results within NHS trusts in England.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12554"
+      },
+      {
+        "kind": "Written question",
+        "title": "Osteoporosis: Diagnosis",
+        "date": "2026-06-23",
+        "summary": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of delayed Dual-Energy X-ray Absorptiometry scan results on timely diagnosis and treatment of osteoporosis.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12556"
+      },
+      {
+        "kind": "Written question",
+        "title": "Reserve Forces: Long Service Awards",
+        "date": "2026-06-23",
+        "summary": "To ask the Secretary of State for Defence, what assessment his Department has made of the adequacy of current eligibility criteria for long-service medallic recognition for former Volunteer Reserve personnel who completed service prior to 1 April 1999; an",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12566"
+      },
+      {
+        "kind": "Written question",
+        "title": "Asylum: Temporary Accommodation",
+        "date": "2026-03-25",
+        "summary": "To ask the Secretary of State for the Home Department, what alternative accommodation will be provided to women and children asylum seekers once they are removed from hotels.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-25/123770"
+      },
+      {
+        "kind": "Written question",
+        "title": "Asylum: Women",
+        "date": "2026-03-25",
+        "summary": "To ask the Secretary of State for the Home Department, what assessment she has made of the potential impact of proposed asylum and returns reforms on women.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-25/123769"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      },
+      {
+        "kind": "Registered interest",
+        "title": "2. (b) Any other support not included in Category 2(a)",
+        "date": "2025-04-08",
+        "summary": "Name of donor: The Refugee, Asylum and Migration Policy Project (RAMP) Address of donor: The Courtyard, High Street, Ascot SL5 7HP Amount of donation or nature and value if donation in kind: Research services provided for two days a week for up to seventy-eight days between 1 April 2025 to 31 December 2025 (value stated is the maximum), value £19,500 Date received: 1 April 2025 to 31 December 2025 Date accepted: 1 April 2025 Donor status: company, registration 12373468 (Registered 2 April 2025)",
+        "sourceUrl": "https://members.parliament.uk/members/commons/interests"
+      },
+      {
+        "kind": "Registered interest",
+        "title": "2. (b) Any other support not included in Category 2(a)",
+        "date": "2025-09-02",
+        "summary": "Name of donor: Zero Hour Ltd Address of donor: Second Floor, 123 Promenade, Cheltenham, England, GL50 1NW Amount of donation or nature and value if donation in kind: Amount of donation or nature and value if donation in kind: Administration and coordination of the Climate and Nature Crisis Caucus, which I chair, provided by Zero Hour Ltd, value £9,147 Date received: 15 July 2025 to 15 July 2026 Date accepted: 15 July 2025 Donor status: company, registration 12846343 (Registered 12 August 2025)",
+        "sourceUrl": "https://members.parliament.uk/members/commons/interests"
+      },
+      {
+        "kind": "Registered interest",
+        "title": "2. (b) Any other support not included in Category 2(a)",
+        "date": "2026-01-06",
+        "summary": "Name of donor: The Refugee, Asylum and Migration Policy Project (RAMP) Address of donor: The Courtyard, High Street, Ascot SL5 7HP Amount of donation or nature and value if donation in kind: Research services provided for two days a week between 1st January 2026 and 31st March 2026 (value stated is the maximum), value £3,250 Date received: 1 January 2026 to 31 March 2026 Date accepted: 1 January 2026 Donor status: company, registration 12373468 (Registered 5 January 2026)",
+        "sourceUrl": "https://members.parliament.uk/members/commons/interests"
+      },
+      {
+        "kind": "Registered interest",
+        "title": "2. (b) Any other support not included in Category 2(a)",
+        "date": "2026-04-29",
+        "summary": "Name of donor: The Refugee, Asylum and Migration Policy Project (RAMP) Address of donor: The Courtyard, High Street, Ascot SL5 7HP Amount of donation or nature and value if donation in kind: Research services shared with Tony Vaughan and Lord Rees between 1st April 2026 and 31st December 2026, (value stated is the maximum), value £9,945 Date received: 1 April 2026 to 31 December 2026 Date accepted: 1 April 2026 Donor status: company, registration 12373468 (Registered 16 April 2026)",
+        "sourceUrl": "https://members.parliament.uk/members/commons/interests"
+      },
+      {
+        "kind": "Registered interest",
+        "title": "4. Visits outside the UK",
+        "date": "2025-07-15",
+        "summary": "Name of donor: Refugee Asylum and Migration Policy (RAMP) Address of donor: The Courtyard, High Street, Ascot SL5 7HP Estimate of the probable value (or amount of any donation): Transportation and food (£260 per person) and translation costs (£175 per person), value £435 Destination of visit: France (Calais) Dates of visit: 12 June 2025 to 12 June 2025 Purpose of visit: To learn more about UK/French cooperation to tackle Channel crossings. (Registered 4 July 2025)",
+        "sourceUrl": "https://members.parliament.uk/members/commons/interests"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

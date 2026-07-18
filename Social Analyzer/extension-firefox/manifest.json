@@ -1,0 +1,51 @@
+{
+  "manifest_version": 2,
+  "name": "Twitter Analyzer - Firefox Capture",
+  "version": "1.0.0",
+  "description": "Captures tweets from X/Twitter in the background and sends them to your local Twitter Analyzer site.",
+  "permissions": [
+    "storage",
+    "cookies",
+    "alarms",
+    "activeTab",
+    "tabs",
+    "https://twitter.com/*",
+    "https://x.com/*",
+    "http://localhost:5001/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://twitter.com/*",
+        "https://x.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "icons/icon-white.svg",
+      "32": "icons/icon-white.svg"
+    },
+    "default_popup": "popup.html",
+    "default_title": "Twitter Analyzer"
+  },
+  "web_accessible_resources": [
+    "injected.js"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "twitter-analyzer-firefox@local",
+      "strict_min_version": "115.0"
+    }
+  }
+}

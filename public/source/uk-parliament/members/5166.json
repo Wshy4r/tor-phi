@@ -1,0 +1,1024 @@
+{
+  "member": {
+    "id": "5166",
+    "slug": "mark-sewards",
+    "name": "Mark Sewards",
+    "sortName": "Sewards, Mark",
+    "fullTitle": "Mark Sewards MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Leeds South West and Morley",
+    "house": "House of Commons",
+    "role": "MP for Leeds South West and Morley",
+    "officialUrl": "https://members.parliament.uk/member/5166/contact",
+    "recordUrl": "/country/uk/parliament/mark-sewards/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5166/Thumbnail",
+    "currentMembership": {
+      "constituency": "Leeds South West and Morley",
+      "constituencyId": 4139,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "mark.sewards.mp@parliament.uk"
+      ],
+      "phones": [
+        "0113 529 0596"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "62 Queen Street, Morley, LS27 9BP",
+        "https://www.facebook.com/MarkSewardsforLeedsSWandMorley/",
+        "https://x.com/markjsewards"
+      ],
+      "websites": [],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/MarkSewardsforLeedsSWandMorley/"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://x.com/markjsewards"
+        ]
+      ]
+    },
+    "synopsis": "Mark Sewards is the Labour MP for Leeds South West and Morley , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/mark-sewards/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5166/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5166"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5166/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5166/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5166/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5166/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5166"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-02",
+    "registeredInterestCount": 8
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/mark-sewards/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5166/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5166"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5166/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5166/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5166/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5166/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5166"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1923753,
+        "uin": "15555",
+        "heading": "Medical Examiners",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to ensure the sharing of best practice between Medical Examiner offices.",
+        "answerText": "The National Health Service ensures the sharing of best practice between medical examiner offices through a centralised, tiered governance structure overseen by the National Medical Examiner (NME), which includes regular NHS England and NME bulletins, sha...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15555"
+      },
+      {
+        "id": 1923752,
+        "uin": "15554",
+        "heading": "Medical Examiners",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether processes are in place to investigate Medical Examiner offices whose turnaround times consistently exceed the national average.",
+        "answerText": "The National Medical Examiner (NME) Annual Report for 2025 has assessed the potential impact of medical examiner scrutiny on the completion of Medical Certificates of Cause of Death (MCCDs). The typical time to register deaths is seven to eight days, comp...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15554"
+      },
+      {
+        "id": 1923751,
+        "uin": "15553",
+        "heading": "Medical Examiners: Death Certificates",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to reduce delays in areas where Medical Examiner offices have reported the longest turnaround times for scrutiny of medical certificates of cause of death.",
+        "answerText": "The National Medical Examiner (NME) Annual Report for 2025 has assessed the potential impact of medical examiner scrutiny on the completion of Medical Certificates of Cause of Death (MCCDs). The typical time to register deaths is seven to eight days, comp...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15553"
+      },
+      {
+        "id": 1923749,
+        "uin": "15551",
+        "heading": "Medical Examiners: Death Certificates",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of delays in the medical examiner process on bereaved families and funeral arrangements.",
+        "answerText": "The National Medical Examiner (NME) Annual Report for 2025 has assessed the potential impact of medical examiner scrutiny on the completion of Medical Certificates of Cause of Death (MCCDs). The typical time to register deaths is seven to eight days, comp...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15551"
+      },
+      {
+        "id": 1923748,
+        "uin": "15550",
+        "heading": "Medical Examiners: Death Certificates",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of Medical Examiner scrutiny on the timeliness of the completion of Medical Certificates of Cause of Death; and what assessment he has made of tr",
+        "answerText": "The National Medical Examiner (NME) Annual Report for 2025 has assessed the potential impact of medical examiner scrutiny on the completion of Medical Certificates of Cause of Death (MCCDs). The typical time to register deaths is seven to eight days, comp...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15550"
+      },
+      {
+        "id": 1923757,
+        "uin": "15557",
+        "heading": "Medical Examiners",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to provide additional funding to Medical Examiner offices experiencing persistent backlogs.",
+        "answerText": "Funding for the medical examiner system is provided by integrated care boards (ICBs) direct to medical examiner offices and data from the National Medical Examiner report for 2025 indicate that staffing levels are broadly in line with the figures set out ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15557"
+      },
+      {
+        "id": 1923755,
+        "uin": "15556",
+        "heading": "Medical Examiners",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of staffing and resources available to Medical Examiner offices.",
+        "answerText": "Funding for the medical examiner system is provided by integrated care boards (ICBs) direct to medical examiner offices and data from the National Medical Examiner report for 2025 indicate that staffing levels are broadly in line with the figures set out ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15556"
+      },
+      {
+        "id": 1923747,
+        "uin": "15549",
+        "heading": "Medical Examiners",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether he has plans to conduct a review of the Medical Examiner system introduced in September 2024.",
+        "answerText": "The National Medical Examiner (NME) is responsible for oversight of the medical examiner system and provides guidance and professional leadership to medical examiners in England and Wales.The NME publishes an annual report which provides a review of how m...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15549"
+      },
+      {
+        "id": 1923750,
+        "uin": "15552",
+        "heading": "Medical Examiners",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to introduce national communication standards for Medical Examiner offices.",
+        "answerText": "The Medical Examiners Regulations introduced in September 2024 set out the requirements for medical examiners’ terms and conditions. This includes the requirement for the bereaved to be an offered an opportunity to discuss the death and to raise any conce...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15552"
+      },
+      {
+        "id": 1923758,
+        "uin": "15558",
+        "heading": "Medical Examiners",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how many Medical Examiners and Medical Examiner Officers have been recruited since the implementation of the death certification reforms in September 2024.",
+        "answerText": "The workforce at medical examiner offices in 2025 is broadly in line with modelled expectations. In Wales, the medical examiner system workforce comprised of 12.8 whole time equivalent (WTE) medical examiners and 39.1 WTE medical examiner officers. In Eng...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-07-02",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-02/15558"
+      },
+      {
+        "id": 1920943,
+        "uin": "13669",
+        "heading": "GCE A-level: Assessments",
+        "questionText": "To ask the Secretary of State for Education, what recent discussions her Department has had with Ofqual on ensuring that grade boundaries fairly reflect variations in the difficulty of A Level examination papers.",
+        "answerText": "Each year, exam boards review a range of evidence when setting ground boundaries, including how students performed and the level of difficulty of the paper. If a paper is found to be more difficult than in previous years, grade boundaries will be set to r...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Georgia Gould",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13669"
+      },
+      {
+        "id": 1920956,
+        "uin": "13670",
+        "heading": "Pension Credit",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking to ensure that information on Pension Credit claims, mandatory reconsiderations and backdated payments is accessible to people who are classed as being digitally excl",
+        "answerText": "The Government is committed to ensuring that Pension Credit services remain accessible to people who are digitally excluded. Pension Credit claims can be made online, by freephone telephone, or by completing a paper application form. For customers who are...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Torsten Bell",
+        "dateTabled": "2026-06-26",
+        "dateForAnswer": "2026-06-30",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-26/13670"
+      },
+      {
+        "id": 1919945,
+        "uin": "12921",
+        "heading": "Livestock: Animal Welfare",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps his Department is taking to establish a centralised system for publishing farmed animal welfare indicators, including mortality data.",
+        "answerText": "The Government is not establishing a centralised system and already publishes indicators relevant to farmed animal welfare, for example, the percentage of eggs coming from different laying hen production systems. The Food Standards Agency separately publi...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2026-06-24",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-24/12921"
+      },
+      {
+        "id": 1919944,
+        "uin": "12920",
+        "heading": "Livestock: Animal Welfare",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department plans to require the routine publication of farmed animal welfare inspection reports across all farmed species.",
+        "answerText": "The Government recognises the importance of transparency where it relates to the welfare of farmed animals. The Government publishes the Multi Annual National Control Plan (MANCP) Annual Reports which includes national data on inspections.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2026-06-24",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-24/12920"
+      },
+      {
+        "id": 1919245,
+        "uin": "12393",
+        "heading": "Business Premises: Deposits",
+        "questionText": "To ask the Secretary of State for Justice, what assessment her Department has made of the accessibility of legal redress for small businesses in disputes relating to commercial property holding deposits.",
+        "answerText": "The Ministry of Justice has not conducted a specific assessment of this individual issue.We are aware that holding deposits are a common practice in negotiations for commercial premises. These are a private matter between landlords and businesses. However...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Sarah Sackman",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12393"
+      },
+      {
+        "id": 1919232,
+        "uin": "12380",
+        "heading": "Funerals: Regulation",
+        "questionText": "To ask the Secretary of State for Business and Trade, what recent discussions his Department has had with the Department of Health and Social Care on consumer protection measures for the funeral sector.",
+        "answerText": "The Department for Business and Trade has engaged with the Department of Health and Social Care to consider consumer protection issues in the funeral sector, including in relation to the Fuller Inquiry’s recommendations. The Government will publish its re...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-07-01",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12380"
+      },
+      {
+        "id": 1919483,
+        "uin": "12583",
+        "heading": "Child Arrangements Orders",
+        "questionText": "To ask the Secretary of State for Justice, what assessment his Department has made of the adequacy of decision making in family court proceedings relating to child arrangements.",
+        "answerText": "Judicial decisions in family court proceedings relating to child arrangements are a matter for the independent judiciary.The Government is, however, committed to ensuring that outcomes in the family justice system prioritise the welfare of children. That ...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Catherine Atkinson",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-06-30",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12583"
+      },
+      {
+        "id": 1919242,
+        "uin": "12390",
+        "heading": "Business Premises: Small Businesses",
+        "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department has made of the adequacy of protections for small businesses that pay holding deposits during negotiations for commercial premises.",
+        "answerText": "We know that holding deposits are common practice in negotiations for commercial premises. These are a private matter between landlords and businesses. However, we would always advise that parties seek independent advice before making any deposit. The Gov...",
+        "answeringBody": "Ministry of Housing, Communities and Local Government",
+        "answeringMember": "Nesil Caliskan",
+        "dateTabled": "2026-06-23",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-06-30",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-23/12390"
+      },
+      {
+        "id": 1914773,
+        "uin": "8705",
+        "heading": "Mental Health Services: Children and Young People",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to improve access to age-appropriate inpatient mental health care for children and young people.",
+        "answerText": "The Government is committed to ensuring that inpatient mental health care for children and young people is safe, high‑quality, recovery‑focused, and delivered in the least restrictive, age‑appropriate settings, supported by reforms to improve standards an...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-06-10",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-10/8705"
+      },
+      {
+        "id": 1910242,
+        "uin": "5197",
+        "heading": "Health Services: Patients",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to support engagement with people who are less likely to engage with health services directly, including groups experiencing health inequalities, under the propo",
+        "answerText": "The Patient Experience Directorate in the Department of Health and Social Care will focus on groups less likely to engage with health and care services. Statutory guidance published by the Department will make it clear that integrated care boards and loca...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Preet Kaur Gill",
+        "dateTabled": "2026-05-29",
+        "dateForAnswer": "2026-06-02",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-29/5197"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 13,
+        "No": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (b) Any other support not included in Category 2(a)",
+        "items": [
+          {
+            "id": 13204,
+            "text": "Name of donor: Neural Voice AI Address of donor: 8 Newcastle Close, Drighlington, West Yorkshire, United Kingdom, BD11 1DF Amount of donation or nature and value if donation in kind: The creation and hosting of an AI voice assistant, value £3,000 Date received: 5 August 2025 Date accepted: 5 August 2025 Donor status: company, registration 15208364 (Registered 1 September 2025)",
+            "createdWhen": "2025-10-23",
+            "amendedWhen": "2025-09-02",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 14562,
+            "text": "Name of donor: The Premier League Address of donor: Brunel Building, 57 North Wharf Road, London W2 1HQ Amount of donation or nature and value if donation in kind: Ticket and hospitality for Leeds v Arsenal Football Match at Elland Rd Stadium, Leeds, value £386.86 Date received: 31 January 2026 Date accepted: 31 January 2026 Donor status: company, registration 02719699 (Registered 18 February 2026)",
+            "createdWhen": "2026-02-24",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15173,
+            "text": "Name of donor: Leeds United Football Club Address of donor: Elland Road, Leeds LS11 0ES Amount of donation or nature and value if donation in kind: Single ticket, with hospitality in the Chairman's Suite,to watch Premier League home fixture LUFC vs Wolves, value £480 Date received: 18 April 2026 Date accepted: 18 April 2026 Donor status: company, registration 06233875 (Registered 6 May 2026)",
+            "createdWhen": "2026-05-19",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 12545,
+            "text": "Name of donor: Labour Friends of Israel Ltd Address of donor: BM LFI, London WC1N 3XX Estimate of the probable value (or amount of any donation): Flights, accommodation and meals, value £2,600 Destination of visit: Palestine and Israel Dates of visit: 25 May 2025 to 29 May 2025 Purpose of visit: Delegation to Israel and the Palestinian Territories. Meetings with politicians, academics, activists and diplomats. (Registered 20 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12683,
+            "text": "Name of donor: HM Government of Gibraltar Address of donor: Gibraltar House, 150 Strand, London Estimate of the probable value (or amount of any donation): Flights, accommodation and meals, value £1,031 Destination of visit: Gibraltar Dates of visit: 4 June 2025 to 6 June 2025 Purpose of visit: Familiarisation and briefing visit (Registered 23 June 2025)",
+            "createdWhen": "2025-07-01",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13461,
+            "text": "Name of donor: UK Friends of Ukraine Address of donor: 81 High Street, Cosham, Portsmouth, England, PO6 3BL Estimate of the probable value (or amount of any donation): Pass for Yes Conference, Transfers, food & drink, value £770.04 Destination of visit: Ukraine (Kyiv) Dates of visit: 10 September 2025 to 15 September 2025 Purpose of visit: Parliamentary Delegation to attend the YES Conference. (Registered 6 October 2025)",
+            "createdWhen": "2025-10-23",
+            "amendedWhen": "2025-10-08",
+            "isCorrection": false
+          },
+          {
+            "id": 14561,
+            "text": "Name of donor: Labour Friends of Israel Ltd Address of donor: BM LFI, London WC1N 3XX Estimate of the probable value (or amount of any donation): Transport, accommodation and meals, value £2,950 Destination of visit: Israel and Bahrain Dates of visit: 25 January 2026 to 29 January 2026 Purpose of visit: Delegation to Israel and the Kingdom of Bahrain. Meetings with politicians, academics, activists and diplomats. (Registered 13 February 2026)",
+            "createdWhen": "2026-02-24",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15650,
+            "text": "Name of donor: Armed Forces Parliamentary Trust Address of donor: Armed Forces Parliamentary Trust, c/o Houses of Parliament, London SW1A 1AA Estimate of the probable value (or amount of any donation): Outward flight to Brunei, as part of the AFPS programme., value £551.29 Destination of visit: Brunei Dates of visit: 24 May 2026 to 29 May 2026 Purpose of visit: Armed Forces Parliamentary Scheme educational visit to Brunei (Registered 22 June 2026)",
+            "createdWhen": "2026-06-30",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

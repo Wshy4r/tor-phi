@@ -1,0 +1,963 @@
+{
+  "member": {
+    "id": "5217",
+    "slug": "lloyd-hatton",
+    "name": "Lloyd Hatton",
+    "sortName": "Hatton, Lloyd",
+    "fullTitle": "Lloyd Hatton MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "South Dorset",
+    "house": "House of Commons",
+    "role": "MP for South Dorset",
+    "officialUrl": "https://members.parliament.uk/member/5217/contact",
+    "recordUrl": "/country/uk/parliament/lloyd-hatton/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5217/Thumbnail",
+    "currentMembership": {
+      "constituency": "South Dorset",
+      "constituencyId": 4300,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "lloyd.hatton.mp@parliament.uk"
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "Lloyd Hatton is the Labour MP for South Dorset , and has been an MP continually since 4 July 2024.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/lloyd-hatton/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5217/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5217"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5217/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5217/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5217/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5217/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5217"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-30",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/lloyd-hatton/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5217/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5217"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5217/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5217/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5217/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5217/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5217"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1924140,
+        "uin": "900824",
+        "heading": "Veterans: Government Assistance",
+        "questionText": "To ask the Secretary of State for Defence, what steps he is taking to support veterans in South Dorset constituency.",
+        "answerText": "The collaborative approach in South Dorset is a great example, delivering really effective outcomes – the county council, health services, and the local charity network all working together with us to provide real support. This, alongside the Veterans Str...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Mr Calvin Bailey",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-06",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/900824"
+      },
+      {
+        "id": 1917353,
+        "uin": "10840",
+        "heading": "Companies: Registration",
+        "questionText": "To ask the Secretary of State for Business and Trade, what is the total number of unique individuals registered as Persons of Significant Control on Companies House.",
+        "answerText": "We do not identify unique individuals as persons of significant control (PSC), but we do hold the total number of PSC appointments. These figures are published through our official statistics release, which provides the authoritative source for this data....",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Blair McDougall",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10840"
+      },
+      {
+        "id": 1916452,
+        "uin": "900449",
+        "heading": "Tax Evasion",
+        "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will take steps to include tackling international tax abuse in the Illicit Finance Summit.",
+        "answerText": "December's Illicit Finance Summit will focus on strengthening global enforcement against illicit finance, including by forging new partnerships on information sharing and asset recovery.It will also agree new partnerships to tackle high-risk methods of mo...",
+        "answeringBody": "Foreign, Commonwealth and Development Office",
+        "answeringMember": "Stephen Doughty",
+        "dateTabled": "2026-06-10",
+        "dateForAnswer": "2026-06-16",
+        "dateAnswered": "2026-06-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-10/900449"
+      },
+      {
+        "id": 1913841,
+        "uin": "7829",
+        "heading": "Companies: Registration",
+        "questionText": "To ask the Secretary of State for Business and Trade, how many individual Persons of Significant Control are registered on Companies House.",
+        "answerText": "As of 31st March 2025, there were 6,540,159 appointments for People with Significant Control (PSC) registered at Companies House. This is not the number of unique individuals on the register, but the number of appointments held. Another corporate body can...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Blair McDougall",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7829"
+      },
+      {
+        "id": 1911517,
+        "uin": "6241",
+        "heading": "Business: Taxation",
+        "questionText": "To ask the Chancellor of the Exchequer, how many large business tax disputes have been submitted to international arbitration in the last 5 years.",
+        "answerText": "The number of such disputes is fewer than five. HMRC are unable to disclosure the exact number as it could risk the identification of individual taxpayer(s). Arbitration operates as a valuable mechanism under double taxation treaties, to ensure there is r...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-06-02",
+        "dateForAnswer": "2026-06-04",
+        "dateAnswered": "2026-06-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-02/6241"
+      },
+      {
+        "id": 1908598,
+        "uin": "3868",
+        "heading": "Social Security Benefits: Overpayments",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what plans he has to assess the impact of benefit overpayments on the public purse.",
+        "answerText": "The Department publishes yearly estimates of fraud and error in the benefit system and the impact of overpayments on the public purse. The latest of which is available here: Fraud and error in the benefit system: financial year ending (FYE) 2026 estimates...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Andrew Western",
+        "dateTabled": "2026-05-21",
+        "dateForAnswer": "2026-06-01",
+        "dateAnswered": "2026-06-05",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-21/3868"
+      },
+      {
+        "id": 1900129,
+        "uin": "127709",
+        "heading": "Disclosure of Information",
+        "questionText": "To ask the Secretary of State for Business and Trade, what assessment he has made of the potential merits of conducting a public consultation and review of whistleblowing law as part of the measures announced in the UK anti-corruption strategy 2025.",
+        "answerText": "On 15 April the government announced its intention to consult on the whistleblowing framework in the Employment Rights Act 1996 in the Summer. The government wants to seek views on the operation of the framework to ensure it is working effectively.",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-04-15",
+        "dateForAnswer": "2026-04-20",
+        "dateAnswered": "2026-04-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-15/127709"
+      },
+      {
+        "id": 1899675,
+        "uin": "127382",
+        "heading": "Independent Review of Disclosure and Fraud Offences",
+        "questionText": "To ask the Secretary of State for the Home Department, when the Independent Review of Disclosure and Fraud Offences will be completed and published.",
+        "answerText": "The Independent Review of Disclosure and Fraud Offences has now concluded. Part One of the Review, Disclosure in the Digital Age, was published in March 2025, and the Government expects to publish its formal response shortly.Part Two of the Review, Fraud ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Dan Jarvis",
+        "dateTabled": "2026-04-14",
+        "dateForAnswer": "2026-04-16",
+        "dateAnswered": "2026-04-21",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-14/127382"
+      },
+      {
+        "id": 1899290,
+        "uin": "908662",
+        "heading": "General Practitioners: South Dorset",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to increase the number of GP services in South Dorset constituency.",
+        "answerText": "We promised to improve access to GPs, and that’s exactly what we are doing. This year we have invested an additional £601m in the GP contract and we’ve delivered 8 million more appointments than last year, with South Dorset seeing an increase of 27,000. W...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-03-26",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-26/908662"
+      },
+      {
+        "id": 1890693,
+        "uin": "120457",
+        "heading": "Sustainable Farming Incentive",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many farmers received payments under the Sustainable Farming Incentive for buffer strip actions in the previous scheme year.",
+        "answerText": "In the 2025 scheme year a total of 4,894 farm businesses received at least one payment for buffer strip actions delivered under the Sustainable Farming Incentive scheme.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-03-12",
+        "dateForAnswer": "2026-03-16",
+        "dateAnswered": "2026-03-19",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-12/120457"
+      },
+      {
+        "id": 1891750,
+        "uin": "908341",
+        "heading": "Courts",
+        "questionText": "To ask the Secretary of State for Justice, what steps he is taking to tackle backlogs in the courts.",
+        "answerText": "Sir Brian’s report set out a blueprint for pragmatic structural reform in our criminal courts and made clear that action across the process is essential.The Courts and Tribunals Bill is the first step to putting that blueprint into law. Coupled with recor...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Sarah Sackman",
+        "dateTabled": "2026-03-11",
+        "dateForAnswer": "2026-03-17",
+        "dateAnswered": "2026-03-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-11/908341"
+      },
+      {
+        "id": 1889154,
+        "uin": "908197",
+        "heading": "Taxation: Advisory Services",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps she is taking to help ensure the accuracy of information provided by tax advisers.",
+        "answerText": "HMRC’s standard for agents sets the minimum expectations for all tax advisers and is regularly reviewed by HMRC. While the vast majority of tax advisers support taxpayers to pay the right amount of tax, the government is legislating in this year’s Finance...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Lucy Rigby",
+        "dateTabled": "2026-03-04",
+        "dateForAnswer": "2026-03-10",
+        "dateAnswered": "2026-03-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-04/908197"
+      },
+      {
+        "id": 1881148,
+        "uin": "907857",
+        "heading": "Weymouth Station: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Transport, what steps she is taking to improve Weymouth train station.",
+        "answerText": "Southwestern Railway is empowered to make sure its stations are well-maintained and meet customer expectations. Southwestern Railway must prioritise urgent and safety related maintenance, but there are some improvements at Weymouth Station in the pipeline...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-02-05",
+        "dateForAnswer": "2026-02-12",
+        "dateAnswered": "2026-02-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-05/907857"
+      },
+      {
+        "id": 1880078,
+        "uin": "907808",
+        "heading": "Wind Power: South Dorset",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to help support offshore wind supply chains in South Dorset constituency.",
+        "answerText": "The Government set out a £1b support package with Great British Energy, The Crown Estate and industry supporting new infrastructure, including ports and manufacturing across the UK. GBE recently opened its £300m fund, to support manufacturing investment a...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Chris McDonald",
+        "dateTabled": "2026-02-04",
+        "dateForAnswer": "2026-02-10",
+        "dateAnswered": "2026-02-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-04/907808"
+      },
+      {
+        "id": 1875169,
+        "uin": "108443",
+        "heading": "Revenue and Customs: Labour Turnover",
+        "questionText": "To ask the Chancellor of the Exchequer, to please provide staff turnover figures for the Wealthy Team in HMRC for each financial year 2017/18 to 2024/25.",
+        "answerText": "The table below provides the turnover rate, based on average Full Time Equivalent (FTE), for each year from 2021/22. Staff data is retained only for as long as it is required to meet its intended business purpose, after which it is securely deleted in lin...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-01-26",
+        "dateForAnswer": "2026-01-28",
+        "dateAnswered": "2026-02-03",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-26/108443"
+      },
+      {
+        "id": 1875064,
+        "uin": "108442",
+        "heading": "Serious Fraud Office: Disclosure of Information",
+        "questionText": "To ask the Solicitor General, whether the Serious Fraud Office (SFO) has any formal policies or guidance aimed at preventing potential retaliation against whistleblowers who report wrongdoing to the SFO; and whether consideration has been given to develop",
+        "answerText": "The SFO has well established formal policies and guidance aimed at protecting whistleblowers who report allegations of criminality. All whistleblowers who report to the SFO are dealt with by appropriately trained, nationally NPCC accredited members of sta...",
+        "answeringBody": "Attorney General's Office",
+        "answeringMember": "Ellie Reeves",
+        "dateTabled": "2026-01-26",
+        "dateForAnswer": "2026-01-28",
+        "dateAnswered": "2026-02-03",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-26/108442"
+      },
+      {
+        "id": 1874644,
+        "uin": "108084",
+        "heading": "Wealth: Taxation",
+        "questionText": "To ask the Chancellor of the Exchequer, what the total compliance yield generated by HMRC’s Wealthy Team was in each financial year between 2017-18 and 2024-25.",
+        "answerText": "The table below shows the compliance yield attributed to the wealthy customer group, which includes yield generated by HMRCs Wealthy Team. HMRC does not hold the figures for 2017-18. We have provided details from the earliest period available in the table...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-01-23",
+        "dateForAnswer": "2026-01-27",
+        "dateAnswered": "2026-02-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-23/108084"
+      },
+      {
+        "id": 1874643,
+        "uin": "108083",
+        "heading": "Wealth: Taxation",
+        "questionText": "To ask the Chancellor of the Exchequer, how much and what proportion of the wealthy tax gap HMRC attributes to (a) Capital Gains Tax and (b) Inheritance Tax for each financial year from 2017-18 to 2024-25.",
+        "answerText": "Wealthy tax gap estimates are published in Measuring the Tax Gap 2025 for 2005-06 to 2023-24. There are no estimates for 2024-25 at this time, these will be published in future tax gap publications. We use Income Tax, Capital Gains Tax (CGT) and National ...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-01-23",
+        "dateForAnswer": "2026-01-27",
+        "dateAnswered": "2026-02-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-23/108083"
+      },
+      {
+        "id": 1874648,
+        "uin": "108086",
+        "heading": "Revenue and Customs: Recruitment",
+        "questionText": "To ask the Chancellor of the Exchequer, what steps HMRC plans to take to increase the recruitment of compliance and debt management staff.",
+        "answerText": "The Government announced investment at the Budget in October 2024 and the Spring Statement in March 2025 to enable HMRC to recruit and retain 2,400 debt management officers in addition to growing by 5,500 compliance officers by 2029-30, with further fundi...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-01-23",
+        "dateForAnswer": "2026-01-27",
+        "dateAnswered": "2026-02-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-23/108086"
+      },
+      {
+        "id": 1874645,
+        "uin": "108085",
+        "heading": "Revenue and Customs: Recruitment",
+        "questionText": "To ask the Chancellor of the Exchequer, how many additional HMRC debt management staff she plans to recruit in each of the next five years.",
+        "answerText": "The Government announced investment at the Budget in October 2024 and the Spring Statement in March 2025 to enable HMRC to recruit and retain 2,400 debt management officers in addition to growing by 5,500 compliance officers by 2029-30, with further fundi...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-01-23",
+        "dateForAnswer": "2026-01-27",
+        "dateAnswered": "2026-02-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-23/108085"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 13,
+        "No": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2366,
+          "number": 16,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 94,
+          "noCount": 297,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2366"
+        },
+        {
+          "id": 2365,
+          "number": 15,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 20",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 90,
+          "noCount": 290,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2365"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2374,
+          "number": 24,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 255,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Veterans: Government Assistance",
+        "date": "2026-06-30",
+        "summary": "To ask the Secretary of State for Defence, what steps he is taking to support veterans in South Dorset constituency.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/900824"
+      },
+      {
+        "kind": "Written question",
+        "title": "Tax Evasion",
+        "date": "2026-06-10",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will take steps to include tackling international tax abuse in the Illicit Finance Summit.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-10/900449"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Overpayments",
+        "date": "2026-05-21",
+        "summary": "To ask the Secretary of State for Work and Pensions, what plans he has to assess the impact of benefit overpayments on the public purse.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-05-21/3868"
+      },
+      {
+        "kind": "Written question",
+        "title": "Wind Power: South Dorset",
+        "date": "2026-02-04",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to help support offshore wind supply chains in South Dorset constituency.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-04/907808"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 13",
+        "date": "2026-06-16",
+        "summary": "No; Ayes 77, Noes 255.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2374"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

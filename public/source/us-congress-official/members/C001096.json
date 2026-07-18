@@ -1,0 +1,160 @@
+{
+  "member": {
+    "id": "C001096",
+    "name": "Kevin Cramer",
+    "chamber": "Senate",
+    "party": "Republican",
+    "state": "ND",
+    "district": null,
+    "districtLabel": "ND senator",
+    "role": "U.S. Senator for ND",
+    "currentTerm": {
+      "start": "2025-01-03",
+      "end": "2031-01-03",
+      "type": "sen",
+      "class": 1
+    },
+    "firstTermStart": "2013-01-03",
+    "officialWebsite": "https://www.cramer.senate.gov",
+    "contact": {
+      "address": "313 Hart Senate Office Building Washington DC 20510",
+      "phone": "202-224-2043",
+      "fax": null,
+      "contactForm": "https://www.cramer.senate.gov/contact/contact-kevin",
+      "rssUrl": null
+    },
+    "identifiers": {
+      "bioguide": "C001096",
+      "govtrack": 412555,
+      "opensecrets": "N00004614",
+      "ballotpedia": "Kevin Cramer",
+      "wikipedia": "Kevin Cramer",
+      "wikidata": "Q3957020"
+    }
+  },
+  "generatedAt": "2026-07-11T16:33:48.433Z",
+  "officialSourceNotes": [
+    "Congress.gov data is stored from the official public API. API keys are used only during fetch and are not saved in this archive.",
+    "House member records include House Clerk profile fields and the latest available recent-vote pages where the House Clerk endpoint returned HTML.",
+    "Senate records include official source registry links. Some Senate XML endpoints can block automated clients; the URLs are retained for analyst follow-up."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi local archive record",
+      "url": "/source/us-congress-official/members/C001096.json"
+    },
+    {
+      "label": "Congress.gov API member detail",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "label": "Congress.gov API sponsored legislation",
+      "url": "https://api.congress.gov/v3/member/C001096/sponsored-legislation?format=json&limit=25"
+    },
+    {
+      "label": "Congress.gov API cosponsored legislation",
+      "url": "https://api.congress.gov/v3/member/C001096/cosponsored-legislation?format=json&limit=25"
+    },
+    {
+      "label": "Congress.gov member page",
+      "url": "https://www.congress.gov/member/kevin-cramer/C001096"
+    },
+    {
+      "label": "Biographical Directory profile",
+      "url": "https://bioguide.congress.gov/search/bio/C001096"
+    },
+    {
+      "label": "Official congressional website",
+      "url": "https://www.cramer.senate.gov"
+    },
+    {
+      "label": "Senate current senators",
+      "url": "https://www.senate.gov/senators/senators-contact.htm"
+    },
+    {
+      "label": "Senate committee assignments",
+      "url": "https://www.senate.gov/general/committee_assignments/assignments.htm"
+    },
+    {
+      "label": "Senate roll call votes",
+      "url": "https://www.senate.gov/legislative/votes_new.htm"
+    },
+    {
+      "label": "Senate XML source catalog",
+      "url": "https://www.senate.gov/general/common/generic/XML_Availability.htm"
+    }
+  ],
+  "congressGov": {
+    "profile": {
+      "sourceUrl": "https://api.congress.gov/v3/member/C001096?format=json",
+      "ok": null,
+      "status": "skipped",
+      "reason": "Set CONGRESS_GOV_API_KEY to import this official API record at scale. The public DEMO_KEY is intentionally not used by default because it rate-limits after a few requests."
+    },
+    "sponsoredLegislation": {
+      "sourceUrl": "https://api.congress.gov/v3/member/C001096/sponsored-legislation?format=json&limit=25",
+      "ok": null,
+      "status": "skipped",
+      "reason": "Set CONGRESS_GOV_API_KEY to import this official API record at scale. The public DEMO_KEY is intentionally not used by default because it rate-limits after a few requests."
+    },
+    "cosponsoredLegislation": {
+      "sourceUrl": "https://api.congress.gov/v3/member/C001096/cosponsored-legislation?format=json&limit=25",
+      "ok": null,
+      "status": "skipped",
+      "reason": "Set CONGRESS_GOV_API_KEY to import this official API record at scale. The public DEMO_KEY is intentionally not used by default because it rate-limits after a few requests."
+    }
+  },
+  "houseClerk": null,
+  "senate": {
+    "sourceStatus": "registered-not-fully-harvested",
+    "note": "This local archive records official Senate source surfaces for follow-up import. Congress.gov member and legislation records above are already harvested.",
+    "memberOfficialWebsite": "https://www.cramer.senate.gov",
+    "officialSources": [
+      {
+        "label": "Senate XML source directory",
+        "url": "https://www.senate.gov/general/common/generic/XML_Availability.htm",
+        "note": "Catalog of Senate XML/HTML feeds."
+      },
+      {
+        "label": "Current senators contact list",
+        "url": "https://www.senate.gov/general/contact_information/senators_cfm.cfm",
+        "note": "Official senator contact directory."
+      },
+      {
+        "label": "Current senators contact XML",
+        "url": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+        "note": "Official XML contact feed where accessible."
+      },
+      {
+        "label": "Senators with full committee assignments",
+        "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+        "note": "Official Senate assignment page."
+      },
+      {
+        "label": "Senators with full committee assignments XML",
+        "url": "https://www.senate.gov/general/committee_assignments/assignments.xml",
+        "note": "Official XML assignment feed where accessible."
+      },
+      {
+        "label": "Senate committee hearings and meetings",
+        "url": "https://www.senate.gov/committees/hearings_meetings.htm",
+        "note": "Official committee schedule."
+      },
+      {
+        "label": "Senate floor schedule",
+        "url": "https://www.senate.gov/legislative/calendars.htm",
+        "note": "Official floor calendar surface."
+      },
+      {
+        "label": "Senate roll call vote lists",
+        "url": "https://www.senate.gov/legislative/votes_new.htm",
+        "note": "Official Senate vote entry point."
+      },
+      {
+        "label": "119th Congress, 2nd session vote list",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_119_2.htm",
+        "note": "Current Congress/session vote list."
+      }
+    ]
+  }
+}

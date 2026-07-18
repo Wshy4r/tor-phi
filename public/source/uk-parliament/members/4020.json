@@ -1,0 +1,1153 @@
+{
+  "member": {
+    "id": "4020",
+    "slug": "george-freeman",
+    "name": "George Freeman",
+    "sortName": "Freeman, George",
+    "fullTitle": "George Freeman MP",
+    "party": "Conservative",
+    "partyAbbreviation": "Con",
+    "partyColor": "#0063ba",
+    "constituency": "Mid Norfolk",
+    "house": "House of Commons",
+    "role": "MP for Mid Norfolk",
+    "officialUrl": "https://members.parliament.uk/member/4020/contact",
+    "recordUrl": "/country/uk/parliament/george-freeman/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4020/Thumbnail",
+    "currentMembership": {
+      "constituency": "Mid Norfolk",
+      "constituencyId": 4180,
+      "startDate": "2010-05-06",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "george.freeman.mp@parliament.uk"
+      ],
+      "phones": [
+        "0207 219 6502",
+        "01953 600617"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Rooms 333-335 Breckland Business Centre, St Withburga Lane, Dereham, Norfolk, NR19 1FD",
+        "http://www.georgefreeman.co.uk/",
+        "https://twitter.com/MPGeorgeFreeman"
+      ],
+      "websites": [
+        "http://www.georgefreeman.co.uk/"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/MPGeorgeFreeman"
+        ]
+      ]
+    },
+    "synopsis": "George Freeman is the Conservative MP for Mid Norfolk , and has been an MP continually since 6 May 2010.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/george-freeman/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4020/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4020"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4020/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4020/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4020/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4020/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4020"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 16,
+    "latestQuestionDate": "2025-02-11",
+    "registeredInterestCount": 26
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/george-freeman/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4020/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4020"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4020/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4020/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4020/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4020/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4020"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1764311,
+        "uin": "30607",
+        "heading": "Genetically Modified Organisms: Regulation",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether he has discussed the UK’s gene-editing legislation with his counterparts in the European Union.",
+        "answerText": "This is a devolved matter, and the information provided therefore relates to England only. The Government is introducing legislation to enact the Genetic Technology (Precision Breeding) Act 2023 for plants and food and feed before the end of March. The Eu...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Daniel Zeichner",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-13",
+        "dateAnswered": "2025-02-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30607"
+      },
+      {
+        "id": 1764310,
+        "uin": "30606",
+        "heading": "Genetically Modified Organisms: Regulation",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether it is his policy to align gene-editing legislation with the European Union.",
+        "answerText": "This is a devolved matter, and the information provided therefore relates to England only. The Government is introducing legislation to enact the Genetic Technology (Precision Breeding) Act 2023 for plants and food and feed before the end of March. The Eu...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Daniel Zeichner",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-13",
+        "dateAnswered": "2025-02-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30606"
+      },
+      {
+        "id": 1764309,
+        "uin": "30605",
+        "heading": "Genetic Technology (Precision Breeding) Act 2023",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when he plans to fully enact the provisions of the Genetic Technology (Precision Breeding) Act 2023.",
+        "answerText": "This is a devolved matter, and the information provided therefore relates to England only. The Secretary of State has recently announced that the secondary legislation necessary to implement the Genetic Technology (Precision Breeding) Act 2023 for plants ...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Daniel Zeichner",
+        "dateTabled": "2025-02-11",
+        "dateForAnswer": "2025-02-13",
+        "dateAnswered": "2025-02-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-11/30605"
+      },
+      {
+        "id": 1749447,
+        "uin": "19674",
+        "heading": "Research: Finance",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to paragraph 3.68 of the Autumn Budget 2024, published on 30 October 2024, HC 295, what steps he plans to take to monitor the potential impact of the £20.4 billion R&D in",
+        "answerText": "R&D is fundamental to achieving the government’s mission of kickstarting economic growth. DSIT regularly monitors economic and R&D business growth indicators and requires monitoring and evaluation to be undertaken as a condition of its funding. At...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Feryal Clark",
+        "dateTabled": "2024-12-12",
+        "dateForAnswer": "2024-12-16",
+        "dateAnswered": "2024-12-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-12/19674"
+      },
+      {
+        "id": 1748433,
+        "uin": "18927",
+        "heading": "Greenhouse Gas Emissions",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans he has for the data collected by the Greenhouse Gas Emissions Measurement and Modelling Advancement (GEMMA) programme; and if he will make it his policy to integrate that data into",
+        "answerText": "The Government monitors and verifies greenhouse gas emissions using measurement data collected through a network of sensors across the country. The Department is working closely with the Greenhouse Gas Emissions Measurement and Modelling Advancement (GEMM...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Kerry McCarthy",
+        "dateTabled": "2024-12-10",
+        "dateForAnswer": "2024-12-12",
+        "dateAnswered": "2024-12-16",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-10/18927"
+      },
+      {
+        "id": 1748253,
+        "uin": "18535",
+        "heading": "Carbon Emissions: Agriculture and Land Use",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether he plans to use earth observation data to help support the (a) measurement, (b) monitoring and (c) setting of (i) agricultural, (ii) landfill and (iii) land use contributions t",
+        "answerText": "Remote sensing technologies have increasing potential to provide cost-effective solutions for monitoring land use changes, gas leaks, and population density. Defra is examining the feasibility of employing Earth observation techniques for the monitoring a...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Daniel Zeichner",
+        "dateTabled": "2024-12-09",
+        "dateForAnswer": "2024-12-11",
+        "dateAnswered": "2025-01-06",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-09/18535"
+      },
+      {
+        "id": 1748069,
+        "uin": "18529",
+        "heading": "Geospatial Commission: Pilot Schemes",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what plans he has for the future of the Geospatial Commission's Earth observation data pilot.",
+        "answerText": "The Earth Observation data pilot came to an end in 31 March 2024. Working with optical, thermal and SAR data from space satellites, the pilot demonstrated that increased use of this data could improve evidence-based analysis and enhance front-line deliver...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Chris Bryant",
+        "dateTabled": "2024-12-09",
+        "dateForAnswer": "2024-12-11",
+        "dateAnswered": "2024-12-17",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-09/18529"
+      },
+      {
+        "id": 1748072,
+        "uin": "18532",
+        "heading": "Methane: Remote Sensing",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what plans he has as chair of the Committee on Earth Observation Satellites to support development of methane emissions measurement best practices.",
+        "answerText": "The UK Space Agency is increasing engagement with private, academic and public sectors to improve methane monitoring and address gaps.As Chair of the Committee on Earth Observation Satellites, we will promote a new framework, developed by the National Phy...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Chris Bryant",
+        "dateTabled": "2024-12-09",
+        "dateForAnswer": "2024-12-11",
+        "dateAnswered": "2024-12-17",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-09/18532"
+      },
+      {
+        "id": 1748071,
+        "uin": "18531",
+        "heading": "Methane: Remote Sensing",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what plans he has for the UK Space Agency's methane monitoring programme.",
+        "answerText": "The UK Space Agency is increasing engagement with private, academic and public sectors to improve methane monitoring and address gaps.As Chair of the Committee on Earth Observation Satellites, we will promote a new framework, developed by the National Phy...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Chris Bryant",
+        "dateTabled": "2024-12-09",
+        "dateForAnswer": "2024-12-11",
+        "dateAnswered": "2024-12-17",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-09/18531"
+      },
+      {
+        "id": 1748070,
+        "uin": "18530",
+        "heading": "Geospatial Commission: Pilot Schemes",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what plans he has for future (a) funding of and (b) data sharing by the Earth observation data hub.",
+        "answerText": "The Earth Observation (EO) data hub project is a pathfinder project which will assess whether a new infrastructure for EO data could deliver better access to and exploitation of EO data by federating EO data assets from public and commercial centres in a ...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Chris Bryant",
+        "dateTabled": "2024-12-09",
+        "dateForAnswer": "2024-12-11",
+        "dateAnswered": "2024-12-17",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-09/18530"
+      },
+      {
+        "id": 1748251,
+        "uin": "18534",
+        "heading": "Remote Sensing: Environment",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will have discussions with the (a) UK Space Agency and (b) Secretary of State for Science, Innovation and Technology on using UK Earth Observation data for greenhouse gas emissions trac",
+        "answerText": "The Secretary of State for Energy Security and Net Zero engages with the Secretary of State for Science, Innovation and Technology and the UK Space Agency through the National Space Council, where Government’s direction for space policy and strategy is de...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Kerry McCarthy",
+        "dateTabled": "2024-12-09",
+        "dateForAnswer": "2024-12-11",
+        "dateAnswered": "2024-12-17",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-09/18534"
+      },
+      {
+        "id": 1748073,
+        "uin": "18533",
+        "heading": "Remote Sensing: Environment",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans he has for the use of Earth observation data; and whether he has made an assessment of the potential merits of using it to support the (a) measurement, (b) monitoring and (c) setti",
+        "answerText": "The Government monitors and verifies greenhouse gas emissions using measurement data collected through a network of sensors across the country. The UK is one of only four countries in the world currently reporting the validation of greenhouse gas emission...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Kerry McCarthy",
+        "dateTabled": "2024-12-09",
+        "dateForAnswer": "2024-12-11",
+        "dateAnswered": "2024-12-16",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-09/18533"
+      },
+      {
+        "id": 1747071,
+        "uin": "17787",
+        "heading": "Space Technology: Investment",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether he plans to continue investment in national space data activities.",
+        "answerText": "Yes. The Government is investing significantly to support this element of space activity in the UK, with over £310 million of funding already committed through the European Space Agency, and a further £390 million through our membership in the EU’s Copern...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Chris Bryant",
+        "dateTabled": "2024-12-04",
+        "dateForAnswer": "2024-12-06",
+        "dateAnswered": "2024-12-12",
+        "memberHasInterest": true,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-04/17787"
+      },
+      {
+        "id": 1746628,
+        "uin": "17526",
+        "heading": "Research: Investment",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether his Department plans to measure the private sector investment in the research and development economy by (a) sector, (b) cluster and (c) departmental spend.",
+        "answerText": "The Office for National Statistics routinely publishes official statistics on Gross Expenditure on R&D (GERD), Business Expenditure on R&D (BERD), and Research and development expenditure by the UK government. These publications include various le...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Feryal Clark",
+        "dateTabled": "2024-12-03",
+        "dateForAnswer": "2024-12-05",
+        "dateAnswered": "2024-12-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-03/17526"
+      },
+      {
+        "id": 1693685,
+        "uin": "901811",
+        "heading": "Dental Services: Access",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what progress her Department has made on increasing access to dentists.",
+        "answerText": "On 7 February, we published our Dentistry Recovery Plan to increase patients’ access to NHS dentistry across the country, including in Norfolk. On 1 March, one element – the New Patient Premium went live, to increase the number of appointments available....",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Victoria Atkins",
+        "dateTabled": "2024-02-28",
+        "dateForAnswer": "2024-03-05",
+        "dateAnswered": "2024-03-05",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-02-28/901811"
+      },
+      {
+        "id": 802969,
+        "uin": "118389",
+        "heading": "Lebanon: Refugees",
+        "questionText": "To ask the Secretary of State for International Development, what recent discussions she has had with her counterpart in the Lebanese Government on the potential forced return of refugees to Syria.",
+        "answerText": "I have raised the issue of refugee returns on several occasions with the Government of Lebanon, including during a visit to Lebanon in October 2017, where I met with President Michel Aoun and Prime Minister Saad Hariri, among others. I also discussed the ...",
+        "answeringBody": "Department for International Development",
+        "answeringMember": "Alistair Burt",
+        "dateTabled": "2017-12-08",
+        "dateForAnswer": "2017-12-12",
+        "dateAnswered": "2017-12-14",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2017-12-08/118389"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 13,
+        "Aye": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2401,
+          "number": 50,
+          "date": "2026-07-07",
+          "title": "Opposition Day: Early release of prisoners",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 115,
+          "noCount": 0,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2401"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 12,
+        "category": "1. Employment and earnings",
+        "items": [
+          {
+            "id": 7603,
+            "text": "Role, work or services: Chairman of Advisory Board, Nodenza Venture Partners From: 20 May 2024. Payer: Nodenza Venture Partners (Nodenza Venture Partners is a venture capital firm specialising in biotechnology and medical device investments.), 228 Park Avenue South, PMB 67135, New York, NY, 10003-1502, United States ACOBA consulted: Yes (Registered 26 July 2024; updated 22 October 2024)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "2024-09-18",
+            "isCorrection": false
+          },
+          {
+            "id": 7604,
+            "text": "Remuneration: £1,500 a month Nodenza Venture Partners will meet the cost of any travel and other expenses arising from this role. From: 1 August 2024. Hours: 8 hrs a month (Registered 26 July 2024; updated 11 September 2024 and 7 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "2024-10-02",
+            "isCorrection": false
+          },
+          {
+            "id": 7605,
+            "text": "Role, work or services: Science and Technology Advisor, The Pioneer Group From: 22 May 2024. Payer: Pioneer Group Limited (Pioneer is a private property management company that provides venture building, incubation, and venture investment support to early stage companies, as well as the development and operation of life science incubator facilities.), New Derwent House, 69-73 Theobalds Road, London WC1X 8TA ACOBA consulted: Yes (Registered 26 July 2024; updated 22 October 2024)",
+            "createdWhen": "2025-02-19",
+            "amendedWhen": "2024-10-31",
+            "isCorrection": false
+          },
+          {
+            "id": 7606,
+            "text": "Remuneration: £5,000 a month From: 1 August 2024. Hours: 4 hrs a month (Registered 26 July 2024; updated 11 September 2024)",
+            "createdWhen": "2024-10-02",
+            "amendedWhen": "2024-08-16",
+            "isCorrection": false
+          },
+          {
+            "id": 11256,
+            "text": "Role, work or services: Advisor From: 16 October 2024. Until: 31 March 2026. Payer: Nighthawk Partners Limited (Nighthawk Partners Limited gives eligible, UK SME’s instant access to working capital that is being used for Innovation, UK and International Commercialisation. The company’s mission is to incentivise UK SMEs to succeed even when their working capital has been adversely impacted by tough economic times.), 2 Catherine Place London, SW1E 6HF United Kingdom ACOBA consulted: Yes (Registered 13 November 2024; updated 16 April 2026)",
+            "createdWhen": "2026-04-29",
+            "amendedWhen": "2026-04-16",
+            "isCorrection": false
+          },
+          {
+            "id": 11257,
+            "text": "Remuneration: £3,000 a month From: 16 October 2024. Until: 31 March 2026. Hours: 5 hrs a week (Registered 13 November 2024; updated 16 April 2026)",
+            "createdWhen": "2026-04-30",
+            "amendedWhen": "2025-11-24",
+            "isCorrection": false
+          },
+          {
+            "id": 12811,
+            "text": "Payment: £2,000 Received on: 11 June 2025. Hours: 2 hrs Charged and received a one-off payment from Nighthawk Partners for extra work undertaken. (Registered 6 July 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-07-15",
+            "isCorrection": false
+          },
+          {
+            "id": 11422,
+            "text": "Role, work or services: Advisory Board, Science, Innovation and Technology From: 1 December 2024. Payer: Space 4 Earth VC Fund (S4E VC Fund is being set up as a new Fund focused on investing in space related technologies which promote: efficient and sustainable production of food, clean water for everyone, decarbonisation, and the end to deforestation. The Fund does not have a relationship with the government. The fund will be a standard GP/LP fund structure, with the investment advisor and the advisory board based in the UK. The General Partner could be located in the Channel Islands depending on requirements by investors, however the core of the Fund and its Fund Manager and advisory board will be in the UK.), 4 Cavendish Square, London, W1G 0PG ACOBA consulted: Yes (Registered 3 December 2024)",
+            "createdWhen": "2025-02-19",
+            "amendedWhen": "2024-12-11",
+            "isCorrection": false
+          },
+          {
+            "id": 11423,
+            "text": "Remuneration: £1,000 a month Payments have yet to start. From: 1 December 2024. Hours: 12 hrs a month (Registered 3 December 2024; updated 27 March 2025 and 7 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "2025-04-08",
+            "isCorrection": false
+          },
+          {
+            "id": 11842,
+            "text": "Role, work or services: Advisor to the Board of Trustees From: 14 February 2025. Payer: The Guy Foundation Family Trust (A UK-based charitable foundation established in 2018 to facilitate thinking and research on the role of quantum mechanics and thermodynamics in living systems, with the ultimate goal of using this understanding to advance healthcare. The Foundation has not previously received government funding.), The Estate Office, Chedington Court, Chedington, Beaminster DT8 3HY ACOBA consulted: Yes (Registered 20 February 2025)",
+            "createdWhen": "2025-02-25",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 11843,
+            "text": "Remuneration: £3,000 a month From: 14 February 2025. Hours: 30 hrs a month (Registered 20 February 2025)",
+            "createdWhen": "2025-02-25",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12809,
+            "text": "Payment: £2,000 Received on: 29 May 2025. Hours: 2 hrs Charged and received a one-off payment from The Guy Foundation for extra work undertaken. (Registered 6 July 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-07-15",
+            "isCorrection": false
+          },
+          {
+            "id": 12810,
+            "text": "Payment: £3,000 Received on: 29 June 2025. Hours: 2 hrs Charged and received a one-off payment from The Guy Foundation for extra work undertaken. (Registered 6 July 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-07-15",
+            "isCorrection": false
+          },
+          {
+            "id": 14216,
+            "text": "Role, work or services: Speaker at the Oxford Global CEO Programme 2025 (in Hong Kong and Singapore) From: 5 December 2025. Until: 12 December 2025. Payer: Oxford Institute of Digital Health, Radcliffe Primary Care Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford, OX2 6GG (Registered 23 December 2025)",
+            "createdWhen": "2026-01-06",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14217,
+            "text": "Payment: £5,000 Received on: 12 December 2025. Hours: 2 hrs. (Registered 29 December 2025)",
+            "createdWhen": "2026-01-06",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 13148,
+            "text": "Name of donor: Steve Harman Address of donor: private Amount of donation or nature and value if donation in kind: Tickets and lunch for me and my wife at Goodwood racing, value £500 Date received: 1 August 2025 Date accepted: 1 August 2025 Donor status: individual (Registered 19 August 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "2025-09-02",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "4. Visits outside the UK",
+        "items": [
+          {
+            "id": 13804,
+            "text": "Name of donor: European Space Policy Institute (ESPI) Address of donor: Schwarzenbergplatz 16, TOP 1 1010 Vienna, Austria Estimate of the probable value (or amount of any donation): Return flights (£285.00), hotel (£112.00) and transfers (£121.00). I was accompanied by a staff member from my office, who covered all of their own travel expenses, value £518 Destination of visit: Austria (Vienna) Dates of visit: 28 October 2025 to 29 October 2025 Purpose of visit: Participation as a speaker at the ESPI Conference in Vienna. (Registered 7 November 2025)",
+            "createdWhen": "2025-11-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13810,
+            "text": "Name of donor: Citicourt & Co Address of donor: Holborn Gate, 330 High Holborn, London, WC1V 7QH Estimate of the probable value (or amount of any donation): Plane ticket, taxes and taxi fare, value £814.42 Destination of visit: Luxembourg Dates of visit: 23 October 2025 to 23 October 2025 Purpose of visit: LPEA Insights Conference 2025 in Luxembourg. (Registered 17 November 2025)",
+            "createdWhen": "2025-11-18",
+            "amendedWhen": "2025-11-18",
+            "isCorrection": false
+          },
+          {
+            "id": 14044,
+            "text": "Name of donor: (1) Abdulla Hassan (2) Pioneer Group Address of donor: (1) Dhow Capital P.O.BOX: 21946 Safat 13080 Kuwait (2) St Christopher’s House, 27 St Christopher’s Place, London W1U 1NZ Estimate of the probable value (or amount of any donation): (1) Dubai–Kuwait–Dubai flights (£270), Dubai hotel accommodation (£307) and Kuwait hotel accommodation (£294), value £871 (2) Rosewood Hotel, Abu Dhabi, value £503.98 Destination of visit: United Arab Emirates and Kuwait Dates of visit: 5 November 2025 to 12 November 2025 Purpose of visit: Global Networking Event (Registered 2 December 2025)",
+            "createdWhen": "2026-01-06",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14199,
+            "text": "Name of donor: Oxford Institute of Digital Health Address of donor: Radcliffe Primary Care Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford OX2 6GG. Estimate of the probable value (or amount of any donation): Flights (£4683.82), accommodation and meals (£4300), value £8,983.82 Destination of visit: Hong Kong and Singapore Dates of visit: 5 December 2025 to 12 December 2025 Purpose of visit: Speaking at the Oxford Global CEO Programme 2025 in Hong Kong and Singapore. ( A speakers fee of £5000 has been registered under Category 1.) (Registered 21 December 2025)",
+            "createdWhen": "2026-01-06",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": "7. (i) Shareholdings: over 15% of issued share capital",
+        "items": [
+          {
+            "id": 11454,
+            "text": "Name of company or organisation: Regeneration Advisory Ltd Nature of business: RAL is a limited company which I originally set up (after leaving Government in 2020) as an advisory business to support regeneration projects across the UK to harness innovation led growth to drive inward investment and regeneration. Held jointly with or on behalf of: Wife Interest held: from 8 October 2024 (Registered 6 December 2024)",
+            "createdWhen": "2024-12-11",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 1942,
+            "text": "In my capacity as a Norfolk MP, I am a trustee for Aviornis UK – a Rare Birds Breeds Charity. This is an unpaid role. Date interest arose: 2 April 2023 (Registered 14 June 2023)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 5637,
+            "text": "Voluntary Advisory Council Member of the Centre for Long Term Resilience. I consulted ACOBA about this unpaid role. Date interest arose: 6 May 2024 (Registered 7 May 2024)",
+            "createdWhen": "2025-06-11",
+            "amendedWhen": "2024-05-15",
+            "isCorrection": false
+          },
+          {
+            "id": 5636,
+            "text": "Member of Science Superpower Steering Group at UK Onward, an independent, not-for-profit Think Tank. I consulted ACOBA about this unpaid role. Date interest arose: 26 April 2024 (Registered 7 May 2024)",
+            "createdWhen": "2025-06-11",
+            "amendedWhen": "2024-05-15",
+            "isCorrection": false
+          },
+          {
+            "id": 5635,
+            "text": "Strategic Adviser at The Centre for MC, a not for profit industry membership organisation focused on clinical research and development of cannabinoid pharmaceuticals and healthcare products. I consulted ACOBA about this role; it is currently unpaid. Date interest arose: 6 April 2024 (Registered 7 May 2024)",
+            "createdWhen": "2025-01-26",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13144,
+            "text": "Unpaid Director of Regeneration Theatre Company, a not-for-profit outreach theatre company founded by me and my wife, a professional theatre director, in conjunction with the National Youth Arts Trust (Reg Charity No:1152367). The theatre company is funded by philanthropic donors through the National Youth Arts Trust. Date interest arose: 1 September 2024 Date interest ended: 1 January 2026 (Registered 21 August 2025)",
+            "createdWhen": "2025-09-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Greenhouse Gas Emissions",
+        "date": "2024-12-10",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what plans he has for the data collected by the Greenhouse Gas Emissions Measurement and Modelling Advancement (GEMMA) programme; and if he will make it his policy to integrate that data into",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-10/18927"
+      },
+      {
+        "kind": "Written question",
+        "title": "Remote Sensing: Environment",
+        "date": "2024-12-09",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, if he will have discussions with the (a) UK Space Agency and (b) Secretary of State for Science, Innovation and Technology on using UK Earth Observation data for greenhouse gas emissions trac",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-09/18534"
+      },
+      {
+        "kind": "Written question",
+        "title": "Remote Sensing: Environment",
+        "date": "2024-12-09",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what plans he has for the use of Earth observation data; and whether he has made an assessment of the potential merits of using it to support the (a) measurement, (b) monitoring and (c) setti",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-12-09/18533"
+      },
+      {
+        "kind": "Written question",
+        "title": "Lebanon: Refugees",
+        "date": "2017-12-08",
+        "summary": "To ask the Secretary of State for International Development, what recent discussions she has had with her counterpart in the Lebanese Government on the potential forced return of refugees to Syria.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2017-12-08/118389"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "No; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

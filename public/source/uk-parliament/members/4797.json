@@ -1,0 +1,940 @@
+{
+  "member": {
+    "id": "4797",
+    "slug": "james-murray",
+    "name": "James Murray",
+    "sortName": "Murray, James",
+    "fullTitle": "Rt Hon James Murray MP",
+    "party": "Labour (Co-op)",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Ealing North",
+    "house": "House of Commons",
+    "role": "MP for Ealing North",
+    "officialUrl": "https://members.parliament.uk/member/4797/contact",
+    "recordUrl": "/country/uk/parliament/james-murray/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4797/Thumbnail",
+    "currentMembership": {
+      "constituency": "Ealing North",
+      "constituencyId": 4023,
+      "startDate": "2019-12-12",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "james.murray.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 3000"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "https://www.jamesmurray.org/",
+        "https://www.facebook.com/james4ealing",
+        "https://twitter.com/jamesmurray_ldn"
+      ],
+      "websites": [
+        "https://www.jamesmurray.org/"
+      ],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/james4ealing"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/jamesmurray_ldn"
+        ]
+      ]
+    },
+    "synopsis": "The Rt Hon James Murray is the Labour (Co-op) MP for Ealing North , and has been an MP continually since 12 December 2019. He currently holds the Government post of Secretary of State for Health and Social Care.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/james-murray/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4797/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4797"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4797/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4797/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4797/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4797/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4797"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-05-16",
+    "registeredInterestCount": 6
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/james-murray/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4797/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4797"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4797/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4797/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4797/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4797/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4797"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1718800,
+        "uin": "26781",
+        "heading": "VAT: Fraud",
+        "questionText": "To ask the Chancellor of the Exchequer, on what date (a) he and (b) HMRC first became aware of fraud involving the VAT484 form; and what steps he is taking to tackle such fraud.",
+        "answerText": "HMRC regularly encounters attempts to fraudulently attack its systems and does not routinely keep records of the value of individual instances unless a pattern emerges. Towards the end of February, HMRC identified a small number of cases which constituted...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-21",
+        "dateAnswered": "2024-05-21",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26781"
+      },
+      {
+        "id": 1718797,
+        "uin": "26780",
+        "heading": "Taxation: Fraud",
+        "questionText": "To ask the Chancellor of the Exchequer, how many incidents of tax fraud involving (a) the VAT484 form and (b) other paper forms HMRC has recorded in each of last five financial years; and what the (i) total and (ii) average value of those incidents is.",
+        "answerText": "HMRC regularly encounters attempts to fraudulently attack its systems and does not routinely keep records of the value of individual instances unless a pattern emerges. Towards the end of February, HMRC identified a small number of cases which constituted...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-21",
+        "dateAnswered": "2024-05-21",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26780"
+      },
+      {
+        "id": 1715392,
+        "uin": "24586",
+        "heading": "Department for Environment, Food and Rural Affairs: Written Questions",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when he plans to answer Question 21855, tabled by the hon. Member for Ealing North on 15 April 2024.",
+        "answerText": "The answer to Question 21855 was published on 2 May 2024. I apologise for the delay in responding to the hon. Member.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Robbie Moore",
+        "dateTabled": "2024-05-01",
+        "dateForAnswer": "2024-05-07",
+        "dateAnswered": "2024-05-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-01/24586"
+      },
+      {
+        "id": 1702296,
+        "uin": "22658",
+        "heading": "National Insurance Contributions",
+        "questionText": "To ask the Chancellor of the Exchequer, what the value was of (a) Class 1 employee, (b) Class 1 employer, (c) Class 2 and (d) Class 4 self-employed National Insurance Contributions receipts in the 2023-24 financial year.",
+        "answerText": "The Office for Budget Responsibility publishes forecast levels of National Insurance receipts in their Economic and Fiscal Outlook report.",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-04-18",
+        "dateForAnswer": "2024-04-23",
+        "dateAnswered": "2024-04-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-18/22658"
+      },
+      {
+        "id": 1701040,
+        "uin": "21855",
+        "heading": "Sewage: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 2 April 2024 to Question 19486 on Sewage: Repairs and Maintenance, if he will issue guidance to (a) local authorities and (b) water companies on whether they",
+        "answerText": "There is no statutory duty for water companies under Section 59 of the Building Act 1984. The legislation explains the responsibilities of local authorities and the powers available to them, as well as the options for recovering costs they might incur if ...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Robbie Moore",
+        "dateTabled": "2024-04-15",
+        "dateForAnswer": "2024-04-18",
+        "dateAnswered": "2024-05-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-15/21855"
+      },
+      {
+        "id": 1701041,
+        "uin": "21856",
+        "heading": "Baby Care Units: Parental Leave",
+        "questionText": "To ask the Secretary of State for Business and Trade, pursuant to the Answer of 11 December 2023 to Question 5143 on Baby Care Units: Parental Leave, what her planned timetable is for bringing forward the remaining statutory instruments under the Neonatal",
+        "answerText": "We are committed to introducing Neonatal Care Leave and Pay as quickly as possible and work is ongoing across Government to deliver these new entitlements by April 2025, subject to parliamentary scheduling.",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kevin Hollinrake",
+        "dateTabled": "2024-04-15",
+        "dateForAnswer": "2024-04-18",
+        "dateAnswered": "2024-04-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-15/21856"
+      },
+      {
+        "id": 1697998,
+        "uin": "19973",
+        "heading": "Empty Property: Business Rates",
+        "questionText": "To ask the Chancellor of the Exchequer, with reference to question 1 of his Department's consultation on business rates avoidance and evasion, published in July 2023, and to page 37 of his Department's publication entitled, Spring Budget 2024: Policy Cost",
+        "answerText": "Responses to the Business Rates Avoidance and Evasion consultation made clear that avoidance of business rates through abuse of Empty Property Relief (EPR) is an area we need to take action on. Most respondents, and all those from local government, agreed...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-21",
+        "dateForAnswer": "2024-03-26",
+        "dateAnswered": "2024-03-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-21/19973"
+      },
+      {
+        "id": 1697997,
+        "uin": "19972",
+        "heading": "Empty Property: Business Rates",
+        "questionText": "To ask the Chancellor of the Exchequer, with reference to question 1 of his Department's consultation on business rates avoidance and evasion, published in July 2023, and to page 37 of his Department's publication entitled, Spring Budget 2024: Policy Cost",
+        "answerText": "Responses to the Business Rates Avoidance and Evasion consultation made clear that avoidance of business rates through abuse of Empty Property Relief (EPR) is an area we need to take action on. Most respondents, and all those from local government, agreed...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-21",
+        "dateForAnswer": "2024-03-26",
+        "dateAnswered": "2024-03-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-21/19972"
+      },
+      {
+        "id": 1697999,
+        "uin": "19974",
+        "heading": "Empty Property: Business Rates",
+        "questionText": "To ask the Chancellor of the Exchequer, with reference to page 37 of his Department's publication entitled, Spring Budget 2024: Policy Costings, published in March 2024, if he will publish the figures used by his Department for the size of the tax base in",
+        "answerText": "The policy costing was based on data reflecting business rates receipts and reliefs as reported by local authorities in the National Non-Domestic Rates forms, which are publicly available on the gov.uk website.",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-03-21",
+        "dateForAnswer": "2024-03-26",
+        "dateAnswered": "2024-03-26",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-21/19974"
+      },
+      {
+        "id": 1697178,
+        "uin": "19486",
+        "heading": "Sewage: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if he will issue guidance to (a) local authorities and (b) water companies on their obligations to enforce sewage misconnection rectifications where the property owner does not rectify",
+        "answerText": "Under Section 59 of the Building Act 1984, local authorities can require property owners to rectify unsatisfactory drainage. If a property owner fails to act, the local authority can carry out the works itself and then recover its costs. The Secretary of ...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Robbie Moore",
+        "dateTabled": "2024-03-19",
+        "dateForAnswer": "2024-03-22",
+        "dateAnswered": "2024-04-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-19/19486"
+      },
+      {
+        "id": 1694593,
+        "uin": "17681",
+        "heading": "Treasury: Defamation",
+        "questionText": "To ask the Chancellor of the Exchequer, with reference to paragraphs 7.16 and 7.17 of the Ministerial Code, on how many occasions Ministers in his Department have informed the Law Officers that they are the defendants in a libel action in (a) their person",
+        "answerText": "HM Treasury is unable to confirm these details, in line with paragraph 2.13 of the Ministerial Code.",
+        "answeringBody": "Treasury",
+        "answeringMember": "Gareth Davies",
+        "dateTabled": "2024-03-07",
+        "dateForAnswer": "2024-03-12",
+        "dateAnswered": "2024-03-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-03-07/17681"
+      },
+      {
+        "id": 1684237,
+        "uin": "10948",
+        "heading": "National Insurance Contributions: Software",
+        "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 18 December 2023 to Question 6933 on National Insurance Contributions: Software, if he will make an estimate of how many and what proportion of employers have implemented the changes to Nat",
+        "answerText": "Following the changes to National Insurance contributions (NICs) which were announced in Autumn Statement 2023, HMRC’s Basic PAYE Tool went live as planned on 3 January and is available for download on gov.uk.HMRC provided its assessment of the impacts of...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-01-22",
+        "dateForAnswer": "2024-01-25",
+        "dateAnswered": "2024-01-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-22/10948"
+      },
+      {
+        "id": 1684236,
+        "uin": "10947",
+        "heading": "National Insurance Contributions: Software",
+        "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 18 December 2023 to Question 6933 on National Insurance Contributions: Software, if he will make an estimate of (a) how many (i) payroll software developers and (ii) employers were unable t",
+        "answerText": "Following the changes to National Insurance contributions (NICs) which were announced in Autumn Statement 2023, HMRC’s Basic PAYE Tool went live as planned on 3 January and is available for download on gov.uk.HMRC provided its assessment of the impacts of...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-01-22",
+        "dateForAnswer": "2024-01-25",
+        "dateAnswered": "2024-01-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-22/10947"
+      },
+      {
+        "id": 1684235,
+        "uin": "10946",
+        "heading": "National Insurance Contributions: Software",
+        "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 18 December 2023 to Question 6933 on National Insurance Contributions: Software, whether an updated version of HMRC’s Basic PAYE Tools was available to download from gov.uk by 6 January 202",
+        "answerText": "Following the changes to National Insurance contributions (NICs) which were announced in Autumn Statement 2023, HMRC’s Basic PAYE Tool went live as planned on 3 January and is available for download on gov.uk.HMRC provided its assessment of the impacts of...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2024-01-22",
+        "dateForAnswer": "2024-01-25",
+        "dateAnswered": "2024-01-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-01-22/10946"
+      },
+      {
+        "id": 1677863,
+        "uin": "6933",
+        "heading": "National Insurance Contributions: Software",
+        "questionText": "To ask the Chancellor of the Exchequer, what the timetable is for completion of HMRC’s update of its basic pay as you earn tools to enable small employers who use HMRC’s software for their payroll system to implement changes to national insurance contribu",
+        "answerText": "Following the Autumn Statement 2023 announcement of changes to National Insurance contributions (NICs), HMRC are working closely with software developers and employers to ensure they have a clear understanding of the changes and to ensure HMRC is doing ev...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2023-12-13",
+        "dateForAnswer": "2023-12-18",
+        "dateAnswered": "2023-12-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-13/6933"
+      },
+      {
+        "id": 1677862,
+        "uin": "6932",
+        "heading": "National Insurance Contributions: Overpayments",
+        "questionText": "To ask the Chancellor of the Exchequer, whether his Department has made an estimate of the number of individuals who will be eligible for a refund for overpayment of national insurance contributions at the end of the current financial year as a result of",
+        "answerText": "Following the Autumn Statement 2023 announcement of changes to National Insurance contributions (NICs), HMRC are working closely with software developers and employers to ensure they have a clear understanding of the changes and to ensure HMRC is doing ev...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2023-12-13",
+        "dateForAnswer": "2023-12-18",
+        "dateAnswered": "2023-12-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-13/6932"
+      },
+      {
+        "id": 1677861,
+        "uin": "6931",
+        "heading": "National Insurance Contributions: Staff",
+        "questionText": "To ask the Chancellor of the Exchequer, whether he has made an assessment of the capacity of employers to implement the changes to national insurance contributions coming into effect on 6 January 2024.",
+        "answerText": "Following the Autumn Statement 2023 announcement of changes to National Insurance contributions (NICs), HMRC are working closely with software developers and employers to ensure they have a clear understanding of the changes and to ensure HMRC is doing ev...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2023-12-13",
+        "dateForAnswer": "2023-12-18",
+        "dateAnswered": "2023-12-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-13/6931"
+      },
+      {
+        "id": 1677859,
+        "uin": "6930",
+        "heading": "National Insurance Contributions: Software",
+        "questionText": "To ask the Chancellor of the Exchequer, if he will make an estimate of the (a) number of (i) payroll software developers and (ii) employers that will be unable to change their systems in time to implement changes to national insurance contributions coming",
+        "answerText": "Following the Autumn Statement 2023 announcement of changes to National Insurance contributions (NICs), HMRC are working closely with software developers and employers to ensure they have a clear understanding of the changes and to ensure HMRC is doing ev...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2023-12-13",
+        "dateForAnswer": "2023-12-18",
+        "dateAnswered": "2023-12-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-13/6930"
+      },
+      {
+        "id": 1677864,
+        "uin": "6934",
+        "heading": "Personal Taxation",
+        "questionText": "To ask the Chancellor of the Exchequer, with reference to the Answer of 12 December 2023 to Questions 5901, 5897 and 5898, on what evidential basis his Department determined that an average worker in 2024-25 will pay more than £1,000 less in personal taxe",
+        "answerText": "The calculations underlying this statistic are based on public information, including a published estimate of average earnings. They are robust and could be replicate by an external analyst. Further details are provided in my answer of 12 December to PQ U...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2023-12-13",
+        "dateForAnswer": "2023-12-18",
+        "dateAnswered": "2023-12-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-13/6934"
+      },
+      {
+        "id": 1676409,
+        "uin": "5901",
+        "heading": "Income Tax",
+        "questionText": "To ask the Chancellor of the Exchequer, with reference to the oral contributions of the Chief Secretary to the Treasury of 22 November 2023, Official Report, column 360, and 30 November 2023, Official Report, column 1087, what calculations his Department",
+        "answerText": "Thanks to the cut to employee National Insurance contributions (NICs) announced at the Autumn Statement and to above-inflation increases to starting thresholds since 2010, an average worker in 24-25 will pay over £1,000 less in personal taxes than they ot...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Nigel Huddleston",
+        "dateTabled": "2023-12-07",
+        "dateForAnswer": "2023-12-12",
+        "dateAnswered": "2023-12-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2023-12-07/5901"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "Aye": 13,
+        "No": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2356,
+          "number": 6,
+          "date": "2026-05-21",
+          "title": "Steel Industry (Nationalisation) Bill: Reasoned Amendment to Second Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 68,
+          "noCount": 242,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2356"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        },
+        {
+          "id": 2354,
+          "number": 4,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (p)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 316,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2354"
+        },
+        {
+          "id": 2353,
+          "number": 3,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (l)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 78,
+          "noCount": 408,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2353"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2397,
+          "number": 46,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 281,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 12798,
+            "text": "Name of donor: BBC Address of donor: Broadcasting House, Portland Place, London W1A 1AA Amount of donation or nature and value if donation in kind: Travel and food in relation to an appearance on BBC Any Questions (value is estimated), value £498.30 Date received: 27 June 2025 Date accepted: 27 June 2025 Donor status: company, registration RC000057 (Registered 3 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 12797,
+            "text": "Name of donor: BBC Address of donor: Broadcasting House, Portland Place, London W1A 1AA Amount of donation or nature and value if donation in kind: Travel in relation to an appearance on BBC Any Questions (value is estimated), value £221.20 Date received: 7 February 2025 Date accepted: 7 February 2025 Donor status: company, registration RC000057 (Registered 3 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13710,
+            "text": "Name of donor: Mentorn Media Address of donor: Tinopolis Centre, Park Street, Llanelli, Carmarthenshire SA15 3YE Amount of donation or nature and value if donation in kind: Travel in relation to an appearance on BBC Question Time for me and a member of staff, value £475 Date received: 9 October 2025 Date accepted: 9 October 2025 Donor status: company, registration 02329345 (Registered 30 October 2025)",
+            "createdWhen": "2025-11-04",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13879,
+            "text": "Name of donor: BBC Address of donor: Broadcasting House, Portland Place, London W1A 1AA Amount of donation or nature and value if donation in kind: Travel in relation to an appearance on BBC Any Questions for me and a member of staff (value is estimated), value £328.30 Date received: 31 October 2025 Date accepted: 31 October 2025 Donor status: company, registration RC000057 (Registered 14 November 2025)",
+            "createdWhen": "2025-11-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14072,
+            "text": "Name of donor: Mentorn Media Address of donor: Tinopolis Centre, Park Street, Llanelli, Carmarthenshire SA15 3YE Amount of donation or nature and value if donation in kind: Travel in relation to an appearance on BBC Question Time for me and a member of staff, value £295 Date received: 27 November 2025 Date accepted: 27 November 2025 Donor status: company, registration 02329345 (Registered 4 December 2025)",
+            "createdWhen": "2025-12-16",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 15249,
+            "text": "Name of donor: BBC Address of donor: Broadcasting House, Portland Place, London W1A 1AA Amount of donation or nature and value if donation in kind: Travel in relation to an appearance on BBC Any Questions for me and a member of staff (value is estimated), value £484.80 Date received: 24 April 2026 Date accepted: 24 April 2026 Donor status: company, registration RC000057 (Registered 16 May 2026)",
+            "createdWhen": "2026-05-19",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 2",
+        "date": "2026-07-01",
+        "summary": "No; Ayes 80, Noes 281.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2397"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

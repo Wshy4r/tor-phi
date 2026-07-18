@@ -1,0 +1,802 @@
+{
+  "member": {
+    "id": "1427",
+    "slug": "andy-burnham",
+    "name": "Andy Burnham",
+    "sortName": "Burnham, Andy",
+    "fullTitle": "Rt Hon Andy Burnham",
+    "party": "Labour (Co-op)",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Makerfield",
+    "house": "House of Commons",
+    "role": "MP for Makerfield",
+    "officialUrl": "https://members.parliament.uk/member/1427/contact",
+    "recordUrl": "/country/uk/parliament/andy-burnham/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/1427/Thumbnail",
+    "currentMembership": {
+      "constituency": "Makerfield",
+      "constituencyId": 4165,
+      "startDate": "2026-06-18",
+      "statusStartDate": "2017-05-03",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "andy.burnham.mp@parliament.uk"
+      ],
+      "phones": [],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "The Rt Hon Andy Burnham is the Labour (Co-op) MP for Makerfield , and has been an MP continually since 18 June 2026.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/andy-burnham/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/1427/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/1427"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/1427/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/1427/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/1427/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/1427/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=1427"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-06",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2016-11-30",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/andy-burnham/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/1427/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/1427"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/1427/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/1427/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/1427/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/1427/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=1427"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 648893,
+        "uin": "55711",
+        "heading": "Bus Services",
+        "questionText": "To ask the Secretary of State for Transport, what information his Department holds on the number of bus passenger journeys that were made in (a) Leigh, (b) Greater Manchester, (c) London and (d) England in each of the last 10 years.",
+        "answerText": "The number of passenger journeys made on local bus services in Greater Manchester for 2004/05 to 2015/16 can be found in table BUS0109b at: https://www.gov.uk/government/statistical-data-sets/bus01-local-bus-passenger-journeys#table-bus0109. Separate figu...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Andrew Jones",
+        "dateTabled": "2016-11-30",
+        "dateForAnswer": "2016-12-02",
+        "dateAnswered": "2016-12-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-30/55711"
+      },
+      {
+        "id": 644292,
+        "uin": "54970",
+        "heading": "Tenants: Evictions",
+        "questionText": "To ask the Secretary of State for Justice, how many tenants in Greater Manchester were evicted through the courts in each year since 2010.",
+        "answerText": "The information requested can only be obtained at disproportionate cost.",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Sir Oliver Heald",
+        "dateTabled": "2016-11-25",
+        "dateForAnswer": "2016-11-30",
+        "dateAnswered": "2016-11-30",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-25/54970"
+      },
+      {
+        "id": 644347,
+        "uin": "54964",
+        "heading": "Asylum: Greater Manchester",
+        "questionText": "To ask the Secretary of State for the Home Department, how many asylum applications for asylum seekers housed in Greater Manchester have been refused in each year since 2010.",
+        "answerText": "Data on the place of residence at the time of initial decision could only be obtained at disproportionate cost. The latest version of the asylum transparency agenda can be found at: Asylum transparency data: August 2016 - Publications - GOV.UK",
+        "answeringBody": "Home Office",
+        "answeringMember": "Mr Robert Goodwill",
+        "dateTabled": "2016-11-25",
+        "dateForAnswer": "2016-11-30",
+        "dateAnswered": "2016-11-30",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-25/54964"
+      },
+      {
+        "id": 644376,
+        "uin": "54972",
+        "heading": "Housing Benefit: Social Rented Housing",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many people in Greater Manchester have been classified as under occupying their homes in each year since 2012.",
+        "answerText": "The figures requested are in the table below: Households classified as under-occupying: Greater Manchester, 2013-2016 ThousandsAug-201335.4Aug-201431.1Aug-201527.9Aug-201625.0 Notes:Figures have been rounded to the nearest hundred.Figures are numbers of...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Caroline Nokes",
+        "dateTabled": "2016-11-25",
+        "dateForAnswer": "2016-11-30",
+        "dateAnswered": "2016-11-30",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-25/54972"
+      },
+      {
+        "id": 644377,
+        "uin": "54963",
+        "heading": "Jobseeker's Allowance: Greater Manchester",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many jobseeker's allowance claimants in Greater Manchester have had their benefits suspended in each year since 2012.",
+        "answerText": "The information requested is not readily available and could only be provided at disproportionate cost.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Damian Hinds",
+        "dateTabled": "2016-11-25",
+        "dateForAnswer": "2016-11-30",
+        "dateAnswered": "2016-11-30",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-25/54963"
+      },
+      {
+        "id": 644375,
+        "uin": "54971",
+        "heading": "Means-tested Benefits: Greater Manchester",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many hardship payments have been issued by his Department to people living in Greater Manchester in each year since 2012.",
+        "answerText": "The information requested is not readily available and could only be provided at disproportionate cost.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Damian Hinds",
+        "dateTabled": "2016-11-25",
+        "dateForAnswer": "2016-11-30",
+        "dateAnswered": "2016-11-30",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-25/54971"
+      },
+      {
+        "id": 643033,
+        "uin": "54488",
+        "heading": "Air Pollution",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when her Department plans to publish new measures to improve air quality as required by the High Court judgement of 2 November 2016; and what progress her Department has made on review",
+        "answerText": "The Government is considering next steps in light of both the High Court judgment and recent updates in data on emissions from diesel vehicles and we will set out further measures next year, including publishing a revised air quality plan by 24 April 2017...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dr Thérèse Coffey",
+        "dateTabled": "2016-11-23",
+        "dateForAnswer": "2016-11-28",
+        "dateAnswered": "2016-11-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-23/54488"
+      },
+      {
+        "id": 643035,
+        "uin": "54491",
+        "heading": "Air Pollution: Greater Manchester",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many people live within (a) one mile and (b) five miles of the (i) Bury Whitefield Roadside and (ii) Manchester Piccadilly air quality monitoring sites.",
+        "answerText": "Defra does not routinely hold information or data on the number of people living within close proximity and around air quality monitoring sites. However Bury Metropolitan Borough Council and Manchester City Council have estimated the number of people livi...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dr Thérèse Coffey",
+        "dateTabled": "2016-11-23",
+        "dateForAnswer": "2016-11-28",
+        "dateAnswered": "2016-11-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-23/54491"
+      },
+      {
+        "id": 643034,
+        "uin": "54490",
+        "heading": "Air Pollution: Greater Manchester",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many schools are located within (a) one mile and (b) five miles of the (i) Bury Whitefield Roadside and (ii) Manchester Piccadilly air quality monitoring sites.",
+        "answerText": "Defra does not routinely hold information or data on schools located within close proximity to air quality monitoring sites. However, Bury Metropolitan Borough Council and Manchester City Council have estimated the number of schools located within one and...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dr Thérèse Coffey",
+        "dateTabled": "2016-11-23",
+        "dateForAnswer": "2016-11-28",
+        "dateAnswered": "2016-11-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-23/54490"
+      },
+      {
+        "id": 643064,
+        "uin": "54489",
+        "heading": "Respiratory System: Diseases",
+        "questionText": "To ask the Secretary of State for Health, how many people were admitted to hospital due to a respiratory condition in each age group in (a) Greater Manchester and (b) England in each year since 2009-10.",
+        "answerText": "A count of finished admission episodes with a primary diagnosis of 'respiratory diseases' in Greater Manchester hospitals and for England, by age, from 2010-11 to 2015-16 is attached. Data before 2010-11 was not collected in the current format so cannot b...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "David Mowat",
+        "dateTabled": "2016-11-23",
+        "dateForAnswer": "2016-11-28",
+        "dateAnswered": "2016-11-28",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-23/54489"
+      },
+      {
+        "id": 642325,
+        "uin": "54346",
+        "heading": "Air Pollution: Death",
+        "questionText": "To ask the Secretary of State for Health, what estimate he has made of the mortality rate in (a) England and (b) Greater Manchester caused by long-term exposure to particulate air pollution arising from human activities.",
+        "answerText": "The fraction of annual all-cause adult mortality attributable to anthropogenic (human-made) particulate air pollution (measured as fine particulate matter, PM2.5*) is provided by the Public Health Outcomes Framework (PHOF) indicator 3.01. This calculates ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "David Mowat",
+        "dateTabled": "2016-11-22",
+        "dateForAnswer": "2016-11-25",
+        "dateAnswered": "2016-11-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-22/54346"
+      },
+      {
+        "id": 642417,
+        "uin": "54341",
+        "heading": "Electric Vehicles: Greater Manchester",
+        "questionText": "To ask the Secretary of State for Transport, how many charge points for electric vehicles have been installed in Greater Manchester in each year since 2009-10.",
+        "answerText": "Greater Manchester was one of 8 UK regions that received Government funding under the Plugged-in Places scheme, which resulted in the installation of 160 chargepoints between 2010 and 2014 as part of the Greater Manchester Electric Vehicle Scheme (GMEVS)....",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Mr John Hayes",
+        "dateTabled": "2016-11-22",
+        "dateForAnswer": "2016-11-25",
+        "dateAnswered": "2016-11-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-22/54341"
+      },
+      {
+        "id": 642391,
+        "uin": "54338",
+        "heading": "Motor Vehicles: Greater Manchester",
+        "questionText": "To ask the Secretary of State for Transport, how many new ultra-low emission vehicles have been registered in Greater Manchester in each of the last two years.",
+        "answerText": "There were 827 ULEVs registered for the first time in Greater Manchester during 2015, and 460 during 2014. (Source of the data is DFT analysis of DVLA registration data)",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Mr John Hayes",
+        "dateTabled": "2016-11-22",
+        "dateForAnswer": "2016-11-25",
+        "dateAnswered": "2016-11-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-22/54338"
+      },
+      {
+        "id": 642257,
+        "uin": "54342",
+        "heading": "Air Pollution: Greater Manchester",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how much air quality grant funding has been awarded from central government to each local authority in Greater Manchester in each year since 2009-10.",
+        "answerText": "Since 2009-10, local authorities in Greater Manchester have received a total of £509,745 of central Government funding through the Air Quality Grant. The table below sets out the amount awarded to relevant local authorities by year. YearLA Amount 2009-10G...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dr Thérèse Coffey",
+        "dateTabled": "2016-11-22",
+        "dateForAnswer": "2016-11-25",
+        "dateAnswered": "2016-11-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-22/54342"
+      },
+      {
+        "id": 642253,
+        "uin": "54337",
+        "heading": "Air Pollution: Greater Manchester",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many measured exceedances of the annual mean air pollution objective for fine particles have there been in Greater Manchester in each year since 2009-10.",
+        "answerText": "There have been no measured exceedances of the annual mean air pollution objective for fine particles in Greater Manchester since 2009-10.",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dr Thérèse Coffey",
+        "dateTabled": "2016-11-22",
+        "dateForAnswer": "2016-11-25",
+        "dateAnswered": "2016-11-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-22/54337"
+      },
+      {
+        "id": 627398,
+        "uin": "51705",
+        "heading": "Orgreave",
+        "questionText": "To ask the Secretary of State for the Home Department, which files and documents she reviewed before making her decision not to proceed with an inquiry into the events at Orgreave in 1984.",
+        "answerText": "The Home Secretary’s decision not to establish an inquiry or independent review into the events at Orgreave Coking Plant was based on a number of factors, including consideration of the key purposes of an inquiry and whether these were met in the case of ...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Brandon Lewis",
+        "dateTabled": "2016-11-02",
+        "dateForAnswer": "2016-11-07",
+        "dateAnswered": "2016-11-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-02/51705"
+      },
+      {
+        "id": 627283,
+        "uin": "51706",
+        "heading": "Museums and Galleries",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, what the name is of each free museum or gallery sponsored by her Department in each region of England.",
+        "answerText": "All 15 DCMS-sponsored museums and galleries, and the British Library, have free access to their permanent collections. They are: the British Museumthe Geffrye Museumthe Horniman Museum and Gardensthe National Gallerythe National Portrait Gallerythe Nation...",
+        "answeringBody": "Department for Digital, Culture, Media and Sport",
+        "answeringMember": "Matt Hancock",
+        "dateTabled": "2016-11-02",
+        "dateForAnswer": "2016-11-07",
+        "dateAnswered": "2016-11-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-02/51706"
+      },
+      {
+        "id": 619828,
+        "uin": "49962",
+        "heading": "Zero Hours Contracts: Greater Manchester",
+        "questionText": "To ask the Minister for the Cabinet Office, how many people in each age group in (a) Leigh constituency and (b) Greater Manchester are employed on a zero-hours contract.",
+        "answerText": "The information requested falls within the responsibility of the UK Statistics Authority. I have asked the Authority to reply.Zero hours contracts do have a part to play in a modern, flexible labour market – because, for a small proportion of the workforc...",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Chris Skidmore",
+        "dateTabled": "2016-10-24",
+        "dateForAnswer": "2016-10-27",
+        "dateAnswered": "2016-10-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-10-24/49962"
+      },
+      {
+        "id": 619986,
+        "uin": "49959",
+        "heading": "Nurses: Training",
+        "questionText": "To ask the Secretary of State for Health, how many student nurses in (a) Greater Manchester and (b) England received NHS bursaries in each of the last five years.",
+        "answerText": "The following table shows the total number of student nurses in receipt of a National Health Service bursary in Greater Manchester and in England from 2012 to 2015. Academic Year2012201320142015Number of student nurses in Greater Manchester3,3432,9753,28...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mr Philip Dunne",
+        "dateTabled": "2016-10-24",
+        "dateForAnswer": "2016-10-27",
+        "dateAnswered": "2016-10-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-10-24/49959"
+      },
+      {
+        "id": 619827,
+        "uin": "49961",
+        "heading": "Death: Manchester",
+        "questionText": "To ask the Minister for the Cabinet Office, what the five most common causes of death among (a) women and (b) men in each age group in Greater Manchester were in the latest year for which figures are available.",
+        "answerText": "The information requested falls within the responsibility of the UK Statistics Authority. I have asked the Authority to reply.",
+        "answeringBody": "Cabinet Office",
+        "answeringMember": "Chris Skidmore",
+        "dateTabled": "2016-10-24",
+        "dateForAnswer": "2016-10-27",
+        "dateAnswered": "2016-10-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-10-24/49961"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-06",
+      "totals": {
+        "Aye": 17,
+        "No": 8
+      },
+      "recent": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 266,
+          "number": 198,
+          "date": "2017-04-19",
+          "title": "Section 5 of the European Communities (Amendment) Act 1993",
+          "description": "A vote to approve the Government’s assessment which forms the basis of the United Kingdom’s Convergence Programme (this contains details of the annual UK’s economic and fiscal situation and forecasts as required by the EU)..",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 298,
+          "noCount": 191,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/266"
+        },
+        {
+          "id": 265,
+          "number": 197,
+          "date": "2017-04-19",
+          "title": "Technical and Further Education Bill: Lords Amendment 1 Motion to disagree",
+          "description": "Motion to disagree with the Lords Amendment on financial support for students undertaking apprenticeships.",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 298,
+          "noCount": 182,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/265"
+        },
+        {
+          "id": 264,
+          "number": 196,
+          "date": "2017-04-19",
+          "title": "Early Parliamentary General Election",
+          "description": "Vote on whether there should be an early General Election. Under the Fixed-term Parliaments Act 2011 the number of members who vote in favour of the motion must be at least two thirds of the number of seats in the House (434)",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 522,
+          "noCount": 13,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/264"
+        },
+        {
+          "id": 261,
+          "number": 193,
+          "date": "2017-03-29",
+          "title": "Pension Schemes Bill [Lords]: Report Stage Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 188,
+          "noCount": 286,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/261"
+        },
+        {
+          "id": 260,
+          "number": 192,
+          "date": "2017-03-29",
+          "title": "Pension Schemes Bill [Lords]: Report Stage New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 187,
+          "noCount": 289,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/260"
+        },
+        {
+          "id": 259,
+          "number": 191,
+          "date": "2017-03-29",
+          "title": "Pension Schemes Bill [Lords]: Report Stage New Clause 1",
+          "description": "An Opposition new clause to require the Secretary of State to make provision for a funder of last resort in certain circumstances",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 230,
+          "noCount": 289,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/259"
+        },
+        {
+          "id": 257,
+          "number": 190,
+          "date": "2017-03-27",
+          "title": "Bus Services Bill [Lords]: Report Stage Amendment 1",
+          "description": "Vote on an amendment to remove the ban on local authorities forming bus companies",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 188,
+          "noCount": 276,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/257"
+        },
+        {
+          "id": 256,
+          "number": 189,
+          "date": "2017-03-27",
+          "title": "Bus Services Bill [Lords]: Report Stage New Clause 2",
+          "description": "Vote on a report on the provision of concessionary bus travel to apprentices aged 16 to 18.",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 193,
+          "noCount": 277,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/256"
+        },
+        {
+          "id": 255,
+          "number": 188,
+          "date": "2017-03-27",
+          "title": "Bus Services Bill [Lords]: Report Stage New Clause 1",
+          "description": "Vote on a national strategy for local bus services.",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 193,
+          "noCount": 278,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/255"
+        },
+        {
+          "id": 246,
+          "number": 179,
+          "date": "2017-03-13",
+          "title": "EU (Notification of Withdrawal) Bill: Lords Amendment 2 Motion to disagree",
+          "description": "Motion to disagree with the Lords Amendment on parliamentary approval for the outcome of negotiations with the EU",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 331,
+          "noCount": 286,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/246"
+        },
+        {
+          "id": 245,
+          "number": 178,
+          "date": "2017-03-13",
+          "title": "EU (Notification of Withdrawal) Bill: Lords Amendment 1 Motion to disagree",
+          "description": "Motion to disagree with the Lords Amendment on the rights of EU and EEA citizens legally resident in UK",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 335,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/245"
+        },
+        {
+          "id": 242,
+          "number": 175,
+          "date": "2017-03-07",
+          "title": "Standing Orders (Public Business)",
+          "description": "A vote to make a technical change to the House's rules regarding the application of the English votes for English laws procedure",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 287,
+          "noCount": 239,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/242"
+        },
+        {
+          "id": 239,
+          "number": 172,
+          "date": "2017-03-01",
+          "title": "Unaccompanied Children in Greece and Italy",
+          "description": "A cross-party motion in the name of Alison McGovern MP",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 254,
+          "noCount": 1,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/239"
+        },
+        {
+          "id": 228,
+          "number": 161,
+          "date": "2017-02-08",
+          "title": "European Union (Notification of Withdrawal) Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 494,
+          "noCount": 122,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/228"
+        },
+        {
+          "id": 227,
+          "number": 160,
+          "date": "2017-02-08",
+          "title": "European Union (Notification of Withdrawal) Bill: Committee of the whole House New Clause 192",
+          "description": "A new clause tabled by the Labour Party relating to the UK's membership of the European Atomic Energy Community (Euratom).",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 287,
+          "noCount": 336,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/227"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 227,
+          "number": 160,
+          "date": "2017-02-08",
+          "title": "European Union (Notification of Withdrawal) Bill: Committee of the whole House New Clause 192",
+          "description": "A new clause tabled by the Labour Party relating to the UK's membership of the European Atomic Energy Community (Euratom).",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 287,
+          "noCount": 336,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/227"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Asylum: Greater Manchester",
+        "date": "2016-11-25",
+        "summary": "To ask the Secretary of State for the Home Department, how many asylum applications for asylum seekers housed in Greater Manchester have been refused in each year since 2010.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2016-11-25/54964"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "European Union (Notification of Withdrawal) Bill: Committee of the whole House New Clause 192",
+        "date": "2017-02-08",
+        "summary": "Aye; Ayes 287, Noes 336.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/227"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

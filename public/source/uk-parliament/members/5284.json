@@ -1,0 +1,930 @@
+{
+  "member": {
+    "id": "5284",
+    "slug": "david-chadwick",
+    "name": "David Chadwick",
+    "sortName": "Chadwick, David",
+    "fullTitle": "David Chadwick MP",
+    "party": "Liberal Democrat",
+    "partyAbbreviation": "LD",
+    "partyColor": "#fc7d0b",
+    "constituency": "Brecon, Radnor and Cwm Tawe",
+    "house": "House of Commons",
+    "role": "MP for Brecon, Radnor and Cwm Tawe",
+    "officialUrl": "https://members.parliament.uk/member/5284/contact",
+    "recordUrl": "/country/uk/parliament/david-chadwick/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/5284/Thumbnail",
+    "currentMembership": {
+      "constituency": "Brecon, Radnor and Cwm Tawe",
+      "constituencyId": 4500,
+      "startDate": "2024-07-04",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "david.chadwick.mp@parliament.uk"
+      ],
+      "phones": [
+        "01792 316380"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "The Coach House, George Street, Brecon, LD3 7LD",
+        "7a James Street, Pontardawe, Swansea, SA8 4LR"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "David Chadwick is the Liberal Democrat MP for Brecon, Radnor and Cwm Tawe , and has been an MP continually since 4 July 2024. He currently undertakes the role of Liberal Democrat Spokesperson (Wales).",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/david-chadwick/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/5284/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/5284"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/5284/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/5284/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/5284/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/5284/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5284"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-06-24",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-06-24",
+    "registeredInterestCount": 7
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/david-chadwick/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/5284/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/5284"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/5284/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/5284/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/5284/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/5284/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=5284"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1920053,
+        "uin": "13060",
+        "heading": "Renewable Energy: Land",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the adequacy of protections for landowners entering into option agreements with renewable energy developers.",
+        "answerText": "The Government recognises the importance of ensuring that landowners are appropriately protected when entering into commercial agreements with renewable energy developers. Option agreements are private contractual arrangements between landowners and devel...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-06-24",
+        "dateForAnswer": "2026-06-29",
+        "dateAnswered": "2026-07-03",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-24/13060"
+      },
+      {
+        "id": 1916025,
+        "uin": "9761",
+        "heading": "Mineworkers' Pension Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what recent discussions he has had with the Trustees of the Mineworkers’ Pension Scheme regarding the review of the Scheme’s surplus sharing arrangements; and what his planned timetable is fo",
+        "answerText": "The Government is keen to reach agreement with the MPS Trustees on changes to the arrangements to benefit scheme members. I met the Trustees on 30 April for a constructive discussion of the proposals and how they might be taken forward. The Government is ...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Chris McDonald",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9761"
+      },
+      {
+        "id": 1916029,
+        "uin": "9765",
+        "heading": "Mineworkers' Pension Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has considered the introduction of full inflation linking for Mineworkers’ Pension Scheme pensions as part of the Scheme's next valuation.",
+        "answerText": "The Government is keen to reach agreement with the MPS Trustees on their proposed changes to the arrangements to benefit scheme members. The Government is mindful of the need to resolve this issue as swiftly as possible and will make an announcement once ...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Chris McDonald",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9765"
+      },
+      {
+        "id": 1916031,
+        "uin": "9767",
+        "heading": "Mineworkers' Pension Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what discussions he has had with the Chancellor of the Exchequer on the potential fiscal implications of reforming the Mineworkers’ Pension Scheme surplus sharing arrangements.",
+        "answerText": "I have conversations with my colleagues on a range of issues. The Government is keen to reach agreement with the MPS Trustees on their proposed changes to the arrangements to benefit scheme members. The Government is mindful of the need to resolve this is...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Chris McDonald",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9767"
+      },
+      {
+        "id": 1916026,
+        "uin": "9762",
+        "heading": "Mineworkers' Pension Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether he is considering proposals from the Trustees of the Mineworkers’ Pension Scheme to distribute the £1.1 billion of undistributed surplus currently held within the Scheme to members.",
+        "answerText": "The Government is keen to reach agreement with the MPS Trustees on their proposed changes to the arrangements to benefit scheme members. The Government is mindful of the need to resolve this issue as swiftly as possible, and will make an announcement once...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Chris McDonald",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9762"
+      },
+      {
+        "id": 1916030,
+        "uin": "9766",
+        "heading": "Mineworkers' Pension Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether he has made an estimate of the potential additional pension income that would be received by Mineworkers’ Pension Scheme members in Wales if the Trustees’ proposals on the distributio",
+        "answerText": "The Government is keen to reach agreement with the MPS Trustees on their proposed changes to the arrangements to benefit scheme members. The Government is mindful of the need to resolve this issue as swiftly as possible, and will make an announcement once...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Chris McDonald",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9766"
+      },
+      {
+        "id": 1916027,
+        "uin": "9763",
+        "heading": "Mineworkers' Pension Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential economic merits to former coalfield communities of distributing the Mineworkers’ Pension Scheme's undistributed surplus to members through higher",
+        "answerText": "I recognise the benefits to coalfield communities of higher pension payments. The Government has already transferred £3.8bn to members of the Mineworkers’ Pension Scheme and British Coal Staff Superannuation Scheme which has already made a significant imp...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Chris McDonald",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9763"
+      },
+      {
+        "id": 1916028,
+        "uin": "9764",
+        "heading": "Mineworkers' Pension Scheme",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether the Government supports changes to the Mineworkers’ Pension Scheme rules to ensure that bonus pensions awarded to members cannot subsequently be withdrawn.",
+        "answerText": "The Government is keen to reach agreement with the MPS Trustees on their proposed changes to the arrangements to benefit scheme members. The Government is mindful of the need to resolve this issue as swiftly as possible, and will make an announcement once...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Chris McDonald",
+        "dateTabled": "2026-06-15",
+        "dateForAnswer": "2026-06-17",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9764"
+      },
+      {
+        "id": 1912071,
+        "uin": "6681",
+        "heading": "Large Goods Vehicles: Excise Duties",
+        "questionText": "To ask the Chancellor of the Exchequer, when the HGV road tax holiday will commence and finish; what the eligibility criteria are for that scheme; and how the application process will work.",
+        "answerText": "The government will introduce a 12-month holiday from Vehicle Excise Duty (VED, also known as road tax). This will apply to the majority of HGVs renewing their VED between 1 July 2026 and 30 June 2027. Eligible vehicles will pay just £1 for their annual V...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6681"
+      },
+      {
+        "id": 1901470,
+        "uin": "128578",
+        "heading": "Fuel Cells: Carbon Emissions",
+        "questionText": "To ask the Secretary of State for Transport, what assessment has been made of the role that hydrogen fuel cell vehicles could play alongside electric vehicles in achieving net zero transport, particularly in light of vehicle weight, raw material availabil",
+        "answerText": "The Government is technology neutral in its approach to road decarbonisation. Road transport accounts for 90% of domestic transport greenhouse gas emissions, making the transition to zero emission vehicles essential to achieving our climate obligations.Th...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Keir Mather",
+        "dateTabled": "2026-04-20",
+        "dateForAnswer": "2026-04-22",
+        "dateAnswered": "2026-04-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-20/128578"
+      },
+      {
+        "id": 1901516,
+        "uin": "128579",
+        "heading": "Fuel Cells: Supply Chains",
+        "questionText": "To ask the Secretary of State for Business and Trade, what assessment has been made of the opportunity for the UK to develop domestic hydrogen fuel cell supply chains.",
+        "answerText": "Hydrogen is an Industrial Strategy frontier industry, assessed as one of the sectors with the greatest growth potential over the next decade. As we set out in the Clean Industries Sector Plan, the hydrogen industry will create investment and jobs across t...",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Chris McDonald",
+        "dateTabled": "2026-04-20",
+        "dateForAnswer": "2026-04-22",
+        "dateAnswered": "2026-04-27",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-20/128579"
+      },
+      {
+        "id": 1898558,
+        "uin": "126500",
+        "heading": "Electricity: Prices",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department plans to take further steps to reduce UK electricity prices compared with those in France and Germany.",
+        "answerText": "The Government is actively working to lower electricity prices by addressing the root causes of high costs. We are reversing years of underinvestment and implementing the largest upgrade to Great Britain’s electricity network in decades, reducing constrai...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Martin McCluskey",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126500"
+      },
+      {
+        "id": 1898565,
+        "uin": "126507",
+        "heading": "Renewable Energy: Iron and Steel",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will consider bringing the Contracts for Difference Scheme under the remit of the Procurement Policy Note for Steel, and the national security clauses of the Procurement Act 2023.",
+        "answerText": "As set out in the recent UK Steel Strategy, the Clean Industry Bonus element of the Contracts for Difference (CfD) scheme rewards offshore wind developers if they use UK steel in their projects. There are currently no plans to bring the CfD scheme under t...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126507"
+      },
+      {
+        "id": 1898563,
+        "uin": "126505",
+        "heading": "Renewable Energy: Iron and Steel",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment (a) his Department and (b) GB Energy has made of the capability and capacity of the UK steel industry to provide products for the UK’s renewable energy transition.",
+        "answerText": "Government commissioned a report on the UK steel demand forecast to 2050, to inform the UK steel strategy. The strategy highlights the importance of steel in the clean energy transition. Great British Energy (GBE) is committed to growing the UK’s manufact...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126505"
+      },
+      {
+        "id": 1898395,
+        "uin": "126341",
+        "heading": "Motorcycles: Noise",
+        "questionText": "To ask the Secretary of State for Transport, if she will consider expanding of the use of further equipment in MOT tests to accurately assess the noise level of motorcycles and their silencers.",
+        "answerText": "Exhaust noise is currently tested subjectively during the MOT test. The tester must consider if exhaust noise from the vehicle is unreasonably above the noise level you’d expect from a similar vehicle with a standard silencer in average condition. If they...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126341"
+      },
+      {
+        "id": 1898562,
+        "uin": "126504",
+        "heading": "Iron and Steel: Manufacturing Industries",
+        "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to strengthen domestic supply chains for steel, following the publication of the Defence Industrial Strategy.",
+        "answerText": "This Government is committed to creating the right conditions in the UK for a competitive and sustainable steel industry. The sector provides vital support to the UK’s defence capabilities, including specialist cast and forged steel components for a range...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Luke Pollard",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-20",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126504"
+      },
+      {
+        "id": 1898373,
+        "uin": "126319",
+        "heading": "Meat: Import Controls",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential biosecurity risk of illegal meat seized in the first four months of 2025; and whether any of this meat tested positive for (a) African Swi",
+        "answerText": "Protecting UK biosecurity remains paramount, and this Government will do whatever it takes to protect farmers. Defra does not require port health authorities to routinely test or analyse samples of illegally imported meat seized at the UK border for notif...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-17",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126319"
+      },
+      {
+        "id": 1898372,
+        "uin": "126318",
+        "heading": "Import Controls: Port of Dover",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what enforcement measures have been implemented at Dover since September 2024.",
+        "answerText": "Defra is working with the Home Office, Border Force, the Food Standards Agency, the Animal and Plant Health Agency and the Dover Port Health Authority (PHA) to improve the interception of illegal products of animal origin entering England via the port of ...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126318"
+      },
+      {
+        "id": 1898374,
+        "uin": "126320",
+        "heading": "Import Controls: Ports",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she has had recent discussions with the Secretary of State for the Home Department on ensuring adequate veterinary staffing at ports.",
+        "answerText": "The Home Office is not responsible for veterinary staffing at ports and therefore the Secretary of State for Environment, Food and Rural Affairs has not had recent discussions with the Secretary of State for the Home Department on this. Defra is working w...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126320"
+      },
+      {
+        "id": 1898375,
+        "uin": "126321",
+        "heading": "Import Controls",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she is taking steps with the Secretary of State for the Home Department to implement effective oversight of biosecurity border controls.",
+        "answerText": "The Secretary of State for the Home Department does not oversee import controls for biosecurity, but Border Force is responsible for identifying and seizing illegally imported illegal animals, illegal animal products, illegal plants and plant products in ...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-04-10",
+        "dateForAnswer": "2026-04-14",
+        "dateAnswered": "2026-04-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126321"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-06-24",
+      "totals": {
+        "Aye": 17,
+        "No": 8
+      },
+      "recent": [
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        },
+        {
+          "id": 2353,
+          "number": 3,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (l)",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 78,
+          "noCount": 408,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2353"
+        },
+        {
+          "id": 2346,
+          "number": 511,
+          "date": "2026-04-27",
+          "title": "Children's School and Wellbeing Bill: Amendments (a) to (j) in lieu of Lords Amendments 38V to 38X",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 272,
+          "noCount": 64,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2346"
+        },
+        {
+          "id": 2345,
+          "number": 510,
+          "date": "2026-04-27",
+          "title": "Northern Ireland Troubles Bill: Carry-over motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 176,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2345"
+        }
+      ],
+      "watch": []
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+        "items": [
+          {
+            "id": 13555,
+            "text": "Name of donor: Adam Management Holdings Address of donor: One Canada Square, Canary Wharf, London E14 5AA Amount of donation or nature and value if donation in kind: £3,750 contribution towards campaigning activities Donor status: company, registration 13453522 (Registered 16 October 2025)",
+            "createdWhen": "2025-10-21",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14392,
+            "text": "Name of donor: Brecon & Radnorshire Lib Dem 49 Club Address of donor: The Mews Brecon LD3 9AR Amount of donation or nature and value if donation in kind: £4,100 jane Dodds, Member of the Senedd for Mid & West Wales Donor status: unincorporated association (Registered 22 January 2026)",
+            "createdWhen": "2026-02-03",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14384,
+            "text": "Name of donor: Michael Watson Address of donor: private Amount of donation or nature and value if donation in kind: £1,600 jane Dodds Member of the Senedd for Mid & West Wales Donor status: individual (Registered 22 January 2026)",
+            "createdWhen": "2026-02-03",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "3. Gifts, benefits and hospitality from UK sources",
+        "items": [
+          {
+            "id": 11363,
+            "text": "Name of donor: National Liberal Club Address of donor: 1 Whitehall Place, London SW1A 2HE Amount of donation or nature and value if donation in kind: Honorary membership until 31 December 2025, estimated value, value £983.90 Date received: 25 November 2024 to 31 December 2025 Date accepted: 25 November 2024 Donor status: company, registration 01355034 (Registered 26 November 2024; updated 13 January 2026)",
+            "createdWhen": "2026-02-05",
+            "amendedWhen": "2026-01-20",
+            "isCorrection": false
+          },
+          {
+            "id": 14325,
+            "text": "Name of donor: National Liberal Club Address of donor: 1 Whitehall Place, London SW1A 2HE Amount of donation or nature and value if donation in kind: Extension of honorary membership until 31 December 2026, estimated value, value £983.90 Date received: 23 December 2025 to 31 December 2026 Date accepted: 23 December 2025 Donor status: company, registration 01355034 (Registered 13 January 2026)",
+            "createdWhen": "2026-02-05",
+            "amendedWhen": "2026-01-20",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "category": "5. Gifts and benefits from sources outside the UK",
+        "items": [
+          {
+            "id": 12829,
+            "text": "Name of donor: CMS Analytics Address of donor: 1515 Ringling Blvd, Suite 250 Sarasota, FL, 34236 USA Amount of donation or nature and value if donation in kind: A ticket to the Cash in the UK conference, value £995 Date received: 10 June 2025 Date accepted: 10 June 2025 Donor status: company (Registered 8 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+        "items": [
+          {
+            "id": 13063,
+            "text": "Type of land/property: Residential property Number of properties: 1 Location: London Interest held: from 10 October 2024 Ownership details: Co-owned with partner Rental income: from 30 July 2025 Rental income details: My partner (Registered 5 August 2025)",
+            "createdWhen": "2025-09-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Renewable Energy: Land",
+        "date": "2026-06-24",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the adequacy of protections for landowners entering into option agreements with renewable energy developers.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-24/13060"
+      },
+      {
+        "kind": "Written question",
+        "title": "Mineworkers' Pension Scheme",
+        "date": "2026-06-15",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what recent discussions he has had with the Trustees of the Mineworkers’ Pension Scheme regarding the review of the Scheme’s surplus sharing arrangements; and what his planned timetable is fo",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9761"
+      },
+      {
+        "kind": "Written question",
+        "title": "Mineworkers' Pension Scheme",
+        "date": "2026-06-15",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has considered the introduction of full inflation linking for Mineworkers’ Pension Scheme pensions as part of the Scheme's next valuation.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9765"
+      },
+      {
+        "kind": "Written question",
+        "title": "Mineworkers' Pension Scheme",
+        "date": "2026-06-15",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what discussions he has had with the Chancellor of the Exchequer on the potential fiscal implications of reforming the Mineworkers’ Pension Scheme surplus sharing arrangements.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9767"
+      },
+      {
+        "kind": "Written question",
+        "title": "Mineworkers' Pension Scheme",
+        "date": "2026-06-15",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether he is considering proposals from the Trustees of the Mineworkers’ Pension Scheme to distribute the £1.1 billion of undistributed surplus currently held within the Scheme to members.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9762"
+      },
+      {
+        "kind": "Written question",
+        "title": "Mineworkers' Pension Scheme",
+        "date": "2026-06-15",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether he has made an estimate of the potential additional pension income that would be received by Mineworkers’ Pension Scheme members in Wales if the Trustees’ proposals on the distributio",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9766"
+      },
+      {
+        "kind": "Written question",
+        "title": "Mineworkers' Pension Scheme",
+        "date": "2026-06-15",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential economic merits to former coalfield communities of distributing the Mineworkers’ Pension Scheme's undistributed surplus to members through higher",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9763"
+      },
+      {
+        "kind": "Written question",
+        "title": "Mineworkers' Pension Scheme",
+        "date": "2026-06-15",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether the Government supports changes to the Mineworkers’ Pension Scheme rules to ensure that bonus pensions awarded to members cannot subsequently be withdrawn.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-15/9764"
+      },
+      {
+        "kind": "Written question",
+        "title": "Electricity: Prices",
+        "date": "2026-04-10",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department plans to take further steps to reduce UK electricity prices compared with those in France and Germany.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126500"
+      },
+      {
+        "kind": "Written question",
+        "title": "Renewable Energy: Iron and Steel",
+        "date": "2026-04-10",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, if he will consider bringing the Contracts for Difference Scheme under the remit of the Procurement Policy Note for Steel, and the national security clauses of the Procurement Act 2023.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126507"
+      },
+      {
+        "kind": "Written question",
+        "title": "Renewable Energy: Iron and Steel",
+        "date": "2026-04-10",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, what assessment (a) his Department and (b) GB Energy has made of the capability and capacity of the UK steel industry to provide products for the UK’s renewable energy transition.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126505"
+      },
+      {
+        "kind": "Written question",
+        "title": "Iron and Steel: Manufacturing Industries",
+        "date": "2026-04-10",
+        "summary": "To ask the Secretary of State for Defence, what steps his Department is taking to strengthen domestic supply chains for steel, following the publication of the Defence Industrial Strategy.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126504"
+      },
+      {
+        "kind": "Written question",
+        "title": "Meat: Import Controls",
+        "date": "2026-04-10",
+        "summary": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential biosecurity risk of illegal meat seized in the first four months of 2025; and whether any of this meat tested positive for (a) African Swi",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126319"
+      },
+      {
+        "kind": "Written question",
+        "title": "Import Controls",
+        "date": "2026-04-10",
+        "summary": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she is taking steps with the Secretary of State for the Home Department to implement effective oversight of biosecurity border controls.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126321"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

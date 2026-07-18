@@ -1,0 +1,943 @@
+{
+  "member": {
+    "id": "242",
+    "slug": "sir-christopher-chope",
+    "name": "Sir Christopher Chope",
+    "sortName": "Chope, Sir Christopher",
+    "fullTitle": "Sir Christopher Chope MP",
+    "party": "Conservative",
+    "partyAbbreviation": "Con",
+    "partyColor": "#0063ba",
+    "constituency": "Christchurch",
+    "house": "House of Commons",
+    "role": "MP for Christchurch",
+    "officialUrl": "https://members.parliament.uk/member/242/contact",
+    "recordUrl": "/country/uk/parliament/sir-christopher-chope/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+    "currentMembership": {
+      "constituency": "Christchurch",
+      "constituencyId": 3986,
+      "startDate": "1997-05-01",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "chopec@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 5808",
+        "01425 541087"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "37 Bargates, Christchurch, Dorset, BH23 1QD",
+        "http://www.chrischope.com/"
+      ],
+      "websites": [
+        "http://www.chrischope.com/"
+      ],
+      "social": []
+    },
+    "synopsis": "Sir Christopher Chope is the Conservative MP for Christchurch , and has been an MP continually since 1 May 1997.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/sir-christopher-chope/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/242/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/242"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/242/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/242/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/242/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/242/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=242"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-06",
+    "registeredInterestCount": 5
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/sir-christopher-chope/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/242/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/242"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/242/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/242/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/242/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/242/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=242"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1924484,
+        "uin": "15912",
+        "heading": "Universal Credit",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what the average time is between a Universal Credit enquiry being referred to the Agents Contact Team and resolution of that enquiry.",
+        "answerText": "The Department does not hold a routinely reported average time between a Universal Credit enquiry being referred to the Agents Contact Team and resolution of that enquiry. Enquiries referred to the Agents Contact Team can vary significantly in complexity ...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-09",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/15912"
+      },
+      {
+        "id": 1924482,
+        "uin": "15911",
+        "heading": "HM Courts and Tribunals Service",
+        "questionText": "To ask the Secretary of State for Justice, when will HM Courts & Tribunals Service reference number 175329227331384 (a) be listed and (b) be heard.",
+        "answerText": "We are unable to answer your enquiry because the reference number provided appears to be incorrect.HMCTS manages a range of different services, and the case reference is used to identify the service as well as the case. Reference numbers for HM Courts and...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Sarah Sackman",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-09",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/15911"
+      },
+      {
+        "id": 1924012,
+        "uin": "15668",
+        "heading": "Automatic Number Plate Recognition: Cameras",
+        "questionText": "To ask the Secretary of State for Transport, on how many occasions have DVLA misread the image from an ANPR camera in the most recent year for which records are available.",
+        "answerText": "The Department for Transport has indicated that it will not be possible to answer this question within the usual time period. An answer is being prepared and will be provided as soon as it is available.",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-07-03",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-03/15668"
+      },
+      {
+        "id": 1918425,
+        "uin": "11588",
+        "heading": "Cataracts: Surgery",
+        "questionText": "To ask the Secretary of State for Health and Social Care, how many cataract operations were carried out (a) by and (b) on behalf of the NHS in England in 2025; how many of those were by (i) NHS providers directly and (ii) private sector providers; and wha",
+        "answerText": "In April 2026, for ophthalmology, performance against the standard for 92% of patients to start first treatment within 18 weeks of referral was 73.1%, 5.3% higher than a year earlier.In most cases, contracts will have to comply with National Health Servic...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-06-22",
+        "dateForAnswer": "2026-06-25",
+        "dateAnswered": "2026-06-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-22/11588"
+      },
+      {
+        "id": 1917158,
+        "uin": "10556",
+        "heading": "Vaccine Damage Payment Scheme",
+        "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 15 June to Question 6319 on Vaccine Damage Payment Scheme, how much were the (a) assessment, (b) staff and (c) non-staff costs in each of those years.",
+        "answerText": "The Department of Health and Social Care has indicated that it will not be possible to answer this question within the usual time period. An answer is being prepared and will be provided as soon as it is available.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-17",
+        "dateForAnswer": "2026-06-22",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/10556"
+      },
+      {
+        "id": 1911778,
+        "uin": "6321",
+        "heading": "Access to Work Programme: Staff",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many full-time equivalent staff are engaged in processing Access to Work claims; by what number has that changed in the last 12 months; and what assessment he has made of the potential impact of sta",
+        "answerText": "As at 19 May 2026, there were 658 full-time equivalent (FTE) staff engaged in delivering the Access to Work scheme. This represents an increase of 32.29 FTE compared with 625.71 FTE staff at the end of May 2025.The Department keeps staffing levels under r...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-25",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6321"
+      },
+      {
+        "id": 1911885,
+        "uin": "6324",
+        "heading": "National Police Chiefs' Council",
+        "questionText": "To ask the Secretary of State for the Home Department, if she will make it her policy that the National Police Chiefs' Council should not issue further guidance until it has been approved by her and by Parliament.",
+        "answerText": "The National Police Chiefs’ Council is an operationally independent body with its own governance structure and chair. They work closely with policing partners, including the College of Policing and with the Home Office on a range of matters. This includes...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Sarah Jones",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-18",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6324"
+      },
+      {
+        "id": 1911884,
+        "uin": "6323",
+        "heading": "Vaccine Damage Payment Scheme",
+        "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Answer of 29 April 2026 to Question 119822 on Vaccine Damage Payment Scheme, for what reasons his Department was unable to answer the Question before 29 April 2026; and whethe",
+        "answerText": "I would like to apologise for not being able to provide a substantive response to Question 119822 in the previous parliamentary session, which asked what the cost had been of assessing claims under the Vaccine Damage Payments Scheme (VDPS) in each of the ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6323"
+      },
+      {
+        "id": 1911722,
+        "uin": "6319",
+        "heading": "Vaccine Damage Payment Scheme",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what has been the cost to his Department of assessing claims under the Vaccine Damage Payments Scheme in each of the last four years for which information is available.",
+        "answerText": "I would like to apologise for not being able to provide a substantive response to Question 119822 in the previous parliamentary session, which asked what the cost had been of assessing claims under the Vaccine Damage Payments Scheme (VDPS) in each of the ...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6319"
+      },
+      {
+        "id": 1911779,
+        "uin": "6322",
+        "heading": "Access to Work Programme: Self-employed",
+        "questionText": "To ask the Secretary of State for Work and Pensions, for what reason applications for Access to Work from self-employed customers are not being allocated for processing until over 18 months from the date of receipt; and what assessment he has made of the",
+        "answerText": "Delays in allocating Access to Work applications for self‑employed customers are due to high demand and the additional complexity of these cases, which often require further evidence such as tax and income details.The Department recognises the impact of t...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Sir Stephen Timms",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-12",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6322"
+      },
+      {
+        "id": 1911723,
+        "uin": "6320",
+        "heading": "Vaccine Damage Payment Scheme",
+        "questionText": "To ask the Secretary of State for Health and Social Care, whether the Government accepts the recommendations of the Covid-19 Inquiry (Module 4) published on 16 April 2026 in relation to the Vaccine Damage Payment Scheme.",
+        "answerText": "As set out by the Prime Minister in his Written Ministerial Statement of 16 April responding to the publication of Module 4 of the COVID-19 Inquiry, the Government is carefully considering the findings of the inquiry, including the recommendations on refo...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-06-03",
+        "dateForAnswer": "2026-06-08",
+        "dateAnswered": "2026-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-03/6320"
+      },
+      {
+        "id": 1894368,
+        "uin": "123136",
+        "heading": "Visas: Families",
+        "questionText": "To ask the Secretary of State for the Home Department, what is the current estimate of the time for resolution of applications for visas under the family route.",
+        "answerText": "The Home Office keeps all aspects of the immigration system under regular review, including service standards for processing visa applications.All family visa applications are carefully considered in line with the published family visa processing times av...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Mike Tapp",
+        "dateTabled": "2026-03-24",
+        "dateForAnswer": "2026-04-13",
+        "dateAnswered": "2026-04-13",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-24/123136"
+      },
+      {
+        "id": 1890101,
+        "uin": "119822",
+        "heading": "Vaccine Damage Payment Scheme",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what has been the cost to his Department of assessing claims under the Vaccine Damage Payments Scheme in each of the last four years for which information is available.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Mrs Sharon Hodgson",
+        "dateTabled": "2026-03-11",
+        "dateForAnswer": "2026-03-16",
+        "dateAnswered": "2026-04-29",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-11/119822"
+      },
+      {
+        "id": 1890376,
+        "uin": "119824",
+        "heading": "Palace of Westminster: Asbestos",
+        "questionText": "To ask the hon. Member for Blaenau Gwent and Rhymney, representing the House of Commons Commission, what works are currently being undertaken to remove or isolate asbestos in the Palace of Westminster; and how many operatives are engaged in those works.",
+        "answerText": "Over the last 12 months, a total of 40 tasks has been carried out by the Licensed Asbestos Removal Contractor within the Palace of Westminster to seal, encapsulate, or remove asbestos containing materials.Asbestos removal will take place as part of mainte...",
+        "answeringBody": "House of Commons Commission",
+        "answeringMember": "Nick Smith",
+        "dateTabled": "2026-03-11",
+        "dateForAnswer": "2026-03-16",
+        "dateAnswered": "2026-03-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-11/119824"
+      },
+      {
+        "id": 1890374,
+        "uin": "119823",
+        "heading": "Palace of Westminster: Asbestos",
+        "questionText": "To ask the hon. Member for Blaenau Gwent and Rhymney, representing the House of Commons Commission, if the Commission will publish the details of the 12 asbestos incidents in the Palace of Westminster to which reference is made on page 25 of the report en",
+        "answerText": "The table below outlines the twelve asbestos related incidents since 2016 which have occurred in the Palace, as outlined on page 25 of the R&R Costed Proposals Report.",
+        "answeringBody": "House of Commons Commission",
+        "answeringMember": "Nick Smith",
+        "dateTabled": "2026-03-11",
+        "dateForAnswer": "2026-03-16",
+        "dateAnswered": "2026-03-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-11/119823"
+      },
+      {
+        "id": 1880740,
+        "uin": "112570",
+        "heading": "Immigration: Christchurch",
+        "questionText": "To ask the Secretary of State for the Home Department, if she will reinstate the right to remain of a Christchurch constituent who has been classified as an overstayer pending review of his case, with reference 1212-0001-5632-8110/00.",
+        "answerText": "We are working with the hon Gentleman’s constituent to resolve the situation and will contact them directly to resolve the situation.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Alex Norris",
+        "dateTabled": "2026-02-11",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-02-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112570"
+      },
+      {
+        "id": 1880499,
+        "uin": "112095",
+        "heading": "Religious Buildings: VAT",
+        "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential cost exempting repairs enjoyed by museums and galleries from VAT to include listed places of worship to the Exchequer.",
+        "answerText": "VAT is a broad-based tax on consumption, and the 20 per cent standard rate applies to most goods and services. Outside of a limited number of VAT reliefs aimed at stimulating the supply of new homes, the standard VAT rate of 20 per cent applies to most co...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-02-10",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-02-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-10/112095"
+      },
+      {
+        "id": 1880500,
+        "uin": "112096",
+        "heading": "VAT: Fraud",
+        "questionText": "To ask the Chancellor of the Exchequer, how many UK businesses at the most recent date for which information is available have had their Government Gateway access restricted on the grounds that their accounts may have been compromised by fraudulent attemp",
+        "answerText": "The security of HMRC’s online services is a top priority. We are aware of attempts by organised criminals to access VAT accounts using genuine customers’ registration details, and our immediate focus is to protect customer data and correct any affected ta...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Dan Tomlinson",
+        "dateTabled": "2026-02-10",
+        "dateForAnswer": "2026-02-23",
+        "dateAnswered": "2026-02-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-10/112096"
+      },
+      {
+        "id": 1878021,
+        "uin": "110316",
+        "heading": "Members: Correspondence",
+        "questionText": "To ask the Secretary of State for Transport, when the Minister plans to respond to the email from the hon. Member for Christchurch dated 26 November 2025 on the use of civil enforcement powers by local authorities.",
+        "answerText": "Following a search, I can confirm that the Department holds no record of receiving this email. If a copy can be forwarded a response will be provided.",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-02-03",
+        "dateForAnswer": "2026-02-09",
+        "dateAnswered": "2026-02-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-03/110316"
+      },
+      {
+        "id": 1878152,
+        "uin": "110318",
+        "heading": "Places of Worship Renewal Fund",
+        "questionText": "To ask the Secretary of State for Culture, Media and Sport, for what reason the new Places of Worship Renewal Fund is open to applications from places of worship which are not listed; and whether the new Places of Worship Renewal Fund is open to applicati",
+        "answerText": "The Places of Worship Renewal Fund (PWRF) will only be targeted at listed places of worship. PWRF will be open to applications from all faiths and denominations. Further details regarding the eligibility criteria and application process, will be published...",
+        "answeringBody": "Department for Culture, Media and Sport",
+        "answeringMember": "Ian Murray",
+        "dateTabled": "2026-02-03",
+        "dateForAnswer": "2026-02-09",
+        "dateAnswered": "2026-02-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-03/110318"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 16,
+        "Aye": 9
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2347,
+          "number": 512,
+          "date": "2026-04-28",
+          "title": "Privilege",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 223,
+          "noCount": 335,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2347"
+        },
+        {
+          "id": 2345,
+          "number": 510,
+          "date": "2026-04-27",
+          "title": "Northern Ireland Troubles Bill: Carry-over motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 279,
+          "noCount": 176,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2345"
+        },
+        {
+          "id": 2343,
+          "number": 508,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: Amendments (a) to (h) in lieu of Lords Amendments 85 and 86, 97 to 116, 120, 121 and 123",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 271,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2343"
+        },
+        {
+          "id": 2342,
+          "number": 507,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 94B and 94C",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 269,
+          "noCount": 170,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2342"
+        },
+        {
+          "id": 2341,
+          "number": 506,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 36, 90 and 155, insist on Amendments 155A to 155F and propose Amendment (a)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 270,
+          "noCount": 170,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2341"
+        },
+        {
+          "id": 2340,
+          "number": 505,
+          "date": "2026-04-27",
+          "title": "English Devolution and Community Empowerment Bill: motion to disagree with Lords Amendments 89B and 89C",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 273,
+          "noCount": 167,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2340"
+        },
+        {
+          "id": 2319,
+          "number": 484,
+          "date": "2026-04-15",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendment 78",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 277,
+          "noCount": 150,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2319"
+        },
+        {
+          "id": 2318,
+          "number": 483,
+          "date": "2026-04-15",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendment 77",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 271,
+          "noCount": 95,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2318"
+        },
+        {
+          "id": 2317,
+          "number": 482,
+          "date": "2026-04-15",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendment 43",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 273,
+          "noCount": 159,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2317"
+        },
+        {
+          "id": 2316,
+          "number": 481,
+          "date": "2026-04-15",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendment 35",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 275,
+          "noCount": 159,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2316"
+        },
+        {
+          "id": 2315,
+          "number": 480,
+          "date": "2026-04-15",
+          "title": "Pension Schemes Bill: motion to disagree with Lords Amendment 26",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 269,
+          "noCount": 162,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2315"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2376,
+          "number": 26,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 162,
+          "noCount": 246,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+        },
+        {
+          "id": 2375,
+          "number": 25,
+          "date": "2026-06-16",
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 151,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 8,
+        "category": "7. (i) Shareholdings: over 15% of issued share capital",
+        "items": [
+          {
+            "id": 2456,
+            "text": "Name of company or organisation: Carclew Limited (Updated 20 June 2017)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 1227,
+            "text": "Retired barrister. (Updated 1 June 2015)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 3510,
+            "text": "Joint Treasurer of the British-American Parliamentary Group. This is an unpaid role. Date interest arose: 12 July 2023 (Registered 31 January 2024)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14931,
+            "text": "Director of Carclew Limited, a small private company which provides business consultancy services but excludes advice on parliamentary or public affairs (previously registered under Category 1 and updated 20 June 2017). (Registered 1 April 2026)",
+            "createdWhen": "2026-04-14",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": "9. Family members employed and paid from parliamentary expenses",
+        "items": [
+          {
+            "id": 2979,
+            "text": "Name: Christine Chope Relationship: Spouse Role: Secretary Working pattern: Full time",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "VAT: Fraud",
+        "date": "2026-02-10",
+        "summary": "To ask the Chancellor of the Exchequer, how many UK businesses at the most recent date for which information is available have had their Government Gateway access restricted on the grounds that their accounts may have been compromised by fraudulent attemp",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-10/112096"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: Amendment 3",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 162, Noes 246.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2376"
+      },
+      {
+        "kind": "Vote",
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill Remaining Stages: New Clause 14",
+        "date": "2026-06-16",
+        "summary": "Aye; Ayes 151, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2375"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

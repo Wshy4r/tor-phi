@@ -1,0 +1,974 @@
+{
+  "member": {
+    "id": "4682",
+    "slug": "luke-pollard",
+    "name": "Luke Pollard",
+    "sortName": "Pollard, Luke",
+    "fullTitle": "Luke Pollard MP",
+    "party": "Labour (Co-op)",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Plymouth Sutton and Devonport",
+    "house": "House of Commons",
+    "role": "MP for Plymouth Sutton and Devonport",
+    "officialUrl": "https://members.parliament.uk/member/4682/contact",
+    "recordUrl": "/country/uk/parliament/luke-pollard/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4682/Thumbnail",
+    "currentMembership": {
+      "constituency": "Plymouth Sutton and Devonport",
+      "constituencyId": 4242,
+      "startDate": "2017-06-08",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "luke.pollard.mp@parliament.uk"
+      ],
+      "phones": [
+        "0207 219 2749",
+        "01752 717 255"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "13 Frankfort Gate, Plymouth, PL1 1QA",
+        "http://www.lukepollard.org/",
+        "https://www.facebook.com/LukePollard/",
+        "https://twitter.com/LukePollard"
+      ],
+      "websites": [
+        "http://www.lukepollard.org/"
+      ],
+      "social": [
+        [
+          "Facebook",
+          "https://www.facebook.com/LukePollard/"
+        ],
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/LukePollard"
+        ]
+      ]
+    },
+    "synopsis": "Luke Pollard is the Labour (Co-op) MP for Plymouth Sutton and Devonport , and has been an MP continually since 8 June 2017. He currently holds the Government post of Minister of State (Ministry of Defence).",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/luke-pollard/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4682/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4682"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4682/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4682/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4682/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4682/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4682"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-06-23",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-05-21",
+    "registeredInterestCount": 2
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/luke-pollard/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4682/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4682"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4682/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4682/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4682/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4682/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4682"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1719770,
+        "uin": "27452",
+        "heading": "Frigates: Exports",
+        "questionText": "To ask the Secretary of State for Defence, how much his Department has received in payments for the export of the Type (a) 26 and (b) 31 frigate design since the project began.",
+        "answerText": "I am unable to answer due to commercial sensitivities.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27452"
+      },
+      {
+        "id": 1719769,
+        "uin": "27451",
+        "heading": "Frigates: Exports",
+        "questionText": "To ask the Secretary of State for Defence, whether his Department receives a payment for each export order of Type (a) 26 and (b) 31 frigate.",
+        "answerText": "I am unable to answer due to commercial sensitivities.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27451"
+      },
+      {
+        "id": 1719859,
+        "uin": "27541",
+        "heading": "RM Chivenor: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to RM Chivenor for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27541"
+      },
+      {
+        "id": 1719792,
+        "uin": "27474",
+        "heading": "RM Instow: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to RM Instow for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27474"
+      },
+      {
+        "id": 1719791,
+        "uin": "27473",
+        "heading": "CTCRM Lympstone: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to Lympstone Commando Training Centre for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould sin",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27473"
+      },
+      {
+        "id": 1719790,
+        "uin": "27472",
+        "heading": "RAF Alconbury: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to RAF Alconbury for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27472"
+      },
+      {
+        "id": 1719789,
+        "uin": "27471",
+        "heading": "RAF Wyton: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to RAF Wyton for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27471"
+      },
+      {
+        "id": 1719788,
+        "uin": "27470",
+        "heading": "RAF Odiham: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to RAF Odiham for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27470"
+      },
+      {
+        "id": 1719787,
+        "uin": "27469",
+        "heading": "Baker Barracks: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to Baker Barracks for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27469"
+      },
+      {
+        "id": 1719786,
+        "uin": "27468",
+        "heading": "Sir John Moore Barracks: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to Sir John Moor Barracks for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 202",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27468"
+      },
+      {
+        "id": 1719785,
+        "uin": "27467",
+        "heading": "Marchwood Military Port: Repairs and Maintenance",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to McCullen Barracks for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27467"
+      },
+      {
+        "id": 1718096,
+        "uin": "26272",
+        "heading": "Marchwood Military Port",
+        "questionText": "To ask the Secretary of State for Defence, how many service personnel are based at Marchwood Military Port.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-14",
+        "dateForAnswer": "2024-05-16",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26272"
+      },
+      {
+        "id": 1718092,
+        "uin": "26268",
+        "heading": "Defence Equipment and Support",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to Defence Equipment and Support Gosport for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-14",
+        "dateForAnswer": "2024-05-16",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26268"
+      },
+      {
+        "id": 1718091,
+        "uin": "26267",
+        "heading": "Marchwood Military Port",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to Marchwood Military Port for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 20",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-14",
+        "dateForAnswer": "2024-05-16",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26267"
+      },
+      {
+        "id": 1718090,
+        "uin": "26266",
+        "heading": "Royal Naval College",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to Britannia Royal Naval College for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since Ap",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-14",
+        "dateForAnswer": "2024-05-16",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26266"
+      },
+      {
+        "id": 1718089,
+        "uin": "26265",
+        "heading": "Catterick Garrison",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to HMS Nelson for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-14",
+        "dateForAnswer": "2024-05-16",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26265"
+      },
+      {
+        "id": 1718088,
+        "uin": "26264",
+        "heading": "Portsmouth Dockyard",
+        "questionText": "To ask the Secretary of State for Defence, how many callouts have been made to HMNB Portsmouth for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-05-14",
+        "dateForAnswer": "2024-05-16",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26264"
+      },
+      {
+        "id": 1717760,
+        "uin": "25976",
+        "heading": "Portsmouth Dockyard",
+        "questionText": "To ask the Secretary of State for Defence, how many service personnel are based at HMNB Portsmouth as of May 2024.",
+        "answerText": "As of 1 January 2024, there were 5,760 personnel based at HMNB Portsmouth. Due to the method used to capture personnel data, this is the most current available figure.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "Dr Andrew Murrison",
+        "dateTabled": "2024-05-13",
+        "dateForAnswer": "2024-05-16",
+        "dateAnswered": "2024-05-16",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-13/25976"
+      },
+      {
+        "id": 1714721,
+        "uin": "24131",
+        "heading": "Armed Forces: Housing",
+        "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the adequacy of his Department's progress on improving service accommodation since his appointment.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-04-29",
+        "dateForAnswer": "2024-05-01",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-29/24131"
+      },
+      {
+        "id": 1713617,
+        "uin": "23570",
+        "heading": "Clyde Naval Base",
+        "questionText": "To ask the Secretary of State for Defence, how many service personnel are based at HMNB Clyde.",
+        "answerText": "These figures are reported annually and are accurate as of 01 January 2024. Figures have been rounded to the nearest 10 to prevent inadvertent disclosure, and numbers ending in \"5\" have been rounded to the nearest 20 to prevent systematic bias. University...",
+        "answeringBody": "Ministry of Defence",
+        "answeringMember": "James Cartlidge",
+        "dateTabled": "2024-04-24",
+        "dateForAnswer": "2024-04-26",
+        "dateAnswered": "2024-05-02",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-24/23570"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-06-23",
+      "totals": {
+        "No": 20,
+        "Aye": 5
+      },
+      "recent": [
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2367,
+          "number": 17,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 157,
+          "noCount": 287,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2367"
+        },
+        {
+          "id": 2366,
+          "number": 16,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 94,
+          "noCount": 297,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2366"
+        },
+        {
+          "id": 2365,
+          "number": 15,
+          "date": "2026-06-09",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 20",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 90,
+          "noCount": 290,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2365"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        },
+        {
+          "id": 2362,
+          "number": 12,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 81,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2362"
+        },
+        {
+          "id": 2360,
+          "number": 10,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 80,
+          "noCount": 298,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2360"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        },
+        {
+          "id": 2358,
+          "number": 8,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 5",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 170,
+          "noCount": 301,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2358"
+        },
+        {
+          "id": 2357,
+          "number": 7,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 302,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2357"
+        },
+        {
+          "id": 2356,
+          "number": 6,
+          "date": "2026-05-21",
+          "title": "Steel Industry (Nationalisation) Bill: Reasoned Amendment to Second Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 68,
+          "noCount": 242,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2356"
+        },
+        {
+          "id": 2355,
+          "number": 5,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 307,
+          "noCount": 171,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2355"
+        },
+        {
+          "id": 2354,
+          "number": 4,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (p)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 316,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2354"
+        },
+        {
+          "id": 2353,
+          "number": 3,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (l)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 78,
+          "noCount": 408,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2353"
+        },
+        {
+          "id": 2352,
+          "number": 2,
+          "date": "2026-05-20",
+          "title": "King's Speech Motion for an Address: amendment (o)",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2352"
+        },
+        {
+          "id": 2327,
+          "number": 492,
+          "date": "2026-04-20",
+          "title": "Crime and Policing Bill: Amendments (a) to (b) in lieu of Lords Amendments 359 and 439",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 292,
+          "noCount": 158,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2327"
+        },
+        {
+          "id": 2326,
+          "number": 491,
+          "date": "2026-04-20",
+          "title": "Crime and Policing Bill: Amendments (a) and (b) in lieu of Lords Amendment 342",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 61,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2326"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 3,
+        "category": "2. (b) Any other support not included in Category 2(a)",
+        "items": [
+          {
+            "id": 13069,
+            "text": "Name of donor: Babcock International Address of donor: 33 Wigmore Street, London W1U 1QX Amount of donation or nature and value if donation in kind: Provision of items for young people in Plymouth participating in my summer school, value £376.80 Date received: 24 July 2025 to 25 July 2025 Date accepted: 24 July 2025 Donor status: company, registration 02342138 (Registered 5 August 2025)",
+            "createdWhen": "2025-09-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 13067,
+            "text": "Name of donor: University of Plymouth Address of donor: Drake Circus, Plymouth PL4 8AA Amount of donation or nature and value if donation in kind: The provision of lecture hall and events space for my summer school for young people in Plymouth, value £1,788 Date received: 24 July 2025 to 25 July 2025 Date accepted: 24 July 2025 Donor status: other (University) (Registered 5 August 2025)",
+            "createdWhen": "2025-09-02",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Frigates: Exports",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how much his Department has received in payments for the export of the Type (a) 26 and (b) 31 frigate design since the project began.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27452"
+      },
+      {
+        "kind": "Written question",
+        "title": "Frigates: Exports",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, whether his Department receives a payment for each export order of Type (a) 26 and (b) 31 frigate.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27451"
+      },
+      {
+        "kind": "Written question",
+        "title": "RM Chivenor: Repairs and Maintenance",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to RM Chivenor for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27541"
+      },
+      {
+        "kind": "Written question",
+        "title": "RM Instow: Repairs and Maintenance",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to RM Instow for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27474"
+      },
+      {
+        "kind": "Written question",
+        "title": "CTCRM Lympstone: Repairs and Maintenance",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to Lympstone Commando Training Centre for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould sin",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27473"
+      },
+      {
+        "kind": "Written question",
+        "title": "RAF Alconbury: Repairs and Maintenance",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to RAF Alconbury for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27472"
+      },
+      {
+        "kind": "Written question",
+        "title": "RAF Wyton: Repairs and Maintenance",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to RAF Wyton for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27471"
+      },
+      {
+        "kind": "Written question",
+        "title": "RAF Odiham: Repairs and Maintenance",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to RAF Odiham for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27470"
+      },
+      {
+        "kind": "Written question",
+        "title": "Baker Barracks: Repairs and Maintenance",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to Baker Barracks for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27469"
+      },
+      {
+        "kind": "Written question",
+        "title": "Sir John Moore Barracks: Repairs and Maintenance",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to Sir John Moor Barracks for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 202",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27468"
+      },
+      {
+        "kind": "Written question",
+        "title": "Marchwood Military Port: Repairs and Maintenance",
+        "date": "2024-05-21",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to McCullen Barracks for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27467"
+      },
+      {
+        "kind": "Written question",
+        "title": "Marchwood Military Port",
+        "date": "2024-05-14",
+        "summary": "To ask the Secretary of State for Defence, how many service personnel are based at Marchwood Military Port.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26272"
+      },
+      {
+        "kind": "Written question",
+        "title": "Defence Equipment and Support",
+        "date": "2024-05-14",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to Defence Equipment and Support Gosport for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26268"
+      },
+      {
+        "kind": "Written question",
+        "title": "Marchwood Military Port",
+        "date": "2024-05-14",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to Marchwood Military Port for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 20",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26267"
+      },
+      {
+        "kind": "Written question",
+        "title": "Royal Naval College",
+        "date": "2024-05-14",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to Britannia Royal Naval College for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since Ap",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26266"
+      },
+      {
+        "kind": "Written question",
+        "title": "Catterick Garrison",
+        "date": "2024-05-14",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to HMS Nelson for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26265"
+      },
+      {
+        "kind": "Written question",
+        "title": "Portsmouth Dockyard",
+        "date": "2024-05-14",
+        "summary": "To ask the Secretary of State for Defence, how many callouts have been made to HMNB Portsmouth for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-14/26264"
+      },
+      {
+        "kind": "Written question",
+        "title": "Portsmouth Dockyard",
+        "date": "2024-05-13",
+        "summary": "To ask the Secretary of State for Defence, how many service personnel are based at HMNB Portsmouth as of May 2024.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-13/25976"
+      },
+      {
+        "kind": "Written question",
+        "title": "Armed Forces: Housing",
+        "date": "2024-04-29",
+        "summary": "To ask the Secretary of State for Defence, what assessment he has made of the adequacy of his Department's progress on improving service accommodation since his appointment.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-29/24131"
+      },
+      {
+        "kind": "Written question",
+        "title": "Clyde Naval Base",
+        "date": "2024-04-24",
+        "summary": "To ask the Secretary of State for Defence, how many service personnel are based at HMNB Clyde.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-04-24/23570"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

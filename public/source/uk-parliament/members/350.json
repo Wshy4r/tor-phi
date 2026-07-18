@@ -1,0 +1,976 @@
+{
+  "member": {
+    "id": "350",
+    "slug": "sir-john-hayes",
+    "name": "Sir John Hayes",
+    "sortName": "Hayes, Sir John",
+    "fullTitle": "Rt Hon Sir John Hayes MP",
+    "party": "Conservative",
+    "partyAbbreviation": "Con",
+    "partyColor": "#0063ba",
+    "constituency": "South Holland and The Deepings",
+    "house": "House of Commons",
+    "role": "MP for South Holland and The Deepings",
+    "officialUrl": "https://members.parliament.uk/member/350/contact",
+    "recordUrl": "/country/uk/parliament/sir-john-hayes/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/350/Thumbnail",
+    "currentMembership": {
+      "constituency": "South Holland and The Deepings",
+      "constituencyId": 4302,
+      "startDate": "1997-05-01",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "hayesj@parliament.uk",
+        "davieshm@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 1389",
+        "01775 711534"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "24-25 Westlode Street, Spalding, Lincolnshire, PE11 2AF"
+      ],
+      "websites": [],
+      "social": []
+    },
+    "synopsis": "The Rt Hon Sir John Hayes is the Conservative MP for South Holland and The Deepings , and has been an MP continually since 1 May 1997.",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/sir-john-hayes/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/350/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/350"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/350/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/350/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/350/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/350/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=350"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-08",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2026-07-06",
+    "registeredInterestCount": 9
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/sir-john-hayes/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/350/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/350"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/350/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/350/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/350/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/350/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=350"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1924391,
+        "uin": "15914",
+        "heading": "Driving Tests",
+        "questionText": "To ask the Secretary of State for Transport, what the average wait for a practical driving test has been at (a) Boston, (b) Grantham and (c) Peterborough test centres in each of the past three years.",
+        "answerText": "The Driver and Vehicle Standards Agency (DVSA) has now published more detailed data-sets so learners can get better understanding of the booking system. More information and waiting time data, including for Boston, Grantham and Peterborough driving test c...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/15914"
+      },
+      {
+        "id": 1924390,
+        "uin": "15913",
+        "heading": "Driving Tests: Lincolnshire",
+        "questionText": "To ask the Secretary of State for Transport, how many practical driving tests have been completed in Lincolnshire in each of the past three years.",
+        "answerText": "The Driver and Vehicle Standards Agency (DVSA) has now published more detailed data-sets so learners can get better understanding of the booking system. More information and waiting time data, including for Boston, Grantham and Peterborough driving test c...",
+        "answeringBody": "Department for Transport",
+        "answeringMember": "Simon Lightwood",
+        "dateTabled": "2026-07-06",
+        "dateForAnswer": "2026-07-08",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-06/15913"
+      },
+      {
+        "id": 1924016,
+        "uin": "15672",
+        "heading": "Department for Business and Trade: Recruitment",
+        "questionText": "To ask the Secretary of State for Business and Trade, whether his Department uses numerical reasoning tests as part of the recruitment process for its graduate recruitment scheme.",
+        "answerText": "The Department for Business and Trade does not apply numerical reasoning tests as part of recruitment processes relating to graduate recruitment schemes.",
+        "answeringBody": "Department for Business and Trade",
+        "answeringMember": "Kate Dearden",
+        "dateTabled": "2026-07-03",
+        "dateForAnswer": "2026-07-07",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-03/15672"
+      },
+      {
+        "id": 1923917,
+        "uin": "15669",
+        "heading": "Dental Services: Care Homes",
+        "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to help mprove access to dental services for for care home residents in Lincolnshire.",
+        "answerText": "We recognise that certain groups of patients may be particularly vulnerable to oral health problems and may find it difficult to access dental care. Specialised dental services are in place to provide dental treatment in several settings, including care h...",
+        "answeringBody": "Department of Health and Social Care",
+        "answeringMember": "Stephen Kinnock",
+        "dateTabled": "2026-07-03",
+        "dateForAnswer": "2026-07-07",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-03/15669"
+      },
+      {
+        "id": 1922948,
+        "uin": "14779",
+        "heading": "Diabetes: Research",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment she has made of the UK's position globally in respect of research into beta cell preservation, regeneration and replacement therapies for type 1 diabetes.",
+        "answerText": "Through UK Research and Innovation (UKRI), including UKRI’s Medical Research Council (MRC), the Government supports a broad portfolio of research relevant to Type 1 diabetes. This includes work on pancreatic biology, immunology, and cell replacement appro...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Kanishka Narayan",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14779"
+      },
+      {
+        "id": 1922899,
+        "uin": "14774",
+        "heading": "Department for Science, Innovation and Technology: Recruitment",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether her department uses numerical reasoning tests as part of the recruitment process for its graduate recruitment scheme.",
+        "answerText": "DSIT doesn't operate a departmental graduate recruitment scheme.",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Ian Murray",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14774"
+      },
+      {
+        "id": 1922816,
+        "uin": "14773",
+        "heading": "Treasury: Recruitment",
+        "questionText": "To ask the Chancellor of the Exchequer, whether her department uses numerical reasoning tests as part the recruitment process for its graduate recruitment scheme.",
+        "answerText": "HM Treasury’s graduate entry programme was paused for the 2025–26 cycle so that the department could undertake a procurement exercise for a new provider to run a replacement programme for September 2027 entry. The numerical reasoning test was removed from...",
+        "answeringBody": "Treasury",
+        "answeringMember": "Rachel Blake",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14773"
+      },
+      {
+        "id": 1922924,
+        "uin": "14778",
+        "heading": "Department for Education: Recruitment",
+        "questionText": "To ask the Secretary of State for Education, whether her department uses numerical reasoning tests as part of the recruitment process for its graduate recruitment scheme.",
+        "answerText": "The department does not have a graduate recruitment scheme and instead places bids to provide placements for the Civil Service Fast Stream graduate recruitment scheme, which is managed centrally by the Cabinet Office.",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14778"
+      },
+      {
+        "id": 1922909,
+        "uin": "14776",
+        "heading": "Defibrillators: South Holland and the Deepings",
+        "questionText": "To ask the Secretary of State for Education, what steps she is taking to increase defibrillator training in schools in South Holland and the Deepings constituency.",
+        "answerText": "Defibrillators are designed to be simple and safe to use with no prior training. The devices talk users through step-by-step instructions at the time of use. ​As part of the department’s defibrillator programme, we provided awareness videos to schools sho...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Josh MacAlister",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14776"
+      },
+      {
+        "id": 1922910,
+        "uin": "14777",
+        "heading": "Wind Power: Birds",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her department has estimated how many seabirds have died due to colliding with offshore wind turbines for each of the last five years.",
+        "answerText": "We have commissioned the Joint Nature Conservation Committee to undertake a project to calculate estimated mortalities from offshore wind farms using up to date methods and parameters. This will support future assessments of offshore wind impacts on seabi...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Emma Hardy",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14777"
+      },
+      {
+        "id": 1922908,
+        "uin": "14775",
+        "heading": "Ketamine: Drug Seizures",
+        "questionText": "To ask the Secretary of State for the Home Department, what quantity of ketamine has been seized at the UK border in each of the last ten years.",
+        "answerText": "The Government is committed to tackling drug harms through prevention, treatment and enforcement. We are working closely with police, health services and international partners to disrupt supply chains and protect communities.Data is available via drug se...",
+        "answeringBody": "Home Office",
+        "answeringMember": "Mike Tapp",
+        "dateTabled": "2026-07-01",
+        "dateForAnswer": "2026-07-06",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-07-01/14775"
+      },
+      {
+        "id": 1922208,
+        "uin": "14309",
+        "heading": "Department for Energy Security and Net Zero: Public Appointments",
+        "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how many political appointees have been made by his Department since July 2024.",
+        "answerText": "We have taken ‘political appointees’ to mean special advisers. A list of special advisers by department is published each year in the Annual Report on Special Advisers which is laid in parliament. The Annual Report on Special Advisers 2026 will be publish...",
+        "answeringBody": "Department for Energy Security and Net Zero",
+        "answeringMember": "Michael Shanks",
+        "dateTabled": "2026-06-30",
+        "dateForAnswer": "2026-07-02",
+        "dateAnswered": "2026-07-08",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14309"
+      },
+      {
+        "id": 1921697,
+        "uin": "13769",
+        "heading": "Prisoners' Release: Sexual Offences",
+        "questionText": "To ask the Secretary of State for Justice, how many prisoners who will be made eligible for release halfway through their sentences were convicted of (1) rape and (2) sex offences.",
+        "answerText": "I extend my sincere sympathy to all victims of these appalling crimes. This Government inherited a prisons system days from collapse. We had no choice but to take decisive action to stop our prisons overflowing and keep the public safe. Our landmark Sente...",
+        "answeringBody": "Ministry of Justice",
+        "answeringMember": "Jake Richards",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/13769"
+      },
+      {
+        "id": 1921596,
+        "uin": "13764",
+        "heading": "Department for Environment, Food and Rural Affairs: Public Appointments",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many political appointees have been made by her department since July 2024.",
+        "answerText": "Defra officials have taken ‘political appointees’ to mean special advisers. A list of special advisers by department is published each year in the Annual Report on Special Advisers which is laid in parliament. The Annual Report on Special Advisers 2026 wi...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Stephen Morgan",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/13764"
+      },
+      {
+        "id": 1921591,
+        "uin": "13759",
+        "heading": "Department for Science, Innovation and Technology: Public Appointments",
+        "questionText": "To ask the Secretary of State for Science, Innovation and Technology, how many political appointees have been made by her department since July 2024.",
+        "answerText": "We have taken ‘political appointees’ to mean special advisers. A list of special advisers by department is published each year in the Annual Report on Special Advisers which is laid in Parliament. The Annual Report on Special Advisers 2026 will be publish...",
+        "answeringBody": "Department for Science, Innovation and Technology",
+        "answeringMember": "Ian Murray",
+        "dateTabled": "2026-06-29",
+        "dateForAnswer": "2026-07-01",
+        "dateAnswered": "2026-07-07",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-29/13759"
+      },
+      {
+        "id": 1914626,
+        "uin": "8481",
+        "heading": "Northern Ireland Office: Artificial Intelligence",
+        "questionText": "To ask the Secretary of State for Northern Ireland, whether his Department permits (a) Ministers, (b) special advisers and (c) officials to use (i) Chat GPT, (ii) Google Gemini, (iii) Claude, (iv) Deepseek and (v) Grok as part of their official duties.",
+        "answerText": "The Government is committed to harnessing the benefits of artificial intelligence to improve the productivity of the Civil Service and the quality of public services. The Northern Ireland Office (NIO) provides officials, Ministers and special advisers wit...",
+        "answeringBody": "Northern Ireland Office",
+        "answeringMember": "Hilary Benn",
+        "dateTabled": "2026-06-10",
+        "dateForAnswer": "2026-06-15",
+        "dateAnswered": "2026-06-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-10/8481"
+      },
+      {
+        "id": 1913386,
+        "uin": "7364",
+        "heading": "Scotland Office: Streaming",
+        "questionText": "To ask the Secretary of State for Scotland, whether his Department permits (a) Ministers, (b) special advisers and (c) officials to use (i) Chat GPT, (ii) Google Gemini, (iii) Claude, (iv) Deepseek and (v) Grok as part of their official duties.",
+        "answerText": "The Government is committed to harnessing the benefits of artificial intelligence to improve the productivity of the Civil Service and the quality of public services. Departments provide officials, Ministers and special advisers with access to secure, ent...",
+        "answeringBody": "Scotland Office",
+        "answeringMember": "Kirsty McNeill",
+        "dateTabled": "2026-06-08",
+        "dateForAnswer": "2026-06-10",
+        "dateAnswered": "2026-06-15",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-08/7364"
+      },
+      {
+        "id": 1913021,
+        "uin": "7109",
+        "heading": "Wales Office: Artificial Intelligence",
+        "questionText": "To ask the Secretary of State for Wales, whether her Department permits (a) Ministers, (b) special advisers and (c) officials to use (i) Chat GPT, (ii) Google Gemini, (iii) Claude, (iv) Deepseek and (v) Grok as part of their official duties.",
+        "answerText": "The Government is committed to harnessing the benefits of artificial intelligence to improve the productivity of the Civil Service and the quality of public services. Departments provide officials, Ministers and special advisers with access to secure, ent...",
+        "answeringBody": "Wales Office",
+        "answeringMember": "Jo Stevens",
+        "dateTabled": "2026-06-05",
+        "dateForAnswer": "2026-06-09",
+        "dateAnswered": "2026-06-11",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-05/7109"
+      },
+      {
+        "id": 1911210,
+        "uin": "5864",
+        "heading": "Department for Environment, Food and Rural Affairs: Artificial Intelligence",
+        "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department permits (1) Ministers, (2) Special advisers and (3) officials to use (a) Chat GPT, (b) Google Gemini, (c) Claude, (d) Deepseek and (e) Grok as part of their offi",
+        "answerText": "This Government is committed to harnessing the benefits of artificial intelligence to improve the productivity of the Civil Service and the quality of public services. The Department provides officials, Ministers and special advisers with access to secure...",
+        "answeringBody": "Department for Environment, Food and Rural Affairs",
+        "answeringMember": "Dame Angela Eagle",
+        "dateTabled": "2026-06-02",
+        "dateForAnswer": "2026-06-04",
+        "dateAnswered": "2026-06-09",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-02/5864"
+      },
+      {
+        "id": 1911201,
+        "uin": "5856",
+        "heading": "Department for Education: Artificial Intelligence",
+        "questionText": "To ask the Secretary of State for Education, whether her department permits (1) Ministers, (2) Special advisers and (3) officials to use (a) Chat GPT, (b) Google Gemini, (c) Claude, (d) Deepseek and (e) Grok as part of their official duties.",
+        "answerText": "The government is committed to harnessing the benefits of artificial intelligence (AI) to improve the productivity of the Civil Service and the quality of public services. Ministers, special advisers and officials may only use generative AI tools that hav...",
+        "answeringBody": "Department for Education",
+        "answeringMember": "Olivia Bailey",
+        "dateTabled": "2026-06-02",
+        "dateForAnswer": "2026-06-04",
+        "dateAnswered": "2026-06-10",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-02/5856"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-08",
+      "totals": {
+        "No": 13,
+        "Aye": 12
+      },
+      "recent": [
+        {
+          "id": 2404,
+          "number": 53,
+          "date": "2026-07-08",
+          "title": "Draft Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 283,
+          "noCount": 182,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2404"
+        },
+        {
+          "id": 2403,
+          "number": 52,
+          "date": "2026-07-08",
+          "title": "Draft Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 317,
+          "noCount": 103,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2403"
+        },
+        {
+          "id": 2402,
+          "number": 51,
+          "date": "2026-07-08",
+          "title": "Draft Children’s Wellbeing and Schools Act 2026 (Establishment of Schools) (Consequential Amendments) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 369,
+          "noCount": 102,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2402"
+        },
+        {
+          "id": 2401,
+          "number": 50,
+          "date": "2026-07-07",
+          "title": "Opposition Day: Early release of prisoners",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 115,
+          "noCount": 0,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2401"
+        },
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2390,
+          "number": 39,
+          "date": "2026-06-23",
+          "title": "Opposition Day: Puberty blockers",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 112,
+          "noCount": 283,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2390"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2377,
+          "number": 27,
+          "date": "2026-06-16",
+          "title": "Draft Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 262,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2377"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        },
+        {
+          "id": 2359,
+          "number": 9,
+          "date": "2026-06-02",
+          "title": "Armed Forces Bill Committee: New Clause 6",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 99,
+          "noCount": 371,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2359"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2399,
+          "number": 48,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 177,
+          "noCount": 308,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+        },
+        {
+          "id": 2398,
+          "number": 47,
+          "date": "2026-07-01",
+          "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 173,
+          "noCount": 282,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+        },
+        {
+          "id": 2389,
+          "number": 38,
+          "date": "2026-06-23",
+          "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 294,
+          "noCount": 110,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+        },
+        {
+          "id": 2388,
+          "number": 37,
+          "date": "2026-06-23",
+          "title": "Opposition day: Defence spending and readiness",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 108,
+          "noCount": 307,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        }
+      ]
+    },
+    "registeredInterests": [
+      {
+        "id": 12,
+        "category": "1. Employment and earnings",
+        "items": [
+          {
+            "id": 4849,
+            "text": "Role, work or services: Strategic Adviser From: 1 September 2018. Payer: BB Energy Trading Ltd (an international energy company trading worldwide), 12-14 Ansdell St, London W8 5BN ACOBA consulted: Yes",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 4850,
+            "text": "Remuneration: £50,000 a year From: 1 September 2018. Hours: 80 hrs a year (between 70 and 80 hrs) (Registered 28 September 2018; updated 12 December 2018 and 13 February 2025)",
+            "createdWhen": "2025-02-25",
+            "amendedWhen": "2024-04-18",
+            "isCorrection": false
+          },
+          {
+            "id": 4855,
+            "text": "Role, work or services: Part-time professor in Political Studies From: 1 April 2020. Until: 11 July 2025. Payer: University of Greater Manchester, Deane Road, Bolton BL3 5AB (Updated 13 February 2025 and 14 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "2025-02-25",
+            "isCorrection": false
+          },
+          {
+            "id": 4856,
+            "text": "Remuneration: £41,713.60 a year paid monthly From: 1 April 2020. Hours: 30 hrs a month (between 20 and 30 hrs) (Registered 29 April 2020; updated 22 April 2022 and 29 September 2023)",
+            "createdWhen": "2025-11-21",
+            "amendedWhen": "2024-08-27",
+            "isCorrection": false
+          },
+          {
+            "id": 11839,
+            "text": "Role, work or services: Lecturer in British Government and Politics at Richmond American University London From: 20 January 2025. Until: 25 June 2025. Payer: Richmond American University London, Building 12, Chiswick Park, 566 Chiswick High Road, London W4 5AN (Registered 28 February 2025; updated 14 July 2025)",
+            "createdWhen": "2026-02-13",
+            "amendedWhen": "2025-07-15",
+            "isCorrection": false
+          },
+          {
+            "id": 12851,
+            "text": "Payment: £2,392.50 Received on: 25 June 2025. Hours: 8 hrs. (Registered 9 July 2025)",
+            "createdWhen": "2025-07-15",
+            "amendedWhen": "",
+            "isCorrection": false
+          },
+          {
+            "id": 14557,
+            "text": "Payment expected: £5,880 Lecturer in British Government and Politics at Richmond American University London Completed or provided on: 26 January 2026. Hours: 15 hrs over period Jan 26th 2026 to April 20th 2026. (Registered 13 February 2026)",
+            "createdWhen": "2026-02-24",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "8. Miscellaneous",
+        "items": [
+          {
+            "id": 3543,
+            "text": "Trustee of the John Clare Trust, which runs John Clare Cottage, preserving it and the poet’s works for future generations. This is an unpaid role. Date interest arose: 1 March 2019 (Registered 23 November 2023)",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": "9. Family members employed and paid from parliamentary expenses",
+        "items": [
+          {
+            "id": 2712,
+            "text": "Name: Susan Hayes Relationship: Spouse Role: Administrative Manager Working pattern: Full time",
+            "createdWhen": "2024-04-18",
+            "amendedWhen": "",
+            "isCorrection": false
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Department for Energy Security and Net Zero: Public Appointments",
+        "date": "2026-06-30",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, how many political appointees have been made by his Department since July 2024.",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-30/14309"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 5",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 177, Noes 308.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2399"
+      },
+      {
+        "kind": "Vote",
+        "title": "Taxation (Energy and Vehicles) Bill Committee: New Clause 4",
+        "date": "2026-07-01",
+        "summary": "Aye; Ayes 173, Noes 282.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2398"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition Day Motion: Defence spending and readiness - Prime Minister's Amendment",
+        "date": "2026-06-23",
+        "summary": "No; Ayes 294, Noes 110.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2389"
+      },
+      {
+        "kind": "Vote",
+        "title": "Opposition day: Defence spending and readiness",
+        "date": "2026-06-23",
+        "summary": "Aye; Ayes 108, Noes 307.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2388"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      },
+      {
+        "kind": "Registered interest",
+        "title": "1. Employment and earnings",
+        "date": "2024-04-18",
+        "summary": "Role, work or services: Strategic Adviser From: 1 September 2018. Payer: BB Energy Trading Ltd (an international energy company trading worldwide), 12-14 Ansdell St, London W8 5BN ACOBA consulted: Yes",
+        "sourceUrl": "https://members.parliament.uk/members/commons/interests"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

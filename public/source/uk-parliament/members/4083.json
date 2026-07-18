@@ -1,0 +1,902 @@
+{
+  "member": {
+    "id": "4083",
+    "slug": "alison-mcgovern",
+    "name": "Alison McGovern",
+    "sortName": "McGovern, Alison",
+    "fullTitle": "Alison McGovern MP",
+    "party": "Labour",
+    "partyAbbreviation": "Lab",
+    "partyColor": "#d50000",
+    "constituency": "Birkenhead",
+    "house": "House of Commons",
+    "role": "MP for Birkenhead",
+    "officialUrl": "https://members.parliament.uk/member/4083/contact",
+    "recordUrl": "/country/uk/parliament/alison-mcgovern/records",
+    "imageUrl": "https://members-api.parliament.uk/api/Members/4083/Thumbnail",
+    "currentMembership": {
+      "constituency": "Birkenhead",
+      "constituencyId": 3906,
+      "startDate": "2010-05-06",
+      "statusStartDate": "2024-07-04",
+      "status": "Current Member"
+    },
+    "contact": {
+      "emails": [
+        "alison.mcgovern.mp@parliament.uk"
+      ],
+      "phones": [
+        "020 7219 7190",
+        "0151 645 6590"
+      ],
+      "addresses": [
+        "House of Commons, London, SW1A 0AA",
+        "Make Hamilton, 69-71 Argyle Street, Birkenhead, CH41 6AB",
+        "http://www.alisonmcgovern.org.uk/",
+        "https://twitter.com/Alison_McGovern"
+      ],
+      "websites": [
+        "http://www.alisonmcgovern.org.uk/"
+      ],
+      "social": [
+        [
+          "X (formerly Twitter)",
+          "https://twitter.com/Alison_McGovern"
+        ]
+      ]
+    },
+    "synopsis": "Alison McGovern is the Labour MP for Birkenhead , and has been an MP continually since 6 May 2010. She currently holds the Government post of Minister of State (Housing, Communities and Local Government).",
+    "sourceLinks": [
+      [
+        "TOR Phi records",
+        "/country/uk/parliament/alison-mcgovern/records"
+      ],
+      [
+        "UK Parliament member profile",
+        "https://members.parliament.uk/member/4083/contact"
+      ],
+      [
+        "Members API member detail",
+        "https://members-api.parliament.uk/api/Members/4083"
+      ],
+      [
+        "Members API contact",
+        "https://members-api.parliament.uk/api/Members/4083/Contact"
+      ],
+      [
+        "Members API synopsis",
+        "https://members-api.parliament.uk/api/Members/4083/Synopsis"
+      ],
+      [
+        "Members API registered interests",
+        "https://members-api.parliament.uk/api/Members/4083/RegisteredInterests"
+      ],
+      [
+        "Members API written questions",
+        "https://members-api.parliament.uk/api/Members/4083/WrittenQuestions?skip=0&take=20"
+      ],
+      [
+        "Commons Votes member positions",
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4083"
+      ],
+      [
+        "UK Parliament developer hub",
+        "https://developer.parliament.uk/"
+      ]
+    ],
+    "votePositionCount": 25,
+    "latestVoteDate": "2026-07-06",
+    "writtenQuestionCount": 20,
+    "latestQuestionDate": "2024-05-21",
+    "registeredInterestCount": 0
+  },
+  "generatedAt": "2026-07-12T03:10:25.671Z",
+  "officialSourceNotes": [
+    "Current member identity, party, constituency, thumbnail, contact information, synopsis, written questions, and registered interests are generated from the official UK Parliament Members API.",
+    "Recent Commons division positions are generated from the official UK Parliament Commons Votes API.",
+    "External official links are retained as citations; TOR Phi profile and record navigation remains internal."
+  ],
+  "sourceUrls": [
+    {
+      "label": "TOR Phi records",
+      "url": "/country/uk/parliament/alison-mcgovern/records"
+    },
+    {
+      "label": "UK Parliament member profile",
+      "url": "https://members.parliament.uk/member/4083/contact"
+    },
+    {
+      "label": "Members API member detail",
+      "url": "https://members-api.parliament.uk/api/Members/4083"
+    },
+    {
+      "label": "Members API contact",
+      "url": "https://members-api.parliament.uk/api/Members/4083/Contact"
+    },
+    {
+      "label": "Members API synopsis",
+      "url": "https://members-api.parliament.uk/api/Members/4083/Synopsis"
+    },
+    {
+      "label": "Members API registered interests",
+      "url": "https://members-api.parliament.uk/api/Members/4083/RegisteredInterests"
+    },
+    {
+      "label": "Members API written questions",
+      "url": "https://members-api.parliament.uk/api/Members/4083/WrittenQuestions?skip=0&take=20"
+    },
+    {
+      "label": "Commons Votes member positions",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/membervoting?queryParameters.memberId=4083"
+    },
+    {
+      "label": "UK Parliament developer hub",
+      "url": "https://developer.parliament.uk/"
+    }
+  ],
+  "records": {
+    "writtenQuestions": [
+      {
+        "id": 1719667,
+        "uin": "27355",
+        "heading": "Employment: Young People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many full-time equivalent work coaches were working specifically to support young people as of 21 May 2024.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27355"
+      },
+      {
+        "id": 1719666,
+        "uin": "27354",
+        "heading": "Employment: Young People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many work coaches were employed to support young people in (a) 2021, (b) 2022 and (c) 2023.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27354"
+      },
+      {
+        "id": 1719664,
+        "uin": "27352",
+        "heading": "Employment: Young People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how much was spent on (a) dedicated work coaches, (b) support elements separate to the work coaches and (c) youth hubs through his Department's Youth Offer in (i) 2021, (ii) 2022 and (c) 2023.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27352"
+      },
+      {
+        "id": 1719715,
+        "uin": "27363",
+        "heading": "Universal Credit: Employment",
+        "questionText": "To ask the Secretary of State for Work and Pensions, pursuant the Answer of 24 April 2024 to Question 22551 on Universal Credit: Employment, what her planned timetable is for the (a) conclusion and (b) publication of the evaluation of the Additional Jobce",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27363"
+      },
+      {
+        "id": 1719712,
+        "uin": "27361",
+        "heading": "Employment",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many people entered employment through the people and skills strand of the European Social Fund in each year since its inception until its end.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27361"
+      },
+      {
+        "id": 1719710,
+        "uin": "27360",
+        "heading": "Personal Independence Payment: Medical Examinations",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many (a) face-to-face, (b) remote and (c) paper-based Personal Independence Payment assessments resulted in claims being (i) awarded, (ii) disallowed and (iii) withdrawn in each financial year since",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27360"
+      },
+      {
+        "id": 1719671,
+        "uin": "27359",
+        "heading": "Employment: Young People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many Youth Hubs there are as of 21 May 2024.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27359"
+      },
+      {
+        "id": 1719670,
+        "uin": "27358",
+        "heading": "Employment: Young People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many Youth Hubs there were in 2023.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27358"
+      },
+      {
+        "id": 1719669,
+        "uin": "27357",
+        "heading": "Employment: Young People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many Youth Hubs there were in 2022.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27357"
+      },
+      {
+        "id": 1719668,
+        "uin": "27356",
+        "heading": "Employment: Young People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many Youth Hubs there were in 2021.",
+        "answerText": "It has not proved possible to respond to the hon. Member in the time available before Prorogation.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-24",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27356"
+      },
+      {
+        "id": 1719665,
+        "uin": "27353",
+        "heading": "Employment: Young People",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many places were (a) available and (b) taken up for the Youth Offer in (i) 2021, (ii) 2022, (iii) 2023 and (iv) 2024 as of 21 May.",
+        "answerText": "The Youth Offer launched on the 20 September 2020 and provides support for 16–24-year-olds who are on Universal Credit to help them move into employment. It includes three elements: The Youth Employment Programme, which provides young people dedicated int...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27353"
+      },
+      {
+        "id": 1719714,
+        "uin": "27362",
+        "heading": "Access to Work Programme",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what the average waiting time was for an initial assessment for people on the Access to Work Scheme in the last five years.",
+        "answerText": "The average waiting time for an initial assessment for people on the Access to Work Scheme in the last five years is not available. However, the Access to Work statistics includes how many applications result in provision being approved from 2007/08 to 20...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-21",
+        "dateForAnswer": "2024-05-23",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-21/27362"
+      },
+      {
+        "id": 1719229,
+        "uin": "27026",
+        "heading": "Poverty",
+        "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the Answer of 15 May 2024 to Question 24903 on Poverty, if he will make an assessment of the potential merits of updating the baseline year for absolute poverty.",
+        "answerText": "There are currently no plans to update the baseline year for absolute poverty.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-05-20",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-20/27026"
+      },
+      {
+        "id": 1718877,
+        "uin": "26679",
+        "heading": "Organised Crime",
+        "questionText": "To ask the Secretary of State for the Home Department, whether his Department plans to update the definition of serious and organised crime.",
+        "answerText": "We recently published a definition of serious and organised crime as part of the Serious and Organised Crime Strategy, published in December 2023.We have no current plans to publish an updated definition.",
+        "answeringBody": "Home Office",
+        "answeringMember": "Chris Philp",
+        "dateTabled": "2024-05-16",
+        "dateForAnswer": "2024-05-22",
+        "dateAnswered": "2024-05-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-16/26679"
+      },
+      {
+        "id": 1718363,
+        "uin": "26447",
+        "heading": "Universal Credit: Employment",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many people in receipt of Universal Credit who were (a) in the intensive work-search labour market regime, (b) assessed to have limited capability for work and (c) assessed to have limited capabilit",
+        "answerText": "Statistics for people on Universal Credit at the second Thursday of each month are published monthly on Stat-Xplore. The latest statistics are available in the People on UC dataset for the conditionality regime category of ‘searching for work’, by employm...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-17",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26447"
+      },
+      {
+        "id": 1718358,
+        "uin": "26444",
+        "heading": "Work and Health Programme",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many jobs have been filled as a result of the Work and Health Programme since its inception.",
+        "answerText": "We publish Work and Health Programme (WHP) statistics quarterly on GOV.UK and they include the number of people who enter employment and gain job outcomes within two years since starting on the WHP. The next release of published statistics is planned for ...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-17",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26444"
+      },
+      {
+        "id": 1718360,
+        "uin": "26445",
+        "heading": "Work and Health Programme: Expenditure",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what is the annual spend on the Work and Health Programme.",
+        "answerText": "The contract costs for Work and Health Programme over the last 7 financial years are shown in the table below. Area2017-182018-192019-202020-212021-222022-232023-2024Total WHP£6,747,110 £45,984,768 £62,887,008 £75,175,020 £84,045,213 £88,961,719 £9...",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-17",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26445"
+      },
+      {
+        "id": 1718362,
+        "uin": "26446",
+        "heading": "Work and Health Programme",
+        "questionText": "To ask the Secretary of State for Work and Pensions, what the end date is for referrals to the Work and Health Programme.",
+        "answerText": "Under current contracts the Work and Health Programme will take last referrals on 30 September, with support continuing to July 2026.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Mims Davies",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-17",
+        "dateAnswered": "2024-05-23",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26446"
+      },
+      {
+        "id": 1718364,
+        "uin": "26448",
+        "heading": "Social Security Benefits: Employment",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many people in receipt of (a) Jobseeker’s Allowance and (b) Employment and Support Allowance in the (i) work-related activity and (ii) support groups were (A) in and (B) not in work in each month fo",
+        "answerText": "The information requested is not readily available and to provide it would incur disproportionate cost.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-17",
+        "dateAnswered": "2024-05-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26448"
+      },
+      {
+        "id": 1718365,
+        "uin": "26449",
+        "heading": "Social Security Benefits: Employment",
+        "questionText": "To ask the Secretary of State for Work and Pensions, how many people who were (a) not in work and (b) in receipt of (i) Jobseeker’s Allowance and (ii) Employment and Support Allowance in the (A) work-related activity and (B) support group were moved into",
+        "answerText": "The information requested is not readily available and to provide it would incur disproportionate cost.",
+        "answeringBody": "Department for Work and Pensions",
+        "answeringMember": "Jo Churchill",
+        "dateTabled": "2024-05-15",
+        "dateForAnswer": "2024-05-17",
+        "dateAnswered": "2024-05-22",
+        "memberHasInterest": false,
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26449"
+      }
+    ],
+    "votes": {
+      "totalPositions": 25,
+      "latestDate": "2026-07-06",
+      "totals": {
+        "Aye": 11,
+        "No": 14
+      },
+      "recent": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2396,
+          "number": 45,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 318,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2396"
+        },
+        {
+          "id": 2395,
+          "number": 44,
+          "date": "2026-07-01",
+          "title": "Draft Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 322,
+          "noCount": 107,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2395"
+        },
+        {
+          "id": 2394,
+          "number": 43,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (Credit Limit) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 330,
+          "noCount": 93,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2394"
+        },
+        {
+          "id": 2393,
+          "number": 42,
+          "date": "2026-06-24",
+          "title": "Draft Climate Change Act 2008 (International Aviation and International Shipping) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 329,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2393"
+        },
+        {
+          "id": 2392,
+          "number": 41,
+          "date": "2026-06-24",
+          "title": "Draft Carbon Budget Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 332,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2392"
+        },
+        {
+          "id": 2391,
+          "number": 40,
+          "date": "2026-06-24",
+          "title": "Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 323,
+          "noCount": 160,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2391"
+        },
+        {
+          "id": 2387,
+          "number": 36,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: Amendment 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 171,
+          "noCount": 322,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2387"
+        },
+        {
+          "id": 2386,
+          "number": 35,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 22",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 74,
+          "noCount": 323,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2386"
+        },
+        {
+          "id": 2385,
+          "number": 34,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 11",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 104,
+          "noCount": 391,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2385"
+        },
+        {
+          "id": 2384,
+          "number": 33,
+          "date": "2026-06-22",
+          "title": "Armed Forces Bill Report Stage: New Clause 4",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 164,
+          "noCount": 311,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2384"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        },
+        {
+          "id": 2372,
+          "number": 22,
+          "date": "2026-06-10",
+          "title": "Railways Bill: Third Reading",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 278,
+          "noCount": 149,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2372"
+        },
+        {
+          "id": 2371,
+          "number": 21,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 148",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 155,
+          "noCount": 279,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2371"
+        },
+        {
+          "id": 2370,
+          "number": 20,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: Amendment 143",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 167,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2370"
+        },
+        {
+          "id": 2369,
+          "number": 19,
+          "date": "2026-06-10",
+          "title": "Railways Bill Remaining Stages: New Clause 1",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 77,
+          "noCount": 271,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2369"
+        },
+        {
+          "id": 2368,
+          "number": 18,
+          "date": "2026-06-09",
+          "title": "Draft Combined Authorities (Mayoral Elections) (Amendment) Order 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 356,
+          "noCount": 86,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2368"
+        },
+        {
+          "id": 2364,
+          "number": 14,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 145,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2364"
+        },
+        {
+          "id": 2363,
+          "number": 13,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: New Clause 2",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 65,
+          "noCount": 251,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2363"
+        },
+        {
+          "id": 2362,
+          "number": 12,
+          "date": "2026-06-08",
+          "title": "Steel Industry (Nationalisation) Bill Committee: Amendment 12",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 81,
+          "noCount": 266,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2362"
+        },
+        {
+          "id": 2361,
+          "number": 11,
+          "date": "2026-06-03",
+          "title": "Draft Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 302,
+          "noCount": 155,
+          "deferred": true,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2361"
+        }
+      ],
+      "watch": [
+        {
+          "id": 2400,
+          "number": 49,
+          "date": "2026-07-06",
+          "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 394,
+          "noCount": 85,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+        },
+        {
+          "id": 2382,
+          "number": 32,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: New Clause 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 144,
+          "noCount": 244,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+        },
+        {
+          "id": 2381,
+          "number": 31,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 13",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 135,
+          "noCount": 258,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+        },
+        {
+          "id": 2380,
+          "number": 30,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 8",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 143,
+          "noCount": 249,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+        },
+        {
+          "id": 2379,
+          "number": 29,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill Committee: Amendment 3",
+          "description": "",
+          "position": "No",
+          "wasTeller": false,
+          "ayeCount": 85,
+          "noCount": 317,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+        },
+        {
+          "id": 2378,
+          "number": 28,
+          "date": "2026-06-17",
+          "title": "National Security (State Threats) Bill: Allocation of Time motion",
+          "description": "",
+          "position": "Aye",
+          "wasTeller": false,
+          "ayeCount": 233,
+          "noCount": 94,
+          "deferred": false,
+          "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+        }
+      ]
+    },
+    "registeredInterests": [],
+    "watch": [
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Employment",
+        "date": "2024-05-15",
+        "summary": "To ask the Secretary of State for Work and Pensions, how many people in receipt of (a) Jobseeker’s Allowance and (b) Employment and Support Allowance in the (i) work-related activity and (ii) support groups were (A) in and (B) not in work in each month fo",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26448"
+      },
+      {
+        "kind": "Written question",
+        "title": "Social Security Benefits: Employment",
+        "date": "2024-05-15",
+        "summary": "To ask the Secretary of State for Work and Pensions, how many people who were (a) not in work and (b) in receipt of (i) Jobseeker’s Allowance and (ii) Employment and Support Allowance in the (A) work-related activity and (B) support group were moved into",
+        "sourceUrl": "https://questions-statements.parliament.uk/written-questions/detail/2024-05-15/26449"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: motion to agree to Lords Amendment 1",
+        "date": "2026-07-06",
+        "summary": "Aye; Ayes 394, Noes 85.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2400"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: New Clause 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 144, Noes 244.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2382"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 13",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 135, Noes 258.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2381"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 8",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 143, Noes 249.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2380"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill Committee: Amendment 3",
+        "date": "2026-06-17",
+        "summary": "No; Ayes 85, Noes 317.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2379"
+      },
+      {
+        "kind": "Vote",
+        "title": "National Security (State Threats) Bill: Allocation of Time motion",
+        "date": "2026-06-17",
+        "summary": "Aye; Ayes 233, Noes 94.",
+        "sourceUrl": "https://votes.parliament.uk/Votes/Commons/Division/2378"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "contact": "imported",
+    "synopsis": "imported",
+    "writtenQuestions": "imported",
+    "voting": "imported",
+    "registeredInterests": "imported"
+  }
+}

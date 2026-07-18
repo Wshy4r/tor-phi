@@ -1,0 +1,3406 @@
+{
+  "generatedAt": "2026-07-12T03:21:29.154Z",
+  "metadata": {
+    "generatedAt": "2026-07-12T03:21:29.154Z",
+    "sourceDate": "2026-07-12",
+    "total": 290,
+    "house": "Islamic Consultative Assembly / Majlis",
+    "legislature": "12th term",
+    "factions": [
+      {
+        "faction": "Principlist",
+        "count": 185
+      },
+      {
+        "faction": "Reformists",
+        "count": 47
+      },
+      {
+        "faction": "Independent",
+        "count": 39
+      },
+      {
+        "faction": "Not listed",
+        "count": 19
+      }
+    ],
+    "provinces": [
+      {
+        "province": "Tehran province",
+        "count": 35
+      },
+      {
+        "province": "East Azerbaijan province",
+        "count": 19
+      },
+      {
+        "province": "Isfahan province",
+        "count": 19
+      },
+      {
+        "province": "Fars province",
+        "count": 18
+      },
+      {
+        "province": "Khuzestan province",
+        "count": 18
+      },
+      {
+        "province": "Razavi Khorasan province",
+        "count": 18
+      },
+      {
+        "province": "Gilan province",
+        "count": 13
+      },
+      {
+        "province": "Mazandaran province",
+        "count": 12
+      },
+      {
+        "province": "West Azerbaijan province",
+        "count": 12
+      },
+      {
+        "province": "Kerman province",
+        "count": 10
+      },
+      {
+        "province": "Hamadan province",
+        "count": 9
+      },
+      {
+        "province": "Lorestan province",
+        "count": 9
+      },
+      {
+        "province": "Kermanshah province",
+        "count": 8
+      },
+      {
+        "province": "Sistan and Baluchestan province",
+        "count": 8
+      },
+      {
+        "province": "Ardabil province",
+        "count": 7
+      },
+      {
+        "province": "Golestan province",
+        "count": 7
+      },
+      {
+        "province": "Markazi province",
+        "count": 7
+      },
+      {
+        "province": "Kurdistan province",
+        "count": 6
+      },
+      {
+        "province": "Hormozgan province",
+        "count": 5
+      },
+      {
+        "province": "Zanjan province",
+        "count": 5
+      },
+      {
+        "province": "Bushehr province",
+        "count": 4
+      },
+      {
+        "province": "Chaharmahal and Bakhtiari province",
+        "count": 4
+      },
+      {
+        "province": "North Khorasan province",
+        "count": 4
+      },
+      {
+        "province": "Qazvin province",
+        "count": 4
+      },
+      {
+        "province": "Semnan province",
+        "count": 4
+      },
+      {
+        "province": "South Khorasan province",
+        "count": 4
+      },
+      {
+        "province": "Yazd province",
+        "count": 4
+      },
+      {
+        "province": "Alborz province",
+        "count": 3
+      },
+      {
+        "province": "Ilam province",
+        "count": 3
+      },
+      {
+        "province": "Kohgiluyeh and Boyer-Ahmad province",
+        "count": 3
+      },
+      {
+        "province": "Qom province",
+        "count": 3
+      },
+      {
+        "province": "Armenians (North)",
+        "count": 1
+      },
+      {
+        "province": "Armenians (South)",
+        "count": 1
+      },
+      {
+        "province": "Assyrian",
+        "count": 1
+      },
+      {
+        "province": "Jewish",
+        "count": 1
+      },
+      {
+        "province": "Zoroastrian",
+        "count": 1
+      }
+    ],
+    "sources": {
+      "officialParliament": "https://en.parliran.ir/",
+      "ipuParline": "https://data.ipu.org/parliament/IR/IR-LC01/",
+      "icana": "https://icana.ir/",
+      "publicRoster": "https://en.wikipedia.org/wiki/List_of_Iran%27s_parliament_representatives_(12th_term)",
+      "publicRosterApi": "https://en.wikipedia.org/w/api.php?action=parse&page=List_of_Iran%27s_parliament_representatives_(12th_term)&prop=text&format=json&origin=*"
+    },
+    "sourceLimitations": [
+      "The official ParlIran host timed out or did not resolve from this environment during generation.",
+      "The roster is generated from the current public 12th-term list and kept in TOR Phi as a refreshable local archive.",
+      "Records pages preserve official Majlis, IPU, ICANA, and Majlis Research Center source paths for later official import."
+    ]
+  },
+  "sourceRegistry": [
+    {
+      "label": "Islamic Consultative Assembly official website",
+      "url": "https://en.parliran.ir/",
+      "note": "Official parliamentary website. It was retained as the first official source, but the host was unreachable from this environment during generation."
+    },
+    {
+      "label": "IPU Parline Iran parliament profile",
+      "url": "https://data.ipu.org/parliament/IR/IR-LC01/",
+      "note": "Inter-Parliamentary Union profile that links the official parliament and member-list source paths."
+    },
+    {
+      "label": "ICANA / Khaneh Mellat",
+      "url": "https://icana.ir/",
+      "note": "Official parliament news service used as the record-search layer for member mentions, attendance reports, voting-participation reports, and parliamentary statements."
+    },
+    {
+      "label": "Public 12th-term roster",
+      "url": "https://en.wikipedia.org/wiki/List_of_Iran%27s_parliament_representatives_(12th_term)",
+      "note": "Public machine-readable roster used to seed all member profiles when the official ParlIran site was unreachable."
+    }
+  ],
+  "counts": {
+    "members": 290,
+    "factions": 4,
+    "provinces": 36,
+    "recordSearchSlots": 1160
+  },
+  "members": [
+    {
+      "id": "ir-majlis-192-abbas-bigdeli",
+      "name": "Abbas Bigdeli",
+      "slug": "abbas-bigdeli",
+      "province": "Qazvin province",
+      "constituency": "Takestan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abbas-bigdeli/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-160-abbas-godarzi-boroujerdi",
+      "name": "Abbas Godarzi Boroujerdi",
+      "slug": "abbas-godarzi-boroujerdi",
+      "province": "Lorestan province",
+      "constituency": "Borujerd",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abbas-godarzi-boroujerdi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-188-abbas-godrati",
+      "name": "Abbas Godrati",
+      "slug": "abbas-godrati",
+      "province": "North Khorasan province",
+      "constituency": "Shirvan",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abbas-godrati/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-214-abbas-golro",
+      "name": "Abbas Golro",
+      "slug": "abbas-golro",
+      "province": "Semnan province",
+      "constituency": "Semnan and Mehdishahr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abbas-golro/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-094-abbas-moghtadaei-khourasgani",
+      "name": "Abbas Moghtadaei Khourasgani",
+      "slug": "abbas-moghtadaei-khourasgani",
+      "province": "Isfahan province",
+      "constituency": "Isfahan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abbas-moghtadaei-khourasgani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-077-abbas-sufi",
+      "name": "Abbas Sufi",
+      "slug": "abbas-sufi",
+      "province": "Hamadan province",
+      "constituency": "Hamadan and Famenin",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abbas-sufi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-073-abdoljalal-eiri",
+      "name": "Abdoljalal Eiri",
+      "slug": "abdoljalal-eiri",
+      "province": "Golestan province",
+      "constituency": "Kordkuy , Torkaman and Bandar-e Gaz",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abdoljalal-eiri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-122-abdolreza-mesri",
+      "name": "Abdolreza Mesri",
+      "slug": "abdolreza-mesri",
+      "province": "Kermanshah province",
+      "constituency": "Kermanshah",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abdolreza-mesri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-070-abdul-ghafoor-amanzadeh",
+      "name": "Abdul Ghafoor Amanzadeh",
+      "slug": "abdul-ghafoor-amanzadeh",
+      "province": "Golestan province",
+      "constituency": "Gorgan and Aqqala",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abdul-ghafoor-amanzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-074-abdul-hakim-aq-arkakli",
+      "name": "Abdul Hakim Aq Arkakli",
+      "slug": "abdul-hakim-aq-arkakli",
+      "province": "Golestan province",
+      "constituency": "Gonbad-e Qabus",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abdul-hakim-aq-arkakli/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-118-abdul-hossein-hemmati",
+      "name": "Abdul Hossein Hemmati",
+      "slug": "abdul-hossein-hemmati",
+      "province": "Kerman province",
+      "constituency": "Zarand and Kuhbanan",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abdul-hossein-hemmati/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-259-abdul-hossein-rooh-al-amini",
+      "name": "Abdul Hossein Rooh Al Amini",
+      "slug": "abdul-hossein-rooh-al-amini",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abdul-hossein-rooh-al-amini/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-276-abdul-karim-hosseinzadeh",
+      "name": "Abdul Karim Hosseinzadeh",
+      "slug": "abdul-karim-hosseinzadeh",
+      "province": "West Azerbaijan province",
+      "constituency": "Naqadeh and Oshnavieh",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abdul-karim-hosseinzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-183-abdul-wahid-fayazi",
+      "name": "Abdul Wahid Fayazi",
+      "slug": "abdul-wahid-fayazi",
+      "province": "Mazandaran province",
+      "constituency": "Nur and Mahmudabad",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abdul-wahid-fayazi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-110-abolfazl-aboutorabi",
+      "name": "Abolfazl Aboutorabi",
+      "slug": "abolfazl-aboutorabi",
+      "province": "Isfahan province",
+      "constituency": "Najafabad , Tiran and Karvan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abolfazl-aboutorabi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-245-abolfazl-zohrevand",
+      "name": "Abolfazl Zohrevand",
+      "slug": "abolfazl-zohrevand",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abolfazl-zohrevand/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-255-abolghasem-jarare",
+      "name": "Abolghasem Jarare",
+      "slug": "abolghasem-jarare",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/abolghasem-jarare/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-270-adel-najafzadeh",
+      "name": "Adel Najafzadeh",
+      "slug": "adel-najafzadeh",
+      "province": "West Azerbaijan province",
+      "constituency": "Khoy and Chaypareh",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/adel-najafzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-082-ahad-azadikhah",
+      "name": "Ahad Azadikhah",
+      "slug": "ahad-azadikhah",
+      "province": "Hamadan province",
+      "constituency": "Malayer",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahad-azadikhah/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-005-ahad-biote",
+      "name": "Ahad Biote",
+      "slug": "ahad-biote",
+      "province": "Ardabil province",
+      "constituency": "Ardabil, Namin, Nir and Sareyn",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahad-biote/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-117-ahmad-anaraki-mohammadi",
+      "name": "Ahmad Anaraki Mohammadi",
+      "slug": "ahmad-anaraki-mohammadi",
+      "province": "Kerman province",
+      "constituency": "Rafsanjan and Anar",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmad-anaraki-mohammadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-098-ahmad-bakshayesh-ardestani",
+      "name": "Ahmad Bakshayesh Ardestani",
+      "slug": "ahmad-bakshayesh-ardestani",
+      "province": "Isfahan province",
+      "constituency": "Ardestan",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmad-bakshayesh-ardestani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-061-ahmad-donyamali",
+      "name": "Ahmad Donyamali",
+      "slug": "ahmad-donyamali",
+      "province": "Gilan province",
+      "constituency": "Bandar-e Anzali",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmad-donyamali/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-176-ahmad-fatemi",
+      "name": "Ahmad Fatemi",
+      "slug": "ahmad-fatemi",
+      "province": "Mazandaran province",
+      "constituency": "Babol",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmad-fatemi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-088-ahmad-jabbari",
+      "name": "Ahmad Jabbari",
+      "slug": "ahmad-jabbari",
+      "province": "Hormozgan province",
+      "constituency": "Bandar Lengeh , Bastak and Parsian",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmad-jabbari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-086-ahmad-moradi",
+      "name": "Ahmad Moradi",
+      "slug": "ahmad-moradi",
+      "province": "Hormozgan province",
+      "constituency": "Bandar Abbas , Qeshm and Abumusa",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmad-moradi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-244-ahmad-naderi",
+      "name": "Ahmad Naderi",
+      "slug": "ahmad-naderi",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmad-naderi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-015-ahmad-rastineh-hafashjani",
+      "name": "Ahmad Rastineh Hafashjani",
+      "slug": "ahmad-rastineh-hafashjani",
+      "province": "Chaharmahal and Bakhtiari province",
+      "constituency": "Shahrekord , Ben and Saman",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmad-rastineh-hafashjani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-216-ahmed-ajam",
+      "name": "Ahmed Ajam",
+      "slug": "ahmed-ajam",
+      "province": "Semnan province",
+      "constituency": "Shahrud",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmed-ajam/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-083-ahmed-aryainejad",
+      "name": "Ahmed Aryainejad",
+      "slug": "ahmed-aryainejad",
+      "province": "Hamadan province",
+      "constituency": "Malayer",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmed-aryainejad/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-285-ahmed-bigdeli",
+      "name": "Ahmed Bigdeli",
+      "slug": "ahmed-bigdeli",
+      "province": "Zanjan province",
+      "constituency": "Khodabandeh",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ahmed-bigdeli/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-107-akbar-poladi-baghbadrani",
+      "name": "Akbar Poladi Baghbadrani",
+      "slug": "akbar-poladi-baghbadrani",
+      "province": "Isfahan province",
+      "constituency": "Lenjan",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/akbar-poladi-baghbadrani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-052-alaeddin-boroujerdi",
+      "name": "Alaeddin Boroujerdi",
+      "slug": "alaeddin-boroujerdi",
+      "province": "Fars province",
+      "constituency": "Larestan , Khonj and Gerash",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/alaeddin-boroujerdi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-274-ali-ahmadi",
+      "name": "Ali Ahmadi",
+      "slug": "ali-ahmadi",
+      "province": "West Azerbaijan province",
+      "constituency": "Miandoab",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-ahmadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-215-ali-akbar-alizadeh-barmi",
+      "name": "Ali Akbar Alizadeh Barmi",
+      "slug": "ali-akbar-alizadeh-barmi",
+      "province": "Semnan province",
+      "constituency": "Damghan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-akbar-alizadeh-barmi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-078-ali-akbar-ranjbarzadeh",
+      "name": "Ali Akbar Ranjbarzadeh",
+      "slug": "ali-akbar-ranjbarzadeh",
+      "province": "Hamadan province",
+      "constituency": "Asadabad",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-akbar-ranjbarzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-184-ali-asghar-bagherzadeh",
+      "name": "Ali Asghar Bagherzadeh",
+      "slug": "ali-asghar-bagherzadeh",
+      "province": "Mazandaran province",
+      "constituency": "Babolsar and Fereydunkenar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-asghar-bagherzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-200-ali-asghar-nakhaee-rad",
+      "name": "Ali Asghar Nakhaee Rad",
+      "slug": "ali-asghar-nakhaee-rad",
+      "province": "Razavi Khorasan province",
+      "constituency": "Mashhad and Kalat",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-asghar-nakhaee-rad/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-147-ali-askar-zahiri-abdo-vand",
+      "name": "Ali Askar Zahiri Abdo Vand",
+      "slug": "ali-askar-zahiri-abdo-vand",
+      "province": "Khuzestan province",
+      "constituency": "Masjed Soleyman , Andika , Lali and Haftkel",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-askar-zahiri-abdo-vand/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-209-ali-azari",
+      "name": "Ali Azari",
+      "slug": "ali-azari",
+      "province": "Razavi Khorasan province",
+      "constituency": "Quchan and Faruj",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-azari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-174-ali-babaei-karnami",
+      "name": "Ali Babaei Karnami",
+      "slug": "ali-babaei-karnami",
+      "province": "Mazandaran province",
+      "constituency": "Sari and Miandorud",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-babaei-karnami/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-165-ali-emami-rad",
+      "name": "Ali Emami Rad",
+      "slug": "ali-emami-rad",
+      "province": "Lorestan province",
+      "constituency": "Kuhdasht and Rumeshkan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-emami-rad/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-003-ali-haddadi",
+      "name": "Ali Haddadi",
+      "slug": "ali-haddadi",
+      "province": "Alborz province",
+      "constituency": "Savojbolagh , Nazarabad and Taleqan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-haddadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-020-ali-jafari-azar",
+      "name": "Ali Jafari Azar",
+      "slug": "ali-jafari-azar",
+      "province": "East Azerbaijan province",
+      "constituency": "Tabriz, Osku and Azarshahr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-jafari-azar/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-178-ali-keshvari",
+      "name": "Ali Keshvari",
+      "slug": "ali-keshvari",
+      "province": "Mazandaran province",
+      "constituency": "Qaem Shahr , Savadkuh and Juybar",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-keshvari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-253-ali-khezrian",
+      "name": "Ali Khezrian",
+      "slug": "ali-khezrian",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-khezrian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-222-ali-kurd",
+      "name": "Ali Kurd",
+      "slug": "ali-kurd",
+      "province": "Sistan and Baluchestan province",
+      "constituency": "Khash , Mirjaveh , Nosratabad and Kurin",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-kurd/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-004-ali-nikzad",
+      "name": "Ali Nikzad",
+      "slug": "ali-nikzad",
+      "province": "Ardabil province",
+      "constituency": "Ardabil, Namin, Nir and Sareyn",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-nikzad/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-001-ali-shirinzad",
+      "name": "Ali Shirinzad",
+      "slug": "ali-shirinzad",
+      "province": "Alborz province",
+      "constituency": "Karaj , Eshtehard and Fardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ali-shirinzad/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-002-alireza-abbasi",
+      "name": "Alireza Abbasi",
+      "slug": "alireza-abbasi",
+      "province": "Alborz province",
+      "constituency": "Karaj , Eshtehard and Fardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/alireza-abbasi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-024-alireza-monadi",
+      "name": "Alireza Monadi",
+      "slug": "alireza-monadi",
+      "province": "East Azerbaijan province",
+      "constituency": "Tabriz, Osku and Azarshahr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/alireza-monadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-084-alireza-nethari",
+      "name": "Alireza Nethari",
+      "slug": "alireza-nethari",
+      "province": "Hamadan province",
+      "constituency": "Nahavand",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/alireza-nethari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-023-alireza-novin",
+      "name": "Alireza Novin",
+      "slug": "alireza-novin",
+      "province": "East Azerbaijan province",
+      "constituency": "Tabriz, Osku and Azarshahr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/alireza-novin/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-249-alireza-salimi",
+      "name": "Alireza Salimi",
+      "slug": "alireza-salimi",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/alireza-salimi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-153-alireza-zandian",
+      "name": "Alireza Zandian",
+      "slug": "alireza-zandian",
+      "province": "Kurdistan province",
+      "constituency": "Bijar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/alireza-zandian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-173-allea-zamani-kiasari",
+      "name": "Allea Zamani Kiasari",
+      "slug": "allea-zamani-kiasari",
+      "province": "Mazandaran province",
+      "constituency": "Sari and Miandorud",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/allea-zamani-kiasari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-138-amir-hayat-moghadam",
+      "name": "Amir Hayat Moghadam",
+      "slug": "amir-hayat-moghadam",
+      "province": "Khuzestan province",
+      "constituency": "Mahshahr , Omidiyeh and Hendijan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/amir-hayat-moghadam/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-093-amir-hossein-bankipour-fard",
+      "name": "Amir Hossein Bankipour Fard",
+      "slug": "amir-hossein-bankipour-fard",
+      "province": "Isfahan province",
+      "constituency": "Isfahan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/amir-hossein-bankipour-fard/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-143-amir-hossein-nazari",
+      "name": "Amir Hossein Nazari",
+      "slug": "amir-hossein-nazari",
+      "province": "Khuzestan province",
+      "constituency": "Ramhormoz and Ramshir",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/amir-hossein-nazari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-231-amir-hossein-sabeti",
+      "name": "Amir Hossein Sabeti",
+      "slug": "amir-hossein-sabeti",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/amir-hossein-sabeti/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-204-amir-tavakoli-rudi",
+      "name": "Amir Tavakoli Rudi",
+      "slug": "amir-tavakoli-rudi",
+      "province": "Razavi Khorasan province",
+      "constituency": "Khaf and Roshtkhar",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/amir-tavakoli-rudi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-287-ara-shaverdian",
+      "name": "Ara Shaverdian",
+      "slug": "ara-shaverdian",
+      "province": "Armenians (North)",
+      "constituency": "——",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ara-shaverdian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-047-ardwan-akbarpour",
+      "name": "Ardwan Akbarpour",
+      "slug": "ardwan-akbarpour",
+      "province": "Fars province",
+      "constituency": "Sepidan",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ardwan-akbarpour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-092-asadullah-cheraghi",
+      "name": "Asadullah Cheraghi",
+      "slug": "asadullah-cheraghi",
+      "province": "Ilam province",
+      "constituency": "Dehloran , Darreh Shahr and Abdanan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/asadullah-cheraghi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-009-babak-rezazadeh",
+      "name": "Babak Rezazadeh",
+      "slug": "babak-rezazadeh",
+      "province": "Ardabil province",
+      "constituency": "Meshginshahr",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/babak-rezazadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-033-baitullah-abdullahi",
+      "name": "Baitullah Abdullahi",
+      "slug": "baitullah-abdullahi",
+      "province": "East Azerbaijan province",
+      "constituency": "Ahar and Heris",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/baitullah-abdullahi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-034-behnam-rezvani",
+      "name": "Behnam Rezvani",
+      "slug": "behnam-rezvani",
+      "province": "East Azerbaijan province",
+      "constituency": "Kaleybar, Khoda Afarin and Hurand",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/behnam-rezvani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-116-behnam-saidi",
+      "name": "Behnam Saidi",
+      "slug": "behnam-saidi",
+      "province": "Kerman province",
+      "constituency": "Jiroft and Anbarabad",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/behnam-saidi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-207-behrouz-mohebi-najm-abadi",
+      "name": "Behrouz Mohebi Najm Abadi",
+      "slug": "behrouz-mohebi-najm-abadi",
+      "province": "Razavi Khorasan province",
+      "constituency": "Sabzevar , Joghatai and Joveyn",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/behrouz-mohebi-najm-abadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-288-behshid-barkhordar",
+      "name": "Behshid Barkhordar",
+      "slug": "behshid-barkhordar",
+      "province": "Zoroastrian",
+      "constituency": "——",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/behshid-barkhordar/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-239-bijan-nobaveh-vatan",
+      "name": "Bijan Nobaveh-Vatan",
+      "slug": "bijan-nobaveh-vatan",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/bijan-nobaveh-vatan/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-041-ebrahim-azizi",
+      "name": "Ebrahim Azizi",
+      "slug": "ebrahim-azizi",
+      "province": "Fars province",
+      "constituency": "Shiraz",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ebrahim-azizi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-007-ebrahim-fahimi",
+      "name": "Ebrahim Fahimi",
+      "slug": "ebrahim-fahimi",
+      "province": "Ardabil province",
+      "constituency": "Parsabad and Bilesavar",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ebrahim-fahimi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-013-ebrahim-rezaei",
+      "name": "Ebrahim Rezaei",
+      "slug": "ebrahim-rezaei",
+      "province": "Bushehr province",
+      "constituency": "Dashtestan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ebrahim-rezaei/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-208-ehsan-ghazizadeh-hashemi",
+      "name": "Ehsan Ghazizadeh Hashemi",
+      "slug": "ehsan-ghazizadeh-hashemi",
+      "province": "Razavi Khorasan province",
+      "constituency": "Fariman and Sarakhs",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ehsan-ghazizadeh-hashemi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-109-elham-azad",
+      "name": "Elham Azad",
+      "slug": "elham-azad",
+      "province": "Isfahan province",
+      "constituency": "Nain , Khur and Biabanak",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/elham-azad/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-177-emran-abbasi-kali",
+      "name": "Emran Abbasi Kali",
+      "slug": "emran-abbasi-kali",
+      "province": "Mazandaran province",
+      "constituency": "Qaem Shahr , Savadkuh and Juybar",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/emran-abbasi-kali/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-054-esfandiar-abdulahi",
+      "name": "Esfandiar Abdulahi",
+      "slug": "esfandiar-abdulahi",
+      "province": "Fars province",
+      "constituency": "Marvdasht , Pasargad and Arsanjan",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/esfandiar-abdulahi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-026-ezzatullah-habibzadeh",
+      "name": "Ezzatullah Habibzadeh",
+      "slug": "ezzatullah-habibzadeh",
+      "province": "East Azerbaijan province",
+      "constituency": "Marand and Jolfa",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ezzatullah-habibzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-219-fada-hossein-maleki",
+      "name": "Fada Hossein Maleki",
+      "slug": "fada-hossein-maleki",
+      "province": "Sistan and Baluchestan province",
+      "constituency": "Zahedan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/fada-hossein-maleki/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-036-faramarz-shahsaviri",
+      "name": "Faramarz Shahsaviri",
+      "slug": "faramarz-shahsaviri",
+      "province": "East Azerbaijan province",
+      "constituency": "Hashtrud and Charuymaq",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/faramarz-shahsaviri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-260-farhad-bashiri",
+      "name": "Farhad Bashiri",
+      "slug": "farhad-bashiri",
+      "province": "Tehran province",
+      "constituency": "Pakdasht",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/farhad-bashiri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-224-farhad-shahraki",
+      "name": "Farhad Shahraki",
+      "slug": "farhad-shahraki",
+      "province": "Sistan and Baluchestan province",
+      "constituency": "Zabol , Zehak , Hirmand , Nimrouz and Hamun",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/farhad-shahraki/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-043-farhad-tahmasebi",
+      "name": "Farhad Tahmasebi",
+      "slug": "farhad-tahmasebi",
+      "province": "Fars province",
+      "constituency": "Neyriz and Estahban",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/farhad-tahmasebi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-025-farid-mousavi",
+      "name": "Farid Mousavi",
+      "slug": "farid-mousavi",
+      "province": "East Azerbaijan province",
+      "constituency": "Maragheh and Ajab Shir",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/farid-mousavi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-137-farshad-ebrahimpour-noorabadi",
+      "name": "Farshad Ebrahimpour Noorabadi",
+      "slug": "farshad-ebrahimpour-noorabadi",
+      "province": "Khuzestan province",
+      "constituency": "Izeh and Bagh-e Malek",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/farshad-ebrahimpour-noorabadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-085-fatemeh-jarareh",
+      "name": "Fatemeh Jarareh",
+      "slug": "fatemeh-jarareh",
+      "province": "Hormozgan province",
+      "constituency": "Bandar Abbas , Qeshm and Abumusa",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/fatemeh-jarareh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-161-fatemeh-maghsoudi",
+      "name": "Fatemeh Maghsoudi",
+      "slug": "fatemeh-maghsoudi",
+      "province": "Lorestan province",
+      "constituency": "Borujerd",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/fatemeh-maghsoudi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-189-fatemeh-mohammad-beigi",
+      "name": "Fatemeh Mohammad Beigi",
+      "slug": "fatemeh-mohammad-beigi",
+      "province": "Qazvin province",
+      "constituency": "Qazvin , Abyek and Alborz",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/fatemeh-mohammad-beigi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-128-fathullah-hosseini",
+      "name": "Fathullah Hosseini",
+      "slug": "fathullah-hosseini",
+      "province": "Kermanshah province",
+      "constituency": "Qasr-e Shirin , Sarpol-e Zahab and Gilan-e Gharb",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/fathullah-hosseini/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-079-fathullah-tavasuli",
+      "name": "Fathullah Tavasuli",
+      "slug": "fathullah-tavasuli",
+      "province": "Hamadan province",
+      "constituency": "Bahar and Kabudrahang",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/fathullah-tavasuli/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-124-fazlullah-ranjbar",
+      "name": "Fazlullah Ranjbar",
+      "slug": "fazlullah-ranjbar",
+      "province": "Kermanshah province",
+      "constituency": "Kermanshah",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/fazlullah-ranjbar/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-090-fereydon-hemati",
+      "name": "Fereydon Hemati",
+      "slug": "fereydon-hemati",
+      "province": "Ilam province",
+      "constituency": "Ilam , Eyvan , Shirvan , Chardavol and Mehran",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/fereydon-hemati/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-286-gaghard-mansourian",
+      "name": "Gaghard Mansourian",
+      "slug": "gaghard-mansourian",
+      "province": "Armenians (South)",
+      "constituency": "——",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/gaghard-mansourian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-195-ghasem-ravanbakhsh",
+      "name": "Ghasem Ravanbakhsh",
+      "slug": "ghasem-ravanbakhsh",
+      "province": "Qom province",
+      "constituency": "Qom",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ghasem-ravanbakhsh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-012-gholamhossein-zarei",
+      "name": "Gholamhossein Zarei",
+      "slug": "gholamhossein-zarei",
+      "province": "Bushehr province",
+      "constituency": "Dashti and Tangestan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/gholamhossein-zarei/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-051-gholamreza-dehghan-naserabadi",
+      "name": "Gholamreza Dehghan Naserabadi",
+      "slug": "gholamreza-dehghan-naserabadi",
+      "province": "Fars province",
+      "constituency": "Kazerun",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/gholamreza-dehghan-naserabadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-017-gholamreza-mirzaei",
+      "name": "Gholamreza Mirzaei",
+      "slug": "gholamreza-mirzaei",
+      "province": "Chaharmahal and Bakhtiari province",
+      "constituency": "Borujen",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/gholamreza-mirzaei/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-120-gholamreza-navidi",
+      "name": "Gholamreza Navidi",
+      "slug": "gholamreza-navidi",
+      "province": "Kerman province",
+      "constituency": "Shahr-e-Babak",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/gholamreza-navidi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-035-gholamreza-nouri-ghezeljeh",
+      "name": "Gholamreza Nouri-Ghezeljeh",
+      "slug": "gholamreza-nouri-ghezeljeh",
+      "province": "East Azerbaijan province",
+      "constituency": "Bostanabad",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/gholamreza-nouri-ghezeljeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-180-gholamreza-shariati",
+      "name": "Gholamreza Shariati",
+      "slug": "gholamreza-shariati",
+      "province": "Mazandaran province",
+      "constituency": "Behshahr , Neka and Galoogah",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/gholamreza-shariati/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-150-gholamreza-tajgardoon",
+      "name": "Gholamreza Tajgardoon",
+      "slug": "gholamreza-tajgardoon",
+      "province": "Kohgiluyeh and Boyer-Ahmad province",
+      "constituency": "Gachsaran",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/gholamreza-tajgardoon/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-048-gholamreza-tawakkul",
+      "name": "Gholamreza Tawakkul",
+      "slug": "gholamreza-tawakkul",
+      "province": "Fars province",
+      "constituency": "Sarvestan , Kharameh and Kavar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/gholamreza-tawakkul/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-102-habib-ghasemi",
+      "name": "Habib Ghasemi",
+      "slug": "habib-ghasemi",
+      "province": "Isfahan province",
+      "constituency": "Shahreza and Semirom Sofla",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/habib-ghasemi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-187-hadi-ghavami",
+      "name": "Hadi Ghavami",
+      "slug": "hadi-ghavami",
+      "province": "North Khorasan province",
+      "constituency": "Esfarayen",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hadi-ghavami/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-157-hadi-hashemi-nia",
+      "name": "Hadi Hashemi nia",
+      "slug": "hadi-hashemi-nia",
+      "province": "Lorestan province",
+      "constituency": "Khorramabad and Dowreh",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hadi-hashemi-nia/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-211-hadi-mohammadpour",
+      "name": "Hadi Mohammadpour",
+      "slug": "hadi-mohammadpour",
+      "province": "Razavi Khorasan province",
+      "constituency": "Gonabad and Bajestan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hadi-mohammadpour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-266-hakem-mamakan",
+      "name": "Hakem mamakan",
+      "slug": "hakem-mamakan",
+      "province": "West Azerbaijan province",
+      "constituency": "Urmia",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hakem-mamakan/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-097-hamed-yazdian",
+      "name": "Hamed Yazdian",
+      "slug": "hamed-yazdian",
+      "province": "Isfahan province",
+      "constituency": "Isfahan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hamed-yazdian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-233-hamid-rasai",
+      "name": "Hamid Rasai",
+      "slug": "hamid-rasai",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hamid-rasai/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-076-hamid-reza-haji-babaee",
+      "name": "Hamid-Reza Haji Babaee",
+      "slug": "hamid-reza-haji-babaee",
+      "province": "Hamadan province",
+      "constituency": "Hamadan and Famenin",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hamid-reza-haji-babaee/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-016-hamidreza-azizi",
+      "name": "Hamidreza Azizi",
+      "slug": "hamidreza-azizi",
+      "province": "Chaharmahal and Bakhtiari province",
+      "constituency": "Ardal , Farsan , Kuhrang and Kiar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hamidreza-azizi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-159-hamidreza-godarzi",
+      "name": "Hamidreza Godarzi",
+      "slug": "hamidreza-godarzi",
+      "province": "Lorestan province",
+      "constituency": "Aligudarz",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hamidreza-godarzi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-175-hasan-netaj",
+      "name": "Hasan Netaj",
+      "slug": "hasan-netaj",
+      "province": "Mazandaran province",
+      "constituency": "Babol",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hasan-netaj/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-144-hashem-khanfari-pourjafari",
+      "name": "Hashem Khanfari Pourjafari",
+      "slug": "hashem-khanfari-pourjafari",
+      "province": "Khuzestan province",
+      "constituency": "Shadegan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hashem-khanfari-pourjafari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-197-hassan-ali-akhlaghi-amiri",
+      "name": "Hassan Ali Akhlaghi Amiri",
+      "slug": "hassan-ali-akhlaghi-amiri",
+      "province": "Razavi Khorasan province",
+      "constituency": "Mashhad and Kalat",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hassan-ali-akhlaghi-amiri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-049-hassan-ali-mohammadi",
+      "name": "Hassan Ali Mohammadi",
+      "slug": "hassan-ali-mohammadi",
+      "province": "Fars province",
+      "constituency": "Fasa",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hassan-ali-mohammadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-262-hassan-qashqai",
+      "name": "Hassan Qashqai",
+      "slug": "hassan-qashqai",
+      "province": "Tehran province",
+      "constituency": "Baharestan and Robat Karim",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hassan-qashqai/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-289-homayoun-sameh",
+      "name": "Homayoun Sameh",
+      "slug": "homayoun-sameh",
+      "province": "Jewish",
+      "constituency": "——",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/homayoun-sameh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-171-hoshang-hadianpour",
+      "name": "Hoshang Hadianpour",
+      "slug": "hoshang-hadianpour",
+      "province": "Markazi province",
+      "constituency": "Shazand",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hoshang-hadianpour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-111-hossein-abdoli",
+      "name": "Hossein Abdoli",
+      "slug": "hossein-abdoli",
+      "province": "Isfahan province",
+      "constituency": "Natanz and Qamsar",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hossein-abdoli/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-218-hossein-ali-shahrari",
+      "name": "Hossein Ali Shahrari",
+      "slug": "hossein-ali-shahrari",
+      "province": "Sistan and Baluchestan province",
+      "constituency": "Zahedan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hossein-ali-shahrari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-263-hossein-haghverdi",
+      "name": "Hossein Haghverdi",
+      "slug": "hossein-haghverdi",
+      "province": "Tehran province",
+      "constituency": "Shahriari , Qods and Malard",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hossein-haghverdi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-205-hossein-mohammadzadeh",
+      "name": "Hossein Mohammadzadeh",
+      "slug": "hossein-mohammadzadeh",
+      "province": "Razavi Khorasan province",
+      "constituency": "Dargaz",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hossein-mohammadzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-246-hossein-samsami",
+      "name": "Hossein Samsami",
+      "slug": "hossein-samsami",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hossein-samsami/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-099-hossein-ali-haji-deligani",
+      "name": "Hossein-Ali Haji-Deligani",
+      "slug": "hossein-ali-haji-deligani",
+      "province": "Isfahan province",
+      "constituency": "Shahin Shahr and Meymeh and Bourkhar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hossein-ali-haji-deligani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-203-hussein-emamirad",
+      "name": "Hussein Emamirad",
+      "slug": "hussein-emamirad",
+      "province": "Razavi Khorasan province",
+      "constituency": "Chenaran and Binalud",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/hussein-emamirad/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-247-ibrahim-azizi",
+      "name": "Ibrahim Azizi",
+      "slug": "ibrahim-azizi",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ibrahim-azizi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-060-ibrahim-najafi",
+      "name": "Ibrahim Najafi",
+      "slug": "ibrahim-najafi",
+      "province": "Gilan province",
+      "constituency": "Astaneh Ashrafiyeh",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ibrahim-najafi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-038-ismail-hosseini",
+      "name": "Ismail Hosseini",
+      "slug": "ismail-hosseini",
+      "province": "Fars province",
+      "constituency": "Shiraz",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ismail-hosseini/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-237-ismail-kothari",
+      "name": "Ismail Kothari",
+      "slug": "ismail-kothari",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ismail-kothari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-103-ismail-siavashi",
+      "name": "Ismail Siavashi",
+      "slug": "ismail-siavashi",
+      "province": "Isfahan province",
+      "constituency": "Faridan and Fereydunshahr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ismail-siavashi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-040-ja-far-ghaderi",
+      "name": "Ja'far Ghaderi",
+      "slug": "ja-far-ghaderi",
+      "province": "Fars province",
+      "constituency": "Shiraz",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ja-far-ghaderi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-056-jabbar-kouchakinejad-eram-sadati",
+      "name": "Jabbar Kouchakinejad Eram sadati",
+      "slug": "jabbar-kouchakinejad-eram-sadati",
+      "province": "Gilan province",
+      "constituency": "Rasht",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/jabbar-kouchakinejad-eram-sadati/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-011-jafar-pour-kabkani",
+      "name": "Jafar Pour kabkani",
+      "slug": "jafar-pour-kabkani",
+      "province": "Bushehr province",
+      "constituency": "Bushehr , Ganaveh and Deylam",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/jafar-pour-kabkani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-136-jahanbakhsh-qalavand",
+      "name": "Jahanbakhsh Qalavand",
+      "slug": "jahanbakhsh-qalavand",
+      "province": "Khuzestan province",
+      "constituency": "Andimeshk",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/jahanbakhsh-qalavand/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-135-jalil-mokhtar",
+      "name": "Jalil Mokhtar",
+      "slug": "jalil-mokhtar",
+      "province": "Khuzestan province",
+      "constituency": "Abadan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/jalil-mokhtar/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-202-jalil-rahimi",
+      "name": "Jalil Rahimi",
+      "slug": "jalil-rahimi",
+      "province": "Razavi Khorasan province",
+      "constituency": "Torbat-e Heydarieh and Mahvelat",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/jalil-rahimi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-071-jamshid-qaim-maqam",
+      "name": "Jamshid Qaim Maqam",
+      "slug": "jamshid-qaim-maqam",
+      "province": "Golestan province",
+      "constituency": "Ramian and Azadshahr",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/jamshid-qaim-maqam/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-199-javad-karimi-ghodousi",
+      "name": "Javad Karimi-Ghodousi",
+      "slug": "javad-karimi-ghodousi",
+      "province": "Razavi Khorasan province",
+      "constituency": "Mashhad and Kalat",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/javad-karimi-ghodousi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-210-javad-nikbin",
+      "name": "Javad Nikbin",
+      "slug": "javad-nikbin",
+      "province": "Razavi Khorasan province",
+      "constituency": "Kashmar , Kuhsorkh, Bardaskan and Khalilabad",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/javad-nikbin/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-133-javad-saadounzadeh",
+      "name": "Javad Saadounzadeh",
+      "slug": "javad-saadounzadeh",
+      "province": "Khuzestan province",
+      "constituency": "Abadan",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/javad-saadounzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-269-kamal-hosseinpour",
+      "name": "Kamal Hosseinpour",
+      "slug": "kamal-hosseinpour",
+      "province": "West Azerbaijan province",
+      "constituency": "Piranshahr and Sardasht",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/kamal-hosseinpour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-241-kamran-ghazanfari",
+      "name": "Kamran Ghazanfari",
+      "slug": "kamran-ghazanfari",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/kamran-ghazanfari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-182-kamran-poladi",
+      "name": "Kamran Poladi",
+      "slug": "kamran-poladi",
+      "province": "Mazandaran province",
+      "constituency": "Nowshahr , Chalus and Kelardasht",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/kamran-poladi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-057-mahdi-falah",
+      "name": "Mahdi Falah",
+      "slug": "mahdi-falah",
+      "province": "Gilan province",
+      "constituency": "Rasht",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mahdi-falah/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-235-mahmoud-nabavian",
+      "name": "Mahmoud Nabavian",
+      "slug": "mahmoud-nabavian",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mahmoud-nabavian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-031-mahmoud-taheri",
+      "name": "Mahmoud Taheri",
+      "slug": "mahmoud-taheri",
+      "province": "East Azerbaijan province",
+      "constituency": "Shabestar",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mahmoud-taheri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-029-majid-basirpour",
+      "name": "Majid Basirpour",
+      "slug": "majid-basirpour",
+      "province": "East Azerbaijan province",
+      "constituency": "Sarab",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/majid-basirpour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-142-majid-dagheri",
+      "name": "Majid Dagheri",
+      "slug": "majid-dagheri",
+      "province": "Khuzestan province",
+      "constituency": "Dasht-e Azadegan and Hoveyzeh",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/majid-dagheri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-113-majid-dostali",
+      "name": "Majid Dostali",
+      "slug": "majid-dostali",
+      "province": "Kerman province",
+      "constituency": "Kerman and Ravar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/majid-dostali/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-229-majid-nasiraei",
+      "name": "Majid Nasiraei",
+      "slug": "majid-nasiraei",
+      "province": "South Khorasan province",
+      "constituency": "Ferdows , Tabas , Sarayan and Boshruyeh",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/majid-nasiraei/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-248-malek-shariati-niasar",
+      "name": "Malek Shariati Niasar",
+      "slug": "malek-shariati-niasar",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/malek-shariati-niasar/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-236-manouchehr-mutaki",
+      "name": "Manouchehr Mutaki",
+      "slug": "manouchehr-mutaki",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/manouchehr-mutaki/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-283-mansour-alimardani",
+      "name": "Mansour Alimardani",
+      "slug": "mansour-alimardani",
+      "province": "Zanjan province",
+      "constituency": "Abhar and Khorramdarreh",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mansour-alimardani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-121-mansour-shokrollahi",
+      "name": "Mansour Shokrollahi",
+      "slug": "mansour-shokrollahi",
+      "province": "Kerman province",
+      "constituency": "Kahnuj , Manujan , Rudbar-e Jonub , Qaleh Ganj and Faryab",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mansour-shokrollahi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-028-maryam-abdulahi",
+      "name": "Maryam Abdulahi",
+      "slug": "maryam-abdulahi",
+      "province": "East Azerbaijan province",
+      "constituency": "Mianeh",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/maryam-abdulahi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-019-masoud-pezeshkian",
+      "name": "Masoud Pezeshkian",
+      "slug": "masoud-pezeshkian",
+      "province": "East Azerbaijan province",
+      "constituency": "Tabriz, Osku and Azarshahr",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/masoud-pezeshkian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-198-maytham-zuhorian",
+      "name": "Maytham Zuhorian",
+      "slug": "maytham-zuhorian",
+      "province": "Razavi Khorasan province",
+      "constituency": "Mashhad and Kalat",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/maytham-zuhorian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-027-mehdi-esmaeili",
+      "name": "Mehdi Esmaeili",
+      "slug": "mehdi-esmaeili",
+      "province": "East Azerbaijan province",
+      "constituency": "Mianeh",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mehdi-esmaeili/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-238-mehdi-kochakzadeh",
+      "name": "Mehdi Kochakzadeh",
+      "slug": "mehdi-kochakzadeh",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mehdi-kochakzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-095-mehdi-toghyani",
+      "name": "Mehdi Toghyani",
+      "slug": "mehdi-toghyani",
+      "province": "Isfahan province",
+      "constituency": "Isfahan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mehdi-toghyani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-264-mehdi-zamani-afshar",
+      "name": "Mehdi Zamani Afshar",
+      "slug": "mehdi-zamani-afshar",
+      "province": "Tehran province",
+      "constituency": "Varamin , Pishva and Qarchak",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mehdi-zamani-afshar/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-062-mehrdad-godarzvand-chegini",
+      "name": "Mehrdad Godarzvand Chegini",
+      "slug": "mehrdad-godarzvand-chegini",
+      "province": "Gilan province",
+      "constituency": "Rudbar",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mehrdad-godarzvand-chegini/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-068-mehrdad-lahoti",
+      "name": "Mehrdad Lahoti",
+      "slug": "mehrdad-lahoti",
+      "province": "Gilan province",
+      "constituency": "Langarud",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mehrdad-lahoti/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-063-mohammad-ali-jani",
+      "name": "Mohammad Ali Jani",
+      "slug": "mohammad-ali-jani",
+      "province": "Gilan province",
+      "constituency": "Rudsar and Amlash",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-ali-jani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-132-mohammad-amir",
+      "name": "Mohammad Amir",
+      "slug": "mohammad-amir",
+      "province": "Khuzestan province",
+      "constituency": "Ahvaz , Bavi , Hamidiyeh and Karun",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-amir/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-221-mohammad-anwar-bejarzehi",
+      "name": "Mohammad Anwar Bejarzehi",
+      "slug": "mohammad-anwar-bejarzehi",
+      "province": "Sistan and Baluchestan province",
+      "constituency": "Chabahar , Nik Shahr , Konarak and Qasr-e Qand",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-anwar-bejarzehi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-087-mohammad-ashouri-taziani",
+      "name": "Mohammad Ashouri Taziani",
+      "slug": "mohammad-ashouri-taziani",
+      "province": "Hormozgan province",
+      "constituency": "Bandar Abbas , Qeshm and Abumusa",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-ashouri-taziani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-230-mohammad-bagher-ghalibaf",
+      "name": "Mohammad Bagher Ghalibaf",
+      "slug": "mohammad-bagher-ghalibaf",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-bagher-ghalibaf/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-030-mohammad-bagheri",
+      "name": "Mohammad Bagheri",
+      "slug": "mohammad-bagheri",
+      "province": "East Azerbaijan province",
+      "constituency": "Bonab",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-bagheri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-148-mohammad-bahrami",
+      "name": "Mohammad Bahrami",
+      "slug": "mohammad-bahrami",
+      "province": "Kohgiluyeh and Boyer-Ahmad province",
+      "constituency": "Boyer-Ahmad and Dena",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-bahrami/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-169-mohammad-bayat",
+      "name": "Mohammad Bayat",
+      "slug": "mohammad-bayat",
+      "province": "Markazi province",
+      "constituency": "Khomeyn",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-bayat/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-163-mohammad-hossein-mohammadi",
+      "name": "Mohammad Hossein Mohammadi",
+      "slug": "mohammad-hossein-mohammadi",
+      "province": "Lorestan province",
+      "constituency": "Delfan and Selseleh",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-hossein-mohammadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-172-mohammad-jalali",
+      "name": "Mohammad Jalali",
+      "slug": "mohammad-jalali",
+      "province": "Markazi province",
+      "constituency": "Mahalat and Delijan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-jalali/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-046-mohammad-javad-asgari",
+      "name": "Mohammad Javad Asgari",
+      "slug": "mohammad-javad-asgari",
+      "province": "Fars province",
+      "constituency": "Darab and Zarrin Dasht",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-javad-asgari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-145-mohammad-kaab-omair",
+      "name": "Mohammad Kaab Omair",
+      "slug": "mohammad-kaab-omair",
+      "province": "Khuzestan province",
+      "constituency": "Shush",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-kaab-omair/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-008-mohammad-khosh-sima",
+      "name": "Mohammad Khosh Sima",
+      "slug": "mohammad-khosh-sima",
+      "province": "Ardabil province",
+      "constituency": "Germi",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-khosh-sima/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-193-mohammad-manan-raisi",
+      "name": "Mohammad Manan Raisi",
+      "slug": "mohammad-manan-raisi",
+      "province": "Qom province",
+      "constituency": "Qom",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-manan-raisi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-050-mohammad-mehdi-farvardin",
+      "name": "Mohammad Mehdi Farvardin",
+      "slug": "mohammad-mehdi-farvardin",
+      "province": "Fars province",
+      "constituency": "Firuzabad , Farashband , Qir and Karzin",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-mehdi-farvardin/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-080-mohammad-mehdi-mofatteh",
+      "name": "Mohammad Mehdi Mofatteh",
+      "slug": "mohammad-mehdi-mofatteh",
+      "province": "Hamadan province",
+      "constituency": "Tuyserkan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-mehdi-mofatteh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-186-mohammad-mehdi-shahriari",
+      "name": "Mohammad Mehdi Shahriari",
+      "slug": "mohammad-mehdi-shahriari",
+      "province": "North Khorasan province",
+      "constituency": "Bojnord , Maneh and Samalqan , Garmeh , Jajarm , Raz and Jargalan",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-mehdi-shahriari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-275-mohammad-mirzaei",
+      "name": "Mohammad Mirzaei",
+      "slug": "mohammad-mirzaei",
+      "province": "West Azerbaijan province",
+      "constituency": "Shahin Dezh and Takab",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-mirzaei/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-119-mohammad-motamedizadeh",
+      "name": "Mohammad Motamedizadeh",
+      "slug": "mohammad-motamedizadeh",
+      "province": "Kerman province",
+      "constituency": "Sirjan and Bardsir",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-motamedizadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-225-mohammad-noor-dahani",
+      "name": "Mohammad Noor Dahani",
+      "slug": "mohammad-noor-dahani",
+      "province": "Sistan and Baluchestan province",
+      "constituency": "Saravan , Sib and Suran , Mehrestan",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-noor-dahani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-268-mohammad-qassim-osmani",
+      "name": "Mohammad Qassim Osmani",
+      "slug": "mohammad-qassim-osmani",
+      "province": "West Azerbaijan province",
+      "constituency": "Bukan",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-qassim-osmani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-123-mohammad-rashidi",
+      "name": "Mohammad Rashidi",
+      "slug": "mohammad-rashidi",
+      "province": "Kermanshah province",
+      "constituency": "Kermanshah",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-rashidi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-155-mohammad-rasool-sheikhi",
+      "name": "Mohammad Rasool Sheikhi",
+      "slug": "mohammad-rasool-sheikhi",
+      "province": "Kurdistan province",
+      "constituency": "Qorveh and Dehgolan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-rasool-sheikhi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-206-mohammad-reza-mohseni-thani",
+      "name": "Mohammad Reza Mohseni Thani",
+      "slug": "mohammad-reza-mohseni-thani",
+      "province": "Razavi Khorasan province",
+      "constituency": "Sabzevar , Joghatai and Joveyn",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-reza-mohseni-thani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-045-mohammad-reza-rezaei-kouchi",
+      "name": "Mohammad Reza Rezaei Kouchi",
+      "slug": "mohammad-reza-rezaei-kouchi",
+      "province": "Fars province",
+      "constituency": "Jahrom",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-reza-rezaei-kouchi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-279-mohammad-reza-sabaghian",
+      "name": "Mohammad Reza Sabaghian",
+      "slug": "mohammad-reza-sabaghian",
+      "province": "Yazd province",
+      "constituency": "Mehriz , Bafq , Behabad , Abarkuh and Khatam",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-reza-sabaghian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-213-mohammad-rostami",
+      "name": "Mohammad Rostami",
+      "slug": "mohammad-rostami",
+      "province": "Razavi Khorasan province",
+      "constituency": "Nishapur and Firuzeh",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-rostami/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-170-mohammad-sabzi",
+      "name": "Mohammad Sabzi",
+      "slug": "mohammad-sabzi",
+      "province": "Markazi province",
+      "constituency": "Saveh and Zarandieh",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-sabzi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-277-mohammad-saleh-jokar",
+      "name": "Mohammad saleh Jokar",
+      "slug": "mohammad-saleh-jokar",
+      "province": "Yazd province",
+      "constituency": "Yazd and Ashkezar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-saleh-jokar/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-223-mohammad-sargazi",
+      "name": "Mohammad Sargazi",
+      "slug": "mohammad-sargazi",
+      "province": "Sistan and Baluchestan province",
+      "constituency": "Zabol , Zehak , Hirmand , Nimrouz and Hamun",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-sargazi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-242-mohammad-siraj",
+      "name": "Mohammad Siraj",
+      "slug": "mohammad-siraj",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-siraj/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-100-mohammad-taghi-naghd-ali",
+      "name": "Mohammad Taghi Naghd Ali",
+      "slug": "mohammad-taghi-naghd-ali",
+      "province": "Isfahan province",
+      "constituency": "Khomeyni Shahr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-taghi-naghd-ali/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-139-mohammad-tala-mazloumi",
+      "name": "Mohammad Tala Mazloumi",
+      "slug": "mohammad-tala-mazloumi",
+      "province": "Khuzestan province",
+      "constituency": "Behbahan and Aghajari",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammad-tala-mazloumi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-058-mohammadreza-ahmadi-sangari",
+      "name": "Mohammadreza Ahmadi Sangari",
+      "slug": "mohammadreza-ahmadi-sangari",
+      "province": "Gilan province",
+      "constituency": "Rasht",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohammadreza-ahmadi-sangari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-154-mohsen-bigleri",
+      "name": "Mohsen Bigleri",
+      "slug": "mohsen-bigleri",
+      "province": "Kurdistan province",
+      "constituency": "Saqqez and Baneh",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohsen-bigleri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-152-mohsen-fathi",
+      "name": "Mohsen Fathi",
+      "slug": "mohsen-fathi",
+      "province": "Kurdistan province",
+      "constituency": "Sanandaj , Diwandarreh and Kamyaran",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mohsen-fathi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-125-mojtaba-bakhshipour",
+      "name": "Mojtaba Bakhshipour",
+      "slug": "mojtaba-bakhshipour",
+      "province": "Kermanshah province",
+      "constituency": "Eslamabad-e Gharb and Dalahu",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mojtaba-bakhshipour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-258-mojtaba-rahmandost",
+      "name": "Mojtaba Rahmandost",
+      "slug": "mojtaba-rahmandost",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mojtaba-rahmandost/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-131-mojtaba-yousefi",
+      "name": "Mojtaba Yousefi",
+      "slug": "mojtaba-yousefi",
+      "province": "Khuzestan province",
+      "constituency": "Ahvaz , Bavi , Hamidiyeh and Karun",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mojtaba-yousefi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-240-mojtaba-zarei",
+      "name": "Mojtaba Zarei",
+      "slug": "mojtaba-zarei",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mojtaba-zarei/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-194-mojtaba-zonnour",
+      "name": "Mojtaba Zonnour",
+      "slug": "mojtaba-zonnour",
+      "province": "Qom province",
+      "constituency": "Qom",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mojtaba-zonnour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-232-morteza-aghatehrani",
+      "name": "Morteza Aghatehrani",
+      "slug": "morteza-aghatehrani",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/morteza-aghatehrani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-044-moslem-salehi",
+      "name": "Moslem Salehi",
+      "slug": "moslem-salehi",
+      "province": "Fars province",
+      "constituency": "Eqlid",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/moslem-salehi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-227-mostafa-nakhaei",
+      "name": "Mostafa Nakhaei",
+      "slug": "mostafa-nakhaei",
+      "province": "South Khorasan province",
+      "constituency": "Nehbandan and Sarbisheh",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mostafa-nakhaei/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-281-mostafa-taheri",
+      "name": "Mostafa Taheri",
+      "slug": "mostafa-taheri",
+      "province": "Zanjan province",
+      "constituency": "Zanjan and Tarom",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mostafa-taheri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-014-mousa-ahmadi",
+      "name": "Mousa Ahmadi",
+      "slug": "mousa-ahmadi",
+      "province": "Bushehr province",
+      "constituency": "Kangan , Deyr , Jam and Asaluyeh",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mousa-ahmadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-115-mousa-ghazanfarabadi",
+      "name": "Mousa Ghazanfarabadi",
+      "slug": "mousa-ghazanfarabadi",
+      "province": "Kerman province",
+      "constituency": "Bam , Rigan , Fahraj and Narmashir",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mousa-ghazanfarabadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-140-mustafa-maturzadeh",
+      "name": "Mustafa Maturzadeh",
+      "slug": "mustafa-maturzadeh",
+      "province": "Khuzestan province",
+      "constituency": "Khorramshahr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mustafa-maturzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-105-mustafa-moini",
+      "name": "Mustafa Moini",
+      "slug": "mustafa-moini",
+      "province": "Isfahan province",
+      "constituency": "Kashan and Aran va Bidgol",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mustafa-moini/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-278-mustafa-pourdehghan",
+      "name": "Mustafa Pourdehghan",
+      "slug": "mustafa-pourdehghan",
+      "province": "Yazd province",
+      "constituency": "Ardakan",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/mustafa-pourdehghan/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-282-nabiullah-mohammadi",
+      "name": "Nabiullah Mohammadi",
+      "slug": "nabiullah-mohammadi",
+      "province": "Zanjan province",
+      "constituency": "Zanjan and Tarom",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/nabiullah-mohammadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-167-nadergholi-ebrahimi",
+      "name": "Nadergholi Ebrahimi",
+      "slug": "nadergholi-ebrahimi",
+      "province": "Markazi province",
+      "constituency": "Arak , Komijan and Khondab",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/nadergholi-ebrahimi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-196-nasrollah-pejmanfar",
+      "name": "Nasrollah Pejmanfar",
+      "slug": "nasrollah-pejmanfar",
+      "province": "Razavi Khorasan province",
+      "constituency": "Mashhad and Kalat",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/nasrollah-pejmanfar/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-272-omar-pour-aghdam",
+      "name": "Omar pour Aghdam",
+      "slug": "omar-pour-aghdam",
+      "province": "West Azerbaijan province",
+      "constituency": "Maku, Chaldoran, Poldasht and Showt",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/omar-pour-aghdam/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-156-omid-karimian",
+      "name": "Omid Karimian",
+      "slug": "omid-karimian",
+      "province": "Kurdistan province",
+      "constituency": "Marivan and Sarvabad",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/omid-karimian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-055-omid-nasibi",
+      "name": "Omid Nasibi",
+      "slug": "omid-nasibi",
+      "province": "Fars province",
+      "constituency": "Mamasani",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/omid-nasibi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-201-othman-sallari",
+      "name": "Othman Sallari",
+      "slug": "othman-sallari",
+      "province": "Razavi Khorasan province",
+      "constituency": "Torbat-e Jam , Taybad and Bakharz",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/othman-sallari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-254-peyman-falsafi",
+      "name": "Peyman falsafi",
+      "slug": "peyman-falsafi",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/peyman-falsafi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-101-rahim-karimi",
+      "name": "Rahim Karimi",
+      "slug": "rahim-karimi",
+      "province": "Isfahan province",
+      "constituency": "Semirom",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/rahim-karimi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-042-rahim-zarei",
+      "name": "Rahim Zarei",
+      "slug": "rahim-zarei",
+      "province": "Fars province",
+      "constituency": "Abadeh , Bavanat and Khorrambid",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/rahim-zarei/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-072-rahmatollah-nourouzi",
+      "name": "Rahmatollah Nourouzi",
+      "slug": "rahmatollah-nourouzi",
+      "province": "Golestan province",
+      "constituency": "Aliabad",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/rahmatollah-nourouzi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-220-rahmdel-bagheri",
+      "name": "Rahmdel Bagheri",
+      "slug": "rahmdel-bagheri",
+      "province": "Sistan and Baluchestan province",
+      "constituency": "Iranshahr , Sarbaz , Dalgan and Fanuj",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/rahmdel-bagheri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-069-ramezan-ali-sangdoueini",
+      "name": "Ramezan ali Sangdoueini",
+      "slug": "ramezan-ali-sangdoueini",
+      "province": "Golestan province",
+      "constituency": "Gorgan and Aqqala",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ramezan-ali-sangdoueini/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-104-ramezan-rahimi",
+      "name": "Ramezan Rahimi",
+      "slug": "ramezan-rahimi",
+      "province": "Isfahan province",
+      "constituency": "Falavarjan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ramezan-rahimi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-096-rasool-bakhshi",
+      "name": "Rasool Bakhshi",
+      "slug": "rasool-bakhshi",
+      "province": "Isfahan province",
+      "constituency": "Isfahan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/rasool-bakhshi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-126-rastgar-yousefi",
+      "name": "Rastgar Yousefi",
+      "slug": "rastgar-yousefi",
+      "province": "Kermanshah province",
+      "constituency": "Paveh , Javanrud , Salas-e Babajani and Ravansar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/rastgar-yousefi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-037-reza-alizadeh",
+      "name": "Reza Alizadeh",
+      "slug": "reza-alizadeh",
+      "province": "East Azerbaijan province",
+      "constituency": "Varzaqan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/reza-alizadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-179-reza-hajipour",
+      "name": "Reza Hajipour",
+      "slug": "reza-hajipour",
+      "province": "Mazandaran province",
+      "constituency": "Amol",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/reza-hajipour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-022-reza-seddiqi",
+      "name": "Reza Seddiqi",
+      "slug": "reza-seddiqi",
+      "province": "East Azerbaijan province",
+      "constituency": "Tabriz, Osku and Azarshahr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/reza-seddiqi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-158-reza-sepahvand",
+      "name": "Reza Sepahvand",
+      "slug": "reza-sepahvand",
+      "province": "Lorestan province",
+      "constituency": "Khorramabad and Dowreh",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/reza-sepahvand/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-234-reza-taghipour-anvari",
+      "name": "Reza Taghipour Anvari",
+      "slug": "reza-taghipour-anvari",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/reza-taghipour-anvari/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-039-rouhollah-nejabat",
+      "name": "Rouhollah Nejabat",
+      "slug": "rouhollah-nejabat",
+      "province": "Fars province",
+      "constituency": "Shiraz",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/rouhollah-nejabat/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-191-ruhollah-abbaspour",
+      "name": "Ruhollah Abbaspour",
+      "slug": "ruhollah-abbaspour",
+      "province": "Qazvin province",
+      "constituency": "Buin Zahra",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ruhollah-abbaspour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-243-ruhollah-izadkhah",
+      "name": "Ruhollah Izadkhah",
+      "slug": "ruhollah-izadkhah",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ruhollah-izadkhah/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-164-ruhollah-lak-aliabadi",
+      "name": "Ruhollah Lak Aliabadi",
+      "slug": "ruhollah-lak-aliabadi",
+      "province": "Lorestan province",
+      "constituency": "Dorud and Azna",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ruhollah-lak-aliabadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-021-ruhollah-motefaker-azad",
+      "name": "Ruhollah Motefaker Azad",
+      "slug": "ruhollah-motefaker-azad",
+      "province": "East Azerbaijan province",
+      "constituency": "Tabriz, Osku and Azarshahr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/ruhollah-motefaker-azad/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-006-sadeif-badri",
+      "name": "Sadeif Badri",
+      "slug": "sadeif-badri",
+      "province": "Ardabil province",
+      "constituency": "Ardabil, Namin, Nir and Sareyn",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/sadeif-badri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-064-saeed-rahmatzadeh",
+      "name": "Saeed Rahmatzadeh",
+      "slug": "saeed-rahmatzadeh",
+      "province": "Gilan province",
+      "constituency": "Sowme'eh Sara",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/saeed-rahmatzadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-151-salar-moradi",
+      "name": "Salar Moradi",
+      "slug": "salar-moradi",
+      "province": "Kurdistan province",
+      "constituency": "Sanandaj , Diwandarreh and Kamyaran",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/salar-moradi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-273-sallam-sotudeh",
+      "name": "Sallam sotudeh",
+      "slug": "sallam-sotudeh",
+      "province": "West Azerbaijan province",
+      "constituency": "Mahabad",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/sallam-sotudeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-190-sallar-velayatmadar",
+      "name": "Sallar Velayatmadar",
+      "slug": "sallar-velayatmadar",
+      "province": "Qazvin province",
+      "constituency": "Qazvin , Abyek and Alborz",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/sallar-velayatmadar/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-228-salman-eshaghi",
+      "name": "Salman Eshaghi",
+      "slug": "salman-eshaghi",
+      "province": "South Khorasan province",
+      "constituency": "Qaen",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/salman-eshaghi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-067-salman-zare",
+      "name": "Salman Zare",
+      "slug": "salman-zare",
+      "province": "Gilan province",
+      "constituency": "Lahijan and Siahkal",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/salman-zare/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-091-sara-falahi",
+      "name": "Sara Falahi",
+      "slug": "sara-falahi",
+      "province": "Ilam province",
+      "constituency": "Ilam , Eyvan , Shirvan , Chardavol and Mehran",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/sara-falahi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-066-seyed-karim-masoumi",
+      "name": "Seyed Karim Masoumi",
+      "slug": "seyed-karim-masoumi",
+      "province": "Gilan province",
+      "constituency": "Fuman and Shaft",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyed-karim-masoumi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-130-seyed-mohsen-mousavizadeh",
+      "name": "Seyed Mohsen Mousavizadeh",
+      "slug": "seyed-mohsen-mousavizadeh",
+      "province": "Khuzestan province",
+      "constituency": "Ahvaz , Bavi , Hamidiyeh and Karun",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyed-mohsen-mousavizadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-089-seyyed-abdul-karim-hashemi-nakhel-ebrahimi",
+      "name": "Seyyed Abdul Karim Hashemi Nakhel Ebrahimi",
+      "slug": "seyyed-abdul-karim-hashemi-nakhel-ebrahimi",
+      "province": "Hormozgan province",
+      "constituency": "Minab , Rudan , Jask and Sirik",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-abdul-karim-hashemi-nakhel-ebrahimi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-081-seyyed-abulhasan-mostafavi-ghamam",
+      "name": "Seyyed Abulhasan Mostafavi Ghamam",
+      "slug": "seyyed-abulhasan-mostafavi-ghamam",
+      "province": "Hamadan province",
+      "constituency": "Razan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-abulhasan-mostafavi-ghamam/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-141-seyyed-ahmad-avayi",
+      "name": "Seyyed Ahmad Avayi",
+      "slug": "seyyed-ahmad-avayi",
+      "province": "Khuzestan province",
+      "constituency": "Dezful",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-ahmad-avayi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-252-seyyed-ali-yazdikhah",
+      "name": "Seyyed Ali Yazdikhah",
+      "slug": "seyyed-ali-yazdikhah",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-ali-yazdikhah/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-149-seyyed-haji-mohammad-movahed",
+      "name": "Seyyed Haji Mohammad Movahed",
+      "slug": "seyyed-haji-mohammad-movahed",
+      "province": "Kohgiluyeh and Boyer-Ahmad province",
+      "constituency": "Kohgiluyeh and Bahmaei",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-haji-mohammad-movahed/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-162-seyyed-hamid-reza-kazemi",
+      "name": "Seyyed Hamid Reza Kazemi",
+      "slug": "seyyed-hamid-reza-kazemi",
+      "province": "Lorestan province",
+      "constituency": "Poldokhtar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-hamid-reza-kazemi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-226-seyyed-hasan-hashemi",
+      "name": "Seyyed Hasan Hashemi",
+      "slug": "seyyed-hasan-hashemi",
+      "province": "South Khorasan province",
+      "constituency": "Birjand and Darmian",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-hasan-hashemi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-280-seyyed-jalil-mirmohammadi-meybodi",
+      "name": "Seyyed Jalil Mirmohammadi Meybodi",
+      "slug": "seyyed-jalil-mirmohammadi-meybodi",
+      "province": "Yazd province",
+      "constituency": "Taft and Meybod",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-jalil-mirmohammadi-meybodi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-284-seyyed-jamal-mousavi",
+      "name": "Seyyed Jamal Mousavi",
+      "slug": "seyyed-jamal-mousavi",
+      "province": "Zanjan province",
+      "constituency": "Mah Neshan and Ijrud",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-jamal-mousavi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-127-seyyed-javad-hosseinikia",
+      "name": "Seyyed Javad Hosseinikia",
+      "slug": "seyyed-javad-hosseinikia",
+      "province": "Kermanshah province",
+      "constituency": "Sonqor",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-javad-hosseinikia/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-106-seyyed-masoud-khatami",
+      "name": "Seyyed Masoud Khatami",
+      "slug": "seyyed-masoud-khatami",
+      "province": "Isfahan province",
+      "constituency": "Golpayegan and Khvansar",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-masoud-khatami/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-166-seyyed-mohammad-jamalian",
+      "name": "Seyyed Mohammad Jamalian",
+      "slug": "seyyed-mohammad-jamalian",
+      "province": "Markazi province",
+      "constituency": "Arak , Komijan and Khondab",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-mohammad-jamalian/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-134-seyyed-mohammad-molavi",
+      "name": "Seyyed Mohammad Molavi",
+      "slug": "seyyed-mohammad-molavi",
+      "province": "Khuzestan province",
+      "constituency": "Abadan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-mohammad-molavi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-185-seyyed-mohammad-pakmehr",
+      "name": "Seyyed Mohammad Pakmehr",
+      "slug": "seyyed-mohammad-pakmehr",
+      "province": "North Khorasan province",
+      "constituency": "Bojnord , Maneh and Samalqan , Garmeh , Jajarm , Raz and Jargalan",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-mohammad-pakmehr/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-146-seyyed-mohammad-sadat-ebrahimi",
+      "name": "Seyyed Mohammad Sadat Ebrahimi",
+      "slug": "seyyed-mohammad-sadat-ebrahimi",
+      "province": "Khuzestan province",
+      "constituency": "Shushtar and Gotvand",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-mohammad-sadat-ebrahimi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-256-seyyed-morteza-mahmoudi",
+      "name": "Seyyed Morteza Mahmoudi",
+      "slug": "seyyed-morteza-mahmoudi",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-morteza-mahmoudi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-053-seyyed-mousa-mousavi",
+      "name": "Seyyed Mousa Mousavi",
+      "slug": "seyyed-mousa-mousavi",
+      "province": "Fars province",
+      "constituency": "Lamerd and Mohr",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-mousa-mousavi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-075-seyyed-najib-hosseini",
+      "name": "Seyyed Najib Hosseini",
+      "slug": "seyyed-najib-hosseini",
+      "province": "Golestan province",
+      "constituency": "Minudasht , Kalaleh and Maraveh Tappeh",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-najib-hosseini/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-018-seyyed-ruhollah-mousavi",
+      "name": "Seyyed Ruhollah Mousavi",
+      "slug": "seyyed-ruhollah-mousavi",
+      "province": "Chaharmahal and Bakhtiari province",
+      "constituency": "Lordegan",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-ruhollah-mousavi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-265-seyyed-salman-zaker",
+      "name": "Seyyed Salman Zaker",
+      "slug": "seyyed-salman-zaker",
+      "province": "West Azerbaijan province",
+      "constituency": "Urmia",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-salman-zaker/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-212-seyyed-yahya-soleimani",
+      "name": "Seyyed Yahya Soleimani",
+      "slug": "seyyed-yahya-soleimani",
+      "province": "Razavi Khorasan province",
+      "constituency": "Nishapur and Firuzeh",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/seyyed-yahya-soleimani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-112-shahbaz-hasanpour",
+      "name": "Shahbaz Hasanpour",
+      "slug": "shahbaz-hasanpour",
+      "province": "Kerman province",
+      "constituency": "Kerman and Ravar",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/shahbaz-hasanpour/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-267-shahin-jahangiri",
+      "name": "Shahin Jahangiri",
+      "slug": "shahin-jahangiri",
+      "province": "West Azerbaijan province",
+      "constituency": "Urmia",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/shahin-jahangiri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-261-shahrukh-ramin",
+      "name": "Shahrukh Ramin",
+      "slug": "shahrukh-ramin",
+      "province": "Tehran province",
+      "constituency": "Damavand and Firuzkuh",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/shahrukh-ramin/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-181-shamsuddin-hosseini",
+      "name": "Shamsuddin Hosseini",
+      "slug": "shamsuddin-hosseini",
+      "province": "Mazandaran province",
+      "constituency": "Tonekabon , Ramsar and Abbasabad",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/shamsuddin-hosseini/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-290-sharli-envieh-takie",
+      "name": "Sharli Envieh Takie",
+      "slug": "sharli-envieh-takie",
+      "province": "Assyrian",
+      "constituency": "——",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/sharli-envieh-takie/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-251-somayeh-rafiei",
+      "name": "Somayeh Rafiei",
+      "slug": "somayeh-rafiei",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/somayeh-rafiei/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-129-vahid-ahmadi",
+      "name": "Vahid Ahmadi",
+      "slug": "vahid-ahmadi",
+      "province": "Kermanshah province",
+      "constituency": "Kangavar , Sahneh and Harsin",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/vahid-ahmadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-010-vahid-kanani",
+      "name": "Vahid Kanani",
+      "slug": "vahid-kanani",
+      "province": "Ardabil province",
+      "constituency": "Khalkhal and Kowsar",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/vahid-kanani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-059-vali-dadashi",
+      "name": "Vali Dadashi",
+      "slug": "vali-dadashi",
+      "province": "Gilan province",
+      "constituency": "Astara",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/vali-dadashi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-168-valiullah-bayati",
+      "name": "Valiullah Bayati",
+      "slug": "valiullah-bayati",
+      "province": "Markazi province",
+      "constituency": "Tafresh, Ashtian and Farahan",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/valiullah-bayati/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-271-yaghoub-rezazadeh",
+      "name": "Yaghoub Rezazadeh",
+      "slug": "yaghoub-rezazadeh",
+      "province": "West Azerbaijan province",
+      "constituency": "Salmas",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/yaghoub-rezazadeh/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-217-yasser-arabi",
+      "name": "Yasser Arabi",
+      "slug": "yasser-arabi",
+      "province": "Semnan province",
+      "constituency": "Garmsar",
+      "faction": "Not listed",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/yasser-arabi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-065-yasser-islamdoost",
+      "name": "Yasser Islamdoost",
+      "slug": "yasser-islamdoost",
+      "province": "Gilan province",
+      "constituency": "Talesh , Rezvanshahr and Masal",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/yasser-islamdoost/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-114-yasser-soleimani",
+      "name": "Yasser Soleimani",
+      "slug": "yasser-soleimani",
+      "province": "Kerman province",
+      "constituency": "Baft , Rabor and Arzuiyeh",
+      "faction": "Independent",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/yasser-soleimani/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-032-zahra-khoddadi",
+      "name": "Zahra Khoddadi",
+      "slug": "zahra-khoddadi",
+      "province": "East Azerbaijan province",
+      "constituency": "Malekan",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/zahra-khoddadi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-108-zahra-saidi",
+      "name": "Zahra Saidi",
+      "slug": "zahra-saidi",
+      "province": "Isfahan province",
+      "constituency": "Mobarakeh",
+      "faction": "Reformists",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/zahra-saidi/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-250-zainab-gheyseri",
+      "name": "Zainab gheyseri",
+      "slug": "zainab-gheyseri",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/zainab-gheyseri/records",
+      "recordSearchCount": 4
+    },
+    {
+      "id": "ir-majlis-257-zohreh-lajevardi",
+      "name": "Zohreh Lajevardi",
+      "slug": "zohreh-lajevardi",
+      "province": "Tehran province",
+      "constituency": "Tehran, Rey, Shemiranat, Eslamshahr and Pardis",
+      "faction": "Principlist",
+      "officialUrl": "https://en.parliran.ir/",
+      "recordUrl": "/country/iran/parliament/zohreh-lajevardi/records",
+      "recordSearchCount": 4
+    }
+  ]
+}
