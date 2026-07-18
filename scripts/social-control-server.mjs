@@ -150,6 +150,10 @@ async function runCaptureJob(payload) {
 
   if (job.status === "stopping") {
     job.status = "stopped";
+  } else if (payload.harvestMode) {
+    job.output += "\n[TOR Phi] Harvest mode updated the SQLite archive only; snapshot export skipped to prevent Vite browser refreshes.\n";
+    job.exportExitCode = null;
+    job.status = captureExitCode === 0 ? "completed" : "completed-with-errors";
   } else {
     job.output += "\n[TOR Phi] Exporting refreshed public social snapshot without touching src modules...\n";
     const exportExitCode = await runPublicSnapshotExport(job);
