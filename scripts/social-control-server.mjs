@@ -301,14 +301,21 @@ function parseJobOutput(output = "") {
   const completedMatches = [...output.matchAll(/Completed\s+(\d+)\/(\d+);\s+remaining\s+(\d+)/g)];
   const waitMatches = [...output.matchAll(/Rate limited by X;\s+waiting\s+(\d+)s\s+until\s+([0-9T:.\-Z]+)(?:\s+\(([^)]*attempt[^)]*)\))?/g)];
   const counterMatches = [...output.matchAll(/Rate-limit counter\s+([^;]+);\s+completed\s+(\d+)\/(\d+);\s+failed at\s+(\d+)\/(\d+);\s+remaining\s+(\d+);\s+suggested retry after\s+([0-9T:.\-Z]+)/g)];
+  const workerLimitMatches = [...output.matchAll(/Worker\s+(\d+)\/(\d+)\s+via\s+([^\\n]+?)\s+hit a rate limit;\s+completed\s+(\d+)\/(\d+);\s+failed at\s+(\d+)\/(\d+);\s+other workers will continue\.\s+Suggested retry after\s+([0-9T:.\-Z]+)/g)];
+  const savedMatches = [...output.matchAll(/run saved\/updated\s+(\d+)/g)];
   const lastProgress = progressMatches.at(-1);
   const lastCompleted = completedMatches.at(-1);
   const lastWait = waitMatches.at(-1);
   const lastCounter = counterMatches.at(-1);
+  const lastWorkerLimit = workerLimitMatches.at(-1);
+  const lastSaved = savedMatches.at(-1);
   const total = Number(lastProgress?.[2] || lastCompleted?.[2] || lastCounter?.[3] || 0);
-  const current = Number(lastProgress?.[1] || lastCounter?.[4] || lastCompleted?.[1] || 0);
-  const completed = Number(lastCompleted?.[1] || lastCounter?.[2] || 0);
-  const remaining = Number(lastProgress?.[3] || lastCompleted?.[3] || lastCounter?.[6] || 0);
+  const current = Number(lastProgress?.[1] || lastWorkerLimit?.[6] || lastCounter?.[4] || lastCompleted?.[1] || 0);
+  const completed = Number(lastCompleted?.[1] || lastWorkerLimit?.[4] || lastCounter?.[2] || 0);
+  const remaining = Number(lastCompleted?.[3] || lastProgress?.[3] || lastCounter?.[6] || 0);
+  const limitedWorkers = new Set(workerLimitMatches.map((match) => match[1]));
+  const workerCount = Number(lastWorkerLimit?.[2] || 0);
+  const waitUntil = lastWait?.[2] || lastCounter?.[7] || lastWorkerLimit?.[8] || "";
   return {
     total,
     current,
@@ -316,11 +323,14 @@ function parseJobOutput(output = "") {
     remaining,
     currentHandle: lastProgress?.[4] || "",
     waitSeconds: Number(lastWait?.[1] || 0),
-    waitUntil: lastWait?.[2] || lastCounter?.[7] || "",
+    waitUntil,
     waitAttempt: lastWait?.[3] || "",
-    rateLimitCounter: lastCounter?.[1] || "",
-    failedAt: lastCounter ? Number(lastCounter[4]) : 0,
-    isRateLimited: Boolean(lastWait || lastCounter || /HTTP Error 429|Too Many Requests/i.test(output)),
+    rateLimitCounter: lastCounter?.[1] || (limitedWorkers.size ? `${limitedWorkers.size}/${workerCount || "?"} workers` : ""),
+    failedAt: lastCounter ? Number(lastCounter[4]) : lastWorkerLimit ? Number(lastWorkerLimit[6]) : 0,
+    limitedWorkers: limitedWorkers.size,
+    workerCount,
+    savedThisRun: Number(lastSaved?.[1] || 0),
+    isRateLimited: Boolean(lastWait || lastCounter || lastWorkerLimit || /HTTP Error 429|Too Many Requests|hit a rate limit/i.test(output)),
     stoppedForRateLimit: /Stopping after \d+ consecutive rate-limit errors/i.test(output)
   };
 }

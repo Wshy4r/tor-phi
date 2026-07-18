@@ -1375,8 +1375,9 @@ function SocialCaptureRuntimeStatus({ job }) {
         </div>
       ) : null}
       <div className="social-runtime-grid">
-        <span><strong>{parsed.currentHandle ? `@${parsed.currentHandle}` : "None yet"}</strong> current account</span>
-        <span><strong>{parsed.rateLimitCounter || "0"}</strong> rate-limit count</span>
+        <span><strong>{parsed.currentHandle ? `@${parsed.currentHandle}` : "None yet"}</strong> latest account</span>
+        <span><strong>{parsed.rateLimitCounter || "0"}</strong> workers limited</span>
+        <span><strong>{Number(parsed.savedThisRun || 0).toLocaleString()}</strong> saved this run</span>
         <span><strong>{parsed.waitUntil ? (waitSeconds > 0 ? `${waitSeconds}s` : "ready") : "none"}</strong> wait left</span>
         <span><strong>{parsed.waitUntil ? formatDailyDateTime(parsed.waitUntil) : "not scheduled"}</strong> retry time</span>
       </div>
