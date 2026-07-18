@@ -12,10 +12,13 @@ import argparse
 import email.utils
 import html
 import json
+import math
 import os
+import queue
 import random
 import re
 import sqlite3
+import threading
 import time
 import urllib.error
 import urllib.parse
@@ -652,8 +655,10 @@ class TorPhiTwitterClient:
 
 def init_db() -> sqlite3.Connection:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    connection = sqlite3.connect(DB_PATH)
+    connection = sqlite3.connect(DB_PATH, timeout=60)
     connection.row_factory = sqlite3.Row
+    connection.execute("PRAGMA journal_mode=WAL")
+    connection.execute("PRAGMA busy_timeout=60000")
     connection.executescript(
         """
         CREATE TABLE IF NOT EXISTS accounts (
@@ -1148,8 +1153,177 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--source", choices=["graphql", "syndication", "auto"], default="graphql", help="Timeline source. 'auto' falls back to public syndication when authenticated GraphQL is rate-limited.")
     parser.add_argument("--stop-after-rate-limits", type=int, default=6, help="Stop a timeline run after this many consecutive rate-limit errors. Default: 6.")
     parser.add_argument("--pause", type=float, default=2.5, help="Seconds to pause between accounts. Default: 2.5.")
+    parser.add_argument("--parallel-identities", action="store_true", help="Run one timeline worker per authenticated X identity.")
+    parser.add_argument("--workers", type=int, default=0, help="Parallel worker count for --parallel-identities. 0 means one worker per authenticated identity.")
     parser.add_argument("--dry-run", action="store_true", help="Only show the target account plan; do not call X.")
     return parser
+
+
+def capture_timeline_account(
+    connection: sqlite3.Connection,
+    client: TorPhiTwitterClient,
+    account: dict[str, Any],
+    args: argparse.Namespace,
+    endpoint: str,
+    registry_by_handle: dict[str, dict[str, Any]],
+) -> tuple[int, int, str]:
+    handle = normalize_handle(account["handle"])
+    pages = effective_capture_pages(connection, account, args)
+    source_endpoint = endpoint
+    if args.source == "syndication":
+        user_info, tweets = client.fetch_syndication_tweets(handle, pages=pages)
+    else:
+        try:
+            user_info, tweets = client.fetch_user_tweets(handle, pages=pages, include_replies=args.include_replies)
+        except Exception as exc:
+            if args.source != "auto":
+                raise
+            if is_timeline_rate_limit_error(exc):
+                print(f"[TOR Phi] @{handle}: GraphQL timeline rate-limited ({exc}); falling back directly to syndication.", flush=True)
+                user_info, tweets = client.fetch_syndication_tweets(handle, pages=pages)
+                source_endpoint = "SyndicationProfile"
+                saved = save_capture(connection, account, user_info, tweets, endpoint=source_endpoint)
+                return len(tweets), saved, source_endpoint
+            search_query = f"from:{handle}"
+            if not args.include_replies:
+                search_query = f"{search_query} -filter:replies"
+            print(f"[TOR Phi] @{handle}: GraphQL timeline failed ({exc}); trying authenticated search: {search_query}", flush=True)
+            try:
+                tweets = client.search_latest(search_query, pages=pages)
+                saved = save_search_tweets(
+                    connection,
+                    tweets,
+                    query=search_query,
+                    registry_by_handle=registry_by_handle,
+                    country_id=account.get("countryId"),
+                    lane=None,
+                )
+                return len(tweets), saved, "SearchTimeline"
+            except Exception as search_exc:
+                print(f"[TOR Phi] @{handle}: authenticated search failed ({search_exc}); falling back to syndication.", flush=True)
+                user_info, tweets = client.fetch_syndication_tweets(handle, pages=pages)
+                source_endpoint = "SyndicationProfile"
+
+    saved = save_capture(connection, account, user_info, tweets, endpoint=source_endpoint)
+    return len(tweets), saved, source_endpoint
+
+
+def archived_tweet_count(connection: sqlite3.Connection, account: dict[str, Any]) -> int:
+    handle = normalize_handle(account.get("handle", "")).lower()
+    if not handle:
+        return 0
+    row = connection.execute("SELECT COUNT(*) AS count FROM tweets WHERE handle = ?", (handle,)).fetchone()
+    return int(row["count"] if row else 0)
+
+
+def effective_capture_pages(connection: sqlite3.Connection, account: dict[str, Any], args: argparse.Namespace) -> int:
+    max_pages = max(args.pages, 1)
+    if args.only_under_tweet_count <= 0:
+        return max_pages
+    existing_count = archived_tweet_count(connection, account)
+    remaining = max(args.only_under_tweet_count - existing_count, 1)
+    estimated_needed_pages = math.ceil(remaining / 18) + 1
+    return max(1, min(max_pages, estimated_needed_pages))
+
+
+def run_parallel_timeline_capture(
+    clients: list[TorPhiTwitterClient],
+    targets: list[dict[str, Any]],
+    args: argparse.Namespace,
+    endpoint: str,
+    registry_by_handle: dict[str, dict[str, Any]],
+) -> int:
+    worker_count = min(len(clients), max(args.workers, 1) if args.workers else len(clients), len(targets))
+    if worker_count <= 1:
+        return -1
+
+    target_queue: queue.Queue[tuple[int, dict[str, Any]]] = queue.Queue()
+    for index, account in enumerate(targets, start=1):
+        target_queue.put((index, account))
+
+    lock = threading.Lock()
+    completed_accounts = 0
+    total_saved = 0
+    consecutive_rate_limits = 0
+
+    def worker(worker_index: int, client: TorPhiTwitterClient) -> None:
+        nonlocal completed_accounts, total_saved, consecutive_rate_limits
+        connection = init_db()
+        try:
+            while True:
+                try:
+                    index, account = target_queue.get_nowait()
+                except queue.Empty:
+                    return
+
+                handle = normalize_handle(account["handle"])
+                pages = effective_capture_pages(connection, account, args)
+                remaining_accounts = target_queue.qsize()
+                print(
+                    f"[TOR Phi] Worker {worker_index}/{worker_count} via {client.label}: "
+                    f"Progress {index}/{len(targets)}; remaining {remaining_accounts}; "
+                    f"capturing @{handle} ({account.get('ownerName')}); pages {pages}/{max(args.pages, 1)}",
+                    flush=True,
+                )
+                try:
+                    seen, saved, source_endpoint = capture_timeline_account(
+                        connection,
+                        client,
+                        account,
+                        args,
+                        endpoint,
+                        registry_by_handle,
+                    )
+                    with lock:
+                        total_saved += saved
+                        completed_accounts += 1
+                        consecutive_rate_limits = 0
+                        completed = completed_accounts
+                        saved_total = total_saved
+                    print(
+                        f"[TOR Phi] @{handle}: {seen} seen from {source_endpoint}, {saved} saved or updated. "
+                        f"Completed {completed}/{len(targets)}; remaining {len(targets) - completed}; "
+                        f"run saved/updated {saved_total}.",
+                        flush=True,
+                    )
+                except Exception as exc:
+                    message = str(exc)
+                    save_error(connection, account, message)
+                    print(f"[TOR Phi] @{handle}: {message}", flush=True)
+                    if is_timeline_rate_limit_error(exc):
+                        with lock:
+                            consecutive_rate_limits += 1
+                            rate_count = consecutive_rate_limits
+                        retry_after = int(time.time()) + 120
+                        print(
+                            f"[TOR Phi] Worker {worker_index}/{worker_count} via {client.label} hit a rate limit; "
+                            f"completed {completed_accounts}/{len(targets)}; failed at {index}/{len(targets)}; "
+                            f"other workers will continue. Suggested retry after {iso_from_epoch(retry_after)}.",
+                            flush=True,
+                        )
+                        if args.stop_after_rate_limits and rate_count >= args.stop_after_rate_limits:
+                            print(
+                                f"[TOR Phi] Stopping worker after {rate_count} consecutive rate-limit errors. "
+                                "Resume later with the same filters; already captured tweet IDs are ignored.",
+                                flush=True,
+                            )
+                        return
+                    with lock:
+                        completed_accounts += 1
+                finally:
+                    target_queue.task_done()
+                time.sleep(max(args.pause, 0))
+        finally:
+            connection.close()
+
+    threads = []
+    for worker_index, client in enumerate(clients[:worker_count], start=1):
+        thread = threading.Thread(target=worker, args=(worker_index, client), daemon=False)
+        threads.append(thread)
+        thread.start()
+    for thread in threads:
+        thread.join()
+    return total_saved
 
 
 def main() -> None:
@@ -1211,7 +1385,7 @@ def main() -> None:
     client = clients[0]
     print(f"[TOR Phi] X identity pool: {sum(1 for item in clients if item.is_authenticated())} authenticated account(s).")
     needs_auth = args.source == "graphql" or search_mode
-    if needs_auth and not client.is_authenticated():
+    if needs_auth and not any(item.is_authenticated() for item in clients):
         raise SystemExit("X cookies are missing in Social Analyzer/backend/config.json. Open Social Analyzer and refresh cookies first.")
 
     total_search_saved = 0
@@ -1237,6 +1411,16 @@ def main() -> None:
     endpoint = "UserTweetsAndReplies" if args.include_replies else "UserTweets"
     if args.source == "syndication":
         endpoint = "SyndicationProfile"
+    if targets and args.parallel_identities and len(clients) > 1:
+        parallel_saved = run_parallel_timeline_capture(clients, targets, args, endpoint, registry_by_handle)
+        if parallel_saved >= 0:
+            print(f"[TOR Phi] Done. Timeline tweets saved/updated this run: {parallel_saved}")
+            if search_mode:
+                print(f"[TOR Phi] Search tweets saved/updated this run: {total_search_saved}")
+            print(f"[TOR Phi] Archive: {DB_PATH}")
+            connection.close()
+            return
+
     total_saved = 0
     consecutive_rate_limits = 0
     completed_accounts = 0

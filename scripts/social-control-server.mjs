@@ -65,6 +65,7 @@ function makeCaptureArgs(payload) {
     if (payload.country && payload.country !== "all") args.push("--country", payload.country);
     if (payload.ownerType && payload.ownerType !== "all") args.push("--owner-type", payload.ownerType);
     args.push("--all");
+    args.push("--parallel-identities");
     if (payload.mode === "missing") {
       args.push("--only-under-tweet-count", `${safeInteger(payload.minimumTweets, 500, 1, 5000)}`);
     }
@@ -181,6 +182,26 @@ function querySql(sql) {
 
 async function buildStatus() {
   const snapshot = await readSnapshot();
+  if (activeJob) {
+    return {
+      ok: true,
+      server: "TOR Phi social control",
+      port,
+      activeJob: simplifyJob(activeJob),
+      lastJob: simplifyJob(lastJob),
+      snapshot: {
+        generatedAt: snapshot.generatedAt,
+        totals: snapshot.totals,
+        auth: snapshot.auth,
+        registry: snapshot.registry
+      },
+      liveTotals: null,
+      accountRows: [],
+      accounts: [],
+      recentErrors: [],
+      statusMode: "active-lightweight"
+    };
+  }
   const liveTotalRows = await querySql(`
     SELECT
       (SELECT COUNT(*) FROM accounts) AS accounts,
