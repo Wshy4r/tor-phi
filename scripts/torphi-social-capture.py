@@ -199,6 +199,16 @@ def load_twitter_identity_configs() -> list[dict[str, Any]]:
     return configs
 
 
+class RateLimitNoWaitError(RuntimeError):
+    def __init__(self, wait_seconds: int, wait_until: int) -> None:
+        self.wait_seconds = wait_seconds
+        self.wait_until = wait_until
+        super().__init__(
+            f"X rate limit hit; retry after {iso_from_epoch(wait_until)} "
+            f"({wait_seconds}s wait). TORPHI_X_MAX_RATE_WAIT=0 so this run will not wait."
+        )
+
+
 class TorPhiTwitterClient:
     def __init__(self, config: dict[str, Any] | None = None) -> None:
         self.config = config or self._load_config()
@@ -245,7 +255,7 @@ class TorPhiTwitterClient:
             wait_seconds = max(int(reset) - int(time.time()), 10)
         max_rate_wait = max(int(os.environ.get("TORPHI_X_MAX_RATE_WAIT", "900")), 0)
         if max_rate_wait == 0:
-            raise RuntimeError("X rate limit hit; TORPHI_X_MAX_RATE_WAIT=0 so this run will not wait.") from exc
+            raise RateLimitNoWaitError(wait_seconds, int(time.time()) + wait_seconds) from exc
         return min(wait_seconds, max_rate_wait)
 
     def _open_with_rate_limit(self, request: urllib.request.Request, *, timeout: int, context: str, attempts: int = 8) -> bytes:
@@ -1364,7 +1374,7 @@ def run_parallel_timeline_capture(
                         with lock:
                             consecutive_rate_limits += 1
                             rate_count = consecutive_rate_limits
-                        retry_after = int(time.time()) + 120
+                        retry_after = retry_after_timestamp(exc)
                         print(
                             f"[TOR Phi] Worker {worker_index}/{worker_count} via {client.label} hit a rate limit; "
                             f"completed {completed_accounts}/{len(targets)}; failed at {index}/{len(targets)}; "
@@ -1549,7 +1559,7 @@ def main() -> None:
             if is_timeline_rate_limit_error(exc):
                 consecutive_rate_limits += 1
                 remaining_after_error = max(len(targets) - index, 0)
-                retry_after = int(time.time()) + 120
+                retry_after = retry_after_timestamp(exc)
                 print(
                     f"[TOR Phi] Rate-limit counter {consecutive_rate_limits}/{args.stop_after_rate_limits or 'unlimited'}; "
                     f"completed {completed_accounts}/{len(targets)}; failed at {index}/{len(targets)}; "
@@ -1572,6 +1582,20 @@ def main() -> None:
 def is_timeline_rate_limit_error(error: Exception) -> bool:
     text = str(error).lower()
     return "rate limit" in text or "too many requests" in text or "429" in text
+
+
+def retry_after_timestamp(error: Exception) -> int:
+    wait_until = getattr(error, "wait_until", None)
+    if isinstance(wait_until, int) and wait_until > int(time.time()):
+        return wait_until
+    match = re.search(r"retry after ([0-9T:.\-Z]+)", str(error), re.I)
+    if match:
+        try:
+            parsed = datetime.fromisoformat(match.group(1).replace("Z", "+00:00"))
+            return int(parsed.timestamp())
+        except ValueError:
+            pass
+    return int(time.time()) + 180
 
 
 def filter_uncaptured_targets(connection: sqlite3.Connection, targets: list[dict[str, Any]]) -> list[dict[str, Any]]:

@@ -140,6 +140,18 @@ function outputHasNoTargets(output = "") {
   return /Capture targets:\s+0\b/.test(output);
 }
 
+function nextHarvestRetryTime(output = "", fallbackMs = harvestCooldownMs) {
+  const parsed = parseJobOutput(output);
+  const now = Date.now();
+  const futureTimes = (parsed.workers || [])
+    .map((worker) => Date.parse(worker.waitUntil || ""))
+    .filter((time) => Number.isFinite(time) && time > now);
+  const parsedWait = Date.parse(parsed.waitUntil || "");
+  if (Number.isFinite(parsedWait) && parsedWait > now) futureTimes.push(parsedWait);
+  if (futureTimes.length) return Math.min(...futureTimes);
+  return now + fallbackMs;
+}
+
 async function runCaptureJob(payload) {
   const job = {
     id: `${Date.now()}`,
@@ -174,10 +186,11 @@ async function runCaptureJob(payload) {
       break;
     }
 
-    const retryAt = new Date(Date.now() + harvestCooldownMs).toISOString();
-    job.output += `\n[TOR Phi] Harvest cycle ${harvestCycle} finished. Retrying in ${Math.round(harvestCooldownMs / 1000)}s at ${retryAt} unless Stop is clicked.\n`;
+    const cooldownUntil = nextHarvestRetryTime(job.output, harvestCooldownMs);
+    const retryAt = new Date(cooldownUntil).toISOString();
+    const waitSeconds = Math.max(Math.ceil((cooldownUntil - Date.now()) / 1000), 0);
+    job.output += `\n[TOR Phi] Harvest cycle ${harvestCycle} finished. Retrying in ${waitSeconds}s at ${retryAt} unless Stop is clicked.\n`;
     job.output = job.output.slice(-24000);
-    const cooldownUntil = Date.now() + harvestCooldownMs;
     while (Date.now() < cooldownUntil && shouldKeepHarvesting(payload, job)) {
       await sleep(Math.min(1000, cooldownUntil - Date.now()));
     }
