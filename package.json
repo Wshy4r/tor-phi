@@ -43,6 +43,7 @@
     "import:social-archive": "python3 scripts/import-social-archive-jsonl.py",
     "sync:github-social": "node scripts/sync-github-social-archive.mjs",
     "social:control": "node scripts/social-control-server.mjs",
+    "github:status": "node scripts/github-status-server.mjs",
     "social:analyzer": "bash \"Social Analyzer/run-local.sh\"",
     "preview": "vite preview --host 0.0.0.0"
   },

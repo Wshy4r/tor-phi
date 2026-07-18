@@ -16,10 +16,16 @@ echo "Launching local server..."
 echo "Starting social capture control API on http://127.0.0.1:8787 ..."
 npm run social:control &
 SOCIAL_CONTROL_PID=$!
+echo "Starting GitHub status API on http://127.0.0.1:8788 ..."
+npm run github:status &
+GITHUB_STATUS_PID=$!
 
 cleanup() {
   if kill -0 "$SOCIAL_CONTROL_PID" >/dev/null 2>&1; then
     kill "$SOCIAL_CONTROL_PID" >/dev/null 2>&1 || true
+  fi
+  if kill -0 "$GITHUB_STATUS_PID" >/dev/null 2>&1; then
+    kill "$GITHUB_STATUS_PID" >/dev/null 2>&1 || true
   fi
 }
 

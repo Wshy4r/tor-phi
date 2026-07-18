@@ -1020,6 +1020,8 @@ function SocialCaptureWorkspace({ initialCountry, onBack }) {
 function SocialCaptureControl({ initialCountry }) {
   const [targetCountryId, setTargetCountryId] = useState(initialCountry?.id || "all");
   const [status, setStatus] = useState(null);
+  const [githubStatus, setGithubStatus] = useState(null);
+  const [githubStatusError, setGithubStatusError] = useState("");
   const [error, setError] = useState("");
   const [handle, setHandle] = useState("");
   const [ownerType, setOwnerType] = useState(getDefaultSocialOwnerType(initialCountry));
@@ -1062,11 +1064,29 @@ function SocialCaptureControl({ initialCountry }) {
       });
   };
 
+  const refreshGithubStatus = () => {
+    fetch("http://127.0.0.1:8788/github-status")
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error(`HTTP ${response.status}`)))
+      .then((data) => {
+        setGithubStatus(data);
+        setGithubStatusError("");
+      })
+      .catch((caught) => {
+        setGithubStatusError(`GitHub status API is offline. Start TOR Phi with start-tor.command or run npm run github:status. ${caught.message}`);
+      });
+  };
+
   useEffect(() => {
     refreshStatus();
     const interval = window.setInterval(refreshStatus, activeJob ? 2500 : 8000);
     return () => window.clearInterval(interval);
   }, [activeJob?.id]);
+
+  useEffect(() => {
+    refreshGithubStatus();
+    const interval = window.setInterval(refreshGithubStatus, 30000);
+    return () => window.clearInterval(interval);
+  }, []);
 
   const startCapture = (mode, explicitHandle = "") => {
     const payload = {
@@ -1121,6 +1141,8 @@ function SocialCaptureControl({ initialCountry }) {
         <span><strong>{scopedCounts.error.toLocaleString()}</strong> errors</span>
         <span><strong>{Number(liveTweetTotal).toLocaleString()}</strong> live archived tweets</span>
       </div>
+
+      <GitHubSocialStatusPanel status={githubStatus} error={githubStatusError} onRefresh={refreshGithubStatus} />
 
       <div className="social-capture-tabs">
         <div>
@@ -1274,6 +1296,53 @@ function SocialCaptureControl({ initialCountry }) {
       ) : null}
     </section>
   );
+}
+
+function GitHubSocialStatusPanel({ status, error, onRefresh }) {
+  const latest = status?.latest ?? null;
+  const state = latest?.status === "completed"
+    ? latest.conclusion || "completed"
+    : latest?.status || (error ? "offline" : "unknown");
+  const statusClass = state === "success" || state === "completed"
+    ? "success"
+    : state === "in_progress" || state === "queued"
+      ? "running"
+      : state === "offline" || state === "failure" || state === "cancelled"
+        ? "error"
+        : "neutral";
+
+  return (
+    <div className={`github-social-status ${statusClass}`}>
+      <div>
+        <strong>GitHub Online Scraper</strong>
+        <span>{status?.repo || "Wshy4r/tor-phi"} / {status?.workflow || "TOR Phi Social Harvest"}</span>
+      </div>
+      <div className="github-social-status-grid">
+        <span><strong>{formatGithubRunState(state)}</strong> latest run</span>
+        <span><strong>{latest?.event || "unknown"}</strong> trigger</span>
+        <span><strong>{latest?.updatedAt ? formatDailyDateTime(latest.updatedAt) : "not checked"}</strong> updated</span>
+        <span><strong>{status?.checkedAt ? formatDailyDateTime(status.checkedAt) : "not checked"}</strong> local check</span>
+      </div>
+      {error ? <p>{error}</p> : null}
+      {latest?.url ? (
+        <a href={latest.url} target="_blank" rel="noreferrer">
+          Open latest GitHub run <ExternalLink size={13} />
+        </a>
+      ) : (
+        <a href="https://github.com/Wshy4r/tor-phi/actions" target="_blank" rel="noreferrer">
+          Open GitHub Actions <ExternalLink size={13} />
+        </a>
+      )}
+      <button type="button" onClick={onRefresh}>
+        <RefreshCw size={13} /> Check GitHub now
+      </button>
+    </div>
+  );
+}
+
+function formatGithubRunState(state) {
+  if (!state) return "Unknown";
+  return `${state}`.replace(/_/g, " ");
 }
 
 function SocialCaptureRuntimeStatus({ job }) {

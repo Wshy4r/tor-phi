@@ -733,6 +733,89 @@ textarea:focus-visible {
   font-size: 14px;
 }
 
+.github-social-status {
+  display: grid;
+  grid-template-columns: minmax(180px, 1.1fr) minmax(260px, 2fr) auto auto;
+  gap: 10px;
+  align-items: center;
+  border: 1px solid #dfe6dc;
+  border-left-width: 5px;
+  border-radius: 8px;
+  background: #fffef8;
+  padding: 10px;
+}
+
+.github-social-status.success {
+  border-left-color: #2f6f48;
+}
+
+.github-social-status.running {
+  border-left-color: #b48a25;
+}
+
+.github-social-status.error {
+  border-left-color: #9b3c2c;
+}
+
+.github-social-status.neutral {
+  border-left-color: #8b948e;
+}
+
+.github-social-status > div:first-child {
+  display: grid;
+  gap: 3px;
+}
+
+.github-social-status strong {
+  color: #173831;
+  text-transform: capitalize;
+}
+
+.github-social-status span,
+.github-social-status p {
+  color: #66756d;
+  font-size: 11px;
+  font-weight: 900;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.github-social-status-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(120px, 1fr));
+  gap: 6px 10px;
+}
+
+.github-social-status-grid span {
+  display: grid;
+  gap: 2px;
+  text-transform: uppercase;
+}
+
+.github-social-status a,
+.github-social-status button {
+  min-height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border: 1px solid #d2c9b8;
+  border-radius: 8px;
+  background: #fffdf7;
+  color: #173831;
+  padding: 0 10px;
+  font-size: 12px;
+  font-weight: 900;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.github-social-status button {
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+
 .social-capture-tabs {
   display: grid;
   gap: 8px;
@@ -7665,7 +7748,9 @@ button.official-source-link {
   .profile-stats > div,
   .lens-summary-grid,
   .lens-donut-wrap,
-  .foreign-ministry-nearby-records {
+  .foreign-ministry-nearby-records,
+  .github-social-status,
+  .github-social-status-grid {
     grid-template-columns: 1fr;
   }
 
