@@ -12,6 +12,7 @@ const port = Number(process.env.TORPHI_SOCIAL_CONTROL_PORT || 8787);
 
 let activeJob = null;
 let lastJob = null;
+const harvestCooldownMs = Number(process.env.TORPHI_SOCIAL_HARVEST_COOLDOWN_SECONDS || 180) * 1000;
 
 function sendJson(response, status, data) {
   response.writeHead(status, {
@@ -127,6 +128,18 @@ function runPublicSnapshotExport(job) {
   });
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function shouldKeepHarvesting(payload, job) {
+  return Boolean(payload.harvestMode && !normalizeHandle(payload.handle) && job.status !== "stopping");
+}
+
+function outputHasNoTargets(output = "") {
+  return /Capture targets:\s+0\b/.test(output);
+}
+
 async function runCaptureJob(payload) {
   const job = {
     id: `${Date.now()}`,
@@ -145,8 +158,30 @@ async function runCaptureJob(payload) {
   activeJob = job;
   lastJob = job;
 
-  const captureExitCode = await runProcess("python3", ["-u", ...args], job);
-  job.captureExitCode = captureExitCode;
+  let captureExitCode = 0;
+  let harvestCycle = 0;
+  do {
+    harvestCycle += 1;
+    if (payload.harvestMode && !normalizeHandle(payload.handle)) {
+      job.output += `\n[TOR Phi] Harvest cycle ${harvestCycle}: running until Stop is clicked.\n`;
+    }
+    captureExitCode = await runProcess("python3", ["-u", ...args], job);
+    job.captureExitCode = captureExitCode;
+
+    if (!shouldKeepHarvesting(payload, job)) break;
+    if (outputHasNoTargets(job.output)) {
+      job.output += "\n[TOR Phi] Harvest target is complete; no accounts remain under the selected threshold.\n";
+      break;
+    }
+
+    const retryAt = new Date(Date.now() + harvestCooldownMs).toISOString();
+    job.output += `\n[TOR Phi] Harvest cycle ${harvestCycle} finished. Retrying in ${Math.round(harvestCooldownMs / 1000)}s at ${retryAt} unless Stop is clicked.\n`;
+    job.output = job.output.slice(-24000);
+    const cooldownUntil = Date.now() + harvestCooldownMs;
+    while (Date.now() < cooldownUntil && shouldKeepHarvesting(payload, job)) {
+      await sleep(Math.min(1000, cooldownUntil - Date.now()));
+    }
+  } while (shouldKeepHarvesting(payload, job));
 
   if (job.status === "stopping") {
     job.status = "stopped";
@@ -302,12 +337,14 @@ function parseJobOutput(output = "") {
   const waitMatches = [...output.matchAll(/Rate limited by X;\s+waiting\s+(\d+)s\s+until\s+([0-9T:.\-Z]+)(?:\s+\(([^)]*attempt[^)]*)\))?/g)];
   const counterMatches = [...output.matchAll(/Rate-limit counter\s+([^;]+);\s+completed\s+(\d+)\/(\d+);\s+failed at\s+(\d+)\/(\d+);\s+remaining\s+(\d+);\s+suggested retry after\s+([0-9T:.\-Z]+)/g)];
   const workerLimitMatches = [...output.matchAll(/Worker\s+(\d+)\/(\d+)\s+via\s+([^\\n]+?)\s+hit a rate limit;\s+completed\s+(\d+)\/(\d+);\s+failed at\s+(\d+)\/(\d+);\s+other workers will continue\.\s+Suggested retry after\s+([0-9T:.\-Z]+)/g)];
+  const harvestRetryMatches = [...output.matchAll(/Harvest cycle\s+\d+\s+finished\.\s+Retrying in\s+\d+s\s+at\s+([0-9T:.\-Z]+)\s+unless Stop is clicked/g)];
   const savedMatches = [...output.matchAll(/run saved\/updated\s+(\d+)/g)];
   const lastProgress = progressMatches.at(-1);
   const lastCompleted = completedMatches.at(-1);
   const lastWait = waitMatches.at(-1);
   const lastCounter = counterMatches.at(-1);
   const lastWorkerLimit = workerLimitMatches.at(-1);
+  const lastHarvestRetry = harvestRetryMatches.at(-1);
   const lastSaved = savedMatches.at(-1);
   const total = Number(lastProgress?.[2] || lastCompleted?.[2] || lastCounter?.[3] || 0);
   const current = Number(lastProgress?.[1] || lastWorkerLimit?.[6] || lastCounter?.[4] || lastCompleted?.[1] || 0);
@@ -315,7 +352,7 @@ function parseJobOutput(output = "") {
   const remaining = Number(lastCompleted?.[3] || lastProgress?.[3] || lastCounter?.[6] || 0);
   const limitedWorkers = new Set(workerLimitMatches.map((match) => match[1]));
   const workerCount = Number(lastWorkerLimit?.[2] || 0);
-  const waitUntil = lastWait?.[2] || lastCounter?.[7] || lastWorkerLimit?.[8] || "";
+  const waitUntil = cleanParsedTimestamp(lastWait?.[2] || lastCounter?.[7] || lastWorkerLimit?.[8] || lastHarvestRetry?.[1] || "");
   const workers = parseWorkerStates(output);
   return {
     total,
@@ -378,7 +415,7 @@ function parseWorkerStates(output = "") {
         total: Number(total),
         failedAt: Number(failedAt),
         failedTotal: Number(failedTotal),
-        waitUntil
+        waitUntil: cleanParsedTimestamp(waitUntil)
       });
       continue;
     }
@@ -403,6 +440,10 @@ function parseWorkerStates(output = "") {
     }
   }
   return [...workers.values()].sort((a, b) => a.worker - b.worker);
+}
+
+function cleanParsedTimestamp(value = "") {
+  return `${value}`.replace(/[.,;]+$/, "");
 }
 
 const server = createServer(async (request, response) => {
