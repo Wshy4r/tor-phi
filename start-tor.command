@@ -27,6 +27,9 @@ echo "Starting GitHub social archive sync loop ..."
   done
 ) &
 GITHUB_SYNC_LOOP_PID=$!
+echo "Starting local social harvest loop ..."
+npm run social:harvest-loop >> data/social-harvest-loop.log 2>> data/social-harvest-loop.err.log &
+SOCIAL_HARVEST_LOOP_PID=$!
 
 cleanup() {
   if kill -0 "$SOCIAL_CONTROL_PID" >/dev/null 2>&1; then
@@ -37,6 +40,9 @@ cleanup() {
   fi
   if kill -0 "$GITHUB_SYNC_LOOP_PID" >/dev/null 2>&1; then
     kill "$GITHUB_SYNC_LOOP_PID" >/dev/null 2>&1 || true
+  fi
+  if kill -0 "$SOCIAL_HARVEST_LOOP_PID" >/dev/null 2>&1; then
+    kill "$SOCIAL_HARVEST_LOOP_PID" >/dev/null 2>&1 || true
   fi
 }
 
