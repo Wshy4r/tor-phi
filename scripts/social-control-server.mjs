@@ -58,7 +58,7 @@ function safeInteger(value, fallback, min, max) {
 function makeCaptureArgs(payload) {
   const args = ["scripts/torphi-social-capture.py"];
   const handle = normalizeHandle(payload.handle);
-  const pages = safeInteger(payload.pages, 5, 1, 8);
+  const pages = safeInteger(payload.pages, 25, 1, 50);
   if (handle) {
     args.push("--handle", handle);
   } else {
@@ -66,7 +66,7 @@ function makeCaptureArgs(payload) {
     if (payload.ownerType && payload.ownerType !== "all") args.push("--owner-type", payload.ownerType);
     args.push("--all");
     if (payload.mode === "missing") {
-      args.push("--only-under-tweet-count", `${safeInteger(payload.minimumTweets, pages * 20, 1, 500)}`);
+      args.push("--only-under-tweet-count", `${safeInteger(payload.minimumTweets, 500, 1, 5000)}`);
     }
   }
 

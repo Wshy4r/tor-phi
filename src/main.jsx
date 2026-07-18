@@ -1008,7 +1008,7 @@ function SocialCaptureWorkspace({ initialCountry, onBack }) {
           <h1>Social Capture Control</h1>
           <p>
             Scrape mapped X/Twitter accounts by country, institution type, or specific handle.
-            Fill Shallow captures accounts below the selected depth; Refresh Latest revisits accounts but the archive dedupes tweet IDs.
+            Fill Shallow captures accounts below the 500-tweet Congress target; Refresh Latest revisits accounts but the archive dedupes tweet IDs.
           </p>
         </div>
       </header>
@@ -1028,7 +1028,7 @@ function SocialCaptureControl({ initialCountry }) {
   const [accountStatusFilter, setAccountStatusFilter] = useState("all");
   const [accountQuery, setAccountQuery] = useState("");
   const [source, setSource] = useState("auto");
-  const [pages, setPages] = useState(5);
+  const [pages, setPages] = useState(25);
   const [harvestMode, setHarvestMode] = useState(true);
   const [loading, setLoading] = useState(false);
   const targetCountry = countries.find((item) => item.id === targetCountryId) ?? null;
@@ -1202,7 +1202,7 @@ function SocialCaptureControl({ initialCountry }) {
         </label>
         <label>
           Pages
-          <input type="number" min="1" max="8" value={pages} onChange={(event) => setPages(Number(event.target.value) || 5)} />
+          <input type="number" min="1" max="50" value={pages} onChange={(event) => setPages(Number(event.target.value) || 25)} />
         </label>
         <label>
           Specific handle
@@ -1233,7 +1233,7 @@ function SocialCaptureControl({ initialCountry }) {
       {displayedJob?.parsed ? <SocialCaptureRuntimeStatus job={displayedJob} /> : null}
 
       <p className="social-capture-note">
-        Harvest mode is for hundreds of accounts: it keeps waiting through X rate limits until you stop it. Fill Shallow targets accounts below the selected depth, so old 20-tweet captures can be deepened. Refresh Latest can revisit captured accounts, but duplicate tweet IDs are ignored by the SQLite archive.
+        Harvest mode is for hundreds of accounts: it keeps waiting through X rate limits until you stop it. Fill Shallow targets accounts below 500 tweets, so old 20-, 100-, or 200-tweet captures can be deepened. Refresh Latest can revisit captured accounts, but duplicate tweet IDs are ignored by the SQLite archive.
         After every completed job, TOR Phi exports refreshed public JSON without forcing the app to reload; refresh the page when you want to load the new tweet cards into the visible dashboard.
       </p>
 
@@ -1381,7 +1381,7 @@ function SocialCaptureRuntimeStatus({ job }) {
         <span><strong>{parsed.waitUntil ? formatDailyDateTime(parsed.waitUntil) : "not scheduled"}</strong> retry time</span>
       </div>
       {parsed.stoppedForRateLimit ? (
-        <p>Stopped because the configured consecutive rate-limit limit was reached. Start the same Fill Shallow job later; accounts already at the selected depth will be skipped.</p>
+        <p>Stopped because the configured consecutive rate-limit limit was reached. Start the same Fill Shallow job later; accounts already at the 500-tweet target will be skipped.</p>
       ) : null}
     </div>
   );
