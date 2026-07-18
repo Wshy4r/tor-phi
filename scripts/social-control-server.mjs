@@ -316,6 +316,7 @@ function parseJobOutput(output = "") {
   const limitedWorkers = new Set(workerLimitMatches.map((match) => match[1]));
   const workerCount = Number(lastWorkerLimit?.[2] || 0);
   const waitUntil = lastWait?.[2] || lastCounter?.[7] || lastWorkerLimit?.[8] || "";
+  const workers = parseWorkerStates(output);
   return {
     total,
     current,
@@ -328,11 +329,80 @@ function parseJobOutput(output = "") {
     rateLimitCounter: lastCounter?.[1] || (limitedWorkers.size ? `${limitedWorkers.size}/${workerCount || "?"} workers` : ""),
     failedAt: lastCounter ? Number(lastCounter[4]) : lastWorkerLimit ? Number(lastWorkerLimit[6]) : 0,
     limitedWorkers: limitedWorkers.size,
-    workerCount,
+    workerCount: workerCount || workers.length,
+    workers,
     savedThisRun: Number(lastSaved?.[1] || 0),
     isRateLimited: Boolean(lastWait || lastCounter || lastWorkerLimit || /HTTP Error 429|Too Many Requests|hit a rate limit/i.test(output)),
     stoppedForRateLimit: /Stopping after \d+ consecutive rate-limit errors/i.test(output)
   };
+}
+
+function parseWorkerStates(output = "") {
+  const workers = new Map();
+  const lines = output.split(/\r?\n/);
+  for (const line of lines) {
+    let match = line.match(/Worker\s+(\d+)\/(\d+)\s+via\s+(.+?):\s+Progress\s+(\d+)\/(\d+);\s+remaining\s+(\d+);\s+capturing\s+@([^\s]+)\s+\((.*?)\);\s+pages\s+(\d+)\/(\d+)/);
+    if (match) {
+      const [, worker, totalWorkers, label, current, total, remaining, handle, ownerName, pages, maxPages] = match;
+      workers.set(worker, {
+        worker: Number(worker),
+        workerCount: Number(totalWorkers),
+        label,
+        status: "working",
+        handle,
+        ownerName,
+        current: Number(current),
+        total: Number(total),
+        remaining: Number(remaining),
+        pages: Number(pages),
+        maxPages: Number(maxPages),
+        waitUntil: "",
+        saved: 0,
+        seen: 0,
+        endpoint: ""
+      });
+      continue;
+    }
+
+    match = line.match(/Worker\s+(\d+)\/(\d+)\s+via\s+(.+?)\s+hit a rate limit;\s+completed\s+(\d+)\/(\d+);\s+failed at\s+(\d+)\/(\d+);\s+other workers will continue\.\s+Suggested retry after\s+([0-9T:.\-Z]+)/);
+    if (match) {
+      const [, worker, totalWorkers, label, completed, total, failedAt, failedTotal, waitUntil] = match;
+      const previous = workers.get(worker) || {};
+      workers.set(worker, {
+        ...previous,
+        worker: Number(worker),
+        workerCount: Number(totalWorkers),
+        label,
+        status: "rate-limited",
+        completed: Number(completed),
+        total: Number(total),
+        failedAt: Number(failedAt),
+        failedTotal: Number(failedTotal),
+        waitUntil
+      });
+      continue;
+    }
+
+    match = line.match(/@([^\s:]+):\s+(\d+)\s+seen from\s+([^,]+),\s+(\d+)\s+saved or updated\.\s+Completed\s+(\d+)\/(\d+);\s+remaining\s+(\d+);\s+run saved\/updated\s+(\d+)/);
+    if (match) {
+      const [, handle, seen, endpoint, saved, completed, total, remaining, runSaved] = match;
+      const workerEntry = [...workers.values()].reverse().find((item) => item.handle?.toLowerCase() === handle.toLowerCase());
+      if (!workerEntry) continue;
+      workers.set(`${workerEntry.worker}`, {
+        ...workerEntry,
+        status: "working",
+        seen: Number(seen),
+        endpoint,
+        saved: Number(saved),
+        completed: Number(completed),
+        total: Number(total),
+        remaining: Number(remaining),
+        runSaved: Number(runSaved),
+        lastResultHandle: handle
+      });
+    }
+  }
+  return [...workers.values()].sort((a, b) => a.worker - b.worker);
 }
 
 const server = createServer(async (request, response) => {

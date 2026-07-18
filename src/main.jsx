@@ -1345,15 +1345,21 @@ function formatGithubRunState(state) {
 
 function SocialCaptureRuntimeStatus({ job }) {
   const parsed = job.parsed || {};
+  const workers = parsed.workers || [];
+  const nextWorkerWaitUntil = workers
+    .filter((worker) => worker.waitUntil)
+    .map((worker) => worker.waitUntil)
+    .sort()[0] || "";
+  const visibleWaitUntil = parsed.waitUntil || nextWorkerWaitUntil;
   const [now, setNow] = useState(Date.now());
 
   useEffect(() => {
-    if (!parsed.waitUntil) return undefined;
+    if (!visibleWaitUntil) return undefined;
     const timer = window.setInterval(() => setNow(Date.now()), 1000);
     return () => window.clearInterval(timer);
-  }, [parsed.waitUntil]);
+  }, [visibleWaitUntil]);
 
-  const waitMs = parsed.waitUntil ? Math.max(new Date(parsed.waitUntil).getTime() - now, 0) : 0;
+  const waitMs = visibleWaitUntil ? Math.max(new Date(visibleWaitUntil).getTime() - now, 0) : 0;
   const waitSeconds = Math.ceil(waitMs / 1000);
   const pct = parsed.total ? Math.min(100, Math.round((Number(parsed.completed || 0) / parsed.total) * 100)) : 0;
 
@@ -1376,9 +1382,36 @@ function SocialCaptureRuntimeStatus({ job }) {
         <span><strong>{parsed.currentHandle ? `@${parsed.currentHandle}` : "None yet"}</strong> latest account</span>
         <span><strong>{parsed.rateLimitCounter || "0"}</strong> workers limited</span>
         <span><strong>{Number(parsed.savedThisRun || 0).toLocaleString()}</strong> saved this run</span>
-        <span><strong>{parsed.waitUntil ? (waitSeconds > 0 ? `${waitSeconds}s` : "ready") : "none"}</strong> wait left</span>
-        <span><strong>{parsed.waitUntil ? formatDailyDateTime(parsed.waitUntil) : "not scheduled"}</strong> retry time</span>
+        <span><strong>{visibleWaitUntil ? (waitSeconds > 0 ? `${waitSeconds}s` : "ready") : "none"}</strong> next worker wait</span>
+        <span><strong>{visibleWaitUntil ? formatDailyDateTime(visibleWaitUntil) : "not scheduled"}</strong> next retry time</span>
       </div>
+      {workers.length ? (
+        <div className="social-worker-grid">
+          {workers.map((worker) => {
+            const workerWaitMs = worker.waitUntil ? Math.max(new Date(worker.waitUntil).getTime() - now, 0) : 0;
+            const workerWaitSeconds = Math.ceil(workerWaitMs / 1000);
+            return (
+              <article className={`social-worker-card ${worker.status === "rate-limited" ? "limited" : "working"}`} key={worker.worker}>
+                <div>
+                  <strong>Worker {worker.worker}/{worker.workerCount || parsed.workerCount || workers.length}</strong>
+                  <span>{worker.label || "X account"}</span>
+                </div>
+                <p>
+                  {worker.status === "rate-limited"
+                    ? `Rate-limited${worker.handle ? ` after @${worker.handle}` : ""}.`
+                    : `Working on ${worker.handle ? `@${worker.handle}` : "next account"}.`}
+                </p>
+                <div>
+                  <span><strong>{worker.status === "rate-limited" ? (workerWaitSeconds > 0 ? `${workerWaitSeconds}s` : "ready") : "active"}</strong>{worker.status === "rate-limited" ? " wait left" : " state"}</span>
+                  <span><strong>{worker.waitUntil ? formatDailyDateTime(worker.waitUntil) : worker.pages ? `${worker.pages}/${worker.maxPages}` : "none"}</strong>{worker.waitUntil ? " retry time" : " pages"}</span>
+                  <span><strong>{Number(worker.saved || 0).toLocaleString()}</strong> last saved</span>
+                  <span><strong>{Number(worker.seen || 0).toLocaleString()}</strong> last seen</span>
+                </div>
+              </article>
+            );
+          })}
+        </div>
+      ) : null}
       {parsed.stoppedForRateLimit ? (
         <p>Stopped because the configured consecutive rate-limit limit was reached. Start the same Fill Shallow job later; accounts already at the 500-tweet target will be skipped.</p>
       ) : null}
