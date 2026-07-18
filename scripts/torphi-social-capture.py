@@ -136,27 +136,76 @@ SEARCH_OWNER_PRIORITY = {
 }
 
 
+def parse_cookie_values(text: str) -> dict[str, str]:
+    def extract(name: str) -> str:
+        patterns = [
+            rf"^{name}\s*=\s*([^\s;]+)",
+            rf"(?:^|[;\s]){name}=([^;\s]+)",
+        ]
+        for pattern in patterns:
+            match = re.search(pattern, text, re.M)
+            if match:
+                return match.group(1).strip().strip("\"'")
+        return ""
+
+    return {
+        "ct0": extract("ct0"),
+        "auth_token": extract("auth_token"),
+    }
+
+
+def load_twitter_identity_configs() -> list[dict[str, Any]]:
+    configs: list[dict[str, Any]] = []
+
+    def add_config(label: str, config: dict[str, Any]) -> None:
+        ct0 = config.get("ct0") or ""
+        auth_token = config.get("auth_token") or ""
+        if not ct0 or not auth_token:
+            return
+        fingerprint = (ct0[-12:], auth_token[-8:])
+        if any((item.get("ct0", "")[-12:], item.get("auth_token", "")[-8:]) == fingerprint for item in configs):
+            return
+        configs.append({"label": label, "ct0": ct0, "auth_token": auth_token})
+
+    add_config("env:default", {
+        "ct0": os.environ.get("TORPHI_X_CT0") or os.environ.get("X_CT0") or "",
+        "auth_token": os.environ.get("TORPHI_X_AUTH_TOKEN") or os.environ.get("X_AUTH_TOKEN") or "",
+    })
+
+    for index in range(1, 11):
+        add_config(f"env:{index}", {
+            "ct0": os.environ.get(f"TORPHI_X_CT0_{index}") or "",
+            "auth_token": os.environ.get(f"TORPHI_X_AUTH_TOKEN_{index}") or "",
+        })
+
+    if ANALYZER_CONFIG.exists():
+        try:
+            config = json.loads(ANALYZER_CONFIG.read_text())
+            add_config("local:social-analyzer", config)
+        except (OSError, json.JSONDecodeError):
+            pass
+
+    for cookie_file in sorted(DATA_DIR.glob("x-account-*-cookie.txt")):
+        try:
+            add_config(f"local:{cookie_file.name}", parse_cookie_values(cookie_file.read_text(errors="replace")))
+        except OSError:
+            pass
+
+    return configs
+
+
 class TorPhiTwitterClient:
-    def __init__(self) -> None:
-        self.config = self._load_config()
+    def __init__(self, config: dict[str, Any] | None = None) -> None:
+        self.config = config or self._load_config()
         self.query_ids: dict[str, str] = {}
+        self.label = self.config.get("label") or "default"
 
     def is_authenticated(self) -> bool:
         return bool(self.config.get("ct0") and self.config.get("auth_token"))
 
     def _load_config(self) -> dict[str, Any]:
-        env_config = {
-            "ct0": os.environ.get("TORPHI_X_CT0") or os.environ.get("X_CT0") or "",
-            "auth_token": os.environ.get("TORPHI_X_AUTH_TOKEN") or os.environ.get("X_AUTH_TOKEN") or "",
-        }
-        if env_config["ct0"] and env_config["auth_token"]:
-            return env_config
-        if not ANALYZER_CONFIG.exists():
-            return {}
-        try:
-            return json.loads(ANALYZER_CONFIG.read_text())
-        except (OSError, json.JSONDecodeError):
-            return {}
+        configs = load_twitter_identity_configs()
+        return configs[0] if configs else {}
 
     def _headers(self) -> dict[str, str]:
         ct0 = self.config.get("ct0", "")
@@ -1157,7 +1206,10 @@ def main() -> None:
                 print(f"... {len(targets) - 80} more timeline targets")
         return
 
-    client = TorPhiTwitterClient()
+    identity_configs = load_twitter_identity_configs()
+    clients = [TorPhiTwitterClient(config) for config in identity_configs] or [TorPhiTwitterClient()]
+    client = clients[0]
+    print(f"[TOR Phi] X identity pool: {sum(1 for item in clients if item.is_authenticated())} authenticated account(s).")
     needs_auth = args.source == "graphql" or search_mode
     if needs_auth and not client.is_authenticated():
         raise SystemExit("X cookies are missing in Social Analyzer/backend/config.json. Open Social Analyzer and refresh cookies first.")
@@ -1189,9 +1241,11 @@ def main() -> None:
     consecutive_rate_limits = 0
     completed_accounts = 0
     for index, account in enumerate(targets, start=1):
+        client = clients[(index - 1) % len(clients)]
         handle = normalize_handle(account["handle"])
         remaining_accounts = max(len(targets) - index, 0)
-        print(f"[TOR Phi] Progress {index}/{len(targets)}; remaining {remaining_accounts}; capturing @{handle} ({account.get('ownerName')})")
+        identity_note = f" via {client.label}" if len(clients) > 1 else ""
+        print(f"[TOR Phi] Progress {index}/{len(targets)}; remaining {remaining_accounts}; capturing @{handle} ({account.get('ownerName')}){identity_note}")
         try:
             source_endpoint = endpoint
             if args.source == "syndication":
