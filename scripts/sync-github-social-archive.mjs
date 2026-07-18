@@ -15,15 +15,24 @@ function run(command, args, options = {}) {
   if (result.status !== 0) process.exit(result.status ?? 1);
 }
 
+function runOptional(command, args, options = {}) {
+  const result = spawnSync(command, args, {
+    cwd: root,
+    stdio: "inherit",
+    env: { ...process.env, ...options.env }
+  });
+  return result.status === 0;
+}
+
 async function localSocialCaptureIsRunning() {
   if (process.env.TORPHI_SYNC_FORCE === "1") return false;
   try {
-    const response = await fetch("http://127.0.0.1:8787/status", { signal: AbortSignal.timeout(1500) });
-    if (!response.ok) return false;
+    const response = await fetch("http://127.0.0.1:8787/status", { signal: AbortSignal.timeout(5000) });
+    if (!response.ok) return true;
     const status = await response.json();
     return Boolean(status.activeJob);
   } catch {
-    return false;
+    return true;
   }
 }
 
@@ -32,11 +41,20 @@ if (!existsSync(path.join(root, ".git"))) {
   process.exit(1);
 }
 
-run("git", ["pull", "--rebase"]);
+run("git", ["pull", "--rebase", "--autostash"]);
 if (await localSocialCaptureIsRunning()) {
-  console.log("[TOR Phi] Local social capture is active; pulled GitHub archive but skipped SQLite import for this sync tick.");
+  console.log("[TOR Phi] Local social capture is active; pulled GitHub archive but skipped SQLite import/export for this sync tick.");
   process.exit(0);
 }
 run("python3", ["scripts/import-social-archive-jsonl.py"]);
 run("python3", ["scripts/export-social-snapshot.py"]);
-console.log("[TOR Phi] Local social archive synced from GitHub and imported into SQLite.");
+run("python3", ["scripts/export-social-archive-jsonl.py"]);
+run("git", ["add", "social-archive", "public/source/social", "src/socialAccountRegistry.js"]);
+if (runOptional("git", ["diff", "--cached", "--quiet"])) {
+  console.log("[TOR Phi] Local social archive already matches GitHub.");
+} else {
+  run("git", ["commit", "-m", "Sync local TOR Phi social archive [skip ci]"]);
+  run("git", ["pull", "--rebase", "--autostash"]);
+  run("git", ["push"]);
+}
+console.log("[TOR Phi] Local and GitHub social archives are synced.");
