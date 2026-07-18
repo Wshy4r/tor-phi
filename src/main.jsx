@@ -274,7 +274,6 @@ function App() {
   const [franceParliamentQuery, setFranceParliamentQuery] = useState("");
   const [franceParliamentGroup, setFranceParliamentGroup] = useState("All");
   const [franceParliamentDepartment, setFranceParliamentDepartment] = useState("All");
-  const [workspaceTool, setWorkspaceTool] = useState("");
 
   useEffect(() => {
     if ("scrollRestoration" in window.history) {
@@ -285,7 +284,6 @@ function App() {
       const nextRoute = getRouteState();
       setRouteState(nextRoute);
       setSelectedId(nextRoute.countryId);
-      setWorkspaceTool("");
     }
 
     function handleDocumentClick(event) {
@@ -296,7 +294,7 @@ function App() {
 
       const url = new URL(link.href, window.location.href);
       if (url.origin !== window.location.origin) return;
-      if (!url.pathname.startsWith("/country/")) return;
+      if (!url.pathname.startsWith("/country/") && url.pathname !== "/social-capture") return;
 
       event.preventDefault();
       if (link.closest(".profile-subnav")) pendingTabScrollY.current = window.scrollY;
@@ -596,8 +594,8 @@ function App() {
               key={item.id}
               onClick={() => {
                 setSelectedId(item.id);
-                setWorkspaceTool("");
                 window.history.replaceState(null, "", countryHref(item));
+                setRouteState(getRouteState());
               }}
             >
               <span>
@@ -617,11 +615,11 @@ function App() {
           </div>
         </div>
 
-        <SidebarSocialCaptureDock active={workspaceTool === "social-capture"} onOpen={() => setWorkspaceTool("social-capture")} />
+        <SidebarSocialCaptureDock active={routeState.socialCapturePage} country={country} />
       </aside>
 
-      {workspaceTool === "social-capture" ? (
-        <SocialCaptureWorkspace initialCountry={country} onBack={() => setWorkspaceTool("")} />
+      {routeState.socialCapturePage ? (
+        <SocialCaptureWorkspace initialCountry={country} />
       ) : (
         <section className="workspace country-workspace">
           <CountryProfileHero
@@ -984,25 +982,25 @@ function DailyFeedColumn({ icon, title, items, empty }) {
 
 const socialControlApiBase = "http://127.0.0.1:8787";
 
-function SidebarSocialCaptureDock({ active, onOpen }) {
+function SidebarSocialCaptureDock({ active, country }) {
   return (
     <div className="sidebar-capture-dock">
-      <button className={active ? "sidebar-capture-toggle active" : "sidebar-capture-toggle"} type="button" onClick={onOpen}>
+      <a className={active ? "sidebar-capture-toggle active" : "sidebar-capture-toggle"} href={`/social-capture?country=${encodeURIComponent(country?.id || "usa")}`}>
         <Settings size={15} />
         <span>Social Capture</span>
-        <small>{active ? "Open" : "Tool"}</small>
-      </button>
+        <small>{active ? "Open" : "Page"}</small>
+      </a>
     </div>
   );
 }
 
-function SocialCaptureWorkspace({ initialCountry, onBack }) {
+function SocialCaptureWorkspace({ initialCountry }) {
   return (
     <section className="workspace social-capture-workspace">
       <header className="tool-workspace-hero">
-        <button type="button" className="back-link button-back" onClick={onBack}>
+        <a className="back-link button-back" href={countryHref(initialCountry)}>
           <ArrowLeft size={16} /> Back to {initialCountry.name} file
-        </button>
+        </a>
         <div>
           <p className="eyebrow">TOR Phi Operations</p>
           <h1>Social Capture Control</h1>
@@ -11368,6 +11366,13 @@ function getRouteState() {
   const recordParam = params.get("record");
   const recordIndex = recordParam !== null && Number.isFinite(Number(recordParam)) ? Number(recordParam) : null;
   const pathParts = window.location.pathname.split("/").filter(Boolean).map(decodeURIComponent);
+  if (pathParts[0] === "social-capture") {
+    const requestedCountry = params.get("country");
+    return {
+      socialCapturePage: true,
+      countryId: countries.some((country) => country.id === requestedCountry) ? requestedCountry : "usa"
+    };
+  }
   if (pathParts[0] === "country") {
     const requestedCountry = pathParts[1];
     const countryId = countries.some((country) => country.id === requestedCountry) ? requestedCountry : "usa";

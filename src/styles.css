@@ -233,6 +233,7 @@ textarea:focus-visible {
   color: #f8f4e8;
   padding: 9px 10px;
   text-align: left;
+  text-decoration: none;
 }
 
 .sidebar-capture-toggle.active,
