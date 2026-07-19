@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T21:52:43.672388Z",
+  "generatedAt": "2026-07-19T22:52:04.835060Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-19T21:51:21.285Z",
+    "generatedAt": "2026-07-19T22:50:39.892Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55865,
+    "tweets": 55867,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-19T21:52:42.713353Z",
+  "lastCaptureAt": "2026-07-19T22:52:03.883727Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30516,7 +30516,7 @@
       "profileHref": "/country/usa/congress/adrian-smith",
       "url": "https://x.com/RepAdrianSmith",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:51:38.990628Z",
+      "lastScrapedAt": "2026-07-19T22:51:01.480325Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 21627,
@@ -30550,10 +30550,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:51:55.366543Z",
+      "lastScrapedAt": "2026-07-19T22:51:15.685157Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119618,
+      "followersCount": 119619,
       "followingCount": 698,
       "verified": false
     },
@@ -30567,7 +30567,7 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:52:11.234057Z",
+      "lastScrapedAt": "2026-07-19T22:51:32.163754Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 2577,
@@ -30703,7 +30703,7 @@
       "profileHref": "/country/usa/congress/andrew-ogles",
       "url": "https://x.com/repogles",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:52:26.451002Z",
+      "lastScrapedAt": "2026-07-19T22:51:47.653024Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 124464,
@@ -30720,7 +30720,7 @@
       "profileHref": "/country/usa/congress/andrew-r-garbarino",
       "url": "https://x.com/RepGarbarino",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:52:42.713353Z",
+      "lastScrapedAt": "2026-07-19T22:52:03.883727Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 13986,
@@ -40769,7 +40769,7 @@
       "profileHref": "/country/usa/congress/adrian-smith",
       "url": "https://x.com/RepAdrianSmith",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:51:38.990628Z",
+      "lastScrapedAt": "2026-07-19T22:51:01.480325Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 21627,
@@ -40803,10 +40803,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:51:55.366543Z",
+      "lastScrapedAt": "2026-07-19T22:51:15.685157Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119618,
+      "followersCount": 119619,
       "followingCount": 698,
       "verified": false
     },
@@ -40820,7 +40820,7 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:52:11.234057Z",
+      "lastScrapedAt": "2026-07-19T22:51:32.163754Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 2577,
@@ -40956,7 +40956,7 @@
       "profileHref": "/country/usa/congress/andrew-ogles",
       "url": "https://x.com/repogles",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:52:26.451002Z",
+      "lastScrapedAt": "2026-07-19T22:51:47.653024Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 124464,
@@ -40973,7 +40973,7 @@
       "profileHref": "/country/usa/congress/andrew-r-garbarino",
       "url": "https://x.com/RepGarbarino",
       "status": "captured",
-      "lastScrapedAt": "2026-07-19T21:52:42.713353Z",
+      "lastScrapedAt": "2026-07-19T22:52:03.883727Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 13986,
@@ -48854,6 +48854,68 @@
   ],
   "tweets": [
     {
+      "id": "2078974518886875257",
+      "handle": "repadriansmith",
+      "username": "RepAdrianSmith",
+      "displayName": null,
+      "ownerName": "Adrian Smith",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/adrian-smith",
+      "text": "My staff will be hosting a mobile office hour tomorrow, July 20th, for constituents in Hitchcock County.\n\nIf you have thoughts to share or need assistance with a federal agency, please stop by to see how my office can help!\n\nhttps://t.co/prDGAKBe0U",
+      "createdAt": "2026-07-19T22:45:25Z",
+      "timestamp": 1784501125,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 56
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/prDGAKBe0U",
+          "expanded_url": "https://adriansmith.house.gov/media/press-releases/smith-announces-upcoming-mobile-office-hour-hitchcock-county",
+          "display_url": "adriansmith.house.gov/media/press-re…"
+        }
+      ],
+      "url": "https://x.com/RepAdrianSmith/status/2078974518886875257"
+    },
+    {
+      "id": "2078974504206787015",
+      "handle": "repalgreen",
+      "username": "RepAlGreen",
+      "displayName": null,
+      "ownerName": "Al Green",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/al-green",
+      "text": "Today, I stood with more than 30 plus organizations and countless community members in Houston, raising our voices for justice for Lorenzo Salgado Araujo. We demand accountability when ICE agents kill innocent people, and make it clear: ICE must GO. https://t.co/y0Ryz1VRvI",
+      "createdAt": "2026-07-19T22:45:21Z",
+      "timestamp": 1784501121,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 270
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAlGreen/status/2078974504206787015"
+    },
+    {
       "id": "2078496318591205388",
       "handle": "repalgreen",
       "username": "RepAlGreen",
@@ -48873,7 +48935,7 @@
         "like_count": 301,
         "quote_count": 6,
         "bookmark_count": 12,
-        "view_count": 6006
+        "view_count": 6027
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -55431,10 +55493,10 @@
       "metrics": {
         "retweet_count": 560,
         "reply_count": 80,
-        "like_count": 2421,
+        "like_count": 2422,
         "quote_count": 2,
         "bookmark_count": 22,
-        "view_count": 13935
+        "view_count": 13951
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56647,7 +56709,7 @@
         "like_count": 19,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 1422
+        "view_count": 1426
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -67036,7 +67098,7 @@
         "like_count": 130,
         "quote_count": 1,
         "bookmark_count": 6,
-        "view_count": 2669
+        "view_count": 2692
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -73790,7 +73852,7 @@
         "like_count": 656,
         "quote_count": 6,
         "bookmark_count": 21,
-        "view_count": 14422
+        "view_count": 14424
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -76497,7 +76559,7 @@
         "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 516
+        "view_count": 520
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -79301,12 +79363,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 478,
+        "retweet_count": 477,
         "reply_count": 175,
-        "like_count": 1431,
+        "like_count": 1433,
         "quote_count": 7,
         "bookmark_count": 7,
-        "view_count": 16652
+        "view_count": 16662
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -111482,10 +111544,10 @@
       "metrics": {
         "retweet_count": 861,
         "reply_count": 104,
-        "like_count": 2757,
+        "like_count": 2758,
         "quote_count": 17,
         "bookmark_count": 18,
-        "view_count": 40387
+        "view_count": 40393
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -120831,10 +120893,10 @@
       "metrics": {
         "retweet_count": 135,
         "reply_count": 74,
-        "like_count": 414,
+        "like_count": 415,
         "quote_count": 4,
         "bookmark_count": 6,
-        "view_count": 22351
+        "view_count": 22357
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122443,62 +122505,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepLuna/status/2077759652008189977"
-    },
-    {
-      "id": "2077759593485095381",
-      "handle": "repchiproy",
-      "username": "RepChipRoy",
-      "displayName": null,
-      "ownerName": "Chip Roy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chip-roy",
-      "text": "RT @NWSSanAntonio: A Flash Flood EMERGENCY has been issued for areas along and near the Pedernales River through Gillespie and Blanco Count…",
-      "createdAt": "2026-07-16T14:17:44Z",
-      "timestamp": 1784211464,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 57,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 712
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepChipRoy/status/2077759593485095381"
-    },
-    {
-      "id": "2077759409262895613",
-      "handle": "repbrandongill",
-      "username": "repbrandongill",
-      "displayName": null,
-      "ownerName": "Brandon Gill",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brandon-gill",
-      "text": "Democratic Socialists aren’t a fringe group anymore. This is who the Democrat Party is, and normal Americans find it repugnant. https://t.co/w9E6KOqrvb",
-      "createdAt": "2026-07-16T14:17:00Z",
-      "timestamp": 1784211420,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1335,
-        "reply_count": 267,
-        "like_count": 6838,
-        "quote_count": 25,
-        "bookmark_count": 60,
-        "view_count": 38392
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repbrandongill/status/2077759409262895613"
     }
   ],
   "notes": [
