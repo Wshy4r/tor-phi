@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T16:23:41.516372Z",
+  "generatedAt": "2026-07-20T18:29:38.259326Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-20T16:23:36.695Z",
+    "generatedAt": "2026-07-20T18:29:20.430Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55868,
+    "tweets": 55870,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-20T14:40:07.370759Z",
+  "lastCaptureAt": "2026-07-20T18:29:36.322610Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30516,7 +30516,7 @@
       "profileHref": "/country/usa/congress/adrian-smith",
       "url": "https://x.com/RepAdrianSmith",
       "status": "captured",
-      "lastScrapedAt": "2026-07-20T14:39:01.115218Z",
+      "lastScrapedAt": "2026-07-20T18:29:36.322610Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 21631,
@@ -40769,7 +40769,7 @@
       "profileHref": "/country/usa/congress/adrian-smith",
       "url": "https://x.com/RepAdrianSmith",
       "status": "captured",
-      "lastScrapedAt": "2026-07-20T14:39:01.115218Z",
+      "lastScrapedAt": "2026-07-20T18:29:36.322610Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 21631,
@@ -48854,6 +48854,64 @@
   ],
   "tweets": [
     {
+      "id": "2079266871673491898",
+      "handle": "repadriansmith",
+      "username": "RepAdrianSmith",
+      "displayName": null,
+      "ownerName": "Adrian Smith",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/adrian-smith",
+      "text": "In 2023, I led the effort to return billions of hard-earned tax dollars to the middle class. \n\nNow, my Democrat colleagues want to strip this money from hardworking Americans for what? \n\nTo fund their bureaucratic busywork and increase audits of America's small businesses.",
+      "createdAt": "2026-07-20T18:07:07Z",
+      "timestamp": 1784570827,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 441
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAdrianSmith/status/2079266871673491898"
+    },
+    {
+      "id": "2079262841857552839",
+      "handle": "repadriansmith",
+      "username": "RepAdrianSmith",
+      "displayName": null,
+      "ownerName": "Adrian Smith",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/adrian-smith",
+      "text": "Always enjoy meeting with members of the Ogallala Rotary Club to learn more about their recent efforts to strengthen their community.\n\nIt was also a great opportunity for me to provide an update on the latest happenings in Washington. Thank you for having me! https://t.co/CJIk9fHLB5",
+      "createdAt": "2026-07-20T17:51:06Z",
+      "timestamp": 1784569866,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 131
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAdrianSmith/status/2079262841857552839"
+    },
+    {
       "id": "2079193512826782006",
       "handle": "repgarbarino",
       "username": "RepGarbarino",
@@ -48897,11 +48955,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 2,
+        "reply_count": 2,
+        "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 605
+        "view_count": 697
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -76587,7 +76645,7 @@
         "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 531
+        "view_count": 543
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122447,64 +122505,6 @@
       ],
       "urls": [],
       "url": "https://x.com/RepLuna/status/2077759892153139496"
-    },
-    {
-      "id": "2077759857180991596",
-      "handle": "sencortezmasto",
-      "username": "SenCortezMasto",
-      "displayName": null,
-      "ownerName": "Catherine Cortez Masto",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/catherine-cortez-masto",
-      "text": "What about people like my grandparents? Their retirement was Social Security and Medicare.\n\nWhat about the nearly half of Americans who don’t have a 401k or own stocks?\n\nWhat about struggling workers in my state that are being hit hard by Trump’s inflation, many of whom don’t",
-      "createdAt": "2026-07-16T14:18:47Z",
-      "timestamp": 1784211527,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 30,
-        "reply_count": 102,
-        "like_count": 80,
-        "quote_count": 1,
-        "bookmark_count": 2,
-        "view_count": 4087
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenCortezMasto/status/2077759857180991596"
-    },
-    {
-      "id": "2077759797646991395",
-      "handle": "senmikelee",
-      "username": "SenMikeLee",
-      "displayName": null,
-      "ownerName": "Mike Lee",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mike-lee",
-      "text": "I am very willing to judge this guy—and Tim Walz—by his worst day.",
-      "createdAt": "2026-07-16T14:18:33Z",
-      "timestamp": 1784211513,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 328,
-        "reply_count": 89,
-        "like_count": 1299,
-        "quote_count": 5,
-        "bookmark_count": 7,
-        "view_count": 16172
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenMikeLee/status/2077759797646991395"
     }
   ],
   "notes": [
