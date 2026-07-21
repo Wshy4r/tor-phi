@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:27:43.173592Z",
+  "generatedAt": "2026-07-21T23:30:35.220243Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-21T22:27:25.215Z",
+    "generatedAt": "2026-07-21T23:30:16.212Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55892,
+    "tweets": 55893,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-21T22:27:41.371387Z",
+  "lastCaptureAt": "2026-07-21T23:30:33.292026Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30550,10 +30550,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T22:27:41.371387Z",
+      "lastScrapedAt": "2026-07-21T23:30:33.292026Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119614,
+      "followersCount": 119613,
       "followingCount": 698,
       "verified": false
     },
@@ -40803,10 +40803,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T22:27:41.371387Z",
+      "lastScrapedAt": "2026-07-21T23:30:33.292026Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119614,
+      "followersCount": 119613,
       "followingCount": 698,
       "verified": false
     },
@@ -48854,6 +48854,40 @@
   ],
   "tweets": [
     {
+      "id": "2079699981691171147",
+      "handle": "repalgreen",
+      "username": "RepAlGreen",
+      "displayName": null,
+      "ownerName": "Al Green",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/al-green",
+      "text": "Rep. Al Green Explains How Lorenzo Salgado Araujo Embodied American Values and Why All ICE Officers Must Wear Body Cameras \n\nWatch a clip of Rep. Al Green on @CSPAN by clicking here: https://t.co/wHQDoJYpE1 https://t.co/2AqlWVtw9h",
+      "createdAt": "2026-07-21T22:48:09Z",
+      "timestamp": 1784674089,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 10,
+        "reply_count": 1,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 617
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/wHQDoJYpE1",
+          "expanded_url": "https://youtu.be/DkY8hZo5sK8?is=1As2ONz4DxyFzpds",
+          "display_url": "youtu.be/DkY8hZo5sK8?is…"
+        }
+      ],
+      "url": "https://x.com/RepAlGreen/status/2079699981691171147"
+    },
+    {
       "id": "2079654734995013737",
       "handle": "repgarbarino",
       "username": "RepGarbarino",
@@ -48898,12 +48932,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 14,
+        "retweet_count": 16,
         "reply_count": 5,
-        "like_count": 28,
+        "like_count": 36,
         "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 895
+        "bookmark_count": 2,
+        "view_count": 1263
       },
       "tags": [
         "Iran"
@@ -49408,7 +49442,7 @@
         "like_count": 108,
         "quote_count": 1,
         "bookmark_count": 3,
-        "view_count": 2204
+        "view_count": 2211
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49585,7 +49619,7 @@
         "like_count": 386,
         "quote_count": 2,
         "bookmark_count": 8,
-        "view_count": 4325
+        "view_count": 4332
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49613,7 +49647,7 @@
         "like_count": 306,
         "quote_count": 6,
         "bookmark_count": 12,
-        "view_count": 6278
+        "view_count": 6279
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -57387,7 +57421,7 @@
         "like_count": 20,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 1479
+        "view_count": 1480
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -67776,7 +67810,7 @@
         "like_count": 135,
         "quote_count": 1,
         "bookmark_count": 6,
-        "view_count": 3117
+        "view_count": 3119
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -74530,7 +74564,7 @@
         "like_count": 659,
         "quote_count": 6,
         "bookmark_count": 20,
-        "view_count": 14574
+        "view_count": 14575
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122485,34 +122519,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepScholten/status/2077761399044890963"
-    },
-    {
-      "id": "2077761362072150342",
-      "handle": "reppfluger",
-      "username": "RepPfluger",
-      "displayName": null,
-      "ownerName": "August Pfluger",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/august-pfluger",
-      "text": "RT @congressfdn: WINNER: Best of Innovation &amp; Modernization — @RepPfluger #DemocracyAwards https://t.co/OjZyAKJkfG",
-      "createdAt": "2026-07-16T14:24:46Z",
-      "timestamp": 1784211886,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 116
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepPfluger/status/2077761362072150342"
     }
   ],
   "notes": [
