@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T21:21:10.602263Z",
+  "generatedAt": "2026-07-21T22:27:43.173592Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-21T21:21:04.442Z",
+    "generatedAt": "2026-07-21T22:27:25.215Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2148,7 +2148,7 @@
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-21T21:21:08.827596Z",
+  "lastCaptureAt": "2026-07-21T22:27:41.371387Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30542,7 +30542,7 @@
     },
     {
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": "Al Green",
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30550,12 +30550,12 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T21:21:08.827596Z",
+      "lastScrapedAt": "2026-07-21T22:27:41.371387Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907523395551473664/pII6GdRc_normal.jpg",
-      "followersCount": 119615,
+      "profileImageUrl": null,
+      "followersCount": 119614,
       "followingCount": 698,
-      "verified": true
+      "verified": false
     },
     {
       "username": "SenArmstrong",
@@ -40795,7 +40795,7 @@
     },
     {
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": "Al Green",
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -40803,12 +40803,12 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T21:21:08.827596Z",
+      "lastScrapedAt": "2026-07-21T22:27:41.371387Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907523395551473664/pII6GdRc_normal.jpg",
-      "followersCount": 119615,
+      "profileImageUrl": null,
+      "followersCount": 119614,
       "followingCount": 698,
-      "verified": true
+      "verified": false
     },
     {
       "username": "SenArmstrong",
@@ -48887,7 +48887,7 @@
       "id": "2079647144026271908",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -48898,12 +48898,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 12,
-        "reply_count": 4,
-        "like_count": 21,
+        "retweet_count": 14,
+        "reply_count": 5,
+        "like_count": 28,
         "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 1,
+        "view_count": 895
       },
       "tags": [
         "Iran"
@@ -49392,7 +49392,7 @@
       "id": "2079234025013821554",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49407,8 +49407,8 @@
         "reply_count": 18,
         "like_count": 108,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 3,
+        "view_count": 2204
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49569,7 +49569,7 @@
       "id": "2078974504206787015",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49584,8 +49584,8 @@
         "reply_count": 68,
         "like_count": 386,
         "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 8,
+        "view_count": 4325
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49597,7 +49597,7 @@
       "id": "2078496318591205388",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49612,8 +49612,8 @@
         "reply_count": 85,
         "like_count": 306,
         "quote_count": 6,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 12,
+        "view_count": 6278
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -57371,7 +57371,7 @@
       "id": "2078207652908138801",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -57386,8 +57386,8 @@
         "reply_count": 4,
         "like_count": 20,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 1,
+        "view_count": 1479
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -67760,7 +67760,7 @@
       "id": "2078164813016957326",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -67775,8 +67775,8 @@
         "reply_count": 20,
         "like_count": 135,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 6,
+        "view_count": 3117
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -74514,7 +74514,7 @@
       "id": "2078130877209469040",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -74526,11 +74526,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 151,
-        "reply_count": 131,
+        "reply_count": 132,
         "like_count": 659,
         "quote_count": 6,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 20,
+        "view_count": 14574
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -96256,7 +96256,7 @@
       "id": "2077862074357518392",
       "handle": "repalgreen",
       "username": "RepAlGreen",
-      "displayName": "U.S. Representative Al Green",
+      "displayName": null,
       "ownerName": "Al Green",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -96271,8 +96271,8 @@
         "reply_count": 28,
         "like_count": 347,
         "quote_count": 4,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 10,
+        "view_count": 5482
       },
       "tags": [],
       "kurdistanTerms": [],
