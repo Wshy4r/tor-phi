@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T11:55:02.761006Z",
+  "generatedAt": "2026-07-22T13:50:16.266630Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-22T11:54:45.019Z",
+    "generatedAt": "2026-07-22T13:49:42.788Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55893,
+    "tweets": 55897,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-22T11:55:00.860376Z",
+  "lastCaptureAt": "2026-07-22T13:50:14.371718Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30550,10 +30550,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T11:55:00.860376Z",
+      "lastScrapedAt": "2026-07-22T13:50:00.345029Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119592,
+      "followersCount": 119587,
       "followingCount": 698,
       "verified": false
     },
@@ -30567,10 +30567,10 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T20:00:55.701593Z",
+      "lastScrapedAt": "2026-07-22T13:50:01.613612Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2037201935162384384/Vt9x_cqY_normal.jpg",
-      "followersCount": 2592,
+      "followersCount": 2600,
       "followingCount": 72,
       "verified": true
     },
@@ -30754,12 +30754,12 @@
       "profileHref": "/country/usa/congress/andre-carson",
       "url": "https://x.com/RepAndreCarson",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T20:01:11.313230Z",
+      "lastScrapedAt": "2026-07-22T13:50:14.371718Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/461880758613704705/l_k2diGx_normal.jpeg",
-      "followersCount": 62236,
+      "profileImageUrl": null,
+      "followersCount": 62230,
       "followingCount": 1014,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepAndyBarr",
@@ -40803,10 +40803,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T11:55:00.860376Z",
+      "lastScrapedAt": "2026-07-22T13:50:00.345029Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119592,
+      "followersCount": 119587,
       "followingCount": 698,
       "verified": false
     },
@@ -40820,10 +40820,10 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T20:00:55.701593Z",
+      "lastScrapedAt": "2026-07-22T13:50:01.613612Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2037201935162384384/Vt9x_cqY_normal.jpg",
-      "followersCount": 2592,
+      "followersCount": 2600,
       "followingCount": 72,
       "verified": true
     },
@@ -41007,12 +41007,12 @@
       "profileHref": "/country/usa/congress/andre-carson",
       "url": "https://x.com/RepAndreCarson",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T20:01:11.313230Z",
+      "lastScrapedAt": "2026-07-22T13:50:14.371718Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/461880758613704705/l_k2diGx_normal.jpeg",
-      "followersCount": 62236,
+      "profileImageUrl": null,
+      "followersCount": 62230,
       "followingCount": 1014,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepAndyBarr",
@@ -48854,6 +48854,62 @@
   ],
   "tweets": [
     {
+      "id": "2079912846855438658",
+      "handle": "senarmstrong",
+      "username": "SenArmstrong",
+      "displayName": "Alan Armstrong",
+      "ownerName": "Alan Armstrong",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/alan-armstrong",
+      "text": "For generations, building critical infrastructure wasn’t a partisan cause – it was our national responsibility. On the Senate floor, I spoke about how we can be a nation of builders once again. \n\nThank you to the @DC_Reporter for covering the speech! Read about it here:",
+      "createdAt": "2026-07-22T12:54:00Z",
+      "timestamp": 1784724840,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenArmstrong/status/2079912846855438658"
+    },
+    {
+      "id": "2079738832384090148",
+      "handle": "repandrecarson",
+      "username": "RepAndreCarson",
+      "displayName": null,
+      "ownerName": "André Carson",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andre-carson",
+      "text": "Our nation's intelligence services must always be ready for what's next and learn from our past mistakes. Today, I asked Gen. McMaster how we can best prepare for emerging threats through stronger intelligence sharing. https://t.co/ugzBKGUmjy",
+      "createdAt": "2026-07-22T01:22:31Z",
+      "timestamp": 1784683351,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 899
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAndreCarson/status/2079738832384090148"
+    },
+    {
       "id": "2079699981691171147",
       "handle": "repalgreen",
       "username": "RepAlGreen",
@@ -48869,11 +48925,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 34,
-        "reply_count": 12,
-        "like_count": 127,
+        "reply_count": 13,
+        "like_count": 133,
         "quote_count": 1,
         "bookmark_count": 8,
-        "view_count": 2776
+        "view_count": 3030
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48886,6 +48942,64 @@
         }
       ],
       "url": "https://x.com/RepAlGreen/status/2079699981691171147"
+    },
+    {
+      "id": "2079665469720850630",
+      "handle": "repandrecarson",
+      "username": "RepAndreCarson",
+      "displayName": null,
+      "ownerName": "André Carson",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andre-carson",
+      "text": "I called for an end to ICE detention at Miami Correctional back in April. \n \nNew reporting confirms my earlier concerns: lack of medical care, staffing shortages, and now, forged data. \n \nKeeping detainees safe is not optional. It's a legal requirement. ICE detention at Miami",
+      "createdAt": "2026-07-21T20:31:00Z",
+      "timestamp": 1784665860,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "view_count": 1475
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAndreCarson/status/2079665469720850630"
+    },
+    {
+      "id": "2079658168578429089",
+      "handle": "senarmstrong",
+      "username": "SenArmstrong",
+      "displayName": "Alan Armstrong",
+      "ownerName": "Alan Armstrong",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/alan-armstrong",
+      "text": "The time is now!",
+      "createdAt": "2026-07-21T20:02:00Z",
+      "timestamp": 1784664120,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 8,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenArmstrong/status/2079658168578429089"
     },
     {
       "id": "2079654734995013737",
@@ -48934,10 +49048,10 @@
       "metrics": {
         "retweet_count": 24,
         "reply_count": 8,
-        "like_count": 62,
-        "quote_count": 0,
-        "bookmark_count": 3,
-        "view_count": 2587
+        "like_count": 63,
+        "quote_count": 1,
+        "bookmark_count": 4,
+        "view_count": 2676
       },
       "tags": [
         "Iran"
@@ -48969,8 +49083,8 @@
       "language": "en",
       "metrics": {
         "retweet_count": 5,
-        "reply_count": 2,
-        "like_count": 6,
+        "reply_count": 4,
+        "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 0,
         "view_count": null
@@ -49002,8 +49116,8 @@
       "language": "en",
       "metrics": {
         "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 5,
+        "reply_count": 3,
+        "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
         "view_count": null
@@ -49284,7 +49398,7 @@
       "id": "2079307722143441068",
       "handle": "repandrecarson",
       "username": "RepAndreCarson",
-      "displayName": "André Carson",
+      "displayName": null,
       "ownerName": "André Carson",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49297,10 +49411,10 @@
       "metrics": {
         "retweet_count": 3,
         "reply_count": 3,
-        "like_count": 4,
+        "like_count": 6,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 678
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49442,7 +49556,7 @@
         "like_count": 109,
         "quote_count": 1,
         "bookmark_count": 3,
-        "view_count": 2245
+        "view_count": 2250
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49469,8 +49583,8 @@
       "language": "en",
       "metrics": {
         "retweet_count": 5,
-        "reply_count": 11,
-        "like_count": 23,
+        "reply_count": 12,
+        "like_count": 24,
         "quote_count": 1,
         "bookmark_count": 0,
         "view_count": null
@@ -49619,7 +49733,7 @@
         "like_count": 386,
         "quote_count": 2,
         "bookmark_count": 8,
-        "view_count": 4344
+        "view_count": 4349
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49647,7 +49761,7 @@
         "like_count": 306,
         "quote_count": 6,
         "bookmark_count": 12,
-        "view_count": 6290
+        "view_count": 6291
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50999,7 +51113,7 @@
       "id": "2078254388707991761",
       "handle": "repandrecarson",
       "username": "RepAndreCarson",
-      "displayName": "André Carson",
+      "displayName": null,
       "ownerName": "André Carson",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -51015,7 +51129,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 138
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -57222,7 +57336,7 @@
       "id": "2078208001727484245",
       "handle": "repandrecarson",
       "username": "RepAndreCarson",
-      "displayName": "André Carson",
+      "displayName": null,
       "ownerName": "André Carson",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -57238,7 +57352,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 424
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -99481,7 +99595,7 @@
       "id": "2077851416530436115",
       "handle": "repandrecarson",
       "username": "RepAndreCarson",
-      "displayName": "André Carson",
+      "displayName": null,
       "ownerName": "André Carson",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -99497,7 +99611,7 @@
         "like_count": 9,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 827
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -111248,7 +111362,7 @@
       "id": "2077809471414305015",
       "handle": "repandrecarson",
       "username": "RepAndreCarson",
-      "displayName": "André Carson",
+      "displayName": null,
       "ownerName": "André Carson",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -111264,7 +111378,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 129
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122407,118 +122521,6 @@
       ],
       "urls": [],
       "url": "https://x.com/RepChuyGarcia/status/2077762138114756848"
-    },
-    {
-      "id": "2077762048801263916",
-      "handle": "repjoshg",
-      "username": "RepJoshG",
-      "displayName": null,
-      "ownerName": "Josh Gottheimer",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/josh-gottheimer",
-      "text": "RT @LegionDeptNJ: RELEASE: House Unanimously Passes Gottheimer's Bipartisan Legislation to Rename Sussex County VA Clinic After Local Veter…",
-      "createdAt": "2026-07-16T14:27:30Z",
-      "timestamp": 1784212050,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 135
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepJoshG/status/2077762048801263916"
-    },
-    {
-      "id": "2077762011899826254",
-      "handle": "repericburlison",
-      "username": "RepEricBurlison",
-      "displayName": null,
-      "ownerName": "Eric Burlison",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/eric-burlison",
-      "text": "RT @AlexEpstein: Most extensive interview I’ve ever done about AI, including how to think about it, how to master it, and how to responsibl…",
-      "createdAt": "2026-07-16T14:27:21Z",
-      "timestamp": 1784212041,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 15,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 431
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepEricBurlison/status/2077762011899826254"
-    },
-    {
-      "id": "2077761983621763350",
-      "handle": "sentedcruz",
-      "username": "SenTedCruz",
-      "displayName": null,
-      "ownerName": "Ted Cruz",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ted-cruz",
-      "text": "RT @SenateCommerce: Watch Chairman @SenTedCruz's opening remarks at this morning's @TSA nomination hearing. ↓ https://t.co/TPcSnizJJH",
-      "createdAt": "2026-07-16T14:27:14Z",
-      "timestamp": 1784212034,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 11,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 5131
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenTedCruz/status/2077761983621763350"
-    },
-    {
-      "id": "2077761399044890963",
-      "handle": "repscholten",
-      "username": "RepScholten",
-      "displayName": null,
-      "ownerName": "Hillary J. Scholten",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/hillary-j-scholten",
-      "text": "Sending my deepest condolences to Congresswoman Dingell and her family. The loss of a child, at any age, is a grief that no family should have to bear. Praying for peace and comfort for them in the days ahead.",
-      "createdAt": "2026-07-16T14:24:55Z",
-      "timestamp": 1784211895,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 4,
-        "like_count": 13,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1662
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepScholten/status/2077761399044890963"
     }
   ],
   "notes": [
