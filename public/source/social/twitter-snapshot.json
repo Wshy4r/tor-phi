@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T15:41:29.671608Z",
+  "generatedAt": "2026-07-22T17:18:18.552351Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-22T15:41:10.177Z",
+    "generatedAt": "2026-07-22T17:17:28.700Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55897,
+    "tweets": 55912,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-22T15:41:27.778383Z",
+  "lastCaptureAt": "2026-07-22T17:18:17.592772Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30550,10 +30550,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T15:41:27.778383Z",
+      "lastScrapedAt": "2026-07-22T17:17:43.524032Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119589,
+      "followersCount": 119588,
       "followingCount": 698,
       "verified": false
     },
@@ -30567,7 +30567,7 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T13:50:01.613612Z",
+      "lastScrapedAt": "2026-07-22T17:17:44.658057Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2037201935162384384/Vt9x_cqY_normal.jpg",
       "followersCount": 2600,
@@ -30763,7 +30763,7 @@
     },
     {
       "username": "RepAndyBarr",
-      "displayName": "Congressman Andy Barr",
+      "displayName": "Andy Barr",
       "ownerName": "Andy Barr",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30771,12 +30771,12 @@
       "profileHref": "/country/usa/congress/andy-barr",
       "url": "https://x.com/RepAndyBarr",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T20:01:12.590356Z",
+      "lastScrapedAt": "2026-07-22T17:18:00.901122Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732081077987028992/dz41CMKG_normal.jpg",
-      "followersCount": 39443,
-      "followingCount": 1535,
-      "verified": true
+      "profileImageUrl": null,
+      "followersCount": 39456,
+      "followingCount": 1534,
+      "verified": false
     },
     {
       "username": "RepAndyBiggsAZ",
@@ -30797,7 +30797,7 @@
     },
     {
       "username": "RepAndyHarrisMD",
-      "displayName": "Andy Harris",
+      "displayName": "Rep. Andy Harris, MD",
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30805,12 +30805,12 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:34:26.512357Z",
+      "lastScrapedAt": "2026-07-22T17:18:02.009958Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 41464,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
+      "followersCount": 41445,
       "followingCount": 866,
-      "verified": false
+      "verified": true
     },
     {
       "username": "AndyKimNJ",
@@ -30839,10 +30839,10 @@
       "profileHref": "/country/usa/congress/angie-craig",
       "url": "https://x.com/RepAngieCraig",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:47:11.272828Z",
+      "lastScrapedAt": "2026-07-22T17:18:17.592772Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 38153,
+      "followersCount": 38143,
       "followingCount": 1022,
       "verified": false
     },
@@ -40803,10 +40803,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T15:41:27.778383Z",
+      "lastScrapedAt": "2026-07-22T17:17:43.524032Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119589,
+      "followersCount": 119588,
       "followingCount": 698,
       "verified": false
     },
@@ -40820,7 +40820,7 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T13:50:01.613612Z",
+      "lastScrapedAt": "2026-07-22T17:17:44.658057Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2037201935162384384/Vt9x_cqY_normal.jpg",
       "followersCount": 2600,
@@ -41016,7 +41016,7 @@
     },
     {
       "username": "RepAndyBarr",
-      "displayName": "Congressman Andy Barr",
+      "displayName": "Andy Barr",
       "ownerName": "Andy Barr",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41024,12 +41024,12 @@
       "profileHref": "/country/usa/congress/andy-barr",
       "url": "https://x.com/RepAndyBarr",
       "status": "captured",
-      "lastScrapedAt": "2026-07-21T20:01:12.590356Z",
+      "lastScrapedAt": "2026-07-22T17:18:00.901122Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732081077987028992/dz41CMKG_normal.jpg",
-      "followersCount": 39443,
-      "followingCount": 1535,
-      "verified": true
+      "profileImageUrl": null,
+      "followersCount": 39456,
+      "followingCount": 1534,
+      "verified": false
     },
     {
       "username": "RepAndyBiggsAZ",
@@ -41050,7 +41050,7 @@
     },
     {
       "username": "RepAndyHarrisMD",
-      "displayName": "Andy Harris",
+      "displayName": "Rep. Andy Harris, MD",
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41058,12 +41058,12 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:34:26.512357Z",
+      "lastScrapedAt": "2026-07-22T17:18:02.009958Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 41464,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
+      "followersCount": 41445,
       "followingCount": 866,
-      "verified": false
+      "verified": true
     },
     {
       "username": "AndyKimNJ",
@@ -41092,10 +41092,10 @@
       "profileHref": "/country/usa/congress/angie-craig",
       "url": "https://x.com/RepAngieCraig",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:47:11.272828Z",
+      "lastScrapedAt": "2026-07-22T17:18:17.592772Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 38153,
+      "followersCount": 38143,
       "followingCount": 1022,
       "verified": false
     },
@@ -48854,6 +48854,122 @@
   ],
   "tweets": [
     {
+      "id": "2079972495885533261",
+      "handle": "repangiecraig",
+      "username": "RepAngieCraig",
+      "displayName": null,
+      "ownerName": "Angie Craig",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/angie-craig",
+      "text": "Hemp has grown into a $30B industry, supporting local economies across our country. The federal hemp ban scheduled for this November would deal a fatal blow to responsible hemp businesses in MN and beyond. \n\nThat’s why @RepAndyBarr and I are introducing the Legal Hemp Protection",
+      "createdAt": "2026-07-22T16:51:01Z",
+      "timestamp": 1784739061,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 165
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAngieCraig/status/2079972495885533261"
+    },
+    {
+      "id": "2079965952385462644",
+      "handle": "repandybarr",
+      "username": "RepAndyBarr",
+      "displayName": null,
+      "ownerName": "Andy Barr",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-barr",
+      "text": "I’m fighting to overturn the hemp ban and stand up for our great Kentucky farmers.\n\nOur Hemp Bill keeps hemp products out of the hands of kids by establishing a nationwide 21+ age requirement, puts consumer safety first with clear, commonsense federal standards, and gives",
+      "createdAt": "2026-07-22T16:25:01Z",
+      "timestamp": 1784737501,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 4,
+        "like_count": 15,
+        "quote_count": 3,
+        "bookmark_count": 0,
+        "view_count": 3486
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAndyBarr/status/2079965952385462644"
+    },
+    {
+      "id": "2079949840943862034",
+      "handle": "senarmstrong",
+      "username": "SenArmstrong",
+      "displayName": "Alan Armstrong",
+      "ownerName": "Alan Armstrong",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/alan-armstrong",
+      "text": "Overlapping review processes and competing federal bureaucracies have the permitting process tangled up in knots that many builders and investors have decided just isn’t worth the hassle. \n\nMy bill solidifies @FERC as the lead agency for interstate natural gas and LNG",
+      "createdAt": "2026-07-22T15:21:00Z",
+      "timestamp": 1784733660,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenArmstrong/status/2079949840943862034"
+    },
+    {
+      "id": "2079937783024455961",
+      "handle": "repangiecraig",
+      "username": "RepAngieCraig",
+      "displayName": null,
+      "ownerName": "Angie Craig",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/angie-craig",
+      "text": "My statement on the National Defense Authorization Act: https://t.co/q2kdhY0MCm",
+      "createdAt": "2026-07-22T14:33:05Z",
+      "timestamp": 1784730785,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 6,
+        "reply_count": 16,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 643
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAngieCraig/status/2079937783024455961"
+    },
+    {
       "id": "2079912846855438658",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
@@ -48869,8 +48985,8 @@
       "language": "en",
       "metrics": {
         "retweet_count": 3,
-        "reply_count": 2,
-        "like_count": 13,
+        "reply_count": 4,
+        "like_count": 15,
         "quote_count": 0,
         "bookmark_count": 0,
         "view_count": null
@@ -48910,6 +49026,37 @@
       "url": "https://x.com/RepAndreCarson/status/2079738832384090148"
     },
     {
+      "id": "2079721459451085066",
+      "handle": "repangiecraig",
+      "username": "RepAngieCraig",
+      "displayName": null,
+      "ownerName": "Angie Craig",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/angie-craig",
+      "text": "Republicans are once again trying to rig our elections, this time under the guise of a stock trading ban (that doesn’t even ban stock trading). \n\nNot only does it explicitly permit Members of Congress to inside trade – it conveniently exempts the President (who has traded more https://t.co/DeZoBH0onh",
+      "createdAt": "2026-07-22T00:13:29Z",
+      "timestamp": 1784679209,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 11,
+        "reply_count": 152,
+        "like_count": 40,
+        "quote_count": 2,
+        "bookmark_count": 2,
+        "view_count": 2932
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAngieCraig/status/2079721459451085066"
+    },
+    {
       "id": "2079699981691171147",
       "handle": "repalgreen",
       "username": "RepAlGreen",
@@ -48924,12 +49071,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 36,
-        "reply_count": 13,
-        "like_count": 140,
+        "retweet_count": 38,
+        "reply_count": 14,
+        "like_count": 142,
         "quote_count": 1,
         "bookmark_count": 9,
-        "view_count": 3215
+        "view_count": 3303
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48942,6 +49089,70 @@
         }
       ],
       "url": "https://x.com/RepAlGreen/status/2079699981691171147"
+    },
+    {
+      "id": "2079668447546421540",
+      "handle": "repandyharrismd",
+      "username": "RepAndyHarrisMD",
+      "displayName": "Rep. Andy Harris, MD",
+      "ownerName": "Andy Harris",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-harris",
+      "text": "🚨Reminder🚨\n\nTune in to my Telephone Town Hall TONIGHT at 5:30 PM ET.\n\nCall: 833-380-0671\nWatch LIVE: https://t.co/lykgEirBgc",
+      "createdAt": "2026-07-21T20:42:50Z",
+      "timestamp": 1784666570,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 6,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lykgEirBgc",
+          "expanded_url": "http://harris.house.gov/live",
+          "display_url": "harris.house.gov/live"
+        }
+      ],
+      "url": "https://x.com/RepAndyHarrisMD/status/2079668447546421540"
+    },
+    {
+      "id": "2079666010152431956",
+      "handle": "repandybarr",
+      "username": "RepAndyBarr",
+      "displayName": null,
+      "ownerName": "Andy Barr",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-barr",
+      "text": "The Main Street Capital Access Act means putting our small banks and local communities first.\n\nLess red tape.\nMore opportunity.\nStronger local economies. https://t.co/v1y8RlDNtp",
+      "createdAt": "2026-07-21T20:33:09Z",
+      "timestamp": 1784665989,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 2,
+        "like_count": 9,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 1572
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAndyBarr/status/2079666010152431956"
     },
     {
       "id": "2079665469720850630",
@@ -48972,6 +49183,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepAndreCarson/status/2079665469720850630"
+    },
+    {
+      "id": "2079665166489137395",
+      "handle": "repandybarr",
+      "username": "RepAndyBarr",
+      "displayName": null,
+      "ownerName": "Andy Barr",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-barr",
+      "text": "RT @FinancialCmte: @RepFrenchHill WATCH: @RepAndyBarr in support of H.R. 6955:\n \n\"A $500 million community bank in rural Kentucky or rural…",
+      "createdAt": "2026-07-21T20:29:48Z",
+      "timestamp": 1784665788,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 100
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAndyBarr/status/2079665166489137395"
     },
     {
       "id": "2079658168578429089",
@@ -49047,11 +49288,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 25,
-        "reply_count": 10,
-        "like_count": 65,
+        "reply_count": 11,
+        "like_count": 66,
         "quote_count": 1,
         "bookmark_count": 4,
-        "view_count": 2741
+        "view_count": 2795
       },
       "tags": [
         "Iran"
@@ -49140,7 +49381,7 @@
       "id": "2079632669323690009",
       "handle": "repandybarr",
       "username": "RepAndyBarr",
-      "displayName": "Congressman Andy Barr",
+      "displayName": null,
       "ownerName": "Andy Barr",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49151,12 +49392,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 6,
+        "retweet_count": 8,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 108
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49168,7 +49409,7 @@
       "id": "2079632612633514475",
       "handle": "repandybarr",
       "username": "RepAndyBarr",
-      "displayName": "Congressman Andy Barr",
+      "displayName": null,
       "ownerName": "Andy Barr",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49184,7 +49425,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 112
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49235,7 +49476,7 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 1,
+        "retweet_count": 3,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -49279,6 +49520,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenArmstrong/status/2079597171360383331"
+    },
+    {
+      "id": "2079595765723283850",
+      "handle": "repangiecraig",
+      "username": "RepAngieCraig",
+      "displayName": null,
+      "ownerName": "Angie Craig",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/angie-craig",
+      "text": "In another disappointing, yet unsurprising, display of corruption: President Trump is selling Wall Street early access to his Truth Social posts for hundreds of thousands of dollars. And where will that money go? Straight into the pockets of the Trump family. This is a grift —",
+      "createdAt": "2026-07-21T15:54:02Z",
+      "timestamp": 1784649242,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 9,
+        "reply_count": 32,
+        "like_count": 15,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "view_count": 1448
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAngieCraig/status/2079595765723283850"
     },
     {
       "id": "2079587722172264675",
@@ -49395,6 +49666,66 @@
       "url": "https://x.com/RepGarbarino/status/2079555923664633878"
     },
     {
+      "id": "2079340170671726760",
+      "handle": "repandyharrismd",
+      "username": "RepAndyHarrisMD",
+      "displayName": "Rep. Andy Harris, MD",
+      "ownerName": "Andy Harris",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-harris",
+      "text": "If you can't make my 5:30 PM Telephone Town Hall tomorrow, join me at 7:00 PM instead. I'll share the latest on the Maryland special session, Washington, and other issues important to Maryland's First District.\n\nWHEN: Tuesday, July 21 at 7:00 PM ET\nCall: 833-380-0671\nWatch live: https://t.co/j0nTJF2mZp",
+      "createdAt": "2026-07-20T22:58:23Z",
+      "timestamp": 1784588303,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 7,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAndyHarrisMD/status/2079340170671726760"
+    },
+    {
+      "id": "2079311391459103222",
+      "handle": "repandyharrismd",
+      "username": "RepAndyHarrisMD",
+      "displayName": "Rep. Andy Harris, MD",
+      "ownerName": "Andy Harris",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-harris",
+      "text": "Join me tomorrow for a live Telephone Town Hall. I'll provide an update on the Maryland special session, what's happening in Washington, and other important issues affecting Maryland's First District.\n\nWHEN: Tuesday, July 21 at 5:30 PM ET\nCall: 833-380-0671\nWatch live: https://t.co/ZVOrn3GRu1",
+      "createdAt": "2026-07-20T21:04:02Z",
+      "timestamp": 1784581442,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 10,
+        "reply_count": 6,
+        "like_count": 26,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAndyHarrisMD/status/2079311391459103222"
+    },
+    {
       "id": "2079307722143441068",
       "handle": "repandrecarson",
       "username": "RepAndreCarson",
@@ -49421,6 +49752,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepAndreCarson/status/2079307722143441068"
+    },
+    {
+      "id": "2079285862034973119",
+      "handle": "repangiecraig",
+      "username": "RepAngieCraig",
+      "displayName": null,
+      "ownerName": "Angie Craig",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/angie-craig",
+      "text": "Tariffs haven’t worked to lower costs for hardworking Minnesotans and they won’t work to put out wildfires.\n\nInstead of adding more tariffs that raise the cost of living, why not thank the Canadian search and rescue crews that worked alongside Minnesota and U.S. Forest Service to",
+      "createdAt": "2026-07-20T19:22:35Z",
+      "timestamp": 1784575355,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 6,
+        "reply_count": 19,
+        "like_count": 9,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 1308
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAngieCraig/status/2079285862034973119"
     },
     {
       "id": "2079269928138412172",
@@ -49556,7 +49915,7 @@
         "like_count": 109,
         "quote_count": 1,
         "bookmark_count": 3,
-        "view_count": 2254
+        "view_count": 2257
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49652,6 +50011,34 @@
       "url": "https://x.com/repogles/status/2079226558091325476"
     },
     {
+      "id": "2079218927146524841",
+      "handle": "repangiecraig",
+      "username": "RepAngieCraig",
+      "displayName": null,
+      "ownerName": "Angie Craig",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/angie-craig",
+      "text": "Congress is back in session this week, and House Republicans are trying to pass yet another disastrous budget with no funding for health care, schools or food assistance programs.\n\nWhat it does include? $10 billion for Trump’s election-rigging scheme.\n\nHell no.",
+      "createdAt": "2026-07-20T14:56:36Z",
+      "timestamp": 1784559396,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 12,
+        "reply_count": 35,
+        "like_count": 32,
+        "quote_count": 2,
+        "bookmark_count": 1,
+        "view_count": 3527
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAngieCraig/status/2079218927146524841"
+    },
+    {
       "id": "2079193512826782006",
       "handle": "repgarbarino",
       "username": "RepGarbarino",
@@ -49733,13 +50120,77 @@
         "like_count": 386,
         "quote_count": 2,
         "bookmark_count": 8,
-        "view_count": 4352
+        "view_count": 4356
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepAlGreen/status/2078974504206787015"
+    },
+    {
+      "id": "2078578933264724235",
+      "handle": "repangiecraig",
+      "username": "RepAngieCraig",
+      "displayName": null,
+      "ownerName": "Angie Craig",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/angie-craig",
+      "text": "I am heartbroken to hear of the loss of two American servicemembers killed in the line of duty in Jordan, and am praying for the safe return of the one still missing. \n\nI am holding their families and loved ones in our hearts during this incredibly difficult time. \n\nThis war must",
+      "createdAt": "2026-07-18T20:33:30Z",
+      "timestamp": 1784406810,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 58,
+        "like_count": 31,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "view_count": 4891
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAngieCraig/status/2078578933264724235"
+    },
+    {
+      "id": "2078543493346058270",
+      "handle": "repangiecraig",
+      "username": "RepAngieCraig",
+      "displayName": null,
+      "ownerName": "Angie Craig",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/angie-craig",
+      "text": "A few weeks ago, I had the absolute pleasure of meeting with my constituent, Alexandra, on her trip to Washington. \n\nAlexandra, thanks for your visit. It’s young leaders like you who bring me hope for the next generation. You’ve got a bright future ahead!\n\nhttps://t.co/gdn1KiN2a4",
+      "createdAt": "2026-07-18T18:12:40Z",
+      "timestamp": 1784398360,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 3,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 776
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gdn1KiN2a4",
+          "expanded_url": "https://www.hometownsource.com/sun_thisweek/community/lakeville/lakeville-north-student-electrified-by-d-c-tour/article_883f6c7e-8ceb-4706-884e-9d7956f48a8a.html",
+          "display_url": "hometownsource.com/sun_thisweek/c…"
+        }
+      ],
+      "url": "https://x.com/RepAngieCraig/status/2078543493346058270"
     },
     {
       "id": "2078496318591205388",
@@ -49761,7 +50212,7 @@
         "like_count": 306,
         "quote_count": 6,
         "bookmark_count": 12,
-        "view_count": 6292
+        "view_count": 6294
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -67924,7 +68375,7 @@
         "like_count": 135,
         "quote_count": 1,
         "bookmark_count": 6,
-        "view_count": 3133
+        "view_count": 3134
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -71186,7 +71637,7 @@
       "id": "2078149167046631853",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": null,
+      "displayName": "Rep. Andy Harris, MD",
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -71197,12 +71648,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 5,
+        "retweet_count": 6,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 119
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -71586,12 +72037,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 2,
-        "reply_count": 17,
-        "like_count": 35,
+        "retweet_count": 4,
+        "reply_count": 43,
+        "like_count": 59,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 1064
+        "view_count": 2231
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -72801,7 +73252,7 @@
       "id": "2078139463880818798",
       "handle": "repandybarr",
       "username": "RepAndyBarr",
-      "displayName": "Congressman Andy Barr",
+      "displayName": null,
       "ownerName": "Andy Barr",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -72817,7 +73268,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 2651
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -74678,7 +75129,7 @@
         "like_count": 658,
         "quote_count": 6,
         "bookmark_count": 20,
-        "view_count": 14588
+        "view_count": 14590
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -86085,12 +86536,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 10,
-        "reply_count": 74,
-        "like_count": 28,
-        "quote_count": 1,
+        "retweet_count": 12,
+        "reply_count": 94,
+        "like_count": 37,
+        "quote_count": 2,
         "bookmark_count": 0,
-        "view_count": 3014
+        "view_count": 3941
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -88883,7 +89334,7 @@
       "id": "2077921286467072042",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": null,
+      "displayName": "Rep. Andy Harris, MD",
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -88894,12 +89345,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 21,
-        "reply_count": 11,
-        "like_count": 136,
+        "retweet_count": 31,
+        "reply_count": 16,
+        "like_count": 186,
         "quote_count": 0,
-        "bookmark_count": 3,
-        "view_count": 5558
+        "bookmark_count": 0,
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -89085,7 +89536,7 @@
       "id": "2077918496894103596",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": null,
+      "displayName": "Rep. Andy Harris, MD",
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -89096,12 +89547,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 48,
-        "reply_count": 22,
-        "like_count": 233,
-        "quote_count": 1,
-        "bookmark_count": 8,
-        "view_count": 5529
+        "retweet_count": 62,
+        "reply_count": 23,
+        "like_count": 292,
+        "quote_count": 3,
+        "bookmark_count": 0,
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -95020,7 +95471,7 @@
       "id": "2077868547615674686",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": null,
+      "displayName": "Rep. Andy Harris, MD",
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -95031,12 +95482,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 48,
+        "retweet_count": 50,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 136
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -96420,7 +96871,7 @@
         "like_count": 347,
         "quote_count": 4,
         "bookmark_count": 10,
-        "view_count": 5488
+        "view_count": 5490
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -96856,11 +97307,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 8,
-        "reply_count": 61,
-        "like_count": 22,
+        "reply_count": 67,
+        "like_count": 24,
         "quote_count": 4,
         "bookmark_count": 0,
-        "view_count": 3709
+        "view_count": 6788
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -102062,7 +102513,7 @@
         "like_count": 13,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 799
+        "view_count": 904
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -104262,7 +104713,7 @@
       "id": "2077834757044678696",
       "handle": "repandybarr",
       "username": "RepAndyBarr",
-      "displayName": "Congressman Andy Barr",
+      "displayName": null,
       "ownerName": "Andy Barr",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -104273,12 +104724,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 4,
+        "retweet_count": 5,
         "reply_count": 9,
-        "like_count": 16,
+        "like_count": 17,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 15807
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -111505,6 +111956,34 @@
       "url": "https://x.com/NydiaVelazquez/status/2077808828159086792"
     },
     {
+      "id": "2077808748484084079",
+      "handle": "repangiecraig",
+      "username": "RepAngieCraig",
+      "displayName": null,
+      "ownerName": "Angie Craig",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/angie-craig",
+      "text": "Detaining children is inhumane and wrong. At the Dilley Detention Center, ICE and CoreCivic are treating children as subhuman and stripping families of their dignity. It’s unacceptable.  \n\nI’m joining my House Democratic colleagues in demanding @SecMullinDHS and CoreCivic shut",
+      "createdAt": "2026-07-16T17:33:04Z",
+      "timestamp": 1784223184,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 60,
+        "like_count": 7,
+        "quote_count": 3,
+        "bookmark_count": 0,
+        "view_count": 1231
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAngieCraig/status/2077808748484084079"
+    },
+    {
       "id": "2077808748979015689",
       "handle": "reprudyyakym",
       "username": "RepRudyYakym",
@@ -111537,34 +112016,6 @@
         }
       ],
       "url": "https://x.com/RepRudyYakym/status/2077808748979015689"
-    },
-    {
-      "id": "2077808748484084079",
-      "handle": "repangiecraig",
-      "username": "RepAngieCraig",
-      "displayName": null,
-      "ownerName": "Angie Craig",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/angie-craig",
-      "text": "Detaining children is inhumane and wrong. At the Dilley Detention Center, ICE and CoreCivic are treating children as subhuman and stripping families of their dignity. It’s unacceptable.  \n\nI’m joining my House Democratic colleagues in demanding @SecMullinDHS and CoreCivic shut",
-      "createdAt": "2026-07-16T17:33:04Z",
-      "timestamp": 1784223184,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 59,
-        "like_count": 7,
-        "quote_count": 3,
-        "bookmark_count": 0,
-        "view_count": 1112
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepAngieCraig/status/2077808748484084079"
     },
     {
       "id": "2077808697649266907",
@@ -114830,10 +115281,10 @@
       "metrics": {
         "retweet_count": 4,
         "reply_count": 14,
-        "like_count": 12,
+        "like_count": 13,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 1008
+        "view_count": 1095
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -120137,7 +120588,7 @@
       "id": "2077771206627889322",
       "handle": "repandybarr",
       "username": "RepAndyBarr",
-      "displayName": "Congressman Andy Barr",
+      "displayName": null,
       "ownerName": "Andy Barr",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -120153,7 +120604,7 @@
         "like_count": 16,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 1307
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122073,454 +122524,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepGlennIvey/status/2077764049782133023"
-    },
-    {
-      "id": "2077763931049758982",
-      "handle": "repmoulton",
-      "username": "RepMoulton",
-      "displayName": null,
-      "ownerName": "Seth Moulton",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/seth-moulton",
-      "text": "Aviation safety rules are written in blood. Glamorizing and excusing reckless behavior like this will only lead to more, until we reach the point where a horrific tragedy occurs because of brazen, careless rhetoric like this.",
-      "createdAt": "2026-07-16T14:34:58Z",
-      "timestamp": 1784212498,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 21,
-        "like_count": 15,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 1278
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMoulton/status/2077763931049758982"
-    },
-    {
-      "id": "2077763895356239969",
-      "handle": "repmcgovern",
-      "username": "RepMcGovern",
-      "displayName": null,
-      "ownerName": "James P. McGovern",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-p-mcgovern",
-      "text": "Spoken like somebody who hasn’t shopped at a grocery store in 30 years.",
-      "createdAt": "2026-07-16T14:34:50Z",
-      "timestamp": 1784212490,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 39,
-        "reply_count": 30,
-        "like_count": 237,
-        "quote_count": 0,
-        "bookmark_count": 3,
-        "view_count": 13292
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMcGovern/status/2077763895356239969"
-    },
-    {
-      "id": "2077763880596447616",
-      "handle": "reparrington",
-      "username": "RepArrington",
-      "displayName": null,
-      "ownerName": "Jodey C. Arrington",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jodey-c-arrington",
-      "text": "RT @HouseBudgetGOP: 🚨 From the @WhiteHouse: The Administration \"strongly supports\" the immediate passage of the Concurrent Resolution on th…",
-      "createdAt": "2026-07-16T14:34:46Z",
-      "timestamp": 1784212486,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 72
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepArrington/status/2077763880596447616"
-    },
-    {
-      "id": "2077763638828429656",
-      "handle": "repwesleybellmo",
-      "username": "RepWesleyBellMO",
-      "displayName": null,
-      "ownerName": "Wesley Bell",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/wesley-bell",
-      "text": "Hosted a voting rights roundtable in St. Louis last week with my friend @RepJoeMorelle \n\nIt was a great discussion about fighting back against Trump’s voter suppression tactics. \n\nEveryone’s voice deserves to be heard. https://t.co/1a28gNPzxe",
-      "createdAt": "2026-07-16T14:33:49Z",
-      "timestamp": 1784212429,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 21,
-        "like_count": 15,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2141
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepWesleyBellMO/status/2077763638828429656"
-    },
-    {
-      "id": "2077763519596937490",
-      "handle": "replisamcclain",
-      "username": "RepLisaMcClain",
-      "displayName": null,
-      "ownerName": "Lisa C. McClain",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/lisa-c-mcclain",
-      "text": "If protecting the vote scares the other side, that tells you everything you need to know. The SAVE America Act protects YOUR voice. 🇺🇸 https://t.co/BP4tLpDxhd",
-      "createdAt": "2026-07-16T14:33:20Z",
-      "timestamp": 1784212400,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 26,
-        "reply_count": 47,
-        "like_count": 123,
-        "quote_count": 2,
-        "bookmark_count": 3,
-        "view_count": 13380
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepLisaMcClain/status/2077763519596937490"
-    },
-    {
-      "id": "2077763300448715182",
-      "handle": "senatorhick",
-      "username": "SenatorHick",
-      "displayName": null,
-      "ownerName": "John W. Hickenlooper",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/john-w-hickenlooper",
-      "text": "Americans: Affordable housing, gas, groceries please?\n\nTrump: Best I can do is a coin with my face on it.\n https://t.co/NLUhcdsWBc",
-      "createdAt": "2026-07-16T14:32:28Z",
-      "timestamp": 1784212348,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 18,
-        "like_count": 11,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 895
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/NLUhcdsWBc",
-          "expanded_url": "https://www.washingtonpost.com/politics/2026/07/15/us-mint-produce-1-coin-with-trumps-face-it-bessent-says/",
-          "display_url": "washingtonpost.com/politics/2026/…"
-        }
-      ],
-      "url": "https://x.com/SenatorHick/status/2077763300448715182"
-    },
-    {
-      "id": "2077763274347557133",
-      "handle": "reparrington",
-      "username": "RepArrington",
-      "displayName": null,
-      "ownerName": "Jodey C. Arrington",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jodey-c-arrington",
-      "text": "Republicans are using every tool at our disposal to govern our great nation and deliver on behalf of the freedom-loving people who gave us unified Republican leadership.\n\nToday, I'm holding a @HouseBudgetGOP markup to unlock a third budget reconciliation to stop Democrat https://t.co/HAGULBThQa",
-      "createdAt": "2026-07-16T14:32:22Z",
-      "timestamp": 1784212342,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 5,
-        "like_count": 15,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1197
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepArrington/status/2077763274347557133"
-    },
-    {
-      "id": "2077763221260222869",
-      "handle": "repcarlos",
-      "username": "RepCarlos",
-      "displayName": null,
-      "ownerName": "Carlos A. Gimenez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/carlos-a-gimenez",
-      "text": "RT @FoxNews: WATCH: Secretary of State Marco Rubio lays out a sweeping rebuke of communism, calling it a system that strips away everything…",
-      "createdAt": "2026-07-16T14:32:09Z",
-      "timestamp": 1784212329,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1346,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1086
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepCarlos/status/2077763221260222869"
-    },
-    {
-      "id": "2077763210745176135",
-      "handle": "repjohnlarson",
-      "username": "RepJohnLarson",
-      "displayName": null,
-      "ownerName": "John B. Larson",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/john-b-larson",
-      "text": "Extreme floods—made worse by climate change—have plagued our region in recent years. @ChrisMurphyCT, @SenBlumenthal and I announced $300,000 in new funding to protect Plantsville homes &amp; businesses from flooding and invest in a more resilient community. https://t.co/r8OP2pMqHM",
-      "createdAt": "2026-07-16T14:32:07Z",
-      "timestamp": 1784212327,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 320
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/r8OP2pMqHM",
-          "expanded_url": "https://patch.com/connecticut/southington/southington-secures-funds-study-plantsville-flooding-problem",
-          "display_url": "patch.com/connecticut/so…"
-        }
-      ],
-      "url": "https://x.com/RepJohnLarson/status/2077763210745176135"
-    },
-    {
-      "id": "2077763004259516619",
-      "handle": "kellymorrisonmn",
-      "username": "kellymorrisonmn",
-      "displayName": null,
-      "ownerName": "Kelly Morrison",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kelly-morrison",
-      "text": "RT @mnhealth: Today the air outdoors is very unhealthy to breathe in most parts of the state, but there are things you can do to protect yo…",
-      "createdAt": "2026-07-16T14:31:17Z",
-      "timestamp": 1784212277,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 30
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/kellymorrisonmn/status/2077763004259516619"
-    },
-    {
-      "id": "2077762969459421553",
-      "handle": "repjoemorelle",
-      "username": "RepJoeMorelle",
-      "displayName": null,
-      "ownerName": "Joseph D. Morelle",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/joseph-d-morelle",
-      "text": "Americans deserve leaders who are accountable to the truth, not Donald Trump's ego.\n\nIf you cannot admit the simple fact that he lost the 2020 election, you have no business leading our nation's intelligence community. It's indulging a lie that fueled an attack on our democracy.",
-      "createdAt": "2026-07-16T14:31:09Z",
-      "timestamp": 1784212269,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 29,
-        "like_count": 11,
-        "quote_count": 3,
-        "bookmark_count": 0,
-        "view_count": 1152
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Energy / economic",
-        "Critical / hostile language"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepJoeMorelle/status/2077762969459421553"
-    },
-    {
-      "id": "2077762935250636937",
-      "handle": "repmccormick",
-      "username": "RepMcCormick",
-      "displayName": null,
-      "ownerName": "Richard McCormick",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/richard-mccormick",
-      "text": "Colonel Mike Boyce served his country in Somalia, Turkey, Bahrain, and Oman. Then he came home to Marietta and kept serving, building the first VA clinic in Cobb County so veterans wouldn't have to drive across the county to get care.\n\nNaming that clinic after him is the right",
-      "createdAt": "2026-07-16T14:31:01Z",
-      "timestamp": 1784212261,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 3,
-        "like_count": 7,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1003
-      },
-      "tags": [
-        "Turkiye"
-      ],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMcCormick/status/2077762935250636937"
-    },
-    {
-      "id": "2077762680379543694",
-      "handle": "repnancymace",
-      "username": "RepNancyMace",
-      "displayName": null,
-      "ownerName": "Nancy Mace",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nancy-mace",
-      "text": "An unjust justice system.",
-      "createdAt": "2026-07-16T14:30:00Z",
-      "timestamp": 1784212200,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 13,
-        "reply_count": 13,
-        "like_count": 142,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 16215
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepNancyMace/status/2077762680379543694"
-    },
-    {
-      "id": "2077762452020732220",
-      "handle": "repvindman",
-      "username": "RepVindman",
-      "displayName": null,
-      "ownerName": "Eugene Simon Vindman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/eugene-simon-vindman",
-      "text": "As a 25-year Army veteran, I will always fight for veterans to get the benefits they have earned without delay.  \n\nI’m proud to lead bipartisan legislation to protect veterans’ hard-earned housing benefits and expand access to affordable homeownership.  \n\nOur veterans deserve a",
-      "createdAt": "2026-07-16T14:29:06Z",
-      "timestamp": 1784212146,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 1,
-        "like_count": 12,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 310
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepVindman/status/2077762452020732220"
-    },
-    {
-      "id": "2077762138114756848",
-      "handle": "repchuygarcia",
-      "username": "RepChuyGarcia",
-      "displayName": null,
-      "ownerName": "Jesús G. \"Chuy\" García",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jesus-g-chuy-garcia",
-      "text": "RT @SenMarkey: Airport workers deserve good wages, quality health care, and dignity on the job. I’m proud to partner with @RepChuyGarcia on…",
-      "createdAt": "2026-07-16T14:27:51Z",
-      "timestamp": 1784212071,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 9,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 75
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepChuyGarcia/status/2077762138114756848"
     }
   ],
   "notes": [
