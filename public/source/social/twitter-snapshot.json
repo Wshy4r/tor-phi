@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T18:41:57.062045Z",
+  "generatedAt": "2026-07-22T20:11:36.217377Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-22T18:41:39.691Z",
+    "generatedAt": "2026-07-22T20:11:14.702Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55912,
+    "tweets": 55913,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-22T18:41:55.267090Z",
+  "lastCaptureAt": "2026-07-22T20:11:34.434616Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30550,10 +30550,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T18:41:55.267090Z",
+      "lastScrapedAt": "2026-07-22T20:11:34.434616Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119586,
+      "followersCount": 119584,
       "followingCount": 698,
       "verified": false
     },
@@ -40803,10 +40803,10 @@
       "profileHref": "/country/usa/congress/al-green",
       "url": "https://x.com/RepAlGreen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T18:41:55.267090Z",
+      "lastScrapedAt": "2026-07-22T20:11:34.434616Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 119586,
+      "followersCount": 119584,
       "followingCount": 698,
       "verified": false
     },
@@ -48854,6 +48854,45 @@
   ],
   "tweets": [
     {
+      "id": "2080020444225139101",
+      "handle": "repalgreen",
+      "username": "RepAlGreen",
+      "displayName": null,
+      "ownerName": "Al Green",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/al-green",
+      "text": "ICYMI: The https://t.co/Vm85zLn5gL article below, titled “Barry Moore benefits from powerful crypto group’s ‘biggest bet’ this election,” speaks for itself.\n \nYou can access the article by clicking the link here: https://t.co/jr2MaoTORE",
+      "createdAt": "2026-07-22T20:01:33Z",
+      "timestamp": 1784750493,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 179
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/Vm85zLn5gL",
+          "expanded_url": "http://AL.com",
+          "display_url": "AL.com"
+        },
+        {
+          "url": "https://t.co/jr2MaoTORE",
+          "expanded_url": "https://www.yahoo.com/news/politics/articles/barry-moore-benefits-powerful-crypto-170704569.html",
+          "display_url": "yahoo.com/news/politics/…"
+        }
+      ],
+      "url": "https://x.com/RepAlGreen/status/2080020444225139101"
+    },
+    {
       "id": "2079972495885533261",
       "handle": "repangiecraig",
       "username": "RepAngieCraig",
@@ -49071,12 +49110,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 39,
+        "retweet_count": 40,
         "reply_count": 14,
         "like_count": 145,
-        "quote_count": 1,
+        "quote_count": 2,
         "bookmark_count": 9,
-        "view_count": 3409
+        "view_count": 3530
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49292,7 +49331,7 @@
         "like_count": 67,
         "quote_count": 1,
         "bookmark_count": 4,
-        "view_count": 2845
+        "view_count": 2887
       },
       "tags": [
         "Iran"
@@ -49915,7 +49954,7 @@
         "like_count": 110,
         "quote_count": 1,
         "bookmark_count": 3,
-        "view_count": 2262
+        "view_count": 2265
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50120,7 +50159,7 @@
         "like_count": 387,
         "quote_count": 2,
         "bookmark_count": 8,
-        "view_count": 4360
+        "view_count": 4364
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50212,7 +50251,7 @@
         "like_count": 306,
         "quote_count": 6,
         "bookmark_count": 12,
-        "view_count": 6297
+        "view_count": 6300
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -68375,7 +68414,7 @@
         "like_count": 135,
         "quote_count": 1,
         "bookmark_count": 6,
-        "view_count": 3137
+        "view_count": 3138
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -75125,11 +75164,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 151,
-        "reply_count": 132,
+        "reply_count": 131,
         "like_count": 658,
         "quote_count": 6,
         "bookmark_count": 20,
-        "view_count": 14592
+        "view_count": 14595
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122496,34 +122535,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepThomasMassie/status/2077764067490480260"
-    },
-    {
-      "id": "2077764049782133023",
-      "handle": "repglennivey",
-      "username": "RepGlennIvey",
-      "displayName": null,
-      "ownerName": "Glenn Ivey",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/glenn-ivey",
-      "text": "I voted yes on the Massie Amendment. Here’s why. https://t.co/wduJsyMYe5",
-      "createdAt": "2026-07-16T14:35:27Z",
-      "timestamp": 1784212527,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 28,
-        "reply_count": 60,
-        "like_count": 285,
-        "quote_count": 4,
-        "bookmark_count": 3,
-        "view_count": 8544
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepGlennIvey/status/2077764049782133023"
     }
   ],
   "notes": [
