@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T10:22:30.572932Z",
+  "generatedAt": "2026-07-23T12:11:07.119933Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-23T10:22:10.410Z",
+    "generatedAt": "2026-07-23T12:10:16.167Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55931,
+    "tweets": 55952,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-23T10:22:28.809783Z",
+  "lastCaptureAt": "2026-07-23T12:11:06.142623Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30567,7 +30567,7 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T10:22:28.809783Z",
+      "lastScrapedAt": "2026-07-23T12:10:35.470805Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 2604,
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T07:33:11.462087Z",
+      "lastScrapedAt": "2026-07-23T12:10:36.537713Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
-      "followersCount": 41447,
+      "followersCount": 41450,
       "followingCount": 866,
       "verified": true
     },
@@ -30958,16 +30958,16 @@
       "profileHref": "/country/usa/congress/august-pfluger",
       "url": "https://x.com/RepPfluger",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:49:20.866275Z",
+      "lastScrapedAt": "2026-07-23T12:10:52.716610Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 29344,
-      "followingCount": 1241,
+      "followersCount": 29342,
+      "followingCount": 1242,
       "verified": false
     },
     {
       "username": "RepAmata",
-      "displayName": "Aumua Amata Coleman Radewagen",
+      "displayName": "Rep. Aumua Amata🇦🇸",
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30975,12 +30975,12 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:49:38.099914Z",
+      "lastScrapedAt": "2026-07-23T12:10:53.871419Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 4716,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
+      "followersCount": 4711,
       "followingCount": 188,
-      "verified": false
+      "verified": true
     },
     {
       "username": "AustinScottGA08",
@@ -30992,10 +30992,10 @@
       "profileHref": "/country/usa/congress/austin-scott",
       "url": "https://x.com/AustinScottGA08",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:01:47.713654Z",
+      "lastScrapedAt": "2026-07-23T12:11:06.142623Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 35325,
+      "followersCount": 35330,
       "followingCount": 743,
       "verified": false
     },
@@ -40820,7 +40820,7 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T10:22:28.809783Z",
+      "lastScrapedAt": "2026-07-23T12:10:35.470805Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 2604,
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T07:33:11.462087Z",
+      "lastScrapedAt": "2026-07-23T12:10:36.537713Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
-      "followersCount": 41447,
+      "followersCount": 41450,
       "followingCount": 866,
       "verified": true
     },
@@ -41211,16 +41211,16 @@
       "profileHref": "/country/usa/congress/august-pfluger",
       "url": "https://x.com/RepPfluger",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:49:20.866275Z",
+      "lastScrapedAt": "2026-07-23T12:10:52.716610Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 29344,
-      "followingCount": 1241,
+      "followersCount": 29342,
+      "followingCount": 1242,
       "verified": false
     },
     {
       "username": "RepAmata",
-      "displayName": "Aumua Amata Coleman Radewagen",
+      "displayName": "Rep. Aumua Amata🇦🇸",
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41228,12 +41228,12 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:49:38.099914Z",
+      "lastScrapedAt": "2026-07-23T12:10:53.871419Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 4716,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
+      "followersCount": 4711,
       "followingCount": 188,
-      "verified": false
+      "verified": true
     },
     {
       "username": "AustinScottGA08",
@@ -41245,10 +41245,10 @@
       "profileHref": "/country/usa/congress/austin-scott",
       "url": "https://x.com/AustinScottGA08",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:01:47.713654Z",
+      "lastScrapedAt": "2026-07-23T12:11:06.142623Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 35325,
+      "followersCount": 35330,
       "followingCount": 743,
       "verified": false
     },
@@ -48854,6 +48854,64 @@
   ],
   "tweets": [
     {
+      "id": "2080106045414719601",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "RT @KatiePavlichNN: TONIGHT at 10pm | @NewsNation \n\nWhite House Border Czar Tom Homan sits down with Katie to discuss ICE, bodycams, detent…",
+      "createdAt": "2026-07-23T01:41:42Z",
+      "timestamp": 1784770902,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 8,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 77
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2080106045414719601"
+    },
+    {
+      "id": "2080105953492365372",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Thank you for coming to @RepublicanStudy today @newtgingrich! 🇺🇸",
+      "createdAt": "2026-07-23T01:41:20Z",
+      "timestamp": 1784770880,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 658
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2080105953492365372"
+    },
+    {
       "id": "2080042536098513256",
       "handle": "repashleyhinson",
       "username": "RepAshleyHinson",
@@ -48914,6 +48972,94 @@
         }
       ],
       "url": "https://x.com/RepAnnWagner/status/2080035424785870911"
+    },
+    {
+      "id": "2080035370343752183",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Today's House passage of the FY2027 NDAA is another decisive step toward President Trump's Peace Through Strength agenda and restoring America's military dominance. This bill invests in our lethality, arming our forces to deter or defeat any adversary who threatens our nation. It https://t.co/hOHNyMjlRC",
+      "createdAt": "2026-07-22T21:00:52Z",
+      "timestamp": 1784754052,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 8,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 804
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2080035370343752183"
+    },
+    {
+      "id": "2080034585153314932",
+      "handle": "repamata",
+      "username": "RepAmata",
+      "displayName": "Rep. Aumua Amata🇦🇸",
+      "ownerName": "Aumua Amata Coleman Radewagen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
+      "text": "Pictured during Tuesday’s hearing of the full House Foreign Affairs Committee, I questioned expert witnesses about international efforts to jointly confront and suppress Haiti’s terrorist gangs, which control much of the capital city of Port-au-Prince. Testifying were the",
+      "createdAt": "2026-07-22T20:57:44Z",
+      "timestamp": 1784753864,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAmata/status/2080034585153314932"
+    },
+    {
+      "id": "2080033985741103577",
+      "handle": "repamata",
+      "username": "RepAmata",
+      "displayName": "Rep. Aumua Amata🇦🇸",
+      "ownerName": "Aumua Amata Coleman Radewagen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
+      "text": "#NewProfilePic https://t.co/cFyhHM1qX7",
+      "createdAt": "2026-07-22T20:55:22Z",
+      "timestamp": 1784753722,
+      "tweetType": "tweet",
+      "language": "qme",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAmata/status/2080033985741103577"
     },
     {
       "id": "2080032308971602014",
@@ -48999,7 +49145,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 277
+        "view_count": 280
       },
       "tags": [],
       "kurdistanTerms": [
@@ -49167,6 +49313,34 @@
       "url": "https://x.com/RepAprilDelaney/status/2079962020451897827"
     },
     {
+      "id": "2079954320716390754",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "RT @RepublicanStudy: There's a whole industry built around convincing people America is broken. Then @FreddyLA7 lands here for the FIFA Wor…",
+      "createdAt": "2026-07-22T15:38:48Z",
+      "timestamp": 1784734728,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 90
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079954320716390754"
+    },
+    {
       "id": "2079949840943862034",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
@@ -49186,7 +49360,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 198
+        "view_count": 200
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49243,16 +49417,46 @@
       "metrics": {
         "retweet_count": 4,
         "reply_count": 5,
-        "like_count": 16,
+        "like_count": 17,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 2319
+        "view_count": 2345
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenArmstrong/status/2079912846855438658"
+    },
+    {
+      "id": "2079753258155835811",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Once again, House Republicans are stepping up and responsibly funding the government with a clean Continuing Resolution while we work to finalize conservative full-year appropriations bills. The Senate must act swiftly and get this to the President's desk to avoid another costly https://t.co/jx6pJ8lXix",
+      "createdAt": "2026-07-22T02:19:51Z",
+      "timestamp": 1784686791,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 6,
+        "reply_count": 5,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 958
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079753258155835811"
     },
     {
       "id": "2079738832384090148",
@@ -49314,6 +49518,62 @@
       "url": "https://x.com/RepAngieCraig/status/2079721459451085066"
     },
     {
+      "id": "2079704145036976469",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Joined my Texas colleagues at the U.S. Capitol today for a picture that will be submitted to America's 250th time capsule.\n\nAlways proud to be a Texan and represent Texas-11 in Washington! https://t.co/BC0RfwgOIG",
+      "createdAt": "2026-07-21T23:04:41Z",
+      "timestamp": 1784675081,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 973
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079704145036976469"
+    },
+    {
+      "id": "2079703863767044220",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "RT @WestCaucusFound: This week and last, many of our @westerncaucus members’ bills were reported favorably out of @NatResources and @HouseC…",
+      "createdAt": "2026-07-21T23:03:34Z",
+      "timestamp": 1784675014,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 98
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079703863767044220"
+    },
+    {
       "id": "2079699981691171147",
       "handle": "repalgreen",
       "username": "RepAlGreen",
@@ -49348,6 +49608,62 @@
       "url": "https://x.com/RepAlGreen/status/2079699981691171147"
     },
     {
+      "id": "2079692367653929114",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "The Combating Illicit Xylazine Act passed out of @HouseCommerce today.\n\nXylazine was never meant for human use, yet drug traffickers are increasingly mixing it into street drugs to make them more potent and more deadly. This bill takes direct aim at traffickers exploiting this https://t.co/W4kjP7Gzv6",
+      "createdAt": "2026-07-21T22:17:53Z",
+      "timestamp": 1784672273,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 903
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079692367653929114"
+    },
+    {
+      "id": "2079671024363118806",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Governor Mikie Sherrill just confirmed that 6,600 noncitizens were registered to vote in New Jersey.\n\nThis only confirms what we've known for years: American voter rolls need to be cleaned up.\n\nThe Senate must pass the SAVE America Act.",
+      "createdAt": "2026-07-21T20:53:05Z",
+      "timestamp": 1784667185,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 829
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079671024363118806"
+    },
+    {
       "id": "2079668447546421540",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
@@ -49363,7 +49679,7 @@
       "language": "en",
       "metrics": {
         "retweet_count": 3,
-        "reply_count": 7,
+        "reply_count": 8,
         "like_count": 13,
         "quote_count": 0,
         "bookmark_count": 0,
@@ -49491,7 +49807,7 @@
         "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 2645
+        "view_count": 2649
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49585,7 +49901,7 @@
         "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 2776
+        "view_count": 2778
       },
       "tags": [],
       "kurdistanTerms": [
@@ -49691,6 +50007,37 @@
       "url": "https://x.com/RepAndyBarr/status/2079632612633514475"
     },
     {
+      "id": "2079631002482155738",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "America's economic and national security depend on a strong critical mineral supply chain. \n\nMy EMRTAI Act would fund technologies to recover critical minerals from contaminated sites and waste streams. This bill is a commonsense approach to reduce our reliance on foreign https://t.co/DeMNCcAEG3",
+      "createdAt": "2026-07-21T18:14:03Z",
+      "timestamp": 1784657643,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 18,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 1199
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079631002482155738"
+    },
+    {
       "id": "2079623755110719913",
       "handle": "repgarbarino",
       "username": "RepGarbarino",
@@ -49717,6 +50064,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepGarbarino/status/2079623755110719913"
+    },
+    {
+      "id": "2079619768529666279",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "RT @HouseCommerce: As the race goes on for critical minerals, it is imperative that Americans lead headfirst.\n \n@RepPfluger speaks on the E…",
+      "createdAt": "2026-07-21T17:29:24Z",
+      "timestamp": 1784654964,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 103
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079619768529666279"
     },
     {
       "id": "2079610656211206149",
@@ -50041,6 +50416,34 @@
       "url": "https://x.com/RepAndyHarrisMD/status/2079340170671726760"
     },
     {
+      "id": "2079326388448842122",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "RT @NASA: On July 20, 1969, Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon. https://t.co/Du1e3VuQUB",
+      "createdAt": "2026-07-20T22:03:37Z",
+      "timestamp": 1784585017,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 8438,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 94
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079326388448842122"
+    },
+    {
       "id": "2079318291592437973",
       "handle": "repaprildelaney",
       "username": "RepAprilDelaney",
@@ -50157,6 +50560,34 @@
       "url": "https://x.com/RepAngieCraig/status/2079285862034973119"
     },
     {
+      "id": "2079273767436533950",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Thank you to our brave officers at the NYPD and FDNY who acted swiftly to protect the public today. Incredibly grateful that no one was seriously injured.",
+      "createdAt": "2026-07-20T18:34:31Z",
+      "timestamp": 1784572471,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 984
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079273767436533950"
+    },
+    {
       "id": "2079269928138412172",
       "handle": "repogles",
       "username": "repogles",
@@ -50211,6 +50642,70 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepAdrianSmith/status/2079266871673491898"
+    },
+    {
+      "id": "2079264434636079105",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Read the full announcement from FEMA here:\nhttps://t.co/UqBsy44Kdl",
+      "createdAt": "2026-07-20T17:57:26Z",
+      "timestamp": 1784570246,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 180
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/UqBsy44Kdl",
+          "expanded_url": "https://www.fema.gov/press-release/20260718/president-donald-j-trump-approves-emergency-declaration-texas",
+          "display_url": "fema.gov/press-release/…"
+        }
+      ],
+      "url": "https://x.com/RepPfluger/status/2079264434636079105"
+    },
+    {
+      "id": "2079264431528091898",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Grateful that Kimble, Mason, and Menard counties have been added to President Trump's Disaster Declaration for FEMA's Public Assistance program.\n\nThese communities have faced significant challenges from flooding over the last few days, and I've heard directly from local leaders",
+      "createdAt": "2026-07-20T17:57:25Z",
+      "timestamp": 1784570245,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 780
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079264431528091898"
     },
     {
       "id": "2079262841857552839",
@@ -50414,6 +50909,62 @@
       "url": "https://x.com/RepAngieCraig/status/2079218927146524841"
     },
     {
+      "id": "2079214796495360475",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "The FIFA World Cup would not have been possible without the diligent work of the @FBI, @DHSgov, and law enforcement partners. Incredible work by everyone to keep players and fans safe.",
+      "createdAt": "2026-07-20T14:40:12Z",
+      "timestamp": 1784558412,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 14,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 1143
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079214796495360475"
+    },
+    {
+      "id": "2079197592605364393",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Heartbroken to learn that Isabella Gonzales from Carrollton, Texas, was one of the U.S. service members killed in action over the weekend.\n\nWe join our entire state in praying for her family and for all of the heroes lost.",
+      "createdAt": "2026-07-20T13:31:50Z",
+      "timestamp": 1784554310,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 11,
+        "reply_count": 10,
+        "like_count": 88,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 5387
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079197592605364393"
+    },
+    {
       "id": "2079193512826782006",
       "handle": "repgarbarino",
       "username": "RepGarbarino",
@@ -50440,6 +50991,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepGarbarino/status/2079193512826782006"
+    },
+    {
+      "id": "2079181702656565678",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "RT @USChamber: .@RepLouCorrea &amp; @RepPfluger, co-chairs of the newly formed Congressional Free Enterprise Caucus, recently appeared on @FoxN…",
+      "createdAt": "2026-07-20T12:28:41Z",
+      "timestamp": 1784550521,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 6,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 116
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2079181702656565678"
     },
     {
       "id": "2078974518886875257",
@@ -50502,6 +51081,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepAlGreen/status/2078974504206787015"
+    },
+    {
+      "id": "2078916929813651946",
+      "handle": "reppfluger",
+      "username": "RepPfluger",
+      "displayName": null,
+      "ownerName": "August Pfluger",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/august-pfluger",
+      "text": "Praying for the families of the two fallen service members in Jordan. \n\nWe are also praying for the safe return of the service member who remains missing.",
+      "createdAt": "2026-07-19T18:56:35Z",
+      "timestamp": 1784487395,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 19,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 1081
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepPfluger/status/2078916929813651946"
     },
     {
       "id": "2078608267828470231",
@@ -55684,7 +56291,7 @@
       "id": "2078219185860092013",
       "handle": "reppfluger",
       "username": "RepPfluger",
-      "displayName": "Rep. August Pfluger",
+      "displayName": null,
       "ownerName": "August Pfluger",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -55700,7 +56307,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 102
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -66130,10 +66737,10 @@
       "metrics": {
         "retweet_count": 0,
         "reply_count": 0,
-        "like_count": 1,
+        "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 96
+        "view_count": 197
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -66164,12 +66771,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 1,
-        "reply_count": 2,
-        "like_count": 4,
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 14,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 523
+        "view_count": 1185
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -74025,10 +74632,10 @@
       "metrics": {
         "retweet_count": 0,
         "reply_count": 0,
-        "like_count": 2,
+        "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 362
+        "view_count": 599
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -76205,7 +76812,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 91
+        "view_count": 120
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -77787,7 +78394,7 @@
       "id": "2078118971140641175",
       "handle": "repamata",
       "username": "RepAmata",
-      "displayName": null,
+      "displayName": "Rep. Aumua Amata🇦🇸",
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -77799,11 +78406,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 29
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -83459,12 +84066,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 163,
+        "retweet_count": 180,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 86
+        "view_count": 98
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -85290,6 +85897,34 @@
       "url": "https://x.com/BradSherman/status/2077937549759193339"
     },
     {
+      "id": "2077937457278960077",
+      "handle": "austinscottga08",
+      "username": "AustinScottGA08",
+      "displayName": null,
+      "ownerName": "Austin Scott",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/austin-scott",
+      "text": "The Chinese Communist Party is one of the greatest adversaries of the United States. Their efforts to influence our elections are apparent and we will not tolerate it.\n\nIt is time to pass the SAVE America Act. We must ensure that American elections are safe and secure.",
+      "createdAt": "2026-07-17T02:04:30Z",
+      "timestamp": 1784253870,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 16,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 822
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/AustinScottGA08/status/2077937457278960077"
+    },
+    {
       "id": "2077937457664831712",
       "handle": "replamonica",
       "username": "RepLaMonica",
@@ -85318,34 +85953,6 @@
       ],
       "urls": [],
       "url": "https://x.com/RepLaMonica/status/2077937457664831712"
-    },
-    {
-      "id": "2077937457278960077",
-      "handle": "austinscottga08",
-      "username": "AustinScottGA08",
-      "displayName": null,
-      "ownerName": "Austin Scott",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/austin-scott",
-      "text": "The Chinese Communist Party is one of the greatest adversaries of the United States. Their efforts to influence our elections are apparent and we will not tolerate it.\n\nIt is time to pass the SAVE America Act. We must ensure that American elections are safe and secure.",
-      "createdAt": "2026-07-17T02:04:30Z",
-      "timestamp": 1784253870,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 7,
-        "like_count": 13,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 458
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/AustinScottGA08/status/2077937457278960077"
     },
     {
       "id": "2077937363481719188",
@@ -90012,7 +90619,7 @@
       "metrics": {
         "retweet_count": 62,
         "reply_count": 23,
-        "like_count": 291,
+        "like_count": 292,
         "quote_count": 3,
         "bookmark_count": 0,
         "view_count": null
@@ -91915,10 +92522,10 @@
       "metrics": {
         "retweet_count": 0,
         "reply_count": 1,
-        "like_count": 9,
+        "like_count": 11,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 721
+        "view_count": 874
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -93027,12 +93634,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 4,
+        "retweet_count": 6,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 112
+        "view_count": 126
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -109107,7 +109714,7 @@
         "like_count": 29,
         "quote_count": 5,
         "bookmark_count": 1,
-        "view_count": 4257
+        "view_count": 4259
       },
       "tags": [],
       "kurdistanTerms": [
@@ -111260,11 +111867,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 12,
+        "reply_count": 1,
+        "like_count": 13,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 772
+        "view_count": 846
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -113561,7 +114168,7 @@
       "id": "2077805056930316652",
       "handle": "repamata",
       "username": "RepAmata",
-      "displayName": null,
+      "displayName": "Rep. Aumua Amata🇦🇸",
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -113577,7 +114184,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 246
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -115259,7 +115866,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 113
+        "view_count": 122
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -118060,10 +118667,10 @@
       "metrics": {
         "retweet_count": 6,
         "reply_count": 0,
-        "like_count": 78,
+        "like_count": 81,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 2968
+        "view_count": 3256
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -121938,621 +122545,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/kellymorrisonmn/status/2077767826551534050"
-    },
-    {
-      "id": "2077767804514627685",
-      "handle": "senwhitehouse",
-      "username": "SenWhitehouse",
-      "displayName": null,
-      "ownerName": "Sheldon Whitehouse",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/sheldon-whitehouse",
-      "text": "https://t.co/WhUsWCHuts",
-      "createdAt": "2026-07-16T14:50:22Z",
-      "timestamp": 1784213422,
-      "tweetType": "tweet",
-      "language": "zxx",
-      "metrics": {
-        "retweet_count": 310,
-        "reply_count": 42,
-        "like_count": 840,
-        "quote_count": 5,
-        "bookmark_count": 18,
-        "view_count": 9741
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenWhitehouse/status/2077767804514627685"
-    },
-    {
-      "id": "2077767612767867352",
-      "handle": "senwarren",
-      "username": "SenWarren",
-      "displayName": null,
-      "ownerName": "Elizabeth Warren",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/elizabeth-warren",
-      "text": "RT @SenatorAndyKim: We should make it easier, not harder for Americans to build their financial futures. But Vought’s CFPB has made changes…",
-      "createdAt": "2026-07-16T14:49:36Z",
-      "timestamp": 1784213376,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 27,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2987
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenWarren/status/2077767612767867352"
-    },
-    {
-      "id": "2077767298509652059",
-      "handle": "repbobonder",
-      "username": "RepBobOnder",
-      "displayName": null,
-      "ownerName": "Robert F. Onder, Jr.",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/robert-f-onder-jr",
-      "text": "RT @EdWorkforceCmte: Student parents shouldn't have to choose between raising a family and earning a degree.\n\n@RepBobOnder's H.R. 9606, Les…",
-      "createdAt": "2026-07-16T14:48:21Z",
-      "timestamp": 1784213301,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 31
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBobOnder/status/2077767298509652059"
-    },
-    {
-      "id": "2077767217244934632",
-      "handle": "repjamescomer",
-      "username": "RepJamesComer",
-      "displayName": null,
-      "ownerName": "James Comer",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-comer",
-      "text": "Radical DC socialists want to solve their spending problem by reaching deeper into taxpayers’ pockets.\n\nHigher taxes will not fix the financial mess they created in DC. \n\nMy legislation will now give Congress veto power over any efforts to raise taxes in DC. @WashTimes https://t.co/2xm3soxghl",
-      "createdAt": "2026-07-16T14:48:02Z",
-      "timestamp": 1784213282,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 49,
-        "reply_count": 33,
-        "like_count": 179,
-        "quote_count": 5,
-        "bookmark_count": 1,
-        "view_count": 11775
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepJamesComer/status/2077767217244934632"
-    },
-    {
-      "id": "2077767180754587883",
-      "handle": "senwhitehouse",
-      "username": "SenWhitehouse",
-      "displayName": null,
-      "ownerName": "Sheldon Whitehouse",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/sheldon-whitehouse",
-      "text": "RT @atrupar: WHITEHOUSE: How long do you intend to put up with that Kash Patel character? Are you good with his airplane jaunts, are you co…",
-      "createdAt": "2026-07-16T14:47:53Z",
-      "timestamp": 1784213273,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2890,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 657
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenWhitehouse/status/2077767180754587883"
-    },
-    {
-      "id": "2077767155232170474",
-      "handle": "repbobonder",
-      "username": "RepBobOnder",
-      "displayName": null,
-      "ownerName": "Robert F. Onder, Jr.",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/robert-f-onder-jr",
-      "text": "RT @CWforA: Today the @ChloeCole Act passed out of committee. 👏\n\nBrave detransitioners like @PrishaMosley have been critical in demanding j…",
-      "createdAt": "2026-07-16T14:47:47Z",
-      "timestamp": 1784213267,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 33
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBobOnder/status/2077767155232170474"
-    },
-    {
-      "id": "2077767146667458859",
-      "handle": "repbencline",
-      "username": "RepBenCline",
-      "displayName": null,
-      "ownerName": "Ben Cline",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ben-cline",
-      "text": "Working families benefited more than anyone from the Working Families Tax Cuts, with almost 70% of tax filers who earned less than $100,000 receiving cuts. \n\n@HouseGOP is securing the economic future of Americans and delivering on our promise of a better, safer, more affordable https://t.co/NIbzWCf2im",
-      "createdAt": "2026-07-16T14:47:45Z",
-      "timestamp": 1784213265,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 8,
-        "like_count": 6,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 2028
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepBenCline/status/2077767146667458859"
-    },
-    {
-      "id": "2077766953884647674",
-      "handle": "senkevincramer",
-      "username": "SenKevinCramer",
-      "displayName": null,
-      "ownerName": "Kevin Cramer",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kevin-cramer",
-      "text": "Going live on air with Noah Chelliah on @1310KNOX at 10:00 a.m. CT / 11:00 a.m. ET for our weekly radio town hall. Don’t miss it! 🎙️\nhttps://t.co/QYJZLbXKzx",
-      "createdAt": "2026-07-16T14:46:59Z",
-      "timestamp": 1784213219,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 5,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 484
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/QYJZLbXKzx",
-          "expanded_url": "https://knoxradio.com/",
-          "display_url": "knoxradio.com"
-        }
-      ],
-      "url": "https://x.com/SenKevinCramer/status/2077766953884647674"
-    },
-    {
-      "id": "2077766930371428805",
-      "handle": "repraskin",
-      "username": "RepRaskin",
-      "displayName": null,
-      "ownerName": "Jamie Raskin",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jamie-raskin",
-      "text": "RT @RepAOC: The Supreme Court is facing a major corruption crisis.\n\nI'm proud to introduce the High Court Gift Ban Act, with @RepRaskin and…",
-      "createdAt": "2026-07-16T14:46:53Z",
-      "timestamp": 1784213213,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2015,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1667
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepRaskin/status/2077766930371428805"
-    },
-    {
-      "id": "2077766921076764946",
-      "handle": "repcuellar",
-      "username": "RepCuellar",
-      "displayName": null,
-      "ownerName": "Henry Cuellar",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/henry-cuellar",
-      "text": "Strong partnerships throughout the Western Hemisphere are important to promoting economic growth, security, and stability across our region.\n\nI met with Vice President-elect @jrestrp, Minister of Commerce, Industry, and Tourism-Designate @MauricioGomezCO, and Minister of https://t.co/oKD7RlDtnC",
-      "createdAt": "2026-07-16T14:46:51Z",
-      "timestamp": 1784213211,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 26,
-        "reply_count": 7,
-        "like_count": 60,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 2247
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Security / counterterrorism",
-        "Diplomatic / official contact",
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepCuellar/status/2077766921076764946"
-    },
-    {
-      "id": "2077766906606420160",
-      "handle": "repraskin",
-      "username": "RepRaskin",
-      "displayName": null,
-      "ownerName": "Jamie Raskin",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jamie-raskin",
-      "text": "RT @SenatorLujan: RT if you think Supreme Court Justices shouldn’t be allowed to accept lavish gifts and vacations. I just introduced a bil…",
-      "createdAt": "2026-07-16T14:46:48Z",
-      "timestamp": 1784213208,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 89,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1694
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepRaskin/status/2077766906606420160"
-    },
-    {
-      "id": "2077766735407550731",
-      "handle": "senatortimscott",
-      "username": "SenatorTimScott",
-      "displayName": null,
-      "ownerName": "Tim Scott",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tim-scott",
-      "text": "My favorite day of the year, Peach Day! \n\nThank you to Titan Farms for bringing a taste of the Palmetto State to Washington. The largest supplier of peaches in America from the heart of South Carolina! 🌴🍑 https://t.co/akgqqkolvT",
-      "createdAt": "2026-07-16T14:46:07Z",
-      "timestamp": 1784213167,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 20,
-        "reply_count": 25,
-        "like_count": 424,
-        "quote_count": 0,
-        "bookmark_count": 12,
-        "view_count": 16402
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenatorTimScott/status/2077766735407550731"
-    },
-    {
-      "id": "2077766615395951071",
-      "handle": "repdavetaylor",
-      "username": "RepDaveTaylor",
-      "displayName": null,
-      "ownerName": "David J. Taylor",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/david-j-taylor",
-      "text": "RT @amiller0311: THANK YOU to #Ohio's own @RepDaveTaylor for supporting the Take Care of America's Veterans Act 🇺🇲 #TCAVA https://t.co/0Jvd…",
-      "createdAt": "2026-07-16T14:45:38Z",
-      "timestamp": 1784213138,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 9,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 27
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/0Jvd",
-          "expanded_url": null,
-          "display_url": "t.co/0Jvd"
-        }
-      ],
-      "url": "https://x.com/RepDaveTaylor/status/2077766615395951071"
-    },
-    {
-      "id": "2077766535171465396",
-      "handle": "benniegthompson",
-      "username": "BennieGThompson",
-      "displayName": null,
-      "ownerName": "Bennie G. Thompson",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bennie-g-thompson",
-      "text": "RT @NewDemCoalition: Costs at the grocery store and gas pump continue to rise, and over half of Americans are now feeling the squeeze.\n\nWhi…",
-      "createdAt": "2026-07-16T14:45:19Z",
-      "timestamp": 1784213119,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 10,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 225
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/BennieGThompson/status/2077766535171465396"
-    },
-    {
-      "id": "2077766517370810663",
-      "handle": "repbobonder",
-      "username": "RepBobOnder",
-      "displayName": null,
-      "ownerName": "Robert F. Onder, Jr.",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/robert-f-onder-jr",
-      "text": "The Missouri ALOT program was established to assist Missourians in developing critical communication and leadership skills within the agricultural community. For more than 40 years, ALOT has been guided by the fundamental principles of leadership and the expertise of seasoned https://t.co/95iZA1Tq2M",
-      "createdAt": "2026-07-16T14:45:15Z",
-      "timestamp": 1784213115,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 2,
-        "like_count": 7,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 281
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBobOnder/status/2077766517370810663"
-    },
-    {
-      "id": "2077766389029286223",
-      "handle": "repbeccab",
-      "username": "RepBeccaB",
-      "displayName": null,
-      "ownerName": "Becca Balint",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/becca-balint",
-      "text": "Todd Blanche wants to misuse an antiquated law to ban mifepristone nationwide. I’m sick and tired of this admin trying to control women’s bodies and take away our freedom to make our own health care decisions.\n\nThat’s why I introduced the Stop Comstock Act to stop this backdoor",
-      "createdAt": "2026-07-16T14:44:44Z",
-      "timestamp": 1784213084,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 11,
-        "reply_count": 21,
-        "like_count": 33,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 1241
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBeccaB/status/2077766389029286223"
-    },
-    {
-      "id": "2077766101098733781",
-      "handle": "repkimschrier",
-      "username": "RepKimSchrier",
-      "displayName": null,
-      "ownerName": "Kim Schrier",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kim-schrier",
-      "text": "This week ICE killed two more people. No one is above the law — and the actions of the involved ICE officers must be independently investigated. \n\nThese deaths are just the latest in a series of incidents that show an agency that is out of control, whose reckless actions are",
-      "createdAt": "2026-07-16T14:43:36Z",
-      "timestamp": 1784213016,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 8,
-        "reply_count": 204,
-        "like_count": 21,
-        "quote_count": 7,
-        "bookmark_count": 1,
-        "view_count": 5383
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepKimSchrier/status/2077766101098733781"
-    },
-    {
-      "id": "2077765744096415931",
-      "handle": "repbost",
-      "username": "RepBost",
-      "displayName": null,
-      "ownerName": "Mike Bost",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mike-bost",
-      "text": "The People’s House is about to take a major vote, and the outcome will impact veterans for years to come. I’ve worked with veterans groups and stakeholders inside and outside of Congress for months on a historic veterans bill that has the strong support of the American Legion, https://t.co/gsVNJB49qO",
-      "createdAt": "2026-07-16T14:42:11Z",
-      "timestamp": 1784212931,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 9,
-        "reply_count": 66,
-        "like_count": 44,
-        "quote_count": 6,
-        "bookmark_count": 6,
-        "view_count": 8937
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepBost/status/2077765744096415931"
-    },
-    {
-      "id": "2077765578429763921",
-      "handle": "repdavetaylor",
-      "username": "RepDaveTaylor",
-      "displayName": null,
-      "ownerName": "David J. Taylor",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/david-j-taylor",
-      "text": "RT @HouseDailyPress: .@SpeakerJohnson presided. A guest chaplain, Rev. Jon Thomas, offered the opening prayer. The Journal was approved. @R…",
-      "createdAt": "2026-07-16T14:41:31Z",
-      "timestamp": 1784212891,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 25
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDaveTaylor/status/2077765578429763921"
-    },
-    {
-      "id": "2077765407809646679",
-      "handle": "senatorlankford",
-      "username": "SenatorLankford",
-      "displayName": null,
-      "ownerName": "James Lankford",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-lankford",
-      "text": "We affectionately call my office the Oklahoma Embassy: a place where Okies can speak Okie in DC. This award is really thanks to my staff for making our constituents have the best experience when visiting our nation's capital.",
-      "createdAt": "2026-07-16T14:40:50Z",
-      "timestamp": 1784212850,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 6,
-        "reply_count": 61,
-        "like_count": 51,
-        "quote_count": 1,
-        "bookmark_count": 1,
-        "view_count": 5817
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenatorLankford/status/2077765407809646679"
-    },
-    {
-      "id": "2077765377153462706",
-      "handle": "sentuberville",
-      "username": "SenTuberville",
-      "displayName": null,
-      "ownerName": "Tommy Tuberville",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tommy-tuberville",
-      "text": "Ready for @Sonderling47’s hearing today at @GOPHELP. \n\nHe has my FULL SUPPORT to be our next Secretary of Labor, and I look forward to working with him. https://t.co/WHyEubeG4g",
-      "createdAt": "2026-07-16T14:40:43Z",
-      "timestamp": 1784212843,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 28,
-        "reply_count": 26,
-        "like_count": 155,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 5244
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenTuberville/status/2077765377153462706"
     }
   ],
   "notes": [
