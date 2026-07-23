@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T04:50:58.117912Z",
+  "generatedAt": "2026-07-23T07:33:44.093553Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-23T04:50:37.142Z",
+    "generatedAt": "2026-07-23T07:32:53.324Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55919,
+    "tweets": 55931,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-23T04:50:56.393060Z",
+  "lastCaptureAt": "2026-07-23T07:33:43.125231Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30567,7 +30567,7 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T04:50:56.393060Z",
+      "lastScrapedAt": "2026-07-23T07:33:10.209351Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 2604,
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T17:18:02.009958Z",
+      "lastScrapedAt": "2026-07-23T07:33:11.462087Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
-      "followersCount": 41445,
+      "followersCount": 41447,
       "followingCount": 866,
       "verified": true
     },
@@ -30873,10 +30873,10 @@
       "profileHref": "/country/usa/congress/ann-wagner",
       "url": "https://x.com/RepAnnWagner",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:47:51.567315Z",
+      "lastScrapedAt": "2026-07-23T07:33:26.654437Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 32589,
+      "followersCount": 32586,
       "followingCount": 2256,
       "verified": false
     },
@@ -30899,7 +30899,7 @@
     },
     {
       "username": "RepAprilDelaney",
-      "displayName": "April McClain Delaney",
+      "displayName": "Rep. April McClain Delaney",
       "ownerName": "April McClain Delaney",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30907,12 +30907,12 @@
       "profileHref": "/country/usa/congress/april-mcclain-delaney",
       "url": "https://x.com/RepAprilDelaney",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:48:27.847954Z",
+      "lastScrapedAt": "2026-07-23T07:33:27.974633Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 2958,
-      "followingCount": 97,
-      "verified": false
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874865833597435904/zLYrx6gb_normal.jpg",
+      "followersCount": 2959,
+      "followingCount": 98,
+      "verified": true
     },
     {
       "username": "RepAshleyHinson",
@@ -30924,10 +30924,10 @@
       "profileHref": "/country/usa/congress/ashley-hinson",
       "url": "https://x.com/RepAshleyHinson",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:48:45.351349Z",
+      "lastScrapedAt": "2026-07-23T07:33:43.125231Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 60133,
+      "followersCount": 60166,
       "followingCount": 714,
       "verified": false
     },
@@ -40820,7 +40820,7 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T04:50:56.393060Z",
+      "lastScrapedAt": "2026-07-23T07:33:10.209351Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 2604,
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-22T17:18:02.009958Z",
+      "lastScrapedAt": "2026-07-23T07:33:11.462087Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
-      "followersCount": 41445,
+      "followersCount": 41447,
       "followingCount": 866,
       "verified": true
     },
@@ -41126,10 +41126,10 @@
       "profileHref": "/country/usa/congress/ann-wagner",
       "url": "https://x.com/RepAnnWagner",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:47:51.567315Z",
+      "lastScrapedAt": "2026-07-23T07:33:26.654437Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 32589,
+      "followersCount": 32586,
       "followingCount": 2256,
       "verified": false
     },
@@ -41152,7 +41152,7 @@
     },
     {
       "username": "RepAprilDelaney",
-      "displayName": "April McClain Delaney",
+      "displayName": "Rep. April McClain Delaney",
       "ownerName": "April McClain Delaney",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41160,12 +41160,12 @@
       "profileHref": "/country/usa/congress/april-mcclain-delaney",
       "url": "https://x.com/RepAprilDelaney",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:48:27.847954Z",
+      "lastScrapedAt": "2026-07-23T07:33:27.974633Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 2958,
-      "followingCount": 97,
-      "verified": false
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874865833597435904/zLYrx6gb_normal.jpg",
+      "followersCount": 2959,
+      "followingCount": 98,
+      "verified": true
     },
     {
       "username": "RepAshleyHinson",
@@ -41177,10 +41177,10 @@
       "profileHref": "/country/usa/congress/ashley-hinson",
       "url": "https://x.com/RepAshleyHinson",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T18:48:45.351349Z",
+      "lastScrapedAt": "2026-07-23T07:33:43.125231Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 60133,
+      "followersCount": 60166,
       "followingCount": 714,
       "verified": false
     },
@@ -48854,6 +48854,132 @@
   ],
   "tweets": [
     {
+      "id": "2080042536098513256",
+      "handle": "repashleyhinson",
+      "username": "RepAshleyHinson",
+      "displayName": null,
+      "ownerName": "Ashley Hinson",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/ashley-hinson",
+      "text": "This year's NDAA prioritizes taking care of the brave men and women who serve and strengthens America's national defense. We’re delivering a well-earned 5–7% pay raise as well as improving healthcare and childcare options for our military families. It also strengthens our",
+      "createdAt": "2026-07-22T21:29:20Z",
+      "timestamp": 1784755760,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 12,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1106
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAshleyHinson/status/2080042536098513256"
+    },
+    {
+      "id": "2080035424785870911",
+      "handle": "repannwagner",
+      "username": "RepAnnWagner",
+      "displayName": null,
+      "ownerName": "Ann Wagner",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/ann-wagner",
+      "text": "RELEASE: Wagner Votes to Ban Congressional Stock Trading\n\nRead here ⬇️⬇️⬇️\n\nhttps://t.co/0NrycrhwqM",
+      "createdAt": "2026-07-22T21:01:05Z",
+      "timestamp": 1784754065,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 9,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 612
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/0NrycrhwqM",
+          "expanded_url": "https://wagner.house.gov/media-center/press-releases/wagner-votes-ban-congressional-stock-trading",
+          "display_url": "wagner.house.gov/media-center/p…"
+        }
+      ],
+      "url": "https://x.com/RepAnnWagner/status/2080035424785870911"
+    },
+    {
+      "id": "2080032308971602014",
+      "handle": "repannwagner",
+      "username": "RepAnnWagner",
+      "displayName": null,
+      "ownerName": "Ann Wagner",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/ann-wagner",
+      "text": "RELEASE: Wagner Votes to Advance Peace Through Strength, Invest in Missouri-made Defense Production\n\nRead here ⬇️⬇️⬇️\n\nhttps://t.co/727BuSFfLz",
+      "createdAt": "2026-07-22T20:48:42Z",
+      "timestamp": 1784753322,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 618
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/727BuSFfLz",
+          "expanded_url": "https://wagner.house.gov/media-center/press-releases/wagner-votes-advance-peace-through-strength-invest-missouri-made",
+          "display_url": "wagner.house.gov/media-center/p…"
+        }
+      ],
+      "url": "https://x.com/RepAnnWagner/status/2080032308971602014"
+    },
+    {
+      "id": "2080026045990756356",
+      "handle": "repannwagner",
+      "username": "RepAnnWagner",
+      "displayName": null,
+      "ownerName": "Ann Wagner",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/ann-wagner",
+      "text": "For millions of seniors across this country, retirement isn’t given – it is earned through years of hard work and dedication. \n\nIt is the result of overtime shifts, vacations postponed and contributions made even when budgets are tight. \n\nRetirement is the reward for decades of",
+      "createdAt": "2026-07-22T20:23:49Z",
+      "timestamp": 1784751829,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 3,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 922
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAnnWagner/status/2080026045990756356"
+    },
+    {
       "id": "2080021814852387207",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
@@ -48873,7 +48999,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 260
+        "view_count": 268
       },
       "tags": [],
       "kurdistanTerms": [
@@ -49013,6 +49139,34 @@
       "url": "https://x.com/RepAndyBarr/status/2079965952385462644"
     },
     {
+      "id": "2079962020451897827",
+      "handle": "repaprildelaney",
+      "username": "RepAprilDelaney",
+      "displayName": "Rep. April McClain Delaney",
+      "ownerName": "April McClain Delaney",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/april-mcclain-delaney",
+      "text": "Team Delaney had a great time at the Washington County Fair! My staff enjoyed working in Washington County Farm Bureau's Shake and Cream Stand, serving ice cream to fair-goers. The team had the opportunity to walk the barns, meet constituents and elected officials, and watch the https://t.co/G73seqANac",
+      "createdAt": "2026-07-22T16:09:24Z",
+      "timestamp": 1784736564,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAprilDelaney/status/2079962020451897827"
+    },
+    {
       "id": "2079949840943862034",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
@@ -49032,7 +49186,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 194
+        "view_count": 197
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49092,7 +49246,7 @@
         "like_count": 16,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 2270
+        "view_count": 2299
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49209,7 +49363,7 @@
       "language": "en",
       "metrics": {
         "retweet_count": 3,
-        "reply_count": 6,
+        "reply_count": 7,
         "like_count": 13,
         "quote_count": 0,
         "bookmark_count": 0,
@@ -49337,7 +49491,7 @@
         "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 2637
+        "view_count": 2643
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49431,7 +49585,7 @@
         "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 2765
+        "view_count": 2771
       },
       "tags": [],
       "kurdistanTerms": [
@@ -49464,7 +49618,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1920
+        "view_count": 1924
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49595,6 +49749,64 @@
       ],
       "urls": [],
       "url": "https://x.com/SenArmstrong/status/2079610656211206149"
+    },
+    {
+      "id": "2079608601908277460",
+      "handle": "repashleyhinson",
+      "username": "RepAshleyHinson",
+      "displayName": null,
+      "ownerName": "Ashley Hinson",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/ashley-hinson",
+      "text": "Last night I was proud to support reauthorizing the bipartisan EARLY Act. The programs funded by this bill are proven to help educate young women about breast cancer risks and the importance of early detection, while also supporting access to breast &amp; cervical cancer screening.",
+      "createdAt": "2026-07-21T16:45:02Z",
+      "timestamp": 1784652302,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 8,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 2063
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAshleyHinson/status/2079608601908277460"
+    },
+    {
+      "id": "2079604937776824498",
+      "handle": "repaprildelaney",
+      "username": "RepAprilDelaney",
+      "displayName": "Rep. April McClain Delaney",
+      "ownerName": "April McClain Delaney",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/april-mcclain-delaney",
+      "text": "Big news: My bipartisan SCALE Biology Act just advanced out of the House Science, Space, and Technology Committee.\n\nAmerica can't lead the future of biotechnology without the standards that power innovation. This bill helps ensure we stay ahead in healthcare, manufacturing, https://t.co/MZAYPklJ5x",
+      "createdAt": "2026-07-21T16:30:29Z",
+      "timestamp": 1784651429,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 8,
+        "reply_count": 7,
+        "like_count": 22,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAprilDelaney/status/2079604937776824498"
     },
     {
       "id": "2079597171360383331",
@@ -49741,6 +49953,36 @@
       "url": "https://x.com/RepGarbarino/status/2079586412697997812"
     },
     {
+      "id": "2079575394139709509",
+      "handle": "repaprildelaney",
+      "username": "RepAprilDelaney",
+      "displayName": "Rep. April McClain Delaney",
+      "ownerName": "April McClain Delaney",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/april-mcclain-delaney",
+      "text": "The push to reestablish settlements in Gaza by far-right members of the Israeli cabinet would only undermine the path to peace and a two-state solution and deepen suffering for Palestinians. This is outrageous, and U.S. leadership should be clear that there should be no",
+      "createdAt": "2026-07-21T14:33:05Z",
+      "timestamp": 1784644385,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAprilDelaney/status/2079575394139709509"
+    },
+    {
       "id": "2079555923664633878",
       "handle": "repgarbarino",
       "username": "RepGarbarino",
@@ -49797,6 +50039,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepAndyHarrisMD/status/2079340170671726760"
+    },
+    {
+      "id": "2079318291592437973",
+      "handle": "repaprildelaney",
+      "username": "RepAprilDelaney",
+      "displayName": "Rep. April McClain Delaney",
+      "ownerName": "April McClain Delaney",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/april-mcclain-delaney",
+      "text": "One of the best parts of this job is being out in the community with the people I serve.\n\nIt was an honor to join Asbury United Methodist Church's Annual Community Block Party and present a Congressional Certificate recognizing their incredible commitment to our neighbors. Thank https://t.co/6fIw39Rz6H",
+      "createdAt": "2026-07-20T21:31:27Z",
+      "timestamp": 1784583087,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAprilDelaney/status/2079318291592437973"
     },
     {
       "id": "2079311391459103222",
@@ -50049,7 +50321,7 @@
         "like_count": 24,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 2994
+        "view_count": 2998
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50232,6 +50504,38 @@
       "url": "https://x.com/RepAlGreen/status/2078974504206787015"
     },
     {
+      "id": "2078608267828470231",
+      "handle": "repaprildelaney",
+      "username": "RepAprilDelaney",
+      "displayName": "Rep. April McClain Delaney",
+      "ownerName": "April McClain Delaney",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/april-mcclain-delaney",
+      "text": "My thoughts are with the families of the two U.S. service members killed in Iran’s attack, and with the loved ones of the service member still missing as they await answers.  Trump dragged America into an illegal war with no congressional authorization, no coherent strategy,",
+      "createdAt": "2026-07-18T22:30:04Z",
+      "timestamp": 1784413804,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 11,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [
+        "Critical / hostile language"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepAprilDelaney/status/2078608267828470231"
+    },
+    {
       "id": "2078578933264724235",
       "handle": "repangiecraig",
       "username": "RepAngieCraig",
@@ -50258,6 +50562,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepAngieCraig/status/2078578933264724235"
+    },
+    {
+      "id": "2078559712413397121",
+      "handle": "repaprildelaney",
+      "username": "RepAprilDelaney",
+      "displayName": "Rep. April McClain Delaney",
+      "ownerName": "April McClain Delaney",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/april-mcclain-delaney",
+      "text": "Please stay vigilant this afternoon. Severe storms are expected across our region. Keep an eye on local weather alerts, have a plan, and take warnings seriously. Stay safe.",
+      "createdAt": "2026-07-18T19:17:07Z",
+      "timestamp": 1784402227,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAprilDelaney/status/2078559712413397121"
     },
     {
       "id": "2078543493346058270",
@@ -50294,6 +50626,34 @@
         }
       ],
       "url": "https://x.com/RepAngieCraig/status/2078543493346058270"
+    },
+    {
+      "id": "2078509978957066574",
+      "handle": "repashleyhinson",
+      "username": "RepAshleyHinson",
+      "displayName": null,
+      "ownerName": "Ashley Hinson",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/ashley-hinson",
+      "text": "Team Hinson enjoyed visiting with residents at Mallard Point Senior Living Center in Cedar Falls! Great to hear their stories, answer questions, and share how our office can help them navigate issues with federal agencies. https://t.co/1EvQERK4wb",
+      "createdAt": "2026-07-18T15:59:30Z",
+      "timestamp": 1784390370,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 13,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1756
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAshleyHinson/status/2078509978957066574"
     },
     {
       "id": "2078496318591205388",
@@ -52676,9 +53036,9 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 2,
+        "retweet_count": 3,
         "reply_count": 13,
-        "like_count": 13,
+        "like_count": 14,
         "quote_count": 1,
         "bookmark_count": 0,
         "view_count": null
@@ -66641,7 +67001,7 @@
       "id": "2078172351200477631",
       "handle": "repaprildelaney",
       "username": "RepAprilDelaney",
-      "displayName": null,
+      "displayName": "Rep. April McClain Delaney",
       "ownerName": "April McClain Delaney",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -66652,12 +67012,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 0,
-        "reply_count": 2,
-        "like_count": 1,
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 174
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -75503,12 +75863,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 3,
-        "reply_count": 6,
-        "like_count": 15,
+        "retweet_count": 5,
+        "reply_count": 18,
+        "like_count": 31,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 755
+        "view_count": 1835
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -85103,7 +85463,7 @@
       "id": "2077937042143535117",
       "handle": "repaprildelaney",
       "username": "RepAprilDelaney",
-      "displayName": null,
+      "displayName": "Rep. April McClain Delaney",
       "ownerName": "April McClain Delaney",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -85115,11 +85475,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 3,
-        "reply_count": 8,
-        "like_count": 8,
+        "reply_count": 13,
+        "like_count": 9,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 551
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -87517,7 +87877,7 @@
       "id": "2077929023628308911",
       "handle": "repaprildelaney",
       "username": "RepAprilDelaney",
-      "displayName": null,
+      "displayName": "Rep. April McClain Delaney",
       "ownerName": "April McClain Delaney",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -87529,11 +87889,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 6,
-        "reply_count": 16,
-        "like_count": 12,
+        "reply_count": 27,
+        "like_count": 13,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 875
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -89450,7 +89810,7 @@
       "metrics": {
         "retweet_count": 31,
         "reply_count": 16,
-        "like_count": 186,
+        "like_count": 187,
         "quote_count": 0,
         "bookmark_count": 0,
         "view_count": null
@@ -89652,7 +90012,7 @@
       "metrics": {
         "retweet_count": 62,
         "reply_count": 23,
-        "like_count": 292,
+        "like_count": 291,
         "quote_count": 3,
         "bookmark_count": 0,
         "view_count": null
@@ -98300,7 +98660,7 @@
       "id": "2077857711509631201",
       "handle": "repaprildelaney",
       "username": "RepAprilDelaney",
-      "displayName": null,
+      "displayName": "Rep. April McClain Delaney",
       "ownerName": "April McClain Delaney",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -98313,10 +98673,10 @@
       "metrics": {
         "retweet_count": 1,
         "reply_count": 5,
-        "like_count": 8,
+        "like_count": 9,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 535
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -100670,12 +101030,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 0,
-        "reply_count": 4,
-        "like_count": 4,
+        "retweet_count": 1,
+        "reply_count": 25,
+        "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 771
+        "view_count": 1038
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -101143,12 +101503,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 12,
+        "retweet_count": 13,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 98
+        "view_count": 103
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -101724,12 +102084,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 4,
+        "retweet_count": 5,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 131
+        "view_count": 138
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -103754,12 +104114,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 2,
+        "retweet_count": 3,
         "reply_count": 9,
-        "like_count": 17,
+        "like_count": 18,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 1085
+        "view_count": 1392
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -108747,7 +109107,7 @@
         "like_count": 29,
         "quote_count": 5,
         "bookmark_count": 1,
-        "view_count": 4253
+        "view_count": 4257
       },
       "tags": [],
       "kurdistanTerms": [
@@ -115473,7 +115833,7 @@
         "like_count": 15,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 626
+        "view_count": 627
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -116159,7 +116519,7 @@
       "id": "2077791632301101314",
       "handle": "repaprildelaney",
       "username": "RepAprilDelaney",
-      "displayName": null,
+      "displayName": "Rep. April McClain Delaney",
       "ownerName": "April McClain Delaney",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -116175,7 +116535,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 381
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -118311,12 +118671,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 97,
+        "retweet_count": 100,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 113
+        "view_count": 123
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -118896,11 +119256,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 0,
-        "reply_count": 3,
-        "like_count": 7,
+        "reply_count": 10,
+        "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 894
+        "view_count": 1010
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122193,356 +122553,6 @@
       ],
       "urls": [],
       "url": "https://x.com/SenTuberville/status/2077765377153462706"
-    },
-    {
-      "id": "2077765218499776762",
-      "handle": "vp",
-      "username": "VP",
-      "displayName": "Vice President JD Vance",
-      "ownerName": "Office of the Vice President",
-      "ownerType": "Government office",
-      "countryId": "usa",
-      "profileHref": "/country/usa",
-      "text": "RT @JDVance: Our Republican majority has accomplished a lot despite narrow margins. It’s time for us to unite again and do something that r…",
-      "createdAt": "2026-07-16T14:40:05Z",
-      "timestamp": 1784212805,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 6628,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/VP/status/2077765218499776762"
-    },
-    {
-      "id": "2077765134907298248",
-      "handle": "repbrianmast",
-      "username": "RepBrianMast",
-      "displayName": null,
-      "ownerName": "Brian J. Mast",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brian-j-mast",
-      "text": "A significant part of our community’s history. \nhttps://t.co/gb9GG91fjO",
-      "createdAt": "2026-07-16T14:39:45Z",
-      "timestamp": 1784212785,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 6,
-        "reply_count": 5,
-        "like_count": 12,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1405
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/gb9GG91fjO",
-          "expanded_url": "https://www.tcpalm.com/story/news/local/st-lucie-county/2026/07/15/florida-cracker-trail-predates-america-honors-history-by-annual-ride-fort-pierce-bradenton/90370708007/",
-          "display_url": "tcpalm.com/story/news/loc…"
-        }
-      ],
-      "url": "https://x.com/RepBrianMast/status/2077765134907298248"
-    },
-    {
-      "id": "2077764982159106095",
-      "handle": "repogles",
-      "username": "repogles",
-      "displayName": null,
-      "ownerName": "Andrew Ogles",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/andrew-ogles",
-      "text": "If Democrats aren't going to cheat, why do they have a problem with Voter ID? \n\nJohn Thune should be forcing Democrats to answer this question LIVE on the Senate floor. \n\nIt’s time for the Senate to do its job.",
-      "createdAt": "2026-07-16T14:39:09Z",
-      "timestamp": 1784212749,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 135,
-        "reply_count": 74,
-        "like_count": 416,
-        "quote_count": 4,
-        "bookmark_count": 6,
-        "view_count": 22429
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repogles/status/2077764982159106095"
-    },
-    {
-      "id": "2077764926039372275",
-      "handle": "repgregstanton",
-      "username": "RepGregStanton",
-      "displayName": null,
-      "ownerName": "Greg Stanton",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/greg-stanton",
-      "text": "RT @NewDemCoalition: Costs at the grocery store and gas pump continue to rise, and over half of Americans are now feeling the squeeze.\n\nWhi…",
-      "createdAt": "2026-07-16T14:38:56Z",
-      "timestamp": 1784212736,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 10,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 85
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepGregStanton/status/2077764926039372275"
-    },
-    {
-      "id": "2077764878538813793",
-      "handle": "repcdmenefee",
-      "username": "RepCDMenefee",
-      "displayName": null,
-      "ownerName": "Christian D. Menefee",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/christian-d-menefee",
-      "text": "I'm the son of two veterans, my family bought our first home because of a VA home loan, I know firsthand what these benefits mean. Yet Republicans are proposing with a bill that would slash disability benefits, raise costs on VA home loans, and make life even harder for those who https://t.co/BxHDVwi4Ce",
-      "createdAt": "2026-07-16T14:38:44Z",
-      "timestamp": 1784212724,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 104,
-        "reply_count": 19,
-        "like_count": 272,
-        "quote_count": 1,
-        "bookmark_count": 6,
-        "view_count": 3200
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepCDMenefee/status/2077764878538813793"
-    },
-    {
-      "id": "2077764833802395952",
-      "handle": "reprickallen",
-      "username": "RepRickAllen",
-      "displayName": null,
-      "ownerName": "Rick W. Allen",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/rick-w-allen",
-      "text": "America is strongest when our allies can count on us and our adversaries fear us. \n\nH.R. 8595 puts America first, cuts wasteful international spending, blocks radical foreign policy programs, supports our allies, and counters our adversaries. @HouseGOP is ending the era of blank",
-      "createdAt": "2026-07-16T14:38:34Z",
-      "timestamp": 1784212714,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 6,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 836
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepRickAllen/status/2077764833802395952"
-    },
-    {
-      "id": "2077764832078569828",
-      "handle": "senatorricketts",
-      "username": "SenatorRicketts",
-      "displayName": null,
-      "ownerName": "Pete Ricketts",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/pete-ricketts",
-      "text": "Year-round E15 would create thousands of new jobs. It would also generate an additional $25.8 billion in economic activity, including $13.8 billion in new corn demand. \n\nIn the Senate, we’re fighting to get year-round, nationwide E15 across the finish line. https://t.co/xzaQ2dmgCZ",
-      "createdAt": "2026-07-16T14:38:33Z",
-      "timestamp": 1784212713,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 15,
-        "like_count": 11,
-        "quote_count": 2,
-        "bookmark_count": 1,
-        "view_count": 980
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenatorRicketts/status/2077764832078569828"
-    },
-    {
-      "id": "2077764770669682827",
-      "handle": "repgracemeng",
-      "username": "RepGraceMeng",
-      "displayName": null,
-      "ownerName": "Grace Meng",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/grace-meng",
-      "text": "This Administration’s attacks on reproductive freedom are worse than we knew.\n\nSenior officials tried to destroy IUDs and implants stored abroad by lying and saying they cause abortions.\n\nThese are the same products used by millions of Americans every day to be able to choose",
-      "createdAt": "2026-07-16T14:38:18Z",
-      "timestamp": 1784212698,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 5,
-        "like_count": 16,
-        "quote_count": 1,
-        "bookmark_count": 1,
-        "view_count": 1150
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepGraceMeng/status/2077764770669682827"
-    },
-    {
-      "id": "2077764615669215331",
-      "handle": "rephaleystevens",
-      "username": "RepHaleyStevens",
-      "displayName": null,
-      "ownerName": "Haley M. Stevens",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/haley-m-stevens",
-      "text": "Michiganders paid higher prices on everything because of Trump’s illegal tariffs. Now, corporations are getting refunded instead of the people who deserve it.\n\nToday, I introduced the Tariff Refund Act to return that money to hardworking Michigan families. https://t.co/vL1c1qR18x",
-      "createdAt": "2026-07-16T14:37:42Z",
-      "timestamp": 1784212662,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 21,
-        "reply_count": 38,
-        "like_count": 60,
-        "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": 1824
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Critical / hostile language"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepHaleyStevens/status/2077764615669215331"
-    },
-    {
-      "id": "2077764536891822467",
-      "handle": "jim_jordan",
-      "username": "Jim_Jordan",
-      "displayName": null,
-      "ownerName": "Jim Jordan",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jim-jordan",
-      "text": "It’s always worse than we thought. https://t.co/rEPupQoE0r",
-      "createdAt": "2026-07-16T14:37:23Z",
-      "timestamp": 1784212643,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 343,
-        "reply_count": 481,
-        "like_count": 2044,
-        "quote_count": 23,
-        "bookmark_count": 10,
-        "view_count": 67019
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/Jim_Jordan/status/2077764536891822467"
-    },
-    {
-      "id": "2077764296042246568",
-      "handle": "repronestes",
-      "username": "RepRonEstes",
-      "displayName": null,
-      "ownerName": "Ron Estes",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ron-estes",
-      "text": "Wichita has been ranked as the #1 city for aerospace &amp; defense manufacturing out of nearly 400 competitive metropolitan areas. The Air Capital of the World continues to lead the way in building the aircraft that transport people and goods through the skies and developing the",
-      "createdAt": "2026-07-16T14:36:25Z",
-      "timestamp": 1784212585,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 2,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 277
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepRonEstes/status/2077764296042246568"
-    },
-    {
-      "id": "2077764259656708096",
-      "handle": "senatorlujan",
-      "username": "SenatorLujan",
-      "displayName": null,
-      "ownerName": "Ben Ray Luján",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ben-ray-lujan",
-      "text": "RT @SenatorLujan: Donald Trump is still lying about the 2020 election. This week, he'll deliver another speech trying to convince Americans…",
-      "createdAt": "2026-07-16T14:36:17Z",
-      "timestamp": 1784212577,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 85,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenatorLujan/status/2077764259656708096"
     }
   ],
   "notes": [
