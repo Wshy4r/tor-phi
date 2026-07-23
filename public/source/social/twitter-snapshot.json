@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T12:11:07.119933Z",
+  "generatedAt": "2026-07-23T14:42:07.253252Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-23T12:10:16.167Z",
+    "generatedAt": "2026-07-23T14:41:15.253Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 55952,
+    "tweets": 55963,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-23T12:11:06.142623Z",
+  "lastCaptureAt": "2026-07-23T14:42:06.287518Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30567,10 +30567,10 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T12:10:35.470805Z",
+      "lastScrapedAt": "2026-07-23T14:41:33.483234Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 2604,
+      "followersCount": 2607,
       "followingCount": 72,
       "verified": false
     },
@@ -30805,7 +30805,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T12:10:36.537713Z",
+      "lastScrapedAt": "2026-07-23T14:41:34.577428Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
       "followersCount": 41450,
@@ -30967,7 +30967,7 @@
     },
     {
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": "Aumua Amata Coleman Radewagen",
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30975,16 +30975,16 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T12:10:53.871419Z",
+      "lastScrapedAt": "2026-07-23T14:41:49.680840Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4711,
+      "profileImageUrl": null,
+      "followersCount": 4710,
       "followingCount": 188,
-      "verified": true
+      "verified": false
     },
     {
       "username": "AustinScottGA08",
-      "displayName": "Austin Scott",
+      "displayName": "Rep. Austin Scott",
       "ownerName": "Austin Scott",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30992,12 +30992,12 @@
       "profileHref": "/country/usa/congress/austin-scott",
       "url": "https://x.com/AustinScottGA08",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T12:11:06.142623Z",
+      "lastScrapedAt": "2026-07-23T14:41:50.791454Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 35330,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2077441239775928320/mP0drtsb_normal.jpg",
+      "followersCount": 35327,
       "followingCount": 743,
-      "verified": false
+      "verified": true
     },
     {
       "username": "RepPressley",
@@ -31026,10 +31026,10 @@
       "profileHref": "/country/usa/congress/barry-loudermilk",
       "url": "https://x.com/RepLoudermilk",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:02:25.024627Z",
+      "lastScrapedAt": "2026-07-23T14:42:06.287518Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 56473,
+      "followersCount": 56443,
       "followingCount": 1583,
       "verified": false
     },
@@ -40820,10 +40820,10 @@
       "profileHref": "/country/usa/congress/alan-armstrong",
       "url": "https://x.com/SenArmstrong",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T12:10:35.470805Z",
+      "lastScrapedAt": "2026-07-23T14:41:33.483234Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 2604,
+      "followersCount": 2607,
       "followingCount": 72,
       "verified": false
     },
@@ -41058,7 +41058,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T12:10:36.537713Z",
+      "lastScrapedAt": "2026-07-23T14:41:34.577428Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
       "followersCount": 41450,
@@ -41220,7 +41220,7 @@
     },
     {
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": "Aumua Amata Coleman Radewagen",
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41228,16 +41228,16 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T12:10:53.871419Z",
+      "lastScrapedAt": "2026-07-23T14:41:49.680840Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4711,
+      "profileImageUrl": null,
+      "followersCount": 4710,
       "followingCount": 188,
-      "verified": true
+      "verified": false
     },
     {
       "username": "AustinScottGA08",
-      "displayName": "Austin Scott",
+      "displayName": "Rep. Austin Scott",
       "ownerName": "Austin Scott",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41245,12 +41245,12 @@
       "profileHref": "/country/usa/congress/austin-scott",
       "url": "https://x.com/AustinScottGA08",
       "status": "captured",
-      "lastScrapedAt": "2026-07-23T12:11:06.142623Z",
+      "lastScrapedAt": "2026-07-23T14:41:50.791454Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 35330,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2077441239775928320/mP0drtsb_normal.jpg",
+      "followersCount": 35327,
       "followingCount": 743,
-      "verified": false
+      "verified": true
     },
     {
       "username": "RepPressley",
@@ -41279,10 +41279,10 @@
       "profileHref": "/country/usa/congress/barry-loudermilk",
       "url": "https://x.com/RepLoudermilk",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:02:25.024627Z",
+      "lastScrapedAt": "2026-07-23T14:42:06.287518Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 56473,
+      "followersCount": 56443,
       "followingCount": 1583,
       "verified": false
     },
@@ -48854,6 +48854,66 @@
   ],
   "tweets": [
     {
+      "id": "2080285301155762250",
+      "handle": "senarmstrong",
+      "username": "SenArmstrong",
+      "displayName": null,
+      "ownerName": "Alan Armstrong",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/alan-armstrong",
+      "text": "Bad-faith lawsuits and endless court delays shouldn’t block national energy projects that have already been given the green light. \n\nThe American Energy and Mineral Infrastructure Act strengthens judicial review standards under NEPA to stop activists from abusing the courts and",
+      "createdAt": "2026-07-23T13:34:00Z",
+      "timestamp": 1784813640,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 191
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenArmstrong/status/2080285301155762250"
+    },
+    {
+      "id": "2080283380931854666",
+      "handle": "senarmstrong",
+      "username": "SenArmstrong",
+      "displayName": null,
+      "ownerName": "Alan Armstrong",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/alan-armstrong",
+      "text": "RT @SenArmstrong: I could have stayed on the sidelines and complained about our broken permitting system, but I believe that if you see a p…",
+      "createdAt": "2026-07-23T13:26:22Z",
+      "timestamp": 1784813182,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 14,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenArmstrong/status/2080283380931854666"
+    },
+    {
       "id": "2080106045414719601",
       "handle": "reppfluger",
       "username": "RepPfluger",
@@ -49007,7 +49067,7 @@
       "id": "2080034585153314932",
       "handle": "repamata",
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": null,
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49023,7 +49083,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 47
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49037,7 +49097,7 @@
       "id": "2080033985741103577",
       "handle": "repamata",
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": null,
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49053,7 +49113,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 77
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49096,6 +49156,34 @@
         }
       ],
       "url": "https://x.com/RepAnnWagner/status/2080032308971602014"
+    },
+    {
+      "id": "2080031798315102319",
+      "handle": "reploudermilk",
+      "username": "RepLoudermilk",
+      "displayName": null,
+      "ownerName": "Barry Loudermilk",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/barry-loudermilk",
+      "text": "The House has passed the FY27 National Defense Authorization Act, which invests in and strengthens America’s military, supporting the men and women who serve and defend our nation. \n\nThe NDAA includes:\n\n- Raises pay for our troops\n\n- Largest funding boost for our military in https://t.co/rOuZkQ6rfl",
+      "createdAt": "2026-07-22T20:46:40Z",
+      "timestamp": 1784753200,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 27,
+        "reply_count": 121,
+        "like_count": 99,
+        "quote_count": 6,
+        "bookmark_count": 2,
+        "view_count": 4428
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepLoudermilk/status/2080031798315102319"
     },
     {
       "id": "2080026045990756356",
@@ -49145,7 +49233,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 280
+        "view_count": 295
       },
       "tags": [],
       "kurdistanTerms": [
@@ -49195,6 +49283,34 @@
         }
       ],
       "url": "https://x.com/RepAlGreen/status/2080020444225139101"
+    },
+    {
+      "id": "2080014168749461638",
+      "handle": "reploudermilk",
+      "username": "RepLoudermilk",
+      "displayName": null,
+      "ownerName": "Barry Loudermilk",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/barry-loudermilk",
+      "text": "Our national museums should not cherry-pick facts in order to shape a narrative, but rather present the whole story and let visitors draw their own conclusions. https://t.co/F0vfHFjoaF",
+      "createdAt": "2026-07-22T19:36:37Z",
+      "timestamp": 1784748997,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 13,
+        "reply_count": 16,
+        "like_count": 76,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1693
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepLoudermilk/status/2080014168749461638"
     },
     {
       "id": "2079991945007395233",
@@ -49360,7 +49476,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 200
+        "view_count": 207
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49417,10 +49533,10 @@
       "metrics": {
         "retweet_count": 4,
         "reply_count": 5,
-        "like_count": 17,
+        "like_count": 19,
         "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2345
+        "bookmark_count": 1,
+        "view_count": 2379
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49807,7 +49923,7 @@
         "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 2649
+        "view_count": 2664
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49844,6 +49960,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepGarbarino/status/2079654734995013737"
+    },
+    {
+      "id": "2079648142228615440",
+      "handle": "reploudermilk",
+      "username": "RepLoudermilk",
+      "displayName": null,
+      "ownerName": "Barry Loudermilk",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/barry-loudermilk",
+      "text": "RT @FinancialCmte: @RepFrenchHill @RepAndyBarr @RepHuizenga WATCH: @RepLoudermilk in support of H.R. 6955:\n \n\"We need to tailor the regulat…",
+      "createdAt": "2026-07-21T19:22:09Z",
+      "timestamp": 1784661729,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 215
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepLoudermilk/status/2079648142228615440"
     },
     {
       "id": "2079647144026271908",
@@ -49901,7 +50047,7 @@
         "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 2778
+        "view_count": 2784
       },
       "tags": [],
       "kurdistanTerms": [
@@ -49934,7 +50080,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1924
+        "view_count": 1925
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50203,7 +50349,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 28
+        "view_count": 29
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50356,6 +50502,42 @@
       ],
       "urls": [],
       "url": "https://x.com/RepAprilDelaney/status/2079575394139709509"
+    },
+    {
+      "id": "2079569273601536032",
+      "handle": "reploudermilk",
+      "username": "RepLoudermilk",
+      "displayName": null,
+      "ownerName": "Barry Loudermilk",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/barry-loudermilk",
+      "text": "If you would like to attend President Trump’s speech in Marietta, GA, Wednesday, July 22, please use the link below to sign up. \n\nPlease note: Seating is first come, first served. Tickets do not guarantee admission to the event.\n\nhttps://t.co/1zTzoIidzj",
+      "createdAt": "2026-07-21T14:08:46Z",
+      "timestamp": 1784642926,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 10,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1711
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1zTzoIidzj",
+          "expanded_url": "https://who.nucleuspages.com/events/presidenttrumpmariettageorgia",
+          "display_url": "who.nucleuspages.com/events/preside…"
+        }
+      ],
+      "url": "https://x.com/RepLoudermilk/status/2079569273601536032"
     },
     {
       "id": "2079555923664633878",
@@ -50816,7 +50998,7 @@
         "like_count": 24,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 3001
+        "view_count": 3002
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -78394,7 +78576,7 @@
       "id": "2078118971140641175",
       "handle": "repamata",
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": null,
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -78410,7 +78592,7 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 87
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -85900,7 +86082,7 @@
       "id": "2077937457278960077",
       "handle": "austinscottga08",
       "username": "AustinScottGA08",
-      "displayName": null,
+      "displayName": "Rep. Austin Scott",
       "ownerName": "Austin Scott",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -85915,8 +86097,8 @@
         "reply_count": 16,
         "like_count": 14,
         "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 822
+        "bookmark_count": 0,
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -88437,12 +88619,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 16,
-        "reply_count": 30,
-        "like_count": 88,
+        "retweet_count": 18,
+        "reply_count": 34,
+        "like_count": 91,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 1994
+        "view_count": 2257
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -109714,7 +109896,7 @@
         "like_count": 29,
         "quote_count": 5,
         "bookmark_count": 1,
-        "view_count": 4259
+        "view_count": 4260
       },
       "tags": [],
       "kurdistanTerms": [
@@ -114168,7 +114350,7 @@
       "id": "2077805056930316652",
       "handle": "repamata",
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": null,
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -114184,7 +114366,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 304
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -116440,7 +116622,7 @@
         "like_count": 15,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 627
+        "view_count": 629
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -121234,12 +121416,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 7,
+        "retweet_count": 8,
         "reply_count": 12,
-        "like_count": 43,
+        "like_count": 47,
         "quote_count": 1,
         "bookmark_count": 1,
-        "view_count": 1804
+        "view_count": 1997
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122373,178 +122555,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenKatieBritt/status/2077768888083722564"
-    },
-    {
-      "id": "2077768186137600445",
-      "handle": "senbillcassidy",
-      "username": "SenBillCassidy",
-      "displayName": null,
-      "ownerName": "Bill Cassidy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bill-cassidy",
-      "text": "Our national debt is a runaway train. The next reconciliation bill should be fully paid for.",
-      "createdAt": "2026-07-16T14:51:53Z",
-      "timestamp": 1784213513,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 14,
-        "reply_count": 101,
-        "like_count": 69,
-        "quote_count": 20,
-        "bookmark_count": 7,
-        "view_count": 93368
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenBillCassidy/status/2077768186137600445"
-    },
-    {
-      "id": "2077767923226038391",
-      "handle": "repnancymace",
-      "username": "RepNancyMace",
-      "displayName": null,
-      "ownerName": "Nancy Mace",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nancy-mace",
-      "text": "RT @RepNancyMace: INTRODUCING: The Third World Immigration Moratorium Act.\n\nOur bill will ban aliens from dozens of third world countries f…",
-      "createdAt": "2026-07-16T14:50:50Z",
-      "timestamp": 1784213450,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1086,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepNancyMace/status/2077767923226038391"
-    },
-    {
-      "id": "2077767905333203436",
-      "handle": "senhydesmith",
-      "username": "SenHydeSmith",
-      "displayName": null,
-      "ownerName": "Cindy Hyde-Smith",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/cindy-hyde-smith",
-      "text": "It’s always a pleasure to meet with @MSFFA officers during their time in D.C. for the @NationalFFA summit. We got to discuss agriculture policy and the essential role that FFA plays in preparing the next generation of farmers and producers to carry on Mississippi’s agricultural https://t.co/pdDULfQl9F",
-      "createdAt": "2026-07-16T14:50:46Z",
-      "timestamp": 1784213446,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 5,
-        "like_count": 8,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 566
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenHydeSmith/status/2077767905333203436"
-    },
-    {
-      "id": "2077767899318534353",
-      "handle": "bettymccollum04",
-      "username": "BettyMcCollum04",
-      "displayName": null,
-      "ownerName": "Betty McCollum",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/betty-mccollum",
-      "text": "Today, the so-called Take Care of America’s Veterans Act will be brought to the House floor. I will stand with veteran organizations and vote no against this bill. This bill cuts critical care and benefits for those who have sacrificed through service answering the nation's call. https://t.co/4veFXRzCds",
-      "createdAt": "2026-07-16T14:50:44Z",
-      "timestamp": 1784213444,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 3,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 557
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Diplomatic / official contact",
-        "Critical / hostile language"
-      ],
-      "urls": [],
-      "url": "https://x.com/BettyMcCollum04/status/2077767899318534353"
-    },
-    {
-      "id": "2077767893358399614",
-      "handle": "repnancymace",
-      "username": "RepNancyMace",
-      "displayName": null,
-      "ownerName": "Nancy Mace",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nancy-mace",
-      "text": "RT @RepNancyMace: First Texas, now Georgia. Red states.\n\nWe will NEVER let this happen to South Carolina.",
-      "createdAt": "2026-07-16T14:50:43Z",
-      "timestamp": 1784213443,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 939,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepNancyMace/status/2077767893358399614"
-    },
-    {
-      "id": "2077767826551534050",
-      "handle": "kellymorrisonmn",
-      "username": "kellymorrisonmn",
-      "displayName": null,
-      "ownerName": "Kelly Morrison",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kelly-morrison",
-      "text": "Some helpful guidelines here with the hazardous air quality. Stay safe, Minnesota!",
-      "createdAt": "2026-07-16T14:50:27Z",
-      "timestamp": 1784213427,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 2,
-        "like_count": 6,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 487
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/kellymorrisonmn/status/2077767826551534050"
     }
   ],
   "notes": [
