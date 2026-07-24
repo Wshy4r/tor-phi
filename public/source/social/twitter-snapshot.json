@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:05:12.362696Z",
+  "generatedAt": "2026-07-24T18:58:19.895660Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-24T17:05:08.565Z",
+    "generatedAt": "2026-07-24T18:57:47.720Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2148,7 +2148,7 @@
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-24T15:25:40.981549Z",
+  "lastCaptureAt": "2026-07-24T18:58:18.082824Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30797,7 +30797,7 @@
     },
     {
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": "Andy Harris",
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30805,12 +30805,12 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-24T09:44:56.103508Z",
+      "lastScrapedAt": "2026-07-24T18:58:02.580423Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
-      "followersCount": 41449,
+      "profileImageUrl": null,
+      "followersCount": 41446,
       "followingCount": 866,
-      "verified": true
+      "verified": false
     },
     {
       "username": "AndyKimNJ",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-24T09:45:10.063682Z",
+      "lastScrapedAt": "2026-07-24T18:58:03.613347Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
       "followersCount": 4709,
@@ -31018,7 +31018,7 @@
     },
     {
       "username": "RepLoudermilk",
-      "displayName": "Rep. Barry Loudermilk",
+      "displayName": "Barry Loudermilk",
       "ownerName": "Barry Loudermilk",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -31026,12 +31026,12 @@
       "profileHref": "/country/usa/congress/barry-loudermilk",
       "url": "https://x.com/RepLoudermilk",
       "status": "captured",
-      "lastScrapedAt": "2026-07-24T09:45:11.202501Z",
+      "lastScrapedAt": "2026-07-24T18:58:18.082824Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1001100740792811520/yaLsE8rC_normal.jpg",
-      "followersCount": 56443,
+      "profileImageUrl": null,
+      "followersCount": 56442,
       "followingCount": 1583,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepBarryMoore",
@@ -41050,7 +41050,7 @@
     },
     {
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": "Andy Harris",
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41058,12 +41058,12 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-24T09:44:56.103508Z",
+      "lastScrapedAt": "2026-07-24T18:58:02.580423Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1009527206614200321/Q56ZCqTt_normal.jpg",
-      "followersCount": 41449,
+      "profileImageUrl": null,
+      "followersCount": 41446,
       "followingCount": 866,
-      "verified": true
+      "verified": false
     },
     {
       "username": "AndyKimNJ",
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-24T09:45:10.063682Z",
+      "lastScrapedAt": "2026-07-24T18:58:03.613347Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
       "followersCount": 4709,
@@ -41271,7 +41271,7 @@
     },
     {
       "username": "RepLoudermilk",
-      "displayName": "Rep. Barry Loudermilk",
+      "displayName": "Barry Loudermilk",
       "ownerName": "Barry Loudermilk",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41279,12 +41279,12 @@
       "profileHref": "/country/usa/congress/barry-loudermilk",
       "url": "https://x.com/RepLoudermilk",
       "status": "captured",
-      "lastScrapedAt": "2026-07-24T09:45:11.202501Z",
+      "lastScrapedAt": "2026-07-24T18:58:18.082824Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1001100740792811520/yaLsE8rC_normal.jpg",
-      "followersCount": 56443,
+      "profileImageUrl": null,
+      "followersCount": 56442,
       "followingCount": 1583,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepBarryMoore",
@@ -49029,7 +49029,7 @@
       "id": "2080378664760291693",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": null,
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49040,12 +49040,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 3,
-        "reply_count": 11,
-        "like_count": 34,
+        "retweet_count": 6,
+        "reply_count": 13,
+        "like_count": 47,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 1246
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49057,7 +49057,7 @@
       "id": "2080375968816923031",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": null,
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49068,12 +49068,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 17,
-        "reply_count": 20,
-        "like_count": 91,
+        "retweet_count": 21,
+        "reply_count": 28,
+        "like_count": 120,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 2,
+        "view_count": 1953
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49117,7 +49117,7 @@
       "id": "2080326002786406906",
       "handle": "reploudermilk",
       "username": "RepLoudermilk",
-      "displayName": "Rep. Barry Loudermilk",
+      "displayName": null,
       "ownerName": "Barry Loudermilk",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49132,8 +49132,8 @@
         "reply_count": 5,
         "like_count": 5,
         "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 1,
+        "view_count": 1776
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49539,7 +49539,7 @@
       "id": "2080031798315102319",
       "handle": "reploudermilk",
       "username": "RepLoudermilk",
-      "displayName": "Rep. Barry Loudermilk",
+      "displayName": null,
       "ownerName": "Barry Loudermilk",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49552,10 +49552,10 @@
       "metrics": {
         "retweet_count": 29,
         "reply_count": 160,
-        "like_count": 106,
+        "like_count": 105,
         "quote_count": 8,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 2,
+        "view_count": 7075
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49666,7 +49666,7 @@
       "id": "2080014168749461638",
       "handle": "reploudermilk",
       "username": "RepLoudermilk",
-      "displayName": "Rep. Barry Loudermilk",
+      "displayName": null,
       "ownerName": "Barry Loudermilk",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49679,10 +49679,10 @@
       "metrics": {
         "retweet_count": 13,
         "reply_count": 18,
-        "like_count": 77,
+        "like_count": 76,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 1952
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50311,7 +50311,7 @@
       "id": "2079668447546421540",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": null,
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -50327,7 +50327,7 @@
         "like_count": 13,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 1151
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50493,7 +50493,7 @@
       "id": "2079648142228615440",
       "handle": "reploudermilk",
       "username": "RepLoudermilk",
-      "displayName": "Rep. Barry Loudermilk",
+      "displayName": null,
       "ownerName": "Barry Loudermilk",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -50509,7 +50509,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 217
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51073,7 +51073,7 @@
       "id": "2079569273601536032",
       "handle": "reploudermilk",
       "username": "RepLoudermilk",
-      "displayName": "Rep. Barry Loudermilk",
+      "displayName": null,
       "ownerName": "Barry Loudermilk",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -51089,7 +51089,7 @@
         "like_count": 12,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 1732
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51137,7 +51137,7 @@
       "id": "2079340170671726760",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": null,
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -51153,7 +51153,7 @@
         "like_count": 15,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 976
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51256,7 +51256,7 @@
       "id": "2079311391459103222",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": null,
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -51271,8 +51271,8 @@
         "reply_count": 7,
         "like_count": 26,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 2,
+        "view_count": 992
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -73722,7 +73722,7 @@
       "id": "2078149167046631853",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": null,
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -73738,7 +73738,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 192
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -89441,7 +89441,7 @@
       "id": "2077929121045188959",
       "handle": "reploudermilk",
       "username": "RepLoudermilk",
-      "displayName": "Rep. Barry Loudermilk",
+      "displayName": null,
       "ownerName": "Barry Loudermilk",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -89456,8 +89456,8 @@
         "reply_count": 34,
         "like_count": 91,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 1,
+        "view_count": 2268
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -91419,7 +91419,7 @@
       "id": "2077921286467072042",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": null,
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -91434,8 +91434,8 @@
         "reply_count": 17,
         "like_count": 187,
         "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 5,
+        "view_count": 6404
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -91621,7 +91621,7 @@
       "id": "2077918496894103596",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": null,
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -91634,10 +91634,10 @@
       "metrics": {
         "retweet_count": 62,
         "reply_count": 24,
-        "like_count": 292,
+        "like_count": 291,
         "quote_count": 3,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 9,
+        "view_count": 6381
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -97556,7 +97556,7 @@
       "id": "2077868547615674686",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
-      "displayName": "Rep. Andy Harris, MD",
+      "displayName": null,
       "ownerName": "Andy Harris",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -97572,7 +97572,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 163
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122238,7 +122238,7 @@
       "id": "2077773569329668146",
       "handle": "reploudermilk",
       "username": "RepLoudermilk",
-      "displayName": "Rep. Barry Loudermilk",
+      "displayName": null,
       "ownerName": "Barry Loudermilk",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -122253,8 +122253,8 @@
         "reply_count": 12,
         "like_count": 47,
         "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 1,
+        "view_count": 2007
       },
       "tags": [],
       "kurdistanTerms": [],
