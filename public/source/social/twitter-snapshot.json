@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T20:10:50.809346Z",
+  "generatedAt": "2026-07-25T21:25:57.315327Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-25T20:10:33.258Z",
+    "generatedAt": "2026-07-25T21:25:07.264Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56014,
+    "tweets": 56046,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-25T20:10:49.032672Z",
+  "lastCaptureAt": "2026-07-25T21:25:56.329377Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,7 +30805,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-25T20:10:49.032672Z",
+      "lastScrapedAt": "2026-07-25T21:25:24.425894Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41436,
@@ -30975,10 +30975,10 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-25T00:13:03.608950Z",
+      "lastScrapedAt": "2026-07-25T21:25:25.601271Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4708,
+      "followersCount": 4706,
       "followingCount": 188,
       "verified": true
     },
@@ -31026,10 +31026,10 @@
       "profileHref": "/country/usa/congress/barry-loudermilk",
       "url": "https://x.com/RepLoudermilk",
       "status": "captured",
-      "lastScrapedAt": "2026-07-25T00:13:18.858039Z",
+      "lastScrapedAt": "2026-07-25T21:25:37.961317Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 56440,
+      "followersCount": 56431,
       "followingCount": 1583,
       "verified": false
     },
@@ -31205,7 +31205,7 @@
     },
     {
       "username": "RepBillFoster",
-      "displayName": "Bill Foster",
+      "displayName": "Congressman Bill Foster",
       "ownerName": "Bill Foster",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -31213,12 +31213,12 @@
       "profileHref": "/country/usa/congress/bill-foster",
       "url": "https://x.com/RepBillFoster",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:17:50.338660Z",
+      "lastScrapedAt": "2026-07-25T21:25:39.190632Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 49966,
-      "followingCount": 1181,
-      "verified": false
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2034730523332079616/SPcXxnfR_normal.jpg",
+      "followersCount": 49997,
+      "followingCount": 1182,
+      "verified": true
     },
     {
       "username": "SenatorHagerty",
@@ -31230,10 +31230,10 @@
       "profileHref": "/country/usa/congress/bill-hagerty",
       "url": "https://x.com/SenatorHagerty",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:18:14.854135Z",
+      "lastScrapedAt": "2026-07-25T21:25:56.329377Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 96303,
+      "followersCount": 96747,
       "followingCount": 198,
       "verified": false
     },
@@ -41058,7 +41058,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-25T20:10:49.032672Z",
+      "lastScrapedAt": "2026-07-25T21:25:24.425894Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41436,
@@ -41228,10 +41228,10 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-25T00:13:03.608950Z",
+      "lastScrapedAt": "2026-07-25T21:25:25.601271Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4708,
+      "followersCount": 4706,
       "followingCount": 188,
       "verified": true
     },
@@ -41279,10 +41279,10 @@
       "profileHref": "/country/usa/congress/barry-loudermilk",
       "url": "https://x.com/RepLoudermilk",
       "status": "captured",
-      "lastScrapedAt": "2026-07-25T00:13:18.858039Z",
+      "lastScrapedAt": "2026-07-25T21:25:37.961317Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 56440,
+      "followersCount": 56431,
       "followingCount": 1583,
       "verified": false
     },
@@ -41458,7 +41458,7 @@
     },
     {
       "username": "RepBillFoster",
-      "displayName": "Bill Foster",
+      "displayName": "Congressman Bill Foster",
       "ownerName": "Bill Foster",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41466,12 +41466,12 @@
       "profileHref": "/country/usa/congress/bill-foster",
       "url": "https://x.com/RepBillFoster",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:17:50.338660Z",
+      "lastScrapedAt": "2026-07-25T21:25:39.190632Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 49966,
-      "followingCount": 1181,
-      "verified": false
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2034730523332079616/SPcXxnfR_normal.jpg",
+      "followersCount": 49997,
+      "followingCount": 1182,
+      "verified": true
     },
     {
       "username": "SenatorHagerty",
@@ -41483,10 +41483,10 @@
       "profileHref": "/country/usa/congress/bill-hagerty",
       "url": "https://x.com/SenatorHagerty",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:18:14.854135Z",
+      "lastScrapedAt": "2026-07-25T21:25:56.329377Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 96303,
+      "followersCount": 96747,
       "followingCount": 198,
       "verified": false
     },
@@ -48854,6 +48854,100 @@
   ],
   "tweets": [
     {
+      "id": "2081044373693661225",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "Chrissy and I are deeply saddened by the tragic passing of Mayor Joe Brooks of Claiborne County.  \n\nJoe was a dedicated public servant who served in the U.S. Navy, and was a faithful friend whose leadership and commitment to his community will leave a lasting impact. \n\nOur hearts https://t.co/OWnjhExyyn",
+      "createdAt": "2026-07-25T15:50:17Z",
+      "timestamp": 1784994617,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 5,
+        "like_count": 42,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "view_count": 2388
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2081044373693661225"
+    },
+    {
+      "id": "2080748305521270794",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "It’s wonderful to see new investment in Knoxville! Thank you, @united for getting Tennesseans where they need to go. https://t.co/h1G9KOeyiR",
+      "createdAt": "2026-07-24T20:13:49Z",
+      "timestamp": 1784924029,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 12,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 2465
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h1G9KOeyiR",
+          "expanded_url": "https://www.knoxnews.com/story/money/business/2026/07/16/united-airlines-nonstop-flight-knoxville-newark-mcghee-tyson-access-to-new-york-city/90943559007/",
+          "display_url": "knoxnews.com/story/money/bu…"
+        }
+      ],
+      "url": "https://x.com/SenatorHagerty/status/2080748305521270794"
+    },
+    {
+      "id": "2080743752897904924",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "Investors need certainty. Law enforcement needs rules it can enforce consistently. Markets work best when everyone knows the rules of the road. It’s time to pass digital asset market structure legislation.\n\nIt’s time to deliver CLARITY.",
+      "createdAt": "2026-07-24T19:55:43Z",
+      "timestamp": 1784922943,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 204,
+        "reply_count": 41,
+        "like_count": 1334,
+        "quote_count": 10,
+        "bookmark_count": 16,
+        "view_count": 77880
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2080743752897904924"
+    },
+    {
       "id": "2080730121904722410",
       "handle": "sensanders",
       "username": "SenSanders",
@@ -48880,6 +48974,43 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenSanders/status/2080730121904722410"
+    },
+    {
+      "id": "2080714699935510624",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "My event, America 250: Celebrating Civics, is next week! Join me on Tuesday, July 28, at 7:00 p.m. CT at Waubonsee Community College to discuss how we can work together to strengthen our democracy.\n\nFor more information and to RSVP, visit https://t.co/uBwYtrdPW3. https://t.co/pFs9IACs70",
+      "createdAt": "2026-07-24T18:00:16Z",
+      "timestamp": 1784916016,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Diplomatic / official contact"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uBwYtrdPW3",
+          "expanded_url": "http://foster.house.gov/events",
+          "display_url": "foster.house.gov/events"
+        }
+      ],
+      "url": "https://x.com/RepBillFoster/status/2080714699935510624"
     },
     {
       "id": "2080699708620583421",
@@ -48910,6 +49041,36 @@
       "url": "https://x.com/SenSanders/status/2080699708620583421"
     },
     {
+      "id": "2080697960271143143",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": ".@POTUS should have won a Nobel Peace Prize for what he accomplished with the Abraham Accords. \n\nSaudi Arabia joining the accords would be an incredible achievement for the US and its goal of peace and security in the region. https://t.co/bR9cH8gKWm",
+      "createdAt": "2026-07-24T16:53:45Z",
+      "timestamp": 1784912025,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 21,
+        "reply_count": 33,
+        "like_count": 114,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "view_count": 5445
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2080697960271143143"
+    },
+    {
       "id": "2080691299800277392",
       "handle": "benniegthompson",
       "username": "BennieGThompson",
@@ -48938,6 +49099,34 @@
       "url": "https://x.com/BennieGThompson/status/2080691299800277392"
     },
     {
+      "id": "2080684267055566909",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "Voter ID is overwhelmingly popular. Let’s give the American people what they want and pass the SAVE America Act now. https://t.co/XYDcp1iNyN",
+      "createdAt": "2026-07-24T15:59:21Z",
+      "timestamp": 1784908761,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 151,
+        "reply_count": 137,
+        "like_count": 731,
+        "quote_count": 10,
+        "bookmark_count": 9,
+        "view_count": 31911
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2080684267055566909"
+    },
+    {
       "id": "2080673573216092384",
       "handle": "sensanders",
       "username": "SenSanders",
@@ -48964,6 +49153,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenSanders/status/2080673573216092384"
+    },
+    {
+      "id": "2080671030054428842",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "When we negotiated the Iran Nuclear Deal, we were sending our nation's top nuclear experts.\n\nTrump is sending real estate dealers. We should all be on high alert. https://t.co/QXLsbUpzoR",
+      "createdAt": "2026-07-24T15:06:45Z",
+      "timestamp": 1784905605,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 7,
+        "like_count": 8,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2080671030054428842"
     },
     {
       "id": "2080668200740569523",
@@ -49087,6 +49306,37 @@
       ],
       "urls": [],
       "url": "https://x.com/SenSanders/status/2080435721391816777"
+    },
+    {
+      "id": "2080425770678178073",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "The time for CLARITY is now.\n\nAmerica needs clear rules of the road for digital assets that protect consumers, support innovation, and keep jobs and investment here in America. Let’s get it across the finish line.",
+      "createdAt": "2026-07-23T22:52:10Z",
+      "timestamp": 1784847130,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 572,
+        "reply_count": 178,
+        "like_count": 4360,
+        "quote_count": 27,
+        "bookmark_count": 71,
+        "view_count": 140609
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2080425770678178073"
     },
     {
       "id": "2080398547577368653",
@@ -49224,7 +49474,7 @@
         "like_count": 49,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1371
+        "view_count": 1374
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49252,7 +49502,7 @@
         "like_count": 152,
         "quote_count": 1,
         "bookmark_count": 2,
-        "view_count": 2233
+        "view_count": 2238
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49293,6 +49543,62 @@
       "url": "https://x.com/RepBenCline/status/2080371656984293597"
     },
     {
+      "id": "2080371272588935674",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "I’ve directed my office to look into this and offer our assistance.",
+      "createdAt": "2026-07-23T19:15:37Z",
+      "timestamp": 1784834137,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1929,
+        "reply_count": 480,
+        "like_count": 17974,
+        "quote_count": 44,
+        "bookmark_count": 197,
+        "view_count": 401736
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2080371272588935674"
+    },
+    {
+      "id": "2080368417249378802",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "Crime is down across the nation—and Memphis is the model, with a 40% decrease in serious crime. Together, with the help of @POTUS, @FBIDirectorKash, @GovBillLee, @StephenM, and all of our state and local officials, we are making Memphis the safest city in America.",
+      "createdAt": "2026-07-23T19:04:16Z",
+      "timestamp": 1784833456,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 17,
+        "reply_count": 36,
+        "like_count": 97,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 9097
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2080368417249378802"
+    },
+    {
       "id": "2080367563150623164",
       "handle": "sensanders",
       "username": "SenSanders",
@@ -49321,6 +49627,34 @@
       ],
       "urls": [],
       "url": "https://x.com/SenSanders/status/2080367563150623164"
+    },
+    {
+      "id": "2080367126603313574",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "I just introduced the Federal Naming Standards Act.\n\nAt a time when trust in government is under strain, Congress must ensure that public institutions serve the public—not the interests of any individual officeholder.\n\nRead more about this legislation here: https://t.co/UVwEIaf3kN",
+      "createdAt": "2026-07-23T18:59:08Z",
+      "timestamp": 1784833148,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 6,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2080367126603313574"
     },
     {
       "id": "2080345072109838593",
@@ -49376,7 +49710,7 @@
         "like_count": 5,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 1791
+        "view_count": 1821
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49415,6 +49749,36 @@
       "url": "https://x.com/BennieGThompson/status/2080323386627002592"
     },
     {
+      "id": "2080318798305907007",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "Democrats, along with just 4 Republicans, were able to pass another War Powers resolution in the House. \n\nTrump should follow the law, listen to Congress, and end his war in Iran.",
+      "createdAt": "2026-07-23T15:47:06Z",
+      "timestamp": 1784821626,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 14,
+        "reply_count": 50,
+        "like_count": 91,
+        "quote_count": 3,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2080318798305907007"
+    },
+    {
       "id": "2080308634517467388",
       "handle": "austinscottga08",
       "username": "AustinScottGA08",
@@ -49443,6 +49807,36 @@
       ],
       "urls": [],
       "url": "https://x.com/AustinScottGA08/status/2080308634517467388"
+    },
+    {
+      "id": "2080306794476233064",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "Last week, on the anniversary of Rep. John Lewis' passing, I was proud to join members of our community to call out the damage being done by this administration. \n\nIt was such an honor to serve alongside John Lewis in Congress. We owe it to his legacy to never stop fighting for https://t.co/CEL6aWjJBA",
+      "createdAt": "2026-07-23T14:59:24Z",
+      "timestamp": 1784818764,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2080306794476233064"
     },
     {
       "id": "2080285301155762250",
@@ -49475,6 +49869,34 @@
       ],
       "urls": [],
       "url": "https://x.com/SenArmstrong/status/2080285301155762250"
+    },
+    {
+      "id": "2080285038520791202",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "Great news for Northeast Tennessee!\n\nBallad Health will break ground next month on the new Unicoi County Hospital, restoring local healthcare services after Hurricane Helene devastated the previous facility.\n\nSpecial thanks to @GovBillLee and the Tennessee General Assembly for",
+      "createdAt": "2026-07-23T13:32:57Z",
+      "timestamp": 1784813577,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 8,
+        "reply_count": 8,
+        "like_count": 33,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 2964
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2080285038520791202"
     },
     {
       "id": "2080283380931854666",
@@ -49882,17 +50304,47 @@
       "language": "en",
       "metrics": {
         "retweet_count": 29,
-        "reply_count": 160,
-        "like_count": 105,
+        "reply_count": 159,
+        "like_count": 106,
         "quote_count": 8,
         "bookmark_count": 2,
-        "view_count": 7090
+        "view_count": 7132
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepLoudermilk/status/2080031798315102319"
+    },
+    {
+      "id": "2080028734250221608",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "They don’t call it “Music City” for nothing!\n\nIt’s always a great time when @NSAIofficial stops by! Thank you for bringing some of Nashville’s iconic sound to D.C. https://t.co/tMtJx9zZX7",
+      "createdAt": "2026-07-22T20:34:29Z",
+      "timestamp": 1784752469,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 9,
+        "reply_count": 12,
+        "like_count": 56,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 3811
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2080028734250221608"
     },
     {
       "id": "2080026045990756356",
@@ -49994,6 +50446,36 @@
       "url": "https://x.com/RepAlGreen/status/2080020444225139101"
     },
     {
+      "id": "2080019110893613338",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "I'm voting NO on Republicans' $1.15T NDAA.\n \nCongress shouldn’t waste another taxpayer dollar on Trump’s failed war in Iran. We also shouldn’t deepen our collaboration with Israel’s military—as Sec. 219 would do—without safeguards to prevent violations of international law.",
+      "createdAt": "2026-07-22T19:56:15Z",
+      "timestamp": 1784750175,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 103,
+        "reply_count": 166,
+        "like_count": 1000,
+        "quote_count": 7,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2080019110893613338"
+    },
+    {
       "id": "2080015279082336649",
       "handle": "sensanders",
       "username": "SenSanders",
@@ -50040,16 +50522,46 @@
       "metrics": {
         "retweet_count": 13,
         "reply_count": 18,
-        "like_count": 76,
+        "like_count": 77,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1955
+        "view_count": 1962
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepLoudermilk/status/2080014168749461638"
+    },
+    {
+      "id": "2080012624473764005",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "Trump should get Iran's nuclear program back under supervision before helping develop another one in the region.\n\nI expect Congress to assert its authority on this decision when it comes up for a vote.",
+      "createdAt": "2026-07-22T19:30:29Z",
+      "timestamp": 1784748629,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 8,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2080012624473764005"
     },
     {
       "id": "2080007721810538850",
@@ -50138,6 +50650,37 @@
       ],
       "urls": [],
       "url": "https://x.com/SenArmstrong/status/2079991945007395233"
+    },
+    {
+      "id": "2079984787402494184",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "Foreign-based efforts against U.S. artificial intelligence resources threaten our economic interests and national security.\n\nMy legislation, the BLADE Act, will expose, punish, and prevent foreign entities that conduct hostile distillation campaigns. America will not tolerate",
+      "createdAt": "2026-07-22T17:39:52Z",
+      "timestamp": 1784741992,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 9,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 3359
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2079984787402494184"
     },
     {
       "id": "2079972799020482898",
@@ -50396,6 +50939,40 @@
       ],
       "urls": [],
       "url": "https://x.com/RepAngieCraig/status/2079937783024455961"
+    },
+    {
+      "id": "2079914634769740034",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "Congratulations to Nick Checker on being @POTUS’s nominee for U.S. Ambasssdor to Rwanda. Nick is a former member of my team and is an outstanding candidate for this role. I look forward to supporting his nomination. https://t.co/mG7Ra4t9yW",
+      "createdAt": "2026-07-22T13:01:06Z",
+      "timestamp": 1784725266,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 12,
+        "reply_count": 9,
+        "like_count": 42,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "view_count": 3116
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/mG7Ra4t9yW",
+          "expanded_url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-60e9/",
+          "display_url": "whitehouse.gov/presidential-a…"
+        }
+      ],
+      "url": "https://x.com/SenatorHagerty/status/2079914634769740034"
     },
     {
       "id": "2079912846855438658",
@@ -50776,7 +51353,7 @@
         "like_count": 14,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1160
+        "view_count": 1163
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50881,6 +51458,34 @@
       "url": "https://x.com/RepAndyBarr/status/2079665166489137395"
     },
     {
+      "id": "2079660538036908515",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "RT @US_NIC: Thank you to @RepChuck and @RepBillFoster for kicking off today’s discussion on Capitol Hill—and to @GovNuclear, @centrus_energ…",
+      "createdAt": "2026-07-21T20:11:25Z",
+      "timestamp": 1784664685,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2079660538036908515"
+    },
+    {
       "id": "2079658168578429089",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
@@ -50907,6 +51512,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenArmstrong/status/2079658168578429089"
+    },
+    {
+      "id": "2079655114667684178",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "They said this could never happen. Turns out, it happened 400 times in just one state. \n\nWe must pass the SAVE America Act!",
+      "createdAt": "2026-07-21T19:49:52Z",
+      "timestamp": 1784663392,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 22,
+        "reply_count": 32,
+        "like_count": 69,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "view_count": 3900
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2079655114667684178"
     },
     {
       "id": "2079654734995013737",
@@ -50939,6 +51572,38 @@
       "url": "https://x.com/RepGarbarino/status/2079654734995013737"
     },
     {
+      "id": "2079648658430075316",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "Trump and his negotiators are failing in Iran.\n\nNow, gas and diesel prices are climbing and there's no end in sight. https://t.co/VcOiOR2e5O",
+      "createdAt": "2026-07-21T19:24:12Z",
+      "timestamp": 1784661852,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 7,
+        "like_count": 9,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2079648658430075316"
+    },
+    {
       "id": "2079648142228615440",
       "handle": "reploudermilk",
       "username": "RepLoudermilk",
@@ -50958,7 +51623,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 217
+        "view_count": 219
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51255,6 +51920,36 @@
       "url": "https://x.com/RepBenCline/status/2079615932687642913"
     },
     {
+      "id": "2079613575195156587",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "Here’s what Democrats don’t want you to know: they want illegal aliens in this country for their own electoral benefit.  That’s why they inundate sanctuary cities. \n\nIt’s for the sole purpose of being reelected—and it needs to stop. \n\nThanks for having me, fellas! https://t.co/BAgQ6VwvbK",
+      "createdAt": "2026-07-21T17:04:48Z",
+      "timestamp": 1784653488,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 20,
+        "reply_count": 29,
+        "like_count": 94,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "view_count": 4874
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Critical / hostile language"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2079613575195156587"
+    },
+    {
       "id": "2079610656211206149",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
@@ -51435,6 +52130,62 @@
       "url": "https://x.com/RepAngieCraig/status/2079595765723283850"
     },
     {
+      "id": "2079594644397064479",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "The need for safe, secure elections has never been greater—especially in light of @POTUS’s speech last week. \n\nIt’s time to ensure that no individual—or country—can interfere with our electoral  process. It’s time to pass the SAVE America Act. https://t.co/Lzfo4BrkIy",
+      "createdAt": "2026-07-21T15:49:34Z",
+      "timestamp": 1784648974,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 25,
+        "reply_count": 77,
+        "like_count": 151,
+        "quote_count": 1,
+        "bookmark_count": 4,
+        "view_count": 3951
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2079594644397064479"
+    },
+    {
+      "id": "2079590781245952218",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "As of this morning, the Memphis Safe Task Force has made 11,196 arrests, seized 1,938 firearms from dangerous criminals, and located and returned 155 missing children. \n\nThank you to @POTUS, @FBIDirectorKash, @StephenM, @GovBillLee, and all the state and local officials who have",
+      "createdAt": "2026-07-21T15:34:13Z",
+      "timestamp": 1784648053,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 10,
+        "reply_count": 14,
+        "like_count": 55,
+        "quote_count": 1,
+        "bookmark_count": 5,
+        "view_count": 3631
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2079590781245952218"
+    },
+    {
       "id": "2079587722172264675",
       "handle": "repgarbarino",
       "username": "RepGarbarino",
@@ -51570,7 +52321,7 @@
         "like_count": 12,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1732
+        "view_count": 1735
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51634,7 +52385,7 @@
         "like_count": 15,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 985
+        "view_count": 987
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51751,9 +52502,9 @@
         "retweet_count": 9,
         "reply_count": 7,
         "like_count": 26,
-        "quote_count": 1,
+        "quote_count": 0,
         "bookmark_count": 2,
-        "view_count": 1005
+        "view_count": 1008
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -52084,6 +52835,38 @@
       ],
       "urls": [],
       "url": "https://x.com/RepAdrianSmith/status/2079262841857552839"
+    },
+    {
+      "id": "2079256061198958842",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "Today, gas prices hit $4 a gallon, and diesel is over $5. Trump's war in Iran is making your life more expensive.",
+      "createdAt": "2026-07-20T17:24:10Z",
+      "timestamp": 1784568250,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 6,
+        "reply_count": 11,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2079256061198958842"
     },
     {
       "id": "2079254707537600935",
@@ -52577,6 +53360,34 @@
       "url": "https://x.com/RepBenCline/status/2078893127960605040"
     },
     {
+      "id": "2078877895049494613",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "I am saddened to hear of the death of two service members in Jordan. My thoughts are with their families and the troops injured and still missing. \n\nThis war must come to an end.",
+      "createdAt": "2026-07-19T16:21:28Z",
+      "timestamp": 1784478088,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 7,
+        "reply_count": 14,
+        "like_count": 28,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2078877895049494613"
+    },
+    {
       "id": "2078608267828470231",
       "handle": "repaprildelaney",
       "username": "RepAprilDelaney",
@@ -52607,6 +53418,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepAprilDelaney/status/2078608267828470231"
+    },
+    {
+      "id": "2078592399035556108",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "Please pray for our fallen service members, their loved ones, and for all in the U.S. Armed Forces who are in harm’s way protecting our freedoms.",
+      "createdAt": "2026-07-18T21:27:00Z",
+      "timestamp": 1784410020,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 43,
+        "reply_count": 129,
+        "like_count": 461,
+        "quote_count": 3,
+        "bookmark_count": 7,
+        "view_count": 15160
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2078592399035556108"
     },
     {
       "id": "2078578933264724235",
@@ -52851,6 +53690,62 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenSanders/status/2078493364912067053"
+    },
+    {
+      "id": "2078478596704809039",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "It’s been one year since @potus signed my GENIUS Act into law!\n\nWe are making America the crypto capital of the world. https://t.co/0CWfPVcEiP",
+      "createdAt": "2026-07-18T13:54:48Z",
+      "timestamp": 1784382888,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 77,
+        "reply_count": 86,
+        "like_count": 571,
+        "quote_count": 10,
+        "bookmark_count": 19,
+        "view_count": 37080
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2078478596704809039"
+    },
+    {
+      "id": "2078476734203060730",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "One year ago today, my GENIUS Act became law. WATCH the story here: https://t.co/uc7D2xmYxM",
+      "createdAt": "2026-07-18T13:47:24Z",
+      "timestamp": 1784382444,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 59,
+        "reply_count": 36,
+        "like_count": 329,
+        "quote_count": 4,
+        "bookmark_count": 7,
+        "view_count": 13831
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenatorHagerty/status/2078476734203060730"
     },
     {
       "id": "2078322077589741779",
@@ -54655,6 +55550,40 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/MarkWarner/status/2078249287066996964"
+    },
+    {
+      "id": "2078249077385330840",
+      "handle": "senatorhagerty",
+      "username": "SenatorHagerty",
+      "displayName": null,
+      "ownerName": "Bill Hagerty",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-hagerty",
+      "text": "The American people deserve courts that are impartial—not influenced by political ideology. I'll keep working with @ChuckGrassley to protect the integrity of our federal judiciary and preserve Americans' confidence in our courts. https://t.co/PObLxOTCO9",
+      "createdAt": "2026-07-17T22:42:46Z",
+      "timestamp": 1784328166,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 23,
+        "like_count": 42,
+        "quote_count": 1,
+        "bookmark_count": 4,
+        "view_count": 2870
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/PObLxOTCO9",
+          "expanded_url": "https://www.wsj.com/opinion/judicial-impartiality-is-under-threat-5ee0de72?st=4zVWjH&reflink=article_imessage_share",
+          "display_url": "wsj.com/opinion/judici…"
+        }
+      ],
+      "url": "https://x.com/SenatorHagerty/status/2078249077385330840"
     },
     {
       "id": "2078248858312675798",
@@ -56576,6 +57505,34 @@
       ],
       "urls": [],
       "url": "https://x.com/SenatorWicker/status/2078227022933897711"
+    },
+    {
+      "id": "2078226998271394159",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "NEW: I’m launching a new quarterly newsletter dedicated to resources for veterans and military families! My office will be sending information on veterans casework services, federal and state benefits, community events, and other important opportunities.\n\nIf you are a veteran, a",
+      "createdAt": "2026-07-17T21:15:02Z",
+      "timestamp": 1784322902,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBillFoster/status/2078226998271394159"
     },
     {
       "id": "2078226997159850036",
@@ -67928,12 +68885,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 13,
-        "reply_count": 8,
-        "like_count": 55,
-        "quote_count": 0,
-        "bookmark_count": 3,
-        "view_count": 2036
+        "retweet_count": 94,
+        "reply_count": 31,
+        "like_count": 352,
+        "quote_count": 3,
+        "bookmark_count": 12,
+        "view_count": 9898
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -74043,6 +75000,42 @@
       "url": "https://x.com/PattyMurray/status/2078150212028092507"
     },
     {
+      "id": "2078150072810774741",
+      "handle": "repbillfoster",
+      "username": "RepBillFoster",
+      "displayName": "Congressman Bill Foster",
+      "ownerName": "Bill Foster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bill-foster",
+      "text": "Join me at my upcoming event America 250: Celebrating Civics on Tuesday, July 28, at 7:00 p.m. CT at Waubonsee Community College! I will be joined by guest speakers to discuss how we can work together to strengthen our democracy.\n\nRSVP on my website: https://t.co/uBwYtrdPW3 https://t.co/MkL5b92AcP",
+      "createdAt": "2026-07-17T16:09:22Z",
+      "timestamp": 1784304562,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uBwYtrdPW3",
+          "expanded_url": "http://foster.house.gov/events",
+          "display_url": "foster.house.gov/events"
+        }
+      ],
+      "url": "https://x.com/RepBillFoster/status/2078150072810774741"
+    },
+    {
       "id": "2078150074467557822",
       "handle": "repgregstanton",
       "username": "RepGregStanton",
@@ -74069,42 +75062,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepGregStanton/status/2078150074467557822"
-    },
-    {
-      "id": "2078150072810774741",
-      "handle": "repbillfoster",
-      "username": "RepBillFoster",
-      "displayName": null,
-      "ownerName": "Bill Foster",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bill-foster",
-      "text": "Join me at my upcoming event America 250: Celebrating Civics on Tuesday, July 28, at 7:00 p.m. CT at Waubonsee Community College! I will be joined by guest speakers to discuss how we can work together to strengthen our democracy.\n\nRSVP on my website: https://t.co/uBwYtrdPW3 https://t.co/MkL5b92AcP",
-      "createdAt": "2026-07-17T16:09:22Z",
-      "timestamp": 1784304562,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 204
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/uBwYtrdPW3",
-          "expanded_url": "http://foster.house.gov/events",
-          "display_url": "foster.house.gov/events"
-        }
-      ],
-      "url": "https://x.com/RepBillFoster/status/2078150072810774741"
     },
     {
       "id": "2078149991588151733",
@@ -76031,12 +76988,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 24,
-        "reply_count": 22,
-        "like_count": 119,
-        "quote_count": 1,
-        "bookmark_count": 2,
-        "view_count": 2503
+        "retweet_count": 60,
+        "reply_count": 69,
+        "like_count": 324,
+        "quote_count": 5,
+        "bookmark_count": 7,
+        "view_count": 6565
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -77477,7 +78434,7 @@
       "id": "2078132722707448176",
       "handle": "repbillfoster",
       "username": "RepBillFoster",
-      "displayName": null,
+      "displayName": "Congressman Bill Foster",
       "ownerName": "Bill Foster",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -77490,10 +78447,10 @@
       "metrics": {
         "retweet_count": 1,
         "reply_count": 1,
-        "like_count": 5,
+        "like_count": 6,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 588
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -88891,12 +89848,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 385,
-        "reply_count": 299,
-        "like_count": 1800,
-        "quote_count": 15,
-        "bookmark_count": 20,
-        "view_count": 46146
+        "retweet_count": 430,
+        "reply_count": 347,
+        "like_count": 1983,
+        "quote_count": 20,
+        "bookmark_count": 23,
+        "view_count": 52899
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -92032,7 +92989,7 @@
         "like_count": 187,
         "quote_count": 0,
         "bookmark_count": 5,
-        "view_count": 6407
+        "view_count": 6406
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -92934,11 +93891,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 33,
-        "reply_count": 86,
-        "like_count": 416,
+        "reply_count": 85,
+        "like_count": 420,
         "quote_count": 2,
         "bookmark_count": 4,
-        "view_count": 13340
+        "view_count": 13890
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -104965,7 +105922,7 @@
       "id": "2077843802518151350",
       "handle": "repbillfoster",
       "username": "RepBillFoster",
-      "displayName": null,
+      "displayName": "Congressman Bill Foster",
       "ownerName": "Bill Foster",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -104977,11 +105934,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 10,
-        "reply_count": 9,
-        "like_count": 25,
+        "reply_count": 8,
+        "like_count": 27,
         "quote_count": 0,
-        "bookmark_count": 2,
-        "view_count": 1215
+        "bookmark_count": 0,
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -116527,7 +117484,7 @@
       "id": "2077801500265394222",
       "handle": "repbillfoster",
       "username": "RepBillFoster",
-      "displayName": null,
+      "displayName": "Congressman Bill Foster",
       "ownerName": "Bill Foster",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -116543,7 +117500,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 58
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -121662,932 +122619,6 @@
         }
       ],
       "url": "https://x.com/RepJeffries/status/2077779718468989249"
-    },
-    {
-      "id": "2077779699300814850",
-      "handle": "repdeliaramirez",
-      "username": "repdeliaramirez",
-      "displayName": null,
-      "ownerName": "Delia C. Ramirez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/delia-c-ramirez",
-      "text": "Whether it is \"rehiring\" VA police, deputizing federal employees like USPS inspectors, or enacting 287(g) agreements with local enforcement, the Trump administration's paramilitary force and police state is growing. And it is murdering people on the streets.\n\nAfter one week and https://t.co/tbvp9JM5T9",
-      "createdAt": "2026-07-16T15:37:38Z",
-      "timestamp": 1784216258,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 11,
-        "reply_count": 11,
-        "like_count": 15,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 753
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repdeliaramirez/status/2077779699300814850"
-    },
-    {
-      "id": "2077779356525473853",
-      "handle": "sencapito",
-      "username": "SenCapito",
-      "displayName": null,
-      "ownerName": "Shelley Moore Capito",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/shelley-moore-capito",
-      "text": "Got the chance to catch up with my summer interns over breakfast this morning!\n\nI’m so encouraged by their passion for public service and proud that they chose to dedicate a part of their summer to serving West Virginia. https://t.co/HD3jZZpDTz",
-      "createdAt": "2026-07-16T15:36:16Z",
-      "timestamp": 1784216176,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 12,
-        "like_count": 17,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1954
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenCapito/status/2077779356525473853"
-    },
-    {
-      "id": "2077779347948056580",
-      "handle": "replaurellee",
-      "username": "RepLaurelLee",
-      "displayName": null,
-      "ownerName": "Laurel M. Lee",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/laurel-m-lee",
-      "text": "Americans deserve confidence in both their government and their elections. The STOP INSIDER TRADING Act and VOTER ID Act are important steps toward restoring trust through greater accountability and stronger election integrity. Thank you, @RepBryanSteil, for leading these",
-      "createdAt": "2026-07-16T15:36:14Z",
-      "timestamp": 1784216174,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 6,
-        "reply_count": 7,
-        "like_count": 18,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 1862
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepLaurelLee/status/2077779347948056580"
-    },
-    {
-      "id": "2077779326188114250",
-      "handle": "markwarner",
-      "username": "MarkWarner",
-      "displayName": null,
-      "ownerName": "Mark R. Warner",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-r-warner",
-      "text": "RT @atrupar: WARNER: You said you wanted to 'traumatize the federal workforce.' Give yourself a grade on how much trauma you've brought.\n\nV…",
-      "createdAt": "2026-07-16T15:36:09Z",
-      "timestamp": 1784216169,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 181,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 444
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/MarkWarner/status/2077779326188114250"
-    },
-    {
-      "id": "2077779156201349148",
-      "handle": "chelliepingree",
-      "username": "ChelliePingree",
-      "displayName": null,
-      "ownerName": "Chellie Pingree",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chellie-pingree",
-      "text": "RT @cspanwj: Rep. @chelliepingree (D-ME) on whether the United States should abolish ICE: \"Absolutely.\"\n\n\"We do not need an agency that is…",
-      "createdAt": "2026-07-16T15:35:28Z",
-      "timestamp": 1784216128,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 49
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/ChelliePingree/status/2077779156201349148"
-    },
-    {
-      "id": "2077779060223058029",
-      "handle": "reptonywied",
-      "username": "RepTonyWied",
-      "displayName": null,
-      "ownerName": "Tony Wied",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tony-wied",
-      "text": "This is no longer the fringe of the Democratic Party. It's becoming the mainstream.\n\nWhen they scream about \"threats to democracy,\" they don't need to look any further than their own party.",
-      "createdAt": "2026-07-16T15:35:05Z",
-      "timestamp": 1784216105,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 3,
-        "like_count": 21,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 877
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepTonyWied/status/2077779060223058029"
-    },
-    {
-      "id": "2077779034289635369",
-      "handle": "repluna",
-      "username": "RepLuna",
-      "displayName": null,
-      "ownerName": "Anna Paulina Luna",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/anna-paulina-luna",
-      "text": "The VA bill cannot cut future ratings for certain veteran benefits. Why would we cut Veteran benefits as a pay for? That isn't the case for ANY other funding that we are currently trying to pass out of the house? The good news about legislation is it can be edited and changed.",
-      "createdAt": "2026-07-16T15:34:59Z",
-      "timestamp": 1784216099,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 134,
-        "reply_count": 79,
-        "like_count": 758,
-        "quote_count": 9,
-        "bookmark_count": 10,
-        "view_count": 32065
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepLuna/status/2077779034289635369"
-    },
-    {
-      "id": "2077779019894833190",
-      "handle": "sentomcotton",
-      "username": "SenTomCotton",
-      "displayName": null,
-      "ownerName": "Tom Cotton",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tom-cotton",
-      "text": "Chinese spies target every weakness they can find, including in our financial system. \n\nI’m grateful that @TheJusticeDept uncovered Mr. Rogers’s crimes and held him accountable. Clearly, we must do more to secure our data and financial systems from China. https://t.co/Sdh2IH5eno",
-      "createdAt": "2026-07-16T15:34:56Z",
-      "timestamp": 1784216096,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 58,
-        "reply_count": 60,
-        "like_count": 238,
-        "quote_count": 7,
-        "bookmark_count": 13,
-        "view_count": 10878
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/Sdh2IH5eno",
-          "expanded_url": "https://www.justice.gov/opa/pr/former-adviser-federal-reserve-board-governors-sentenced-federal-prison-term",
-          "display_url": "justice.gov/opa/pr/former-…"
-        }
-      ],
-      "url": "https://x.com/SenTomCotton/status/2077779019894833190"
-    },
-    {
-      "id": "2077778873740112023",
-      "handle": "markwarner",
-      "username": "MarkWarner",
-      "displayName": null,
-      "ownerName": "Mark R. Warner",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-r-warner",
-      "text": "RT @BulwarkOnline: Sen Warner: “You said in your writings that you wanted to traumatize the federal workforce…Give yourself a grade on how…",
-      "createdAt": "2026-07-16T15:34:21Z",
-      "timestamp": 1784216061,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 414,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 514
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/MarkWarner/status/2077778873740112023"
-    },
-    {
-      "id": "2077778847257256057",
-      "handle": "senwhitehouse",
-      "username": "SenWhitehouse",
-      "displayName": null,
-      "ownerName": "Sheldon Whitehouse",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/sheldon-whitehouse",
-      "text": "Today’s simple truth: Florida’s insurance market is gravely stressed by climate risks.   \n \nWe should all be able to agree on that. https://t.co/myHbq5nMG9",
-      "createdAt": "2026-07-16T15:34:15Z",
-      "timestamp": 1784216055,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 72,
-        "reply_count": 46,
-        "like_count": 222,
-        "quote_count": 3,
-        "bookmark_count": 4,
-        "view_count": 6139
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenWhitehouse/status/2077778847257256057"
-    },
-    {
-      "id": "2077778840194015578",
-      "handle": "repstephenlynch",
-      "username": "RepStephenLynch",
-      "displayName": null,
-      "ownerName": "Stephen F. Lynch",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/stephen-f-lynch",
-      "text": "Throughout our investigation into Jeffrey Epstein, Todd Blanche has been an obstruction at every step of the way in getting the truth.\n\n@OversightDems will continue fighting to ensure that the survivors of Jeffrey Epstein's crimes receive justice. https://t.co/aO3Dd6i85H",
-      "createdAt": "2026-07-16T15:34:13Z",
-      "timestamp": 1784216053,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 13,
-        "reply_count": 26,
-        "like_count": 36,
-        "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": 1441
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepStephenLynch/status/2077778840194015578"
-    },
-    {
-      "id": "2077778126189252951",
-      "handle": "reppettersen",
-      "username": "reppettersen",
-      "displayName": null,
-      "ownerName": "Brittany Pettersen",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brittany-pettersen",
-      "text": "Last week, the 21st Century ROAD to Housing Act became law, the biggest housing bill out of Congress in 30 years.\n\nThe truth is, the housing crisis we're facing wasn't created overnight. It was created over decades, and fixing it won't happen overnight either. It's going to take https://t.co/9THHSJUguc",
-      "createdAt": "2026-07-16T15:31:23Z",
-      "timestamp": 1784215883,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 21,
-        "like_count": 11,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 1177
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/reppettersen/status/2077778126189252951"
-    },
-    {
-      "id": "2077777929241493716",
-      "handle": "repnancymace",
-      "username": "RepNancyMace",
-      "displayName": null,
-      "ownerName": "Nancy Mace",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nancy-mace",
-      "text": "For too long, Washington has looked the other way while bad actors exploited every gap in our system and American families paid the price. \n\nThose days are over.\n\nOur Third World Immigration Moratorium Act will bar travel from Afghanistan, Angola, Antigua and Barbuda, Benin, https://t.co/Ms8bwXqGow",
-      "createdAt": "2026-07-16T15:30:36Z",
-      "timestamp": 1784215836,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 289,
-        "reply_count": 129,
-        "like_count": 942,
-        "quote_count": 15,
-        "bookmark_count": 23,
-        "view_count": 23328
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepNancyMace/status/2077777929241493716"
-    },
-    {
-      "id": "2077777778179711439",
-      "handle": "repderekschmidt",
-      "username": "repderekschmidt",
-      "displayName": null,
-      "ownerName": "Derek Schmidt",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/derek-schmidt",
-      "text": "Thank you to Dr. Thomas Newsom of @pittstate for coming by to discuss the important role higher education plays in strengthening our workforce and creating opportunities for Kansans. I appreciate Dr. Newsom's leadership and our conversation about the future of Pitt State and the https://t.co/IyRiLumncj",
-      "createdAt": "2026-07-16T15:30:00Z",
-      "timestamp": 1784215800,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 189
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repderekschmidt/status/2077777778179711439"
-    },
-    {
-      "id": "2077777654162379174",
-      "handle": "repbynum",
-      "username": "RepBynum",
-      "displayName": null,
-      "ownerName": "Janelle S. Bynum",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/janelle-s-bynum",
-      "text": "You deserve to know why your electricity bill keeps going up. https://t.co/S3bZLdQSc0",
-      "createdAt": "2026-07-16T15:29:30Z",
-      "timestamp": 1784215770,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 4,
-        "like_count": 1,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 733
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBynum/status/2077777654162379174"
-    },
-    {
-      "id": "2077777361584435282",
-      "handle": "senjonhusted",
-      "username": "SenJonHusted",
-      "displayName": null,
-      "ownerName": "Jon Husted",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jon-husted",
-      "text": "This is the view from my office in Cleveland. \n\nMy team and I are closely monitoring the air quality situation in Ohio. \n\nI encourage Ohioans to follow guidance from local officials and take appropriate precautions to stay safe. https://t.co/xhWgxA0LbO",
-      "createdAt": "2026-07-16T15:28:20Z",
-      "timestamp": 1784215700,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 123,
-        "reply_count": 299,
-        "like_count": 781,
-        "quote_count": 27,
-        "bookmark_count": 30,
-        "view_count": 51701
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenJonHusted/status/2077777361584435282"
-    },
-    {
-      "id": "2077777232945131571",
-      "handle": "repvalhoyle",
-      "username": "repvalhoyle",
-      "displayName": null,
-      "ownerName": "Val T. Hoyle",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/val-t-hoyle",
-      "text": "This morning, the Budget Committee is marking up a partisan resolution that will give $60 billion to an agency that can’t even pass an audit. \n\nWe must pass the No WAR Act to prevent this partisan process from being used to fund military action in Iran. https://t.co/JwloPdQ07C",
-      "createdAt": "2026-07-16T15:27:50Z",
-      "timestamp": 1784215670,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 13,
-        "like_count": 7,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 531
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repvalhoyle/status/2077777232945131571"
-    },
-    {
-      "id": "2077777055345742203",
-      "handle": "rephuffman",
-      "username": "RepHuffman",
-      "displayName": null,
-      "ownerName": "Jared Huffman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jared-huffman",
-      "text": "I don’t care what Trump says. ICE doesn’t have the power to just murder people in the streets. That’s not immigration enforcement, it’s senseless violence. \n\nLorenzo Salgado Araujo and Johan Sebastián Durán Guerrero should still be alive. The answer should be more accountability,",
-      "createdAt": "2026-07-16T15:27:07Z",
-      "timestamp": 1784215627,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 118,
-        "reply_count": 264,
-        "like_count": 357,
-        "quote_count": 6,
-        "bookmark_count": 5,
-        "view_count": 9340
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepHuffman/status/2077777055345742203"
-    },
-    {
-      "id": "2077776951226376301",
-      "handle": "reppatharrigan",
-      "username": "RepPatHarrigan",
-      "displayName": null,
-      "ownerName": "Pat Harrigan",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/pat-harrigan",
-      "text": "The real headline is that this wasn't already the policy. https://t.co/ReQ7HJaC8l",
-      "createdAt": "2026-07-16T15:26:43Z",
-      "timestamp": 1784215603,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 2,
-        "like_count": 28,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 896
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepPatHarrigan/status/2077776951226376301"
-    },
-    {
-      "id": "2077776926387700178",
-      "handle": "senlummis",
-      "username": "SenLummis",
-      "displayName": null,
-      "ownerName": "Cynthia M. Lummis",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/cynthia-m-lummis",
-      "text": "Silicon Valley Bank’s collapse shook confidence in our banking system — and Americans still deserve a full accounting of what happened. I’m glad Chairman Warsh has publicly committed to full Fed staff cooperation with this investigation. More to come soon. https://t.co/yav6DMsri1",
-      "createdAt": "2026-07-16T15:26:37Z",
-      "timestamp": 1784215597,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 257,
-        "reply_count": 58,
-        "like_count": 2078,
-        "quote_count": 7,
-        "bookmark_count": 70,
-        "view_count": 110261
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenLummis/status/2077776926387700178"
-    },
-    {
-      "id": "2077776839796207726",
-      "handle": "repmcdowell",
-      "username": "RepMcDowell",
-      "displayName": "Congressman Addison McDowell",
-      "ownerName": "Addison P. McDowell",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/addison-p-mcdowell",
-      "text": "Mamdani doesn't speak for America. President Trump does. \n\nToday I led a letter calling on the DOJ to investigate whether Mamdani’s Administration violated the Logan Act by engaging in unauthorized communications with the Islamic Republic of Iran. https://t.co/IllAOWsrnF",
-      "createdAt": "2026-07-16T15:26:16Z",
-      "timestamp": 1784215576,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5260,
-        "reply_count": 1110,
-        "like_count": 29506,
-        "quote_count": 123,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMcDowell/status/2077776839796207726"
-    },
-    {
-      "id": "2077776841444618752",
-      "handle": "repmcdowell",
-      "username": "RepMcDowell",
-      "displayName": "Congressman Addison McDowell",
-      "ownerName": "Addison P. McDowell",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/addison-p-mcdowell",
-      "text": "McDowell Leads Letter Calling on DOJ to Investigate Potential Logan Act Violations by New York City Mayor's Office\n\nhttps://t.co/AVc94tuuhV",
-      "createdAt": "2026-07-16T15:26:16Z",
-      "timestamp": 1784215576,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 28,
-        "reply_count": 14,
-        "like_count": 151,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/AVc94tuuhV",
-          "expanded_url": "https://mcdowell.house.gov/media/press-releases/mcdowell-leads-letter-calling-doj-investigate-potential-logan-act-violations",
-          "display_url": "mcdowell.house.gov/media/press-re…"
-        }
-      ],
-      "url": "https://x.com/RepMcDowell/status/2077776841444618752"
-    },
-    {
-      "id": "2077776133831925940",
-      "handle": "repmcclintock",
-      "username": "RepMcClintock",
-      "displayName": null,
-      "ownerName": "Tom McClintock",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tom-mcclintock",
-      "text": "RT @HouseBudgetGOP: .@RepMcClintock: The Democrats have failed to defund @ICEgov. Now they seek to make it impossible for ICE to enforce ou…",
-      "createdAt": "2026-07-16T15:23:28Z",
-      "timestamp": 1784215408,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 98
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMcClintock/status/2077776133831925940"
-    },
-    {
-      "id": "2077775974532325796",
-      "handle": "frankpallone",
-      "username": "FrankPallone",
-      "displayName": null,
-      "ownerName": "Frank Pallone, Jr.",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/frank-pallone-jr",
-      "text": "RT @HouseDemocrats: 07.16.26 House Democrats and Protect Our Care Press Conference https://t.co/JPsHeaKGoy",
-      "createdAt": "2026-07-16T15:22:50Z",
-      "timestamp": 1784215370,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 14,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 99
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/JPsHeaKGoy",
-          "expanded_url": "https://x.com/i/broadcasts/1nxeLLlRvErJX",
-          "display_url": "x.com/i/broadcasts/1…"
-        }
-      ],
-      "url": "https://x.com/FrankPallone/status/2077775974532325796"
-    },
-    {
-      "id": "2077775642108506233",
-      "handle": "reptomsuozzi",
-      "username": "reptomsuozzi",
-      "displayName": null,
-      "ownerName": "Thomas R. Suozzi",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/thomas-r-suozzi",
-      "text": "Our country is strongest when our unions are empowered! It was great to welcome the United Steelworkers to Washington. I’m proud to be a voice for higher wages, increased benefits, and greater workplace health and safety here in Congress. @steelworkers https://t.co/mRLW302xmG",
-      "createdAt": "2026-07-16T15:21:30Z",
-      "timestamp": 1784215290,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 9,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 682
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/reptomsuozzi/status/2077775642108506233"
-    },
-    {
-      "id": "2077775289027842349",
-      "handle": "repfeenstra",
-      "username": "RepFeenstra",
-      "displayName": null,
-      "ownerName": "Randy Feenstra",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/randy-feenstra",
-      "text": "This summer, I welcomed my final cohort of interns as a Member of Congress.\n\nIt has been a joy to have so many talented Iowans, students, and young professionals engage in public service, experience the federal policymaking process, and help serve Iowa’s Fourth District.\n\nAubrey https://t.co/d8oXAkLZ2H",
-      "createdAt": "2026-07-16T15:20:06Z",
-      "timestamp": 1784215206,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 1,
-        "like_count": 18,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2392
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepFeenstra/status/2077775289027842349"
-    },
-    {
-      "id": "2077775163936899122",
-      "handle": "rosadelauro",
-      "username": "RosaDeLauro",
-      "displayName": null,
-      "ownerName": "Rosa L. DeLauro",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/rosa-l-delauro",
-      "text": "This is extremely irresponsible and dangerous language from the Trump Administration's top immigration official.",
-      "createdAt": "2026-07-16T15:19:36Z",
-      "timestamp": 1784215176,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 22,
-        "reply_count": 30,
-        "like_count": 113,
-        "quote_count": 1,
-        "bookmark_count": 3,
-        "view_count": 2450
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RosaDeLauro/status/2077775163936899122"
-    },
-    {
-      "id": "2077774871195447766",
-      "handle": "replisamcclain",
-      "username": "RepLisaMcClain",
-      "displayName": null,
-      "ownerName": "Lisa C. McClain",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/lisa-c-mcclain",
-      "text": "Michiganders shouldn't have to breathe Canada's negligence. YEAR AFTER YEAR the smoke crosses the border while Canada does nothing. Stop exporting your smoke into our skies. Enough is enough!",
-      "createdAt": "2026-07-16T15:18:27Z",
-      "timestamp": 1784215107,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 270,
-        "reply_count": 4178,
-        "like_count": 3122,
-        "quote_count": 770,
-        "bookmark_count": 264,
-        "view_count": 1972187
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepLisaMcClain/status/2077774871195447766"
-    },
-    {
-      "id": "2077774850840523019",
-      "handle": "repdavetaylor",
-      "username": "RepDaveTaylor",
-      "displayName": null,
-      "ownerName": "David J. Taylor",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/david-j-taylor",
-      "text": "Beloved by Chillicothe families, Jana Detty is celebrating her retirement from a storied 50-year career of top-tier service.\n\nOhio is grateful for incredible people like her who exemplify kindness and excellence in all they do.\n\nCongratulations, Jana, on your well-earned https://t.co/COIzGh4MLD",
-      "createdAt": "2026-07-16T15:18:22Z",
-      "timestamp": 1784215102,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 209
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDaveTaylor/status/2077774850840523019"
-    },
-    {
-      "id": "2077774745039163889",
-      "handle": "repmcgovern",
-      "username": "RepMcGovern",
-      "displayName": null,
-      "ownerName": "James P. McGovern",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-p-mcgovern",
-      "text": "Hey @HouseGOP:\n\nFolks know that passing the same voter suppression bill won't lower their rent or bring down the price of groceries.\n\nThey know that changing or not changing the clocks won't change what is in their bank account.\n\nYour priorities are way out of whack. https://t.co/uN1DQOCHpE",
-      "createdAt": "2026-07-16T15:17:57Z",
-      "timestamp": 1784215077,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 129,
-        "reply_count": 44,
-        "like_count": 395,
-        "quote_count": 5,
-        "bookmark_count": 2,
-        "view_count": 6245
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMcGovern/status/2077774745039163889"
-    },
-    {
-      "id": "2077774689754066989",
-      "handle": "repmarcykaptur",
-      "username": "RepMarcyKaptur",
-      "displayName": null,
-      "ownerName": "Marcy Kaptur",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/marcy-kaptur",
-      "text": "Honoring the life and legacy of Toledo resident Betty Ann Amison-Lewis. Betty looked for every opportunity she could to serve our NW Ohio community. As founding Director of Toledo's Grace Community Center, Betty devoted decades to others with the same grace for which the https://t.co/baeZ5nGA7Y",
-      "createdAt": "2026-07-16T15:17:43Z",
-      "timestamp": 1784215063,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 8,
-        "reply_count": 6,
-        "like_count": 56,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 1417
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMarcyKaptur/status/2077774689754066989"
-    },
-    {
-      "id": "2077774589904437350",
-      "handle": "repdinatitus",
-      "username": "RepDinaTitus",
-      "displayName": null,
-      "ownerName": "Dina Titus",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/dina-titus",
-      "text": "Today marks National Atomic Veterans Day and the anniversary of the Trinity test. I am fighting for my PRESUME Act to ensure our cold warriors get the benefits they need and deserve. https://t.co/jHAetiHvKP",
-      "createdAt": "2026-07-16T15:17:20Z",
-      "timestamp": 1784215040,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 7,
-        "like_count": 22,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1229
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDinaTitus/status/2077774589904437350"
     }
   ],
   "notes": [
