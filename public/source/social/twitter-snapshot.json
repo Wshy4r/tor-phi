@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T17:00:08.004234Z",
+  "generatedAt": "2026-07-26T18:07:17.145294Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-26T16:59:14.343Z",
+    "generatedAt": "2026-07-26T18:06:59.253Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2148,7 +2148,7 @@
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-26T17:00:07.045005Z",
+  "lastCaptureAt": "2026-07-26T18:07:15.372101Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,7 +30805,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-26T16:59:30.751666Z",
+      "lastScrapedAt": "2026-07-26T18:07:15.372101Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41439,
@@ -41058,7 +41058,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-26T16:59:30.751666Z",
+      "lastScrapedAt": "2026-07-26T18:07:15.372101Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41439,
@@ -50105,7 +50105,7 @@
         "like_count": 49,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1416
+        "view_count": 1418
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50133,7 +50133,7 @@
         "like_count": 152,
         "quote_count": 1,
         "bookmark_count": 2,
-        "view_count": 2262
+        "view_count": 2263
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -53921,7 +53921,7 @@
         "like_count": 14,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1168
+        "view_count": 1169
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -55687,6 +55687,37 @@
       "url": "https://x.com/RepKnott/status/2079365576779076066"
     },
     {
+      "id": "2079359873901363633",
+      "handle": "repschneider",
+      "username": "RepSchneider",
+      "displayName": "Rep. Brad Schneider",
+      "ownerName": "Bradley Scott Schneider",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bradley-scott-schneider",
+      "text": "Trump continues to raise costs on American families. I have a bill that would have prevented this price hike. It’s time for Congress to reassert its Constitutional authority over tariffs and end Trump’s tantrum-driven trade agenda that's hurting Americans and our allies.",
+      "createdAt": "2026-07-21T00:16:41Z",
+      "timestamp": 1784593001,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 53,
+        "like_count": 15,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepSchneider/status/2079359873901363633"
+    },
+    {
       "id": "2079359875935531221",
       "handle": "repschneider",
       "username": "RepSchneider",
@@ -55721,37 +55752,6 @@
       "url": "https://x.com/RepSchneider/status/2079359875935531221"
     },
     {
-      "id": "2079359873901363633",
-      "handle": "repschneider",
-      "username": "RepSchneider",
-      "displayName": "Rep. Brad Schneider",
-      "ownerName": "Bradley Scott Schneider",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bradley-scott-schneider",
-      "text": "Trump continues to raise costs on American families. I have a bill that would have prevented this price hike. It’s time for Congress to reassert its Constitutional authority over tariffs and end Trump’s tantrum-driven trade agenda that's hurting Americans and our allies.",
-      "createdAt": "2026-07-21T00:16:41Z",
-      "timestamp": 1784593001,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 53,
-        "like_count": 15,
-        "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepSchneider/status/2079359873901363633"
-    },
-    {
       "id": "2079340170671726760",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
@@ -55771,7 +55771,7 @@
         "like_count": 15,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 990
+        "view_count": 991
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -97354,7 +97354,7 @@
         "like_count": 292,
         "quote_count": 3,
         "bookmark_count": 9,
-        "view_count": 6385
+        "view_count": 6386
       },
       "tags": [],
       "kurdistanTerms": [],
