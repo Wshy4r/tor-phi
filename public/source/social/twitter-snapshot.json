@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T15:24:59.867727Z",
+  "generatedAt": "2026-07-27T17:18:37.869570Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-27T15:24:33.009Z",
+    "generatedAt": "2026-07-27T17:18:14.871Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56224,
+    "tweets": 56225,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-27T15:24:57.978280Z",
+  "lastCaptureAt": "2026-07-27T17:18:36.039378Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-27T15:24:57.978280Z",
+      "lastScrapedAt": "2026-07-27T17:18:36.039378Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41439,
+      "followersCount": 41440,
       "followingCount": 866,
       "verified": false
     },
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-27T15:24:57.978280Z",
+      "lastScrapedAt": "2026-07-27T17:18:36.039378Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41439,
+      "followersCount": 41440,
       "followingCount": 866,
       "verified": false
     },
@@ -48854,6 +48854,40 @@
   ],
   "tweets": [
     {
+      "id": "2081778310011621572",
+      "handle": "repandyharrismd",
+      "username": "RepAndyHarrisMD",
+      "displayName": null,
+      "ownerName": "Andy Harris",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-harris",
+      "text": "Government-run grocery stores belong in communist China—not the United States.\n\nStill Democratic Socialists continue to gain influence in the Democrat Party and promote these failed schemes. \n\nCommunism fails every time. \n\nhttps://t.co/0nNVlb6RqU",
+      "createdAt": "2026-07-27T16:26:41Z",
+      "timestamp": 1785169601,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 7,
+        "reply_count": 3,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 500
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/0nNVlb6RqU",
+          "expanded_url": "https://www.foxnews.com/politics/far-left-victories-rip-mask-off-democrats-top-conservative-sounds-alarm-party-way-beyond-socialism",
+          "display_url": "foxnews.com/politics/far-l…"
+        }
+      ],
+      "url": "https://x.com/RepAndyHarrisMD/status/2081778310011621572"
+    },
+    {
       "id": "2081486472637546959",
       "handle": "repbrianmast",
       "username": "RepBrianMast",
@@ -50751,7 +50785,7 @@
         "like_count": 50,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1441
+        "view_count": 1445
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50809,7 +50843,7 @@
         "like_count": 153,
         "quote_count": 2,
         "bookmark_count": 2,
-        "view_count": 2286
+        "view_count": 2288
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -54903,7 +54937,7 @@
         "like_count": 14,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1179
+        "view_count": 1180
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56815,7 +56849,7 @@
         "like_count": 15,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1001
+        "view_count": 1002
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -57170,7 +57204,7 @@
         "like_count": 26,
         "quote_count": 0,
         "bookmark_count": 2,
-        "view_count": 1019
+        "view_count": 1020
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -98312,7 +98346,7 @@
         "like_count": 187,
         "quote_count": 1,
         "bookmark_count": 5,
-        "view_count": 6418
+        "view_count": 6419
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -98514,7 +98548,7 @@
         "like_count": 293,
         "quote_count": 4,
         "bookmark_count": 10,
-        "view_count": 6390
+        "view_count": 6391
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122682,36 +122716,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepFine/status/2077802393798898104"
-    },
-    {
-      "id": "2077802181856575588",
-      "handle": "repmcdowell",
-      "username": "RepMcDowell",
-      "displayName": "Congressman Addison McDowell",
-      "ownerName": "Addison P. McDowell",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/addison-p-mcdowell",
-      "text": "RT @HouseBudgetGOP: .@RepMcDowell: “They don't support No Tax on Tips, No Taxes on Overtime. They support raising taxes on seniors, social…",
-      "createdAt": "2026-07-16T17:06:58Z",
-      "timestamp": 1784221618,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMcDowell/status/2077802181856575588"
     }
   ],
   "notes": [
