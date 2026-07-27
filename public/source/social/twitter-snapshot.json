@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T17:18:37.869570Z",
+  "generatedAt": "2026-07-27T18:57:05.320058Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-27T17:18:14.871Z",
+    "generatedAt": "2026-07-27T18:56:47.700Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56225,
+    "tweets": 56226,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-27T17:18:36.039378Z",
+  "lastCaptureAt": "2026-07-27T18:57:03.557752Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-27T17:18:36.039378Z",
+      "lastScrapedAt": "2026-07-27T18:57:03.557752Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41440,
+      "followersCount": 41441,
       "followingCount": 866,
       "verified": false
     },
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-27T17:18:36.039378Z",
+      "lastScrapedAt": "2026-07-27T18:57:03.557752Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41440,
+      "followersCount": 41441,
       "followingCount": 866,
       "verified": false
     },
@@ -48854,6 +48854,34 @@
   ],
   "tweets": [
     {
+      "id": "2081802972779139534",
+      "handle": "repandyharrismd",
+      "username": "RepAndyHarrisMD",
+      "displayName": null,
+      "ownerName": "Andy Harris",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-harris",
+      "text": "Today, on National Korean War Veterans Armistice Day, we honor the courage and sacrifice of America’s Korean War veterans.\n\nWe remember all they gave in service to our nation. https://t.co/rCo7ASDBp5",
+      "createdAt": "2026-07-27T18:04:41Z",
+      "timestamp": 1785175481,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 189
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAndyHarrisMD/status/2081802972779139534"
+    },
+    {
       "id": "2081778310011621572",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
@@ -48868,12 +48896,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 7,
-        "reply_count": 3,
-        "like_count": 14,
+        "retweet_count": 10,
+        "reply_count": 5,
+        "like_count": 39,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 500
+        "view_count": 922
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50785,7 +50813,7 @@
         "like_count": 50,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1445
+        "view_count": 1449
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50843,7 +50871,7 @@
         "like_count": 153,
         "quote_count": 2,
         "bookmark_count": 2,
-        "view_count": 2288
+        "view_count": 2291
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -54937,7 +54965,7 @@
         "like_count": 14,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1180
+        "view_count": 1182
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56849,7 +56877,7 @@
         "like_count": 15,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1002
+        "view_count": 1004
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -98346,7 +98374,7 @@
         "like_count": 187,
         "quote_count": 1,
         "bookmark_count": 5,
-        "view_count": 6419
+        "view_count": 6422
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122688,34 +122716,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepJimCosta/status/2077802668295147781"
-    },
-    {
-      "id": "2077802393798898104",
-      "handle": "repfine",
-      "username": "RepFine",
-      "displayName": null,
-      "ownerName": "Randy Fine",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/randy-fine",
-      "text": "Decades of suicidal empathy is why nearly 10% of Americans only speak a foreign language.\n\nSomething has to change.",
-      "createdAt": "2026-07-16T17:07:49Z",
-      "timestamp": 1784221669,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 130,
-        "reply_count": 70,
-        "like_count": 1093,
-        "quote_count": 7,
-        "bookmark_count": 7,
-        "view_count": 10328
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepFine/status/2077802393798898104"
     }
   ],
   "notes": [
