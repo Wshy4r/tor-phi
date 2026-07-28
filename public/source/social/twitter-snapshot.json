@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T23:01:15.897518Z",
+  "generatedAt": "2026-07-28T00:09:20.604379Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-27T23:00:54.258Z",
+    "generatedAt": "2026-07-28T00:09:02.049Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2148,7 +2148,7 @@
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-27T23:01:14.110489Z",
+  "lastCaptureAt": "2026-07-28T00:09:18.937603Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,7 +30805,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-27T23:01:14.110489Z",
+      "lastScrapedAt": "2026-07-28T00:09:18.937603Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41443,
@@ -41058,7 +41058,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-27T23:01:14.110489Z",
+      "lastScrapedAt": "2026-07-28T00:09:18.937603Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41443,
@@ -48901,7 +48901,7 @@
         "like_count": 11,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 439
+        "view_count": 502
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48955,11 +48955,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 11,
-        "reply_count": 10,
-        "like_count": 53,
-        "quote_count": 0,
+        "reply_count": 11,
+        "like_count": 56,
+        "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 1119
+        "view_count": 1159
       },
       "tags": [],
       "kurdistanTerms": [],
