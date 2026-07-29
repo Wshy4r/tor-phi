@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T01:03:38.845780Z",
+  "generatedAt": "2026-07-29T04:47:20.328725Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-29T01:02:49.195Z",
+    "generatedAt": "2026-07-29T04:46:29.881Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56453,
+    "tweets": 56491,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-29T01:03:37.922401Z",
+  "lastCaptureAt": "2026-07-29T04:47:19.308008Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T01:03:05.963151Z",
+      "lastScrapedAt": "2026-07-29T04:46:46.643833Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41448,
+      "followersCount": 41451,
       "followingCount": 866,
       "verified": false
     },
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T01:03:07.120694Z",
+      "lastScrapedAt": "2026-07-29T04:46:47.816005Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
       "followersCount": 4707,
@@ -31519,7 +31519,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T01:03:22.612360Z",
+      "lastScrapedAt": "2026-07-29T04:47:04.147810Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 17949,
@@ -31630,7 +31630,7 @@
     },
     {
       "username": "RepMaloyUtah",
-      "displayName": "Celeste Maloy",
+      "displayName": "Rep. Celeste Maloy",
       "ownerName": "Celeste Maloy",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -31638,12 +31638,12 @@
       "profileHref": "/country/usa/congress/celeste-maloy",
       "url": "https://x.com/RepMaloyUtah",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:49:35.803146Z",
+      "lastScrapedAt": "2026-07-29T04:47:05.383894Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 3328,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1746930800308682752/oL6_OX2n_normal.jpg",
+      "followersCount": 3327,
       "followingCount": 240,
-      "verified": false
+      "verified": true
     },
     {
       "username": "SenSchumer",
@@ -31672,10 +31672,10 @@
       "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
       "url": "https://x.com/RepChuck",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:01:52.822343Z",
+      "lastScrapedAt": "2026-07-29T04:47:19.308008Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 30395,
+      "followersCount": 30412,
       "followingCount": 1146,
       "verified": false
     },
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T01:03:05.963151Z",
+      "lastScrapedAt": "2026-07-29T04:46:46.643833Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41448,
+      "followersCount": 41451,
       "followingCount": 866,
       "verified": false
     },
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T01:03:07.120694Z",
+      "lastScrapedAt": "2026-07-29T04:46:47.816005Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
       "followersCount": 4707,
@@ -41772,7 +41772,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T01:03:22.612360Z",
+      "lastScrapedAt": "2026-07-29T04:47:04.147810Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 17949,
@@ -41883,7 +41883,7 @@
     },
     {
       "username": "RepMaloyUtah",
-      "displayName": "Celeste Maloy",
+      "displayName": "Rep. Celeste Maloy",
       "ownerName": "Celeste Maloy",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41891,12 +41891,12 @@
       "profileHref": "/country/usa/congress/celeste-maloy",
       "url": "https://x.com/RepMaloyUtah",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T19:49:35.803146Z",
+      "lastScrapedAt": "2026-07-29T04:47:05.383894Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 3328,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1746930800308682752/oL6_OX2n_normal.jpg",
+      "followersCount": 3327,
       "followingCount": 240,
-      "verified": false
+      "verified": true
     },
     {
       "username": "SenSchumer",
@@ -41925,10 +41925,10 @@
       "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
       "url": "https://x.com/RepChuck",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:01:52.822343Z",
+      "lastScrapedAt": "2026-07-29T04:47:19.308008Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 30395,
+      "followersCount": 30412,
       "followingCount": 1146,
       "verified": false
     },
@@ -48882,6 +48882,34 @@
       "url": "https://x.com/SenCortezMasto/status/2082241806083744247"
     },
     {
+      "id": "2082186310144635288",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "It was a pleasure to meet with so many residents in Wartburg today and discuss the challenges our communities face and how Congress can help. Hearing directly from residents here has given me a deeper understanding of how federal policies affect our community. I am grateful for https://t.co/IEZjteEKwc",
+      "createdAt": "2026-07-28T19:27:56Z",
+      "timestamp": 1785266876,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 417
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2082186310144635288"
+    },
+    {
       "id": "2082172512230654395",
       "handle": "sencortezmasto",
       "username": "SenCortezMasto",
@@ -48908,6 +48936,66 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenCortezMasto/status/2082172512230654395"
+    },
+    {
+      "id": "2082161664745673064",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "It was a privilege to speak with the Campbell County Rotary Club in LaFollette and discuss the great impact that the National Labs, like @ORNL, are having in bringing next-generation nuclear technology to power our future energy needs. Over the years, I’ve enjoyed speaking with https://t.co/zL1BSmqMzZ",
+      "createdAt": "2026-07-28T17:50:00Z",
+      "timestamp": 1785261000,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 328
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2082161664745673064"
+    },
+    {
+      "id": "2082157764030198269",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Thank you to the local leaders of the City of LaFollette for the tour of their wonderful city hall. It was great to meet and speak with the staff to hear about their work that makes the city stronger. https://t.co/WVOCmDbwBD",
+      "createdAt": "2026-07-28T17:34:30Z",
+      "timestamp": 1785260070,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 466
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2082157764030198269"
     },
     {
       "id": "2082153344647205003",
@@ -48966,6 +49054,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenCortezMasto/status/2082135605660504187"
+    },
+    {
+      "id": "2082134860513067241",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "It is great to be with civic leaders from across Scott County this morning to talk about working together to improve our community. I have been honored to represent the great people of this county for fifteen years. https://t.co/PnRnBuF0Sa",
+      "createdAt": "2026-07-28T16:03:29Z",
+      "timestamp": 1785254609,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 335
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2082134860513067241"
     },
     {
       "id": "2081873569936507185",
@@ -49133,7 +49249,7 @@
         "like_count": 19,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 858
+        "view_count": 866
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49303,7 +49419,7 @@
         "like_count": 71,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 1436
+        "view_count": 1450
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49462,6 +49578,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepCarlos/status/2081756152908423354"
+    },
+    {
+      "id": "2081752341611491520",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @WhiteHouse: President Donald J. Trump is reigniting America’s nuclear power production. 🇺🇸\n\n@SecretaryWright launched a pilot for advan…",
+      "createdAt": "2026-07-27T14:43:29Z",
+      "timestamp": 1785163409,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1044,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 49
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2081752341611491520"
     },
     {
       "id": "2081751564377526403",
@@ -49720,6 +49866,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepCarlos/status/2081564244210848203"
+    },
+    {
+      "id": "2081522203896467622",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "The DSA is a complete inversion of what America stands for; you can watch it for yourself. Their movement is a coordinated effort to undermine our nation’s values and dismantle the freedoms we hold dear.\n\nIf we don’t stand up, speak out, and defend our country’s core values, we",
+      "createdAt": "2026-07-26T23:29:00Z",
+      "timestamp": 1785108540,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 7,
+        "like_count": 12,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "view_count": 1437
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2081522203896467622"
     },
     {
       "id": "2081520679443140908",
@@ -50004,6 +50178,62 @@
       "url": "https://x.com/SenCortezMasto/status/2081453687986180321"
     },
     {
+      "id": "2081451744937361822",
+      "handle": "repmaloyutah",
+      "username": "RepMaloyUtah",
+      "displayName": "Rep. Celeste Maloy",
+      "ownerName": "Celeste Maloy",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/celeste-maloy",
+      "text": "RT @mschultz_12: On Pioneer Day, I had the opportunity to tour Beaver and see firsthand the devastating impact of both wildfire and floodin…",
+      "createdAt": "2026-07-26T18:49:02Z",
+      "timestamp": 1785091742,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMaloyUtah/status/2081451744937361822"
+    },
+    {
+      "id": "2081451622493036822",
+      "handle": "repmaloyutah",
+      "username": "RepMaloyUtah",
+      "displayName": "Rep. Celeste Maloy",
+      "ownerName": "Celeste Maloy",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/celeste-maloy",
+      "text": "RT @tvheidihatch: Congresswoman Celeste Maloy toured the Cottonwood Fire burn scar in Beaver County today, telling KUTV's Samantha Hoffman…",
+      "createdAt": "2026-07-26T18:48:32Z",
+      "timestamp": 1785091712,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMaloyUtah/status/2081451622493036822"
+    },
+    {
       "id": "2081418797718573533",
       "handle": "repbrianmast",
       "username": "RepBrianMast",
@@ -50247,6 +50477,34 @@
         }
       ],
       "url": "https://x.com/RepBrianMast/status/2081171389436809273"
+    },
+    {
+      "id": "2081168250466144429",
+      "handle": "repmaloyutah",
+      "username": "RepMaloyUtah",
+      "displayName": "Rep. Celeste Maloy",
+      "ownerName": "Celeste Maloy",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/celeste-maloy",
+      "text": "Yesterday, I brought a group to Beaver that doesn't often travel together: members of Congress, state legislators, and Forest Service officials. We walked through neighborhoods destroyed by floods and surveyed the destruction left by the Cottonwood Fire. The damage is widespread https://t.co/y7pl8fAVGW",
+      "createdAt": "2026-07-26T00:02:31Z",
+      "timestamp": 1785024151,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 9,
+        "reply_count": 10,
+        "like_count": 48,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMaloyUtah/status/2081168250466144429"
     },
     {
       "id": "2081160945892467040",
@@ -51237,6 +51495,38 @@
       "url": "https://x.com/CongBoyle/status/2080734430444838989"
     },
     {
+      "id": "2080733285408199131",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @ENERGY: 👀 https://t.co/MZZQQNULUr",
+      "createdAt": "2026-07-24T19:14:08Z",
+      "timestamp": 1784920448,
+      "tweetType": "retweet",
+      "language": "qme",
+      "metrics": {
+        "retweet_count": 1632,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 60
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2080733285408199131"
+    },
+    {
       "id": "2080730121904722410",
       "handle": "sensanders",
       "username": "SenSanders",
@@ -51263,6 +51553,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenSanders/status/2080730121904722410"
+    },
+    {
+      "id": "2080729458059755866",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "A packed week talking about the future of nuclear and the objectives that are supported by it! Tune in to see a recap of my week here in Washington. It's a blessing to be your Congressman. https://t.co/ENY7yyX8oZ",
+      "createdAt": "2026-07-24T18:58:55Z",
+      "timestamp": 1784919535,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 642
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2080729458059755866"
     },
     {
       "id": "2080722358499737902",
@@ -51800,6 +52118,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepBryanSteil/status/2080683231142117874"
+    },
+    {
+      "id": "2080677137825079712",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @SenatorLankford: Nothing motivates Congress like jet fumes. My Prevent Government Shutdowns Act keeps us in DC until we finish all 12 a…",
+      "createdAt": "2026-07-24T15:31:01Z",
+      "timestamp": 1784907061,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 95,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 69
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2080677137825079712"
     },
     {
       "id": "2080673573216092384",
@@ -52769,7 +53115,7 @@
         "like_count": 52,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1468
+        "view_count": 1469
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -52827,7 +53173,7 @@
         "like_count": 154,
         "quote_count": 2,
         "bookmark_count": 2,
-        "view_count": 2308
+        "view_count": 2309
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -53301,6 +53647,34 @@
       "url": "https://x.com/RepCarlos/status/2080352848101916871"
     },
     {
+      "id": "2080351657150370142",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @torishiv: It was a pleasure hosting @RepChuck at our R-50 factory last week in Oak Ridge. Concrete is poured, and we are on track to de…",
+      "createdAt": "2026-07-23T17:57:40Z",
+      "timestamp": 1784829460,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 68
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2080351657150370142"
+    },
+    {
       "id": "2080348897768030228",
       "handle": "repbrandongill",
       "username": "repbrandongill",
@@ -53487,6 +53861,66 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repbrandongill/status/2080341371609661591"
+    },
+    {
+      "id": "2080338565330805123",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @RadiantNuclear: Eighteen months from concrete to customer. That's the timeline we showed @RepChuck at R-50 in Oak Ridge last week — and…",
+      "createdAt": "2026-07-23T17:05:39Z",
+      "timestamp": 1784826339,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 11,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 68
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2080338565330805123"
+    },
+    {
+      "id": "2080333121149423768",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @housescience: At yesterday's hearing, @RepChuck asked about the future of the Department of Energy's Office of Science.\n \nOSTP Director…",
+      "createdAt": "2026-07-23T16:44:01Z",
+      "timestamp": 1784825041,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 72
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2080333121149423768"
     },
     {
       "id": "2080332875925262820",
@@ -53755,6 +54189,38 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepBillFoster/status/2080318798305907007"
+    },
+    {
+      "id": "2080317808085279000",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @USTDA: Thank you @SenatorHagerty and @RepChuck for sharing remarks at USTDA’s Civil #Nuclear Energy Workshop in London. With Congress’…",
+      "createdAt": "2026-07-23T15:43:10Z",
+      "timestamp": 1784821390,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 65
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2080317808085279000"
     },
     {
       "id": "2080315627672117629",
@@ -54321,6 +54787,34 @@
       "url": "https://x.com/reppettersen/status/2080283630715195543"
     },
     {
+      "id": "2080283396752707711",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "I’ve long said that government shutdowns are pointless and always cause more harm than good. Americans expect Congress to keep the lights on and the doors open. I appreciated Senator Lankford’s answers during the @HouseAppropsGOP hearing, as we work together to find real https://t.co/HlmIeuS22T",
+      "createdAt": "2026-07-23T13:26:26Z",
+      "timestamp": 1784813186,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 6,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 795
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2080283396752707711"
+    },
+    {
       "id": "2080283380931854666",
       "handle": "senarmstrong",
       "username": "SenArmstrong",
@@ -54463,6 +54957,38 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepCarlos/status/2080161954639778282"
+    },
+    {
+      "id": "2080107094305386961",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "What an incredible turnout at the Genesis Mission Summit tonight! As Chairman of the House Energy and Water Appropriations Subcommittee, I remain committed to championing American innovation and ensuring we invest in the technologies that will secure our nation’s energy future. https://t.co/m1TwLmgofi",
+      "createdAt": "2026-07-23T01:45:52Z",
+      "timestamp": 1784771152,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 8,
+        "reply_count": 2,
+        "like_count": 19,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "view_count": 1338
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2080107094305386961"
     },
     {
       "id": "2080106045414719601",
@@ -56858,6 +57384,34 @@
       "url": "https://x.com/RepBenCline/status/2079972799020482898"
     },
     {
+      "id": "2079972560612077853",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @TVPPA: Thank you to Representative Chuck Fleischmann of Tennessee for his time to discuss key issues affecting #TVPPA members and the V…",
+      "createdAt": "2026-07-22T16:51:17Z",
+      "timestamp": 1784739077,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 70
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079972560612077853"
+    },
+    {
       "id": "2079972495885533261",
       "handle": "repangiecraig",
       "username": "RepAngieCraig",
@@ -57628,6 +58182,39 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepBryanSteil/status/2079948508702924997"
+    },
+    {
+      "id": "2079946616904044877",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Innovations in nuclear energy, like the projects Deep Fission is working on, are crucial to securing our energy future, and I’m inspired by the progress being made. Appreciated meeting with them to learn about their commercialization journey and to see their innovative technology https://t.co/KVUzTxVvLx",
+      "createdAt": "2026-07-22T15:08:11Z",
+      "timestamp": 1784732891,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 803
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Diplomatic / official contact",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079946616904044877"
     },
     {
       "id": "2079941708125524248",
@@ -58919,6 +59506,40 @@
       "url": "https://x.com/repbrandongill/status/2079677136705654875"
     },
     {
+      "id": "2079675093391720729",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Pleasure meeting with @TVPPA during the annual Valley Rally. We discussed innovative approaches to strengthening our energy infrastructure and ensuring reliability throughout the Valley. I appreciated their dedication to the region and am eager to build on our partnership. https://t.co/3gGGSoBdd6",
+      "createdAt": "2026-07-21T21:09:15Z",
+      "timestamp": 1784668155,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 7,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 1171
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Supportive / partnership",
+        "Diplomatic / official contact",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079675093391720729"
+    },
+    {
       "id": "2079672844120703440",
       "handle": "repdonaldspress",
       "username": "RepDonaldsPress",
@@ -59088,7 +59709,7 @@
         "like_count": 14,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1194
+        "view_count": 1195
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -59249,6 +59870,38 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepCarolMiller/status/2079663524859490701"
+    },
+    {
+      "id": "2079661317720301982",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Great conversation on advancing American nuclear leadership, strengthening our domestic supply chain, and powering the future of energy innovation!",
+      "createdAt": "2026-07-21T20:14:31Z",
+      "timestamp": 1784664871,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 995
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079661317720301982"
     },
     {
       "id": "2079660538036908515",
@@ -59834,6 +60487,37 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepCarlos/status/2079638392862622064"
+    },
+    {
+      "id": "2079635531542012032",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "It was great to have Togo’s Minister of Foreign Affairs, Prof. Robert Dussey, and his team in the office. We explored ways to deepen cooperation on counterterrorism, enhance regional stability, and ensure resilient supply chains for critical minerals, all in pursuit of our mutual https://t.co/uYquFQisvF",
+      "createdAt": "2026-07-21T18:32:03Z",
+      "timestamp": 1784658723,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 488
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079635531542012032"
     },
     {
       "id": "2079635227048030359",
@@ -61596,6 +62280,38 @@
       "url": "https://x.com/repbrandongill/status/2079564340869406850"
     },
     {
+      "id": "2079564173776765325",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @GovNuclear: Small pellet. Huge energy. 🤯\n\nOne uranium fuel pellet packs more power than you might guess. https://t.co/ZueHT41VWX",
+      "createdAt": "2026-07-21T13:48:30Z",
+      "timestamp": 1784641710,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 32,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 74
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079564173776765325"
+    },
+    {
       "id": "2079555923664633878",
       "handle": "repgarbarino",
       "username": "RepGarbarino",
@@ -61654,6 +62370,40 @@
       ],
       "urls": [],
       "url": "https://x.com/RepCarlos/status/2079553580806078492"
+    },
+    {
+      "id": "2079370425084063952",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "It was a pleasure meeting with Ted Garrish, Assistant Secretary for Nuclear Energy at @energy. We had a great discussion on the future of nuclear energy, innovation, and the critical role East Tennessee continues to play in advancing America’s energy security. https://t.co/w6pDw2PnqK",
+      "createdAt": "2026-07-21T00:58:36Z",
+      "timestamp": 1784595516,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 1165
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Security / counterterrorism",
+        "Diplomatic / official contact",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079370425084063952"
     },
     {
       "id": "2079366843899293706",
@@ -61865,6 +62615,40 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepBryanSteil/status/2079347809673773369"
+    },
+    {
+      "id": "2079344423700140059",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "It was a pleasure meeting with Navarro to discuss East Tennessee’s ongoing growth. I value their vital contributions to our nation’s environmental cleanup, advancement of nuclear energy, and national security efforts. https://t.co/YuSHWve0Rf",
+      "createdAt": "2026-07-20T23:15:17Z",
+      "timestamp": 1784589317,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 969
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Security / counterterrorism",
+        "Diplomatic / official contact",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079344423700140059"
     },
     {
       "id": "2079340170671726760",
@@ -63200,6 +63984,38 @@
       "url": "https://x.com/RepCarlos/status/2079267664682209709"
     },
     {
+      "id": "2079267442518327655",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @CRESforum: “For energy, the path to affordability is growth,” Arthur Haubenstock, Senior Legal Counsel at @Equinix, told the room.\n\nTha…",
+      "createdAt": "2026-07-20T18:09:23Z",
+      "timestamp": 1784570963,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 69
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079267442518327655"
+    },
+    {
       "id": "2079266871673491898",
       "handle": "repadriansmith",
       "username": "RepAdrianSmith",
@@ -63544,6 +64360,34 @@
       "url": "https://x.com/RepGarbarino/status/2079252222601232864"
     },
     {
+      "id": "2079252065172263310",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @NASAhistory: One giant leap for mankind\n\nHistory was made on July 20, 1969, when Apollo 11's Neil Armstrong and Buzz Aldrin became the…",
+      "createdAt": "2026-07-20T17:08:17Z",
+      "timestamp": 1784567297,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3964,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 68
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079252065172263310"
+    },
+    {
       "id": "2079243459278541300",
       "handle": "repdonaldspress",
       "username": "RepDonaldsPress",
@@ -63570,6 +64414,38 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDonaldsPress/status/2079243459278541300"
+    },
+    {
+      "id": "2079243072815370667",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Congratulations to TRISO-X on new investments from Tennessee’s Nuclear Energy Supply Chain Investment Fund to expand its Oak Ridge campus. This will boost TRISO fuel facilities, strengthen America’s nuclear supply chain, and create quality jobs in East Tennessee.\n\nProud to see",
+      "createdAt": "2026-07-20T16:32:33Z",
+      "timestamp": 1784565153,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1129
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079243072815370667"
     },
     {
       "id": "2079240931132260423",
@@ -64347,6 +65223,62 @@
       "url": "https://x.com/SenCortezMasto/status/2079023959320719847"
     },
     {
+      "id": "2079023541190848972",
+      "handle": "repmaloyutah",
+      "username": "RepMaloyUtah",
+      "displayName": "Rep. Celeste Maloy",
+      "ownerName": "Celeste Maloy",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/celeste-maloy",
+      "text": "My heart is with everyone affected by the devastating floods in southern Utah, especially those mourning the loss of loved ones and those who have suffered damage to their homes and property. I am in contact with state, local, and federal partners and will continue tracking the",
+      "createdAt": "2026-07-20T02:00:13Z",
+      "timestamp": 1784512813,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 8,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMaloyUtah/status/2079023541190848972"
+    },
+    {
+      "id": "2079005863478501832",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Congratulations to Spain on their World Cup victory! We’re proud you chose Chattanooga as your home base for the group stage. Your winning spirit and drive reflect the very best of our city. 🇪🇸 #FIFAWorldCup #Chattanooga",
+      "createdAt": "2026-07-20T00:49:58Z",
+      "timestamp": 1784508598,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1442
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2079005863478501832"
+    },
+    {
       "id": "2078998029709775135",
       "handle": "repcarolmiller",
       "username": "RepCarolMiller",
@@ -64463,6 +65395,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepAlGreen/status/2078974504206787015"
+    },
+    {
+      "id": "2078958294593310755",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Brenda and I had a wonderful time at the beautiful Lee Chapel at Lee University in Bradley County. \n\nGreat memories made. https://t.co/MkLI4va02L",
+      "createdAt": "2026-07-19T21:40:57Z",
+      "timestamp": 1784497257,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1127
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2078958294593310755"
     },
     {
       "id": "2078929683605807514",
@@ -64605,6 +65565,64 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepBillFoster/status/2078877895049494613"
+    },
+    {
+      "id": "2078866384004567338",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "After church Brenda and I visited the beautiful Aubie Smith farm in Ooltewah. The sunflowers and butterflies are beautiful. Thank you Michelle and staff for all you do. https://t.co/et9qUEDzUs",
+      "createdAt": "2026-07-19T15:35:44Z",
+      "timestamp": 1784475344,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 6,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 1058
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2078866384004567338"
+    },
+    {
+      "id": "2078863487204274527",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "RT @GovNuclear: FACT: Uranium is the main source of fuel for nuclear reactors.\n\nIt's found as a mineral in the earth’s crust that is bonded…",
+      "createdAt": "2026-07-19T15:24:13Z",
+      "timestamp": 1784474653,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 108,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 74
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2078863487204274527"
     },
     {
       "id": "2078860708075172020",
@@ -64753,6 +65771,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepHuizenga/status/2078684251579376108"
+    },
+    {
+      "id": "2078653320722329635",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Always thankful to be invited to the Chattanooga Ball. So great to join great people to raise money for such an important cause! https://t.co/5YqQzYxZPU",
+      "createdAt": "2026-07-19T01:29:05Z",
+      "timestamp": 1784424545,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 9,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 1332
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2078653320722329635"
     },
     {
       "id": "2078615217655672999",
@@ -67088,6 +68134,36 @@
       "url": "https://x.com/RepShriThanedar/status/2078253414207676722"
     },
     {
+      "id": "2078252909054107837",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Privileged to be with @RepTimBurchett and the Tennessee Municipal Electric Power Association to discuss issues facing our nation and state related to electricity generation and transmission. America’s economic prosperity and national strength depend on our ability to provide https://t.co/UL1leNqEbP",
+      "createdAt": "2026-07-17T22:58:00Z",
+      "timestamp": 1784329080,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 594
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2078252909054107837"
+    },
+    {
       "id": "2078250871763222913",
       "handle": "repwesleybellmo",
       "username": "RepWesleyBellMO",
@@ -67795,6 +68871,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenTomCotton/status/2078243297772941508"
+    },
+    {
+      "id": "2078242566948954275",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "Another great week in D.C. representing TN-03. Tune in for another Fleischmann Friday wrap-up of my week meeting with the VP, being awarded a  'Hero of Main Street' and more! https://t.co/mdTawdnlBc",
+      "createdAt": "2026-07-17T22:16:54Z",
+      "timestamp": 1784326614,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 461
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2078242566948954275"
     },
     {
       "id": "2078242339370549639",
@@ -68810,6 +69916,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepThomasMassie/status/2078231694620946453"
+    },
+    {
+      "id": "2078231475426656634",
+      "handle": "repchuck",
+      "username": "RepChuck",
+      "displayName": null,
+      "ownerName": "Charles J. \"Chuck\" Fleischmann",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
+      "text": "I got to see incredible progress while visiting @RadiantNuclear as they were pouring concrete for their reactor fuel facility on cleaned-up legacy land here in Oak Ridge. New nuclear is literally rising in the heart of the Manhattan Project. https://t.co/6QHzA5xvPT",
+      "createdAt": "2026-07-17T21:32:50Z",
+      "timestamp": 1784323970,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 21,
+        "quote_count": 2,
+        "bookmark_count": 2,
+        "view_count": 6050
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChuck/status/2078231475426656634"
     },
     {
       "id": "2078231430920831428",
@@ -94860,11 +95994,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 4,
-        "reply_count": 0,
-        "like_count": 6,
+        "reply_count": 1,
+        "like_count": 10,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 706
+        "view_count": 1061
       },
       "tags": [],
       "kurdistanTerms": [
@@ -97141,12 +98275,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 0,
+        "retweet_count": 1,
         "reply_count": 0,
-        "like_count": 5,
+        "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 371
+        "view_count": 599
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -114746,12 +115880,12 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 260,
+        "retweet_count": 298,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 59
+        "view_count": 67
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -121452,1130 +122586,6 @@
       ],
       "urls": [],
       "url": "https://x.com/RepRWilliams/status/2077831467057479991"
-    },
-    {
-      "id": "2077831144641294620",
-      "handle": "repchuck",
-      "username": "RepChuck",
-      "displayName": null,
-      "ownerName": "Charles J. \"Chuck\" Fleischmann",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
-      "text": "Honored to join leaders from across the nuclear industry to discuss the important work being done to clean up our nation’s legacy sites at the Nuclear Cleanup Caucus. Oak Ridge is leading the way in addressing the environmental and safety challenges at legacy nuclear sites while https://t.co/LByAQdOH9u",
-      "createdAt": "2026-07-16T19:02:03Z",
-      "timestamp": 1784228523,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 3,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 381
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepChuck/status/2077831144641294620"
-    },
-    {
-      "id": "2077831129898631394",
-      "handle": "replangworthy",
-      "username": "RepLangworthy",
-      "displayName": null,
-      "ownerName": "Nicholas A. Langworthy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nicholas-a-langworthy",
-      "text": "I’m proud to introduce the bipartisan Expedited Access to Biosimilars Act. It cuts unnecessary @FDA red tape, speeds access to more affordable treatments, and increases competition. Our bill keeps rigorous safety standards in place while helping patients and families save on https://t.co/kWTPh1uPiN",
-      "createdAt": "2026-07-16T19:02:00Z",
-      "timestamp": 1784228520,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 6,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 2,
-        "view_count": 7715
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepLangworthy/status/2077831129898631394"
-    },
-    {
-      "id": "2077830994812428543",
-      "handle": "repjayapal",
-      "username": "RepJayapal",
-      "displayName": null,
-      "ownerName": "Pramila Jayapal",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/pramila-jayapal",
-      "text": "Republicans on the House Budget Committee voted to give another $73 BILLION to the Department of Defense.\n\nThey are prioritizing an illegal war over lowering costs for families or reversing healthcare cuts. https://t.co/bwJLVAMRjr",
-      "createdAt": "2026-07-16T19:01:28Z",
-      "timestamp": 1784228488,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 55,
-        "reply_count": 64,
-        "like_count": 177,
-        "quote_count": 3,
-        "bookmark_count": 4,
-        "view_count": 4594
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Critical / hostile language"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepJayapal/status/2077830994812428543"
-    },
-    {
-      "id": "2077830972788163038",
-      "handle": "senbrianschatz",
-      "username": "SenBrianSchatz",
-      "displayName": null,
-      "ownerName": "Brian Schatz",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brian-schatz",
-      "text": "RT @SenOssoff: Sen. Ossoff: Tonight, Donald Trump, the world's most famous sore loser, will deliver a prime time presidential sour grapes a…",
-      "createdAt": "2026-07-16T19:01:22Z",
-      "timestamp": 1784228482,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 844,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 86
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenBrianSchatz/status/2077830972788163038"
-    },
-    {
-      "id": "2077830743859089591",
-      "handle": "repsarahelfreth",
-      "username": "repsarahelfreth",
-      "displayName": null,
-      "ownerName": "Sarah Elfreth",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/sarah-elfreth",
-      "text": "From accessible childcare through Head Start to cutting-edge technological advancements, federal grants fund critical, nonpartisan programs in communities across Maryland. But a new rule proposed by the Trump Administration would overhaul the federal grantmaking process to add https://t.co/3ZyKcG1xWd",
-      "createdAt": "2026-07-16T19:00:28Z",
-      "timestamp": 1784228428,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 8,
-        "like_count": 2,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 440
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repsarahelfreth/status/2077830743859089591"
-    },
-    {
-      "id": "2077830665542812016",
-      "handle": "repkatcammack",
-      "username": "RepKatCammack",
-      "displayName": null,
-      "ownerName": "Kat Cammack",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kat-cammack",
-      "text": "RT @WhiteHouse: Safe and secure elections are a vital pillar to our nation.\n\nTONIGHT, President Trump discusses the integrity of our electi…",
-      "createdAt": "2026-07-16T19:00:09Z",
-      "timestamp": 1784228409,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1930,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 200
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepKatCammack/status/2077830665542812016"
-    },
-    {
-      "id": "2077830648106983738",
-      "handle": "repmarkpocan",
-      "username": "RepMarkPocan",
-      "displayName": null,
-      "ownerName": "Mark Pocan",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-pocan",
-      "text": "Breaking: Intelligence officials now estimate Trump’s war with Iran has cost us $100 BILLION. \n\nThat money could have covered Medicaid for more than 27 million children. Instead of endless wars, we should be investing in making life better for the American people. https://t.co/LN9X6mam49",
-      "createdAt": "2026-07-16T19:00:05Z",
-      "timestamp": 1784228405,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 100,
-        "reply_count": 49,
-        "like_count": 145,
-        "quote_count": 6,
-        "bookmark_count": 5,
-        "view_count": 2403
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMarkPocan/status/2077830648106983738"
-    },
-    {
-      "id": "2077830643002863962",
-      "handle": "senatorlujan",
-      "username": "SenatorLujan",
-      "displayName": null,
-      "ownerName": "Ben Ray Luján",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ben-ray-lujan",
-      "text": "Just 14 days to stop the destruction of one of America's most sacred cultural and historical sites. 14 days!\n\nDonald Trump wants to obliterate Chaco Canyon for oil and gas drilling, sacrificing thousands of years of history to enrich his allies. That's why I'm leading legislation https://t.co/MuK6kKILSl",
-      "createdAt": "2026-07-16T19:00:04Z",
-      "timestamp": 1784228404,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2037,
-        "reply_count": 104,
-        "like_count": 3165,
-        "quote_count": 55,
-        "bookmark_count": 129,
-        "view_count": 29046
-      },
-      "tags": [],
-      "kurdistanTerms": [
-        "Oil / Energy"
-      ],
-      "frames": [
-        "Supportive / partnership",
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenatorLujan/status/2077830643002863962"
-    },
-    {
-      "id": "2077830646139863176",
-      "handle": "senatorlujan",
-      "username": "SenatorLujan",
-      "displayName": null,
-      "ownerName": "Ben Ray Luján",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ben-ray-lujan",
-      "text": "https://t.co/mw0xuXBcVj",
-      "createdAt": "2026-07-16T19:00:04Z",
-      "timestamp": 1784228404,
-      "tweetType": "reply",
-      "language": "zxx",
-      "metrics": {
-        "retweet_count": 33,
-        "reply_count": 4,
-        "like_count": 67,
-        "quote_count": 2,
-        "bookmark_count": 6,
-        "view_count": 1976
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/mw0xuXBcVj",
-          "expanded_url": "https://eplanning.blm.gov/Project-Home/?id=D949F582-402D-F111-8341-001DD804183B",
-          "display_url": "eplanning.blm.gov/Project-Home/?…"
-        }
-      ],
-      "url": "https://x.com/SenatorLujan/status/2077830646139863176"
-    },
-    {
-      "id": "2077830630201864338",
-      "handle": "reprichardneal",
-      "username": "RepRichardNeal",
-      "displayName": null,
-      "ownerName": "Richard E. Neal",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/richard-e-neal",
-      "text": "While Republicans try to rebrand their Big Ugly Law, real people are feeling the pain of their bad policies.\n\nI broke it down in a recent episode of the @JulieMasonShow1. Listen to my full interview here: https://t.co/Y5SHaC0vAr https://t.co/9S3wk2s2x3",
-      "createdAt": "2026-07-16T19:00:01Z",
-      "timestamp": 1784228401,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 2,
-        "like_count": 9,
-        "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": 811
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/Y5SHaC0vAr",
-          "expanded_url": "https://sxm-publish-clips.content-ingest.siriusxm.com/clip/f3194478-7044-4387-afb0-7dbd0de68684",
-          "display_url": "…ish-clips.content-ingest.siriusxm.com/clip/f3194478-…"
-        }
-      ],
-      "url": "https://x.com/RepRichardNeal/status/2077830630201864338"
-    },
-    {
-      "id": "2077830627911442754",
-      "handle": "repnancymace",
-      "username": "RepNancyMace",
-      "displayName": null,
-      "ownerName": "Nancy Mace",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nancy-mace",
-      "text": "The Save America Act is the first shot in the war to take our country back.\n\nSECURE OUR ELECTIONS.",
-      "createdAt": "2026-07-16T19:00:00Z",
-      "timestamp": 1784228400,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 259,
-        "reply_count": 162,
-        "like_count": 1752,
-        "quote_count": 6,
-        "bookmark_count": 10,
-        "view_count": 24368
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepNancyMace/status/2077830627911442754"
-    },
-    {
-      "id": "2077830628741951935",
-      "handle": "repjoshg",
-      "username": "RepJoshG",
-      "displayName": null,
-      "ownerName": "Josh Gottheimer",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/josh-gottheimer",
-      "text": "Jersey doesn't just compete. We lead. Proud to see 32 New Jersey companies recognized on TIME's 2026 Best Companies list.\n\nOnce again, our state is proving that when it comes to talent and opportunity, there's no place like Jersey.\n\nhttps://t.co/dCegNtPWTr",
-      "createdAt": "2026-07-16T19:00:00Z",
-      "timestamp": 1784228400,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 5,
-        "like_count": 3,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 855
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/dCegNtPWTr",
-          "expanded_url": "https://www.roi-nj.com/2026/07/10/industry/32-n-j-companies-earn-places-on-time-magazines-2026-top-company-list/",
-          "display_url": "roi-nj.com/2026/07/10/ind…"
-        }
-      ],
-      "url": "https://x.com/RepJoshG/status/2077830628741951935"
-    },
-    {
-      "id": "2077830519308382400",
-      "handle": "senschumer",
-      "username": "SenSchumer",
-      "displayName": null,
-      "ownerName": "Charles E. Schumer",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/charles-e-schumer",
-      "text": "The American people are fed up with the chaos in their streets, the corruption in their government, and the sky-high costs in every part of their lives because of this administration’s policies.\n\nTrump knows it—and he is trying to make sure Americans can’t hold him accountable at",
-      "createdAt": "2026-07-16T18:59:34Z",
-      "timestamp": 1784228374,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 83,
-        "reply_count": 663,
-        "like_count": 324,
-        "quote_count": 26,
-        "bookmark_count": 6,
-        "view_count": 29313
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenSchumer/status/2077830519308382400"
-    },
-    {
-      "id": "2077830504586354950",
-      "handle": "reppatharrigan",
-      "username": "RepPatHarrigan",
-      "displayName": null,
-      "ownerName": "Pat Harrigan",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/pat-harrigan",
-      "text": "RT @OffThePress1: Harrigan introduces GAP Act to block Chinese access to American aviation https://t.co/B2sm17dbjC",
-      "createdAt": "2026-07-16T18:59:31Z",
-      "timestamp": 1784228371,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 98
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/B2sm17dbjC",
-          "expanded_url": "https://www.offthepress.com/harrigan-introduces-gap-act-to-block-chinese-access-to-american-aviation/",
-          "display_url": "offthepress.com/harrigan-intro…"
-        }
-      ],
-      "url": "https://x.com/RepPatHarrigan/status/2077830504586354950"
-    },
-    {
-      "id": "2077830323744731162",
-      "handle": "replaurellee",
-      "username": "RepLaurelLee",
-      "displayName": null,
-      "ownerName": "Laurel M. Lee",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/laurel-m-lee",
-      "text": "This week, I joined the @MAHACaucus for a briefing with Deloitte researchers on the importance of preventive care and its potential to improve health outcomes while lowering long-term healthcare costs. Investing in prevention, innovation, and healthier lifestyles can help https://t.co/zF78CiaYjf",
-      "createdAt": "2026-07-16T18:58:48Z",
-      "timestamp": 1784228328,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 6,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 386
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepLaurelLee/status/2077830323744731162"
-    },
-    {
-      "id": "2077830085327855788",
-      "handle": "repgregsteube",
-      "username": "RepGregSteube",
-      "displayName": null,
-      "ownerName": "W. Gregory Steube",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/w-gregory-steube",
-      "text": "😂",
-      "createdAt": "2026-07-16T18:57:51Z",
-      "timestamp": 1784228271,
-      "tweetType": "tweet",
-      "language": "art",
-      "metrics": {
-        "retweet_count": 11,
-        "reply_count": 3,
-        "like_count": 84,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 5475
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepGregSteube/status/2077830085327855788"
-    },
-    {
-      "id": "2077829884978536462",
-      "handle": "rep_stevewomack",
-      "username": "Rep_SteveWomack",
-      "displayName": null,
-      "ownerName": "Steve Womack",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/steve-womack",
-      "text": "Miss my Telephone Town Hall? No worries.\n\nClick the link below to listen to this week's discussion on what’s happening in Washington and back home in AR-3.\n\nhttps://t.co/YDcqOm2cb7 https://t.co/ci8AlRx14Z",
-      "createdAt": "2026-07-16T18:57:03Z",
-      "timestamp": 1784228223,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 8,
-        "like_count": 8,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 975
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/YDcqOm2cb7",
-          "expanded_url": "https://youtu.be/45AXfQAtAmI",
-          "display_url": "youtu.be/45AXfQAtAmI"
-        }
-      ],
-      "url": "https://x.com/Rep_SteveWomack/status/2077829884978536462"
-    },
-    {
-      "id": "2077828602637230474",
-      "handle": "repchuygarcia",
-      "username": "RepChuyGarcia",
-      "displayName": null,
-      "ownerName": "Jesús G. \"Chuy\" García",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jesus-g-chuy-garcia",
-      "text": "Another week, another anti-immigrant bill from Republicans on the Judiciary Committee. Republicans have nothing to offer to tackle the affordability crisis, so instead they resort to blaming immigrants and stoking fear. https://t.co/kszcueUZE9",
-      "createdAt": "2026-07-16T18:51:57Z",
-      "timestamp": 1784227917,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 17,
-        "reply_count": 145,
-        "like_count": 36,
-        "quote_count": 3,
-        "bookmark_count": 2,
-        "view_count": 2363
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepChuyGarcia/status/2077828602637230474"
-    },
-    {
-      "id": "2077828522857443399",
-      "handle": "reppaultonko",
-      "username": "RepPaulTonko",
-      "displayName": null,
-      "ownerName": "Paul Tonko",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/paul-tonko",
-      "text": "Today, I introduced an amendment to Republican's budget that would ensure Trump's slush fund for January 6th rioters never sees the light of day. Congress must focus on cutting costs for Americans, not stealing taxpayer dollars to fund reckless wars &amp; benefit convicted criminals. https://t.co/l357MJ2QVV",
-      "createdAt": "2026-07-16T18:51:38Z",
-      "timestamp": 1784227898,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 8,
-        "like_count": 22,
-        "quote_count": 3,
-        "bookmark_count": 2,
-        "view_count": 775
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepPaulTonko/status/2077828522857443399"
-    },
-    {
-      "id": "2077828166358315126",
-      "handle": "congboyle",
-      "username": "CongBoyle",
-      "displayName": null,
-      "ownerName": "Brendan F. Boyle",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brendan-f-boyle",
-      "text": "Trump and Republicans want you to think America can't afford to lower costs or provide health care for working families.\n\nBut they always seem to find money to fund endless wars.\n\nI won't stop fighting Republicans' America Last budget.",
-      "createdAt": "2026-07-16T18:50:13Z",
-      "timestamp": 1784227813,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 9,
-        "reply_count": 9,
-        "like_count": 15,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 1251
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/CongBoyle/status/2077828166358315126"
-    },
-    {
-      "id": "2077828098309886067",
-      "handle": "reptonywied",
-      "username": "RepTonyWied",
-      "displayName": null,
-      "ownerName": "Tony Wied",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tony-wied",
-      "text": "It was awesome to meet with the Wisconsin FFA State Officer Team to discuss the importance of agricultural education and ensuring the next generation is prepared to continue feeding America.\n\nThe future of American agriculture looks very bright. https://t.co/m0n110dBW5",
-      "createdAt": "2026-07-16T18:49:57Z",
-      "timestamp": 1784227797,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 2,
-        "like_count": 26,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 950
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepTonyWied/status/2077828098309886067"
-    },
-    {
-      "id": "2077827983507693801",
-      "handle": "reptombarrett",
-      "username": "reptombarrett",
-      "displayName": null,
-      "ownerName": "Tom Barrett",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tom-barrett",
-      "text": "Let me know what you think:",
-      "createdAt": "2026-07-16T18:49:30Z",
-      "timestamp": 1784227770,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 221,
-        "like_count": 19,
-        "quote_count": 14,
-        "bookmark_count": 1,
-        "view_count": 13663
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/reptombarrett/status/2077827983507693801"
-    },
-    {
-      "id": "2077827980202479996",
-      "handle": "reptombarrett",
-      "username": "reptombarrett",
-      "displayName": null,
-      "ownerName": "Tom Barrett",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tom-barrett",
-      "text": "This was my view flying into Lansing this afternoon because Canadian wildfire smoke is pouring into Michigan. Do you think we should delay the Gordie Howe Bridge opening until Canada takes responsibility and gets control of these fires? https://t.co/Dty09ab4q2",
-      "createdAt": "2026-07-16T18:49:29Z",
-      "timestamp": 1784227769,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 87,
-        "reply_count": 1909,
-        "like_count": 649,
-        "quote_count": 131,
-        "bookmark_count": 53,
-        "view_count": 153078
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/reptombarrett/status/2077827980202479996"
-    },
-    {
-      "id": "2077827920630812729",
-      "handle": "markwarner",
-      "username": "MarkWarner",
-      "displayName": null,
-      "ownerName": "Mark R. Warner",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-r-warner",
-      "text": "RT @SenOssoff: Sen. Ossoff: Tonight, Donald Trump, the world's most famous sore loser, will deliver a prime time presidential sour grapes a…",
-      "createdAt": "2026-07-16T18:49:15Z",
-      "timestamp": 1784227755,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 850,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 527
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/MarkWarner/status/2077827920630812729"
-    },
-    {
-      "id": "2077827873155506265",
-      "handle": "repjohnlarson",
-      "username": "RepJohnLarson",
-      "displayName": null,
-      "ownerName": "John B. Larson",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/john-b-larson",
-      "text": "50 million more Americans have coverage thanks to the Affordable Care Act. Seniors are saving on their prescriptions because we strengthened Medicare.\n\nThere's more to do. In the wealthiest nation in the world, no one should go without healthcare.\n\nIt's time for Medicare for All. https://t.co/Cbgeu4cGi3",
-      "createdAt": "2026-07-16T18:49:03Z",
-      "timestamp": 1784227743,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 53,
-        "reply_count": 19,
-        "like_count": 155,
-        "quote_count": 1,
-        "bookmark_count": 1,
-        "view_count": 1598
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepJohnLarson/status/2077827873155506265"
-    },
-    {
-      "id": "2077827807380647995",
-      "handle": "repdustyjohnson",
-      "username": "RepDustyJohnson",
-      "displayName": null,
-      "ownerName": "Dusty Johnson",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/dusty-johnson",
-      "text": "I’m again urging the United States Postal Service to prioritize improving mail service in South Dakota. I’m encouraged by the progress and investments made so far, and I hope these efforts continue to ensure South Dakotans receive the reliable mail service they deserve.",
-      "createdAt": "2026-07-16T18:48:48Z",
-      "timestamp": 1784227728,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 2,
-        "like_count": 5,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 805
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDustyJohnson/status/2077827807380647995"
-    },
-    {
-      "id": "2077827787826541050",
-      "handle": "repharshbarger",
-      "username": "RepHarshbarger",
-      "displayName": null,
-      "ownerName": "Diana Harshbarger",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/diana-harshbarger",
-      "text": "🚨Big health insurance companies profit handsomely by covering harmful sex-rejecting procedures.  \n \nBut when patients want to undo the damage, insurers walk away and leave them to pay for it alone. \n \nMy TRUTH in Coverage Act ends that double standard. Read below in @FoxNews:",
-      "createdAt": "2026-07-16T18:48:43Z",
-      "timestamp": 1784227723,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 0,
-        "like_count": 10,
-        "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": 891
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepHarshbarger/status/2077827787826541050"
-    },
-    {
-      "id": "2077827594825683190",
-      "handle": "repmcgarvey",
-      "username": "RepMcGarvey",
-      "displayName": null,
-      "ownerName": "Morgan McGarvey",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/morgan-mcgarvey",
-      "text": "RT @HouseBudgetDems: .@RepMcGarvey introduced an amendment to rescind funding for Trump's ballroom.\n \nBut Republicans would rather triple d…",
-      "createdAt": "2026-07-16T18:47:57Z",
-      "timestamp": 1784227677,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 50
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMcGarvey/status/2077827594825683190"
-    },
-    {
-      "id": "2077827558767218795",
-      "handle": "repciscomani",
-      "username": "RepCiscomani",
-      "displayName": null,
-      "ownerName": "Juan Ciscomani",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/juan-ciscomani",
-      "text": "Building Arizona’s future starts with listening to those folks on the ground who are building that very future. \n\nGreat meeting with the Arizona Builders Alliance to discuss the challenges facing our construction industry and how we can continue creating new opportunities to keep https://t.co/XzJIOA56BV",
-      "createdAt": "2026-07-16T18:47:48Z",
-      "timestamp": 1784227668,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 3,
-        "like_count": 13,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 495
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepCiscomani/status/2077827558767218795"
-    },
-    {
-      "id": "2077827558624879032",
-      "handle": "repjimcosta",
-      "username": "RepJimCosta",
-      "displayName": null,
-      "ownerName": "Jim Costa",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jim-costa",
-      "text": "Today, I had a productive meeting with the Southeast Asia Resource Action Center @SEARAC, including David Bouttavong and Mackenzie Saephanh from CA-21, to discuss the challenges facing Southeast Asian communities. \n\nIn these uncertain times, it is more important than ever to have https://t.co/RyA4LeDXhs",
-      "createdAt": "2026-07-16T18:47:48Z",
-      "timestamp": 1784227668,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 163
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepJimCosta/status/2077827558624879032"
-    },
-    {
-      "id": "2077827506678194576",
-      "handle": "repbeccab",
-      "username": "RepBeccaB",
-      "displayName": null,
-      "ownerName": "Becca Balint",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/becca-balint",
-      "text": "Proud to take part in a roundtable with national housing stakeholders yesterday.\n \nI’m grateful to @RepEmiliaSykes and @RepFriedmanCA for bringing us together and to all the advocates for making clear why we need to keep up the momentum to lower the cost of housing. https://t.co/oEthEUHL0r",
-      "createdAt": "2026-07-16T18:47:36Z",
-      "timestamp": 1784227656,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 5,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 579
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBeccaB/status/2077827506678194576"
-    },
-    {
-      "id": "2077827470158704846",
-      "handle": "reptimkennedy",
-      "username": "reptimkennedy",
-      "displayName": null,
-      "ownerName": "Timothy M. Kennedy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/timothy-m-kennedy",
-      "text": "We celebrate the City of Good Neighbors and all of Buffalo-Niagara every day, but especially on 7️⃣1️⃣6️⃣ Day. Whether it’s helping out with a neighborhood cleanup or donating to your favorite charity, we can all pitch in to make our community an even better place.\n\nIn the words of",
-      "createdAt": "2026-07-16T18:47:27Z",
-      "timestamp": 1784227647,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 16,
-        "like_count": 13,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1546
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/reptimkennedy/status/2077827470158704846"
-    },
-    {
-      "id": "2077827417071038728",
-      "handle": "repbrianbabin",
-      "username": "RepBrianBabin",
-      "displayName": null,
-      "ownerName": "Brian Babin",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brian-babin",
-      "text": "America is for Americans. \n\nMy @FoxNews op-ed explains why Congress must end the abuse of birthright citizenship and restore the original intent of the 14th Amendment. https://t.co/bf9FNENm6t",
-      "createdAt": "2026-07-16T18:47:15Z",
-      "timestamp": 1784227635,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 1,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 405
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/bf9FNENm6t",
-          "expanded_url": "https://www.foxnews.com/opinion/scotus-shown-congress-path-birthright-citizenship-lawmakers-must-act",
-          "display_url": "foxnews.com/opinion/scotus…"
-        }
-      ],
-      "url": "https://x.com/RepBrianBabin/status/2077827417071038728"
-    },
-    {
-      "id": "2077827294463226091",
-      "handle": "repgabeamo",
-      "username": "RepGabeAmo",
-      "displayName": null,
-      "ownerName": "Gabe Amo",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/gabe-amo",
-      "text": "Even Trump’s teleprompter operator is lining his pockets. \n\nThis is why we need my BETS OFF Act to stop insiders — like the guy who LITERALLY reads all the President's speeches in advance — from betting on outcomes they know.",
-      "createdAt": "2026-07-16T18:46:45Z",
-      "timestamp": 1784227605,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 9,
-        "like_count": 10,
-        "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": 1022
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepGabeAmo/status/2077827294463226091"
-    },
-    {
-      "id": "2077827140637086181",
-      "handle": "repbrandongill",
-      "username": "repbrandongill",
-      "displayName": null,
-      "ownerName": "Brandon Gill",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brandon-gill",
-      "text": "40% of abortions in America are black babies.",
-      "createdAt": "2026-07-16T18:46:09Z",
-      "timestamp": 1784227569,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 471,
-        "reply_count": 145,
-        "like_count": 3068,
-        "quote_count": 13,
-        "bookmark_count": 49,
-        "view_count": 51400
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repbrandongill/status/2077827140637086181"
-    },
-    {
-      "id": "2077827022131233177",
-      "handle": "senossoff",
-      "username": "SenOssoff",
-      "displayName": null,
-      "ownerName": "Jon Ossoff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jon-ossoff",
-      "text": "RT @atrupar: Ossoff: \"Here's what's going to happen tonight: the world's most famous sore loser will deliver a prime-time presidential sour…",
-      "createdAt": "2026-07-16T18:45:40Z",
-      "timestamp": 1784227540,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7691,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 211
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenOssoff/status/2077827022131233177"
-    },
-    {
-      "id": "2077826933027446789",
-      "handle": "reptimburchett",
-      "username": "RepTimBurchett",
-      "displayName": null,
-      "ownerName": "Tim Burchett",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tim-burchett",
-      "text": ".@CNBC Hundreds of thousands of new Tennesseans who fled blue states would disagree.\n@SecScottBessent said it best: In Tennessee, “you keep more of what you make, build a business with fewer barriers, and raise a family with greater confidence.” https://t.co/leqU3QDJ4b",
-      "createdAt": "2026-07-16T18:45:19Z",
-      "timestamp": 1784227519,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 256,
-        "reply_count": 101,
-        "like_count": 2063,
-        "quote_count": 13,
-        "bookmark_count": 32,
-        "view_count": 70904
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepTimBurchett/status/2077826933027446789"
-    },
-    {
-      "id": "2077826885875122216",
-      "handle": "repwalberg",
-      "username": "RepWalberg",
-      "displayName": null,
-      "ownerName": "Tim Walberg",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tim-walberg",
-      "text": "Promises made, promises kept!\n\nWe must continue to bolster our border security and remove violent illegal aliens from our communities.",
-      "createdAt": "2026-07-16T18:45:08Z",
-      "timestamp": 1784227508,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 5,
-        "like_count": 13,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 548
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism",
-        "Critical / hostile language"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepWalberg/status/2077826885875122216"
     }
   ],
   "notes": [
