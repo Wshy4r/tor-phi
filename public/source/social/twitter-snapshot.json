@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T18:57:05.603513Z",
+  "generatedAt": "2026-07-30T20:14:31.748909Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-30T18:56:15.690Z",
+    "generatedAt": "2026-07-30T20:14:09.428Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2148,7 +2148,7 @@
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-30T18:57:04.675012Z",
+  "lastCaptureAt": "2026-07-30T20:14:29.869092Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,7 +30805,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-30T18:56:30.900320Z",
+      "lastScrapedAt": "2026-07-30T20:14:29.869092Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41451,
@@ -41058,7 +41058,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-30T18:56:30.900320Z",
+      "lastScrapedAt": "2026-07-30T20:14:29.869092Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41451,
@@ -49814,6 +49814,38 @@
       "url": "https://x.com/SenCortezMasto/status/2081858355224580104"
     },
     {
+      "id": "2081850878584107432",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "The Investing in State Energy Act will speed up the delivery of cost-saving weatherization funding to help bring down energy costs and save families and states money. \n\nI’ll keep fighting to deliver federal dollars back to Granite Staters to meet their needs and lower their https://t.co/vPverJyBCl",
+      "createdAt": "2026-07-27T21:15:03Z",
+      "timestamp": 1785186903,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 13,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2081850878584107432"
+    },
+    {
       "id": "2081850880408666130",
       "handle": "repchrispappas",
       "username": "RepChrisPappas",
@@ -49846,38 +49878,6 @@
         }
       ],
       "url": "https://x.com/RepChrisPappas/status/2081850880408666130"
-    },
-    {
-      "id": "2081850878584107432",
-      "handle": "repchrispappas",
-      "username": "RepChrisPappas",
-      "displayName": "Rep. Chris Pappas",
-      "ownerName": "Chris Pappas",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chris-pappas",
-      "text": "The Investing in State Energy Act will speed up the delivery of cost-saving weatherization funding to help bring down energy costs and save families and states money. \n\nI’ll keep fighting to deliver federal dollars back to Granite Staters to meet their needs and lower their https://t.co/vPverJyBCl",
-      "createdAt": "2026-07-27T21:15:03Z",
-      "timestamp": 1785186903,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 13,
-        "like_count": 2,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [
-        "Oil / Energy"
-      ],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepChrisPappas/status/2081850878584107432"
     },
     {
       "id": "2081845232274956572",
@@ -50015,7 +50015,7 @@
         "like_count": 20,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 934
+        "view_count": 937
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50250,7 +50250,7 @@
         "like_count": 72,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 1491
+        "view_count": 1492
       },
       "tags": [],
       "kurdistanTerms": [],
