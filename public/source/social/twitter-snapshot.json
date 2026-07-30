@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T17:26:39.303275Z",
+  "generatedAt": "2026-07-30T18:57:05.603513Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-30T17:26:18.645Z",
+    "generatedAt": "2026-07-30T18:56:15.690Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56585,
+    "tweets": 56633,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-30T17:26:37.199586Z",
+  "lastCaptureAt": "2026-07-30T18:57:04.675012Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-30T17:26:37.199586Z",
+      "lastScrapedAt": "2026-07-30T18:56:30.900320Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41452,
+      "followersCount": 41451,
       "followingCount": 866,
       "verified": false
     },
@@ -30975,10 +30975,10 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T10:38:08.010224Z",
+      "lastScrapedAt": "2026-07-30T18:56:31.965401Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4707,
+      "followersCount": 4708,
       "followingCount": 188,
       "verified": true
     },
@@ -31519,10 +31519,10 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T10:38:21.470618Z",
+      "lastScrapedAt": "2026-07-30T18:56:46.566993Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 17949,
+      "followersCount": 17950,
       "followingCount": 393,
       "verified": false
     },
@@ -31715,7 +31715,7 @@
     },
     {
       "username": "RepChrisPappas",
-      "displayName": "Chris Pappas",
+      "displayName": "Rep. Chris Pappas",
       "ownerName": "Chris Pappas",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -31723,12 +31723,12 @@
       "profileHref": "/country/usa/congress/chris-pappas",
       "url": "https://x.com/RepChrisPappas",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:02:44.426902Z",
+      "lastScrapedAt": "2026-07-30T18:56:47.686796Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 17995,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022339110216839168/J0fd5agR_normal.jpg",
+      "followersCount": 17996,
       "followingCount": 642,
-      "verified": false
+      "verified": true
     },
     {
       "username": "ChrisVanHollen",
@@ -31740,11 +31740,11 @@
       "profileHref": "/country/usa/congress/chris-van-hollen",
       "url": "https://x.com/ChrisVanHollen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:03:01.632242Z",
+      "lastScrapedAt": "2026-07-30T18:57:04.675012Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 288961,
-      "followingCount": 947,
+      "followersCount": 288987,
+      "followingCount": 946,
       "verified": false
     },
     {
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-30T17:26:37.199586Z",
+      "lastScrapedAt": "2026-07-30T18:56:30.900320Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41452,
+      "followersCount": 41451,
       "followingCount": 866,
       "verified": false
     },
@@ -41228,10 +41228,10 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T10:38:08.010224Z",
+      "lastScrapedAt": "2026-07-30T18:56:31.965401Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4707,
+      "followersCount": 4708,
       "followingCount": 188,
       "verified": true
     },
@@ -41772,10 +41772,10 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-07-29T10:38:21.470618Z",
+      "lastScrapedAt": "2026-07-30T18:56:46.566993Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 17949,
+      "followersCount": 17950,
       "followingCount": 393,
       "verified": false
     },
@@ -41968,7 +41968,7 @@
     },
     {
       "username": "RepChrisPappas",
-      "displayName": "Chris Pappas",
+      "displayName": "Rep. Chris Pappas",
       "ownerName": "Chris Pappas",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41976,12 +41976,12 @@
       "profileHref": "/country/usa/congress/chris-pappas",
       "url": "https://x.com/RepChrisPappas",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:02:44.426902Z",
+      "lastScrapedAt": "2026-07-30T18:56:47.686796Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 17995,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022339110216839168/J0fd5agR_normal.jpg",
+      "followersCount": 17996,
       "followingCount": 642,
-      "verified": false
+      "verified": true
     },
     {
       "username": "ChrisVanHollen",
@@ -41993,11 +41993,11 @@
       "profileHref": "/country/usa/congress/chris-van-hollen",
       "url": "https://x.com/ChrisVanHollen",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:03:01.632242Z",
+      "lastScrapedAt": "2026-07-30T18:57:04.675012Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 288961,
-      "followingCount": 947,
+      "followersCount": 288987,
+      "followingCount": 946,
       "verified": false
     },
     {
@@ -48854,6 +48854,311 @@
   ],
   "tweets": [
     {
+      "id": "2082902564052361507",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Read more: \nhttps://t.co/RMwZU0KcJZ",
+      "createdAt": "2026-07-30T18:54:04Z",
+      "timestamp": 1785437644,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/RMwZU0KcJZ",
+          "expanded_url": "https://pappas.house.gov/media/press-releases/three-pappas-backed-bipartisan-bills-to-fight-the-addiction-crisis-and-improve-care-for-seniors-advance-out-of-committee",
+          "display_url": "pappas.house.gov/media/press-re…"
+        }
+      ],
+      "url": "https://x.com/RepChrisPappas/status/2082902564052361507"
+    },
+    {
+      "id": "2082902562341081363",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Three bills I cosponsor passed out of the House Energy and Commerce Committee last week! \n\nThese are bills to help law enforcement crack down on drug trafficking, prevent fentanyl overdoses, and cut red tape for seniors to get the care they need. https://t.co/ZowlGcflvi",
+      "createdAt": "2026-07-30T18:54:03Z",
+      "timestamp": 1785437643,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2082902562341081363"
+    },
+    {
+      "id": "2082831990181490710",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "61 years ago today Medicare and Medicaid were signed into law, expanding access to health care for millions of Americans.\n\nIn the past two years, Republicans made devastating cuts to Medicaid, ripping coverage away from kids, families, seniors and created a health care crisis",
+      "createdAt": "2026-07-30T14:13:38Z",
+      "timestamp": 1785420818,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 9,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2082831990181490710"
+    },
+    {
+      "id": "2082620328140738875",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "The arrest &amp; prolonged pre-trial detention of Azerbaijani opposition leader Ali Karimli is a blatant crackdown on dissent by the Aliyev govt.\n \nTrump &amp; Rubio should demand Karimli's immediate &amp; unconditional release &amp; an end to Aliyev's assault on free speech, the free press, &amp;",
+      "createdAt": "2026-07-30T00:12:34Z",
+      "timestamp": 1785370354,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 76,
+        "reply_count": 99,
+        "like_count": 162,
+        "quote_count": 5,
+        "bookmark_count": 7,
+        "view_count": 8232
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2082620328140738875"
+    },
+    {
+      "id": "2082567699947721208",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Tomorrow, the Judiciary Committee is supposed to vote on Todd Blanche's nomination to be Attorney General.\n\n2 months ago, I told Blanche that while he may have the title of acting-AG, he is still acting like Trump's personal attorney.\n\nAnd that is still true today. https://t.co/tASYGKZcty",
+      "createdAt": "2026-07-29T20:43:26Z",
+      "timestamp": 1785357806,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 376,
+        "reply_count": 164,
+        "like_count": 1126,
+        "quote_count": 10,
+        "bookmark_count": 18,
+        "view_count": 14791
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2082567699947721208"
+    },
+    {
+      "id": "2082565584328302801",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Seniors and disabled individuals have lower prescription drug prices thanks to Medicare Part D. But as health care costs surge under his administration, President Trump is now ending this cost-saving program, leaving seniors to pay the price.\n\nI will fight this move and do",
+      "createdAt": "2026-07-29T20:35:02Z",
+      "timestamp": 1785357302,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 12,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2082565584328302801"
+    },
+    {
+      "id": "2082505241262473534",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "X thought this video was too graphic for you to see &amp; needed to be hidden. \n\nBut reality can be graphic, especially when civilians are being killed, and people’s homes, cars, and places of worship are being destroyed.\n\nWe should face that reality. https://t.co/UbetKe9WO3",
+      "createdAt": "2026-07-29T16:35:15Z",
+      "timestamp": 1785342915,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 557,
+        "reply_count": 55,
+        "like_count": 2040,
+        "quote_count": 11,
+        "bookmark_count": 133,
+        "view_count": 94248
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2082505241262473534"
+    },
+    {
+      "id": "2082490545142706214",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "The Trump admin is ending Temporary Protected Status for people from Syria &amp; Haiti forcing them back into harm's way as soon as THIS WEEK.\n\nI'm calling on the Senate to pass my SECURE Act NOW to provide a pathway to stability &amp; security for TPS recipients: https://t.co/yvoKzCrnzm",
+      "createdAt": "2026-07-29T15:36:51Z",
+      "timestamp": 1785339411,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 89,
+        "reply_count": 170,
+        "like_count": 271,
+        "quote_count": 6,
+        "bookmark_count": 11,
+        "view_count": 16099
+      },
+      "tags": [
+        "Syria"
+      ],
+      "kurdistanTerms": [
+        "Syria / Rojava"
+      ],
+      "frames": [
+        "Supportive / partnership",
+        "Security / counterterrorism"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yvoKzCrnzm",
+          "expanded_url": "https://x.com/i/broadcasts/1DxLddPNYLPxm",
+          "display_url": "x.com/i/broadcasts/1…"
+        }
+      ],
+      "url": "https://x.com/ChrisVanHollen/status/2082490545142706214"
+    },
+    {
+      "id": "2082464008288755860",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Glad to introduce the bipartisan AIR CARE Act with @RepCiscomani.\n\nThis legislation would help improve the identification of respiratory disorders and lung disease in veterans at VA.",
+      "createdAt": "2026-07-29T13:51:24Z",
+      "timestamp": 1785333084,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2082464008288755860"
+    },
+    {
+      "id": "2082458647146168511",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "The crypto industry is hoping you won't notice as they quietly push the CLARITY Act through Congress. Masquerading as \"reform,\" this bill does nothing to stop Trump's crypto corruption or the use of crypto by criminal networks &amp; other bad actors.\n\nWe must expose their scheme. https://t.co/QqbQlNZxkB",
+      "createdAt": "2026-07-29T13:30:06Z",
+      "timestamp": 1785331806,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 105,
+        "reply_count": 113,
+        "like_count": 262,
+        "quote_count": 8,
+        "bookmark_count": 11,
+        "view_count": 9517
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2082458647146168511"
+    },
+    {
       "id": "2082241806083744247",
       "handle": "sencortezmasto",
       "username": "SenCortezMasto",
@@ -48880,6 +49185,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenCortezMasto/status/2082241806083744247"
+    },
+    {
+      "id": "2082211517701804538",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "“The FDA has steadfastly found, over the past quarter century, that mifepristone is a safe and effective medication.” — Judge Ballou\n \nWe must keep fighting back against Republicans' efforts to do away with evidence-based science &amp; end these attacks on healthcare for good.",
+      "createdAt": "2026-07-28T21:08:06Z",
+      "timestamp": 1785272886,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 48,
+        "reply_count": 22,
+        "like_count": 122,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "view_count": 10839
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2082211517701804538"
     },
     {
       "id": "2082194111226859713",
@@ -48939,6 +49272,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepChuck/status/2082186310144635288"
+    },
+    {
+      "id": "2082175622571552801",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Peruvian journalist, Gustavo Gorriti, exposed corruption at the highest levels in South America. Now, those he outed are trying to silence him with bogus accusations of bribery.\n\nThe new Peruvian govt should reject the report recommending criminal charges against him &amp; allow a https://t.co/f8KMVSNaIV",
+      "createdAt": "2026-07-28T18:45:28Z",
+      "timestamp": 1785264328,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 16,
+        "reply_count": 9,
+        "like_count": 37,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 5275
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2082175622571552801"
     },
     {
       "id": "2082172512230654395",
@@ -49171,6 +49532,70 @@
       "url": "https://x.com/RepChipRoy/status/2082133218497577420"
     },
     {
+      "id": "2082130048631316757",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "NEW FUNDING: $3 million is headed to the North Country for roads, bridges, and other infrastructure. \n\nLearn more. ⬇️\nhttps://t.co/G5RVdTF0Kr",
+      "createdAt": "2026-07-28T15:44:22Z",
+      "timestamp": 1785253462,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 6,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/G5RVdTF0Kr",
+          "expanded_url": "https://www.nhpr.org/nh-news/2026-07-15/north-country-federal-funding-flood-proof-road-stream-crossings",
+          "display_url": "nhpr.org/nh-news/2026-0…"
+        }
+      ],
+      "url": "https://x.com/RepChrisPappas/status/2082130048631316757"
+    },
+    {
+      "id": "2082122418584158603",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Today, President Trump will meet with Israeli Prime Minister Netanyahu at the White House — their 8th meeting since Trump returned to office.\n\nNetanyahu is wanted for war crimes, with a warrant out for his arrest.\n\nHe should be nowhere near the Oval Office. https://t.co/zE823BMQjG",
+      "createdAt": "2026-07-28T15:14:03Z",
+      "timestamp": 1785251643,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1165,
+        "reply_count": 201,
+        "like_count": 3835,
+        "quote_count": 45,
+        "bookmark_count": 140,
+        "view_count": 76230
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2082122418584158603"
+    },
+    {
       "id": "2082120093190807742",
       "handle": "chelliepingree",
       "username": "chelliepingree",
@@ -49227,6 +49652,76 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepChipRoy/status/2082113224070058213"
+    },
+    {
+      "id": "2081902710744371203",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "To downplay the toll of their war, Trump &amp; Hegseth have resorted to manipulating the number of soldiers killed or injured.\n\nThey should be ashamed of themselves.\n \nTo protect our service members it's time to end this war.\n\nhttps://t.co/K6swDJuvWI https://t.co/PGG7Cx7XSL",
+      "createdAt": "2026-07-28T00:41:00Z",
+      "timestamp": 1785199260,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 149,
+        "reply_count": 66,
+        "like_count": 310,
+        "quote_count": 9,
+        "bookmark_count": 4,
+        "view_count": 9683
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/K6swDJuvWI",
+          "expanded_url": "https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html",
+          "display_url": "nytimes.com/2026/07/25/us/…"
+        }
+      ],
+      "url": "https://x.com/ChrisVanHollen/status/2081902710744371203"
+    },
+    {
+      "id": "2081884232842924143",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Yet another part of Trump's effort to rig the elections. This is a blatantly illegal federal intrusion into state voting rules. It should be emphatically rejected.\n\nhttps://t.co/XH4iTZ7CWe https://t.co/ifViEhXKmD",
+      "createdAt": "2026-07-27T23:27:35Z",
+      "timestamp": 1785194855,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 71,
+        "reply_count": 83,
+        "like_count": 174,
+        "quote_count": 7,
+        "bookmark_count": 5,
+        "view_count": 7828
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Critical / hostile language"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XH4iTZ7CWe",
+          "expanded_url": "https://www.washingtonpost.com/politics/2026/07/27/trump-administration-asks-supreme-court-allow-new-limits-mail-ballots/?utm_campaign=&utm_medium=email&utm_source=newsletter",
+          "display_url": "washingtonpost.com/politics/2026/…"
+        }
+      ],
+      "url": "https://x.com/ChrisVanHollen/status/2081884232842924143"
     },
     {
       "id": "2081873569936507185",
@@ -49319,6 +49814,72 @@
       "url": "https://x.com/SenCortezMasto/status/2081858355224580104"
     },
     {
+      "id": "2081850880408666130",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Read more: https://t.co/Fp8Igh5zaP",
+      "createdAt": "2026-07-27T21:15:03Z",
+      "timestamp": 1785186903,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/Fp8Igh5zaP",
+          "expanded_url": "https://pappas.house.gov/media/press-releases/pappas-introduces-bipartisan-legislation-to-speed-up-distribution-of-cost-saving-weatherization-funding",
+          "display_url": "pappas.house.gov/media/press-re…"
+        }
+      ],
+      "url": "https://x.com/RepChrisPappas/status/2081850880408666130"
+    },
+    {
+      "id": "2081850878584107432",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "The Investing in State Energy Act will speed up the delivery of cost-saving weatherization funding to help bring down energy costs and save families and states money. \n\nI’ll keep fighting to deliver federal dollars back to Granite Staters to meet their needs and lower their https://t.co/vPverJyBCl",
+      "createdAt": "2026-07-27T21:15:03Z",
+      "timestamp": 1785186903,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 13,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2081850878584107432"
+    },
+    {
       "id": "2081845232274956572",
       "handle": "repcarlos",
       "username": "RepCarlos",
@@ -49375,6 +49936,38 @@
       "url": "https://x.com/reppettersen/status/2081832009559617935"
     },
     {
+      "id": "2081829474757230837",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "RT @SenatorShaheen: Proud to see @RepChrisPappas lead the bipartisan Investing in State Energy Act in the House of Representatives.\n\nOur bi…",
+      "createdAt": "2026-07-27T19:49:59Z",
+      "timestamp": 1785181799,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2081829474757230837"
+    },
+    {
       "id": "2081829241474216048",
       "handle": "repchiproy",
       "username": "RepChipRoy",
@@ -49422,7 +50015,7 @@
         "like_count": 20,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 933
+        "view_count": 934
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49670,6 +50263,34 @@
         }
       ],
       "url": "https://x.com/RepAndyHarrisMD/status/2081778310011621572"
+    },
+    {
+      "id": "2081774920955040158",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Trump’s ‘Ratepayer Protection Pledge' is great PR, but it's just that: PR with zero enforcement.\n\nIf the Trump admin was serious, they would back my Power for the People Act to ensure that you don’t pay higher electricity costs to pay for data centers. https://t.co/uE5aY7CYh9",
+      "createdAt": "2026-07-27T16:13:13Z",
+      "timestamp": 1785168793,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 66,
+        "reply_count": 61,
+        "like_count": 175,
+        "quote_count": 5,
+        "bookmark_count": 3,
+        "view_count": 7776
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2081774920955040158"
     },
     {
       "id": "2081766173465563157",
@@ -49963,6 +50584,45 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepCarlos/status/2081751045672218868"
+    },
+    {
+      "id": "2081749071673348469",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "UPCOMING: Global Entry Enrollment and Pop-Up Passport Fair on August 18th.\n\nGlobal Entry enrollment requires folks to apply ahead of time and get conditionally approved before their appointment. Learn more about each service here:\nhttps://t.co/hxDW6krU54\nhttps://t.co/jcvMo8yyfn",
+      "createdAt": "2026-07-27T14:30:30Z",
+      "timestamp": 1785162630,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 27,
+        "like_count": 9,
+        "quote_count": 5,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/hxDW6krU54",
+          "expanded_url": "http://pappas.house.gov/globalentry",
+          "display_url": "pappas.house.gov/globalentry"
+        },
+        {
+          "url": "https://t.co/jcvMo8yyfn",
+          "expanded_url": "http://pappas.house.gov/passport",
+          "display_url": "pappas.house.gov/passport"
+        }
+      ],
+      "url": "https://x.com/RepChrisPappas/status/2081749071673348469"
     },
     {
       "id": "2081746374001852760",
@@ -51455,6 +52115,34 @@
       "url": "https://x.com/RepCarlos/status/2080798115183947784"
     },
     {
+      "id": "2080786363771670569",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "The Trump admin has restored gun licenses for a number of gun stores that were found to be selling to minors, convicted felons, &amp; more.  Gun violence has taken too many lives in America, anyone found to be enabling it should not be let off the hook, they should face justice. https://t.co/5JnhgYCEqi",
+      "createdAt": "2026-07-24T22:45:02Z",
+      "timestamp": 1784933102,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 113,
+        "reply_count": 90,
+        "like_count": 215,
+        "quote_count": 4,
+        "bookmark_count": 12,
+        "view_count": 9790
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2080786363771670569"
+    },
+    {
       "id": "2080766419910697010",
       "handle": "repcarlos",
       "username": "RepCarlos",
@@ -51888,6 +52576,44 @@
       "url": "https://x.com/RepChuck/status/2080733285408199131"
     },
     {
+      "id": "2080732902606701034",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Gas prices are once again skyrocketing thanks to this administration and their war of choice with Iran. \n\nNew Hampshire families are tired of paying for the administration's bad decisions and harmful policies. \n\nhttps://t.co/OV4JZWPKp4",
+      "createdAt": "2026-07-24T19:12:36Z",
+      "timestamp": 1784920356,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 15,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OV4JZWPKp4",
+          "expanded_url": "https://www.wmur.com/article/gas-prices-rise-new-hampshire-72026/73195624",
+          "display_url": "wmur.com/article/gas-pr…"
+        }
+      ],
+      "url": "https://x.com/RepChrisPappas/status/2080732902606701034"
+    },
+    {
       "id": "2080730121904722410",
       "handle": "sensanders",
       "username": "SenSanders",
@@ -52121,6 +52847,36 @@
         }
       ],
       "url": "https://x.com/RepBillFoster/status/2080714699935510624"
+    },
+    {
+      "id": "2080714028519735672",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "As I pointed out this week, experts at the Dept of Commerce warned Trump's deal with a UAE company compromises our national security, but Trump did it anyway as he rakes in money from the Emirati royal family.\n\nThe whole thing stinks of corruption. https://t.co/LlY7Va4wvo",
+      "createdAt": "2026-07-24T17:57:36Z",
+      "timestamp": 1784915856,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 487,
+        "reply_count": 102,
+        "like_count": 891,
+        "quote_count": 16,
+        "bookmark_count": 32,
+        "view_count": 12455
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2080714028519735672"
     },
     {
       "id": "2080707600832679955",
@@ -52989,6 +53745,34 @@
       "url": "https://x.com/SenCortezMasto/status/2080470294444003465"
     },
     {
+      "id": "2080458377264554256",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Today marks 3 years since anti-corruption activist &amp; economics professor, Dr. Gubad Ibadoghlu, was arrested &amp; detained on politically motivated charges in Azerbaijan.\n \nDespite his deteriorating health, the Aliyev govt has denied him access to the life-saving care he needs. https://t.co/LM0ZLubFRB",
+      "createdAt": "2026-07-24T01:01:44Z",
+      "timestamp": 1784854904,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 32,
+        "reply_count": 17,
+        "like_count": 63,
+        "quote_count": 1,
+        "bookmark_count": 5,
+        "view_count": 8268
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2080458377264554256"
+    },
+    {
       "id": "2080440309989699675",
       "handle": "repbrianmast",
       "username": "RepBrianMast",
@@ -53143,6 +53927,38 @@
       ],
       "urls": [],
       "url": "https://x.com/SenatorHagerty/status/2080425770678178073"
+    },
+    {
+      "id": "2080422648903795170",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "For 146 days, Trump &amp; Republicans have told us, against all evidence, that the next strike, the next week, the next month will bring victory in Iran.\n\nThat kind of logic is how forever wars begin.\n\nWhen you're digging yourself into a hole, the best way out is to stop digging. https://t.co/fXIcsuyIgS",
+      "createdAt": "2026-07-23T22:39:46Z",
+      "timestamp": 1784846386,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 290,
+        "reply_count": 203,
+        "like_count": 774,
+        "quote_count": 9,
+        "bookmark_count": 12,
+        "view_count": 11826
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2080422648903795170"
     },
     {
       "id": "2080421432186589249",
@@ -54378,6 +55194,39 @@
       "url": "https://x.com/RepChuck/status/2080338565330805123"
     },
     {
+      "id": "2080338469595890130",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Energy prices are way too high right now, and Granite Staters are feeling the pinch.\n\nI’m working hard to find every way we can put money back in people’s pockets. That’s why today I introduced the Investing in State Energy Act. https://t.co/sw5sSuZHI8",
+      "createdAt": "2026-07-23T17:05:16Z",
+      "timestamp": 1784826316,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 44,
+        "like_count": 12,
+        "quote_count": 3,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Supportive / partnership",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2080338469595890130"
+    },
+    {
       "id": "2080333121149423768",
       "handle": "repchuck",
       "username": "RepChuck",
@@ -54740,6 +55589,42 @@
       "url": "https://x.com/RepKnott/status/2080315627672117629"
     },
     {
+      "id": "2080314848332685568",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "The day after starting the Iran war, Trump said it would last “four to five weeks.”\n\nIt’s now been 146 days. 18 US troops have been killed, hundreds injured. Thousands of civilians have been killed. Prices are spiking again.\n\nWe must end this war. Join me: https://t.co/vQ5XPyQaFl",
+      "createdAt": "2026-07-23T15:31:24Z",
+      "timestamp": 1784820684,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 248,
+        "reply_count": 179,
+        "like_count": 617,
+        "quote_count": 10,
+        "bookmark_count": 10,
+        "view_count": 10682
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/vQ5XPyQaFl",
+          "expanded_url": "https://x.com/i/broadcasts/1nJOLLZwVkQxR",
+          "display_url": "x.com/i/broadcasts/1…"
+        }
+      ],
+      "url": "https://x.com/ChrisVanHollen/status/2080314848332685568"
+    },
+    {
       "id": "2080310653965799750",
       "handle": "repchiproy",
       "username": "RepChipRoy",
@@ -54798,6 +55683,34 @@
       ],
       "urls": [],
       "url": "https://x.com/AustinScottGA08/status/2080308634517467388"
+    },
+    {
+      "id": "2080307807836839953",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "RT @the535news: “This shouldn’t be about putting all our eggs in the roads and highways basket.”\n\n@RepChrisPappas discusses his push to pre…",
+      "createdAt": "2026-07-23T15:03:26Z",
+      "timestamp": 1784819006,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2080307807836839953"
     },
     {
       "id": "2080306794476233064",
@@ -55480,6 +56393,34 @@
       "url": "https://x.com/RepChipRoy/status/2080282040604180519"
     },
     {
+      "id": "2080281973780553918",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "TPS recipients have been living and working in America legally. By no definition are they \"the worst of the worst.\" \n\nNow, Trump and Republicans want to terminate their protection and force them into harm’s way. \n\nWe can’t let that happen. https://t.co/ddkBpPuJGF",
+      "createdAt": "2026-07-23T13:20:46Z",
+      "timestamp": 1784812846,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 189,
+        "reply_count": 211,
+        "like_count": 526,
+        "quote_count": 8,
+        "bookmark_count": 11,
+        "view_count": 10834
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2080281973780553918"
+    },
+    {
       "id": "2080278742828540298",
       "handle": "repchiproy",
       "username": "RepChipRoy",
@@ -55527,7 +56468,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 68
+        "view_count": 69
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -57111,11 +58052,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 0,
-        "reply_count": 2,
+        "reply_count": 3,
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 498
+        "view_count": 507
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -57484,6 +58425,42 @@
       ],
       "urls": [],
       "url": "https://x.com/repbrandongill/status/2080021547918471409"
+    },
+    {
+      "id": "2080021279491436666",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Last month, SCOTUS, by 6 to 3, rubber-stamped Trump's attack on Temporary Protected Status, allowing Trump to send our Haitian neighbors back into harm's way.\n \nCongress has the power to stop this. We must act: https://t.co/x15lGUpygV",
+      "createdAt": "2026-07-22T20:04:52Z",
+      "timestamp": 1784750692,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 73,
+        "reply_count": 274,
+        "like_count": 196,
+        "quote_count": 10,
+        "bookmark_count": 7,
+        "view_count": 9754
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Critical / hostile language"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x15lGUpygV",
+          "expanded_url": "https://x.com/i/broadcasts/1pKkOOZdNroKj",
+          "display_url": "x.com/i/broadcasts/1…"
+        }
+      ],
+      "url": "https://x.com/ChrisVanHollen/status/2080021279491436666"
     },
     {
       "id": "2080020444225139101",
@@ -58882,6 +59859,34 @@
       "url": "https://x.com/RepAprilDelaney/status/2079962020451897827"
     },
     {
+      "id": "2079960863977394562",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Excited to join @the535news to talk about my work on the Transportation and Infrastructure Committee.\n\nTune in at 12:40 PM today!",
+      "createdAt": "2026-07-22T16:04:48Z",
+      "timestamp": 1784736288,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2079960863977394562"
+    },
+    {
       "id": "2079960571286270149",
       "handle": "repbrandongill",
       "username": "repbrandongill",
@@ -59425,6 +60430,36 @@
       "url": "https://x.com/RepChuck/status/2079946616904044877"
     },
     {
+      "id": "2079943624943403425",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "If this merger goes through, CBS, CNN, TikTok, &amp; more will all be controlled by Trump-megadonor Larry Ellison &amp; his son, giving Trump &amp; the billionaire class unprecedented control over what we see.\n\nGlad to see state attorneys general taking a stand for a free press &amp; democracy. https://t.co/qyL5EkbHPi",
+      "createdAt": "2026-07-22T14:56:18Z",
+      "timestamp": 1784732178,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 172,
+        "reply_count": 60,
+        "like_count": 465,
+        "quote_count": 4,
+        "bookmark_count": 20,
+        "view_count": 8541
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2079943624943403425"
+    },
+    {
       "id": "2079943262693900645",
       "handle": "repchiproy",
       "username": "RepChipRoy",
@@ -59772,6 +60807,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repbrandongill/status/2079929419712377223"
+    },
+    {
+      "id": "2079927677197103231",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Deals made by the White House are the business of the American people. We’re fighting to bring to light any shady deals that are impacting the cost of medicine.\n\nI remain committed to doing everything I can to improve care and lower costs, and I will not stand for false promises",
+      "createdAt": "2026-07-22T13:52:56Z",
+      "timestamp": 1784728376,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 10,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2079927677197103231"
     },
     {
       "id": "2079925491876675738",
@@ -60158,6 +61223,38 @@
       "url": "https://x.com/RepKnott/status/2079752143976673732"
     },
     {
+      "id": "2079749050790814134",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "It is sickening that the President would downplay the loss of 18 American soldiers killed during his ongoing Iran war &amp; brag about how it’s not AS bad as some of the other disastrous American wars he promised he'd never repeat. https://t.co/QEzj0oWTfp",
+      "createdAt": "2026-07-22T02:03:08Z",
+      "timestamp": 1784685788,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 516,
+        "reply_count": 226,
+        "like_count": 2169,
+        "quote_count": 31,
+        "bookmark_count": 30,
+        "view_count": 33586
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2079749050790814134"
+    },
+    {
       "id": "2079745995710017688",
       "handle": "repcarlos",
       "username": "RepCarlos",
@@ -60337,6 +61434,39 @@
       "url": "https://x.com/RepAngieCraig/status/2079721459451085066"
     },
     {
+      "id": "2079714302328537480",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "New numbers are in on the cost of President Trump’s Iran war for Granite Staters at the pump.\n\nNew Hampshire drivers have spent $296,182,222 more on gas. https://t.co/rmHCpcGNFb",
+      "createdAt": "2026-07-21T23:45:03Z",
+      "timestamp": 1784677503,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 17,
+        "like_count": 7,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2079714302328537480"
+    },
+    {
       "id": "2079706641293820070",
       "handle": "repfinstad",
       "username": "RepFinstad",
@@ -60363,6 +61493,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepFinstad/status/2079706641293820070"
+    },
+    {
+      "id": "2079706295746101460",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Today's hearing with Secretary Hegseth confirmed the Iran war is a war in search of a mission.\n\nHegseth talks a lot about 'winning,' but given multiple chances to explain what winning means, the best he could do was rehash disproven talking points.\n\nThis war must end, NOW. https://t.co/V2idhSsbxI",
+      "createdAt": "2026-07-21T23:13:14Z",
+      "timestamp": 1784675594,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1653,
+        "reply_count": 832,
+        "like_count": 4770,
+        "quote_count": 61,
+        "bookmark_count": 123,
+        "view_count": 51070
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2079706295746101460"
     },
     {
       "id": "2079705228702572965",
@@ -61278,6 +62438,68 @@
         }
       ],
       "url": "https://x.com/RepBenCline/status/2079668707286978727"
+    },
+    {
+      "id": "2079668524738322746",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Read more: https://t.co/6PWFFGgZXn",
+      "createdAt": "2026-07-21T20:43:09Z",
+      "timestamp": 1784666589,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/6PWFFGgZXn",
+          "expanded_url": "https://pappas.house.gov/media/press-releases/pappas-goodlander-lead-legislation-to-combat-substance-use-disorder",
+          "display_url": "pappas.house.gov/media/press-re…"
+        }
+      ],
+      "url": "https://x.com/RepChrisPappas/status/2079668524738322746"
+    },
+    {
+      "id": "2079668522972528871",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Investing in substance use treatment and prevention works. That’s why I introduced a bill to ensure these programs can reach everyone who needs it across our communities.\n\nThis crisis is deeply personal for Granite Staters, and I will always fight to deliver New Hampshire the https://t.co/1X6sxRYqsC",
+      "createdAt": "2026-07-21T20:43:08Z",
+      "timestamp": 1784666588,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 10,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2079668522972528871"
     },
     {
       "id": "2079668447546421540",
@@ -63087,6 +64309,36 @@
       "url": "https://x.com/repbrandongill/status/2079608698003972325"
     },
     {
+      "id": "2079608687706960023",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "President Trump’s tariffs are a tax on the American people and now he wants you to pay even more.\n\nDue to this administration’s harmful policies, Granite Staters are paying more for everyday items and our tourism industry and small businesses are feeling the pain as well.",
+      "createdAt": "2026-07-21T16:45:23Z",
+      "timestamp": 1784652323,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 33,
+        "like_count": 10,
+        "quote_count": 4,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepChrisPappas/status/2079608687706960023"
+    },
+    {
       "id": "2079608601908277460",
       "handle": "repashleyhinson",
       "username": "RepAshleyHinson",
@@ -63143,6 +64395,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repbrandongill/status/2079608364594594256"
+    },
+    {
+      "id": "2079607678666781074",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Trump is using an unprecedented web of nonprofits, cultural organizations, and other groups to stash away over half a billion dollars for his corrupt policies and pet projects, donated by corporations &amp; the ultra-rich.\n \nThis is corruption on a scale we've never seen before. https://t.co/aA5MqefrDI",
+      "createdAt": "2026-07-21T16:41:22Z",
+      "timestamp": 1784652082,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 241,
+        "reply_count": 111,
+        "like_count": 491,
+        "quote_count": 13,
+        "bookmark_count": 14,
+        "view_count": 10543
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2079607678666781074"
     },
     {
       "id": "2079605477185368137",
@@ -64505,6 +65785,45 @@
       "url": "https://x.com/RepLoudermilk/status/2079569273601536032"
     },
     {
+      "id": "2079568719236223273",
+      "handle": "repchrispappas",
+      "username": "RepChrisPappas",
+      "displayName": "Rep. Chris Pappas",
+      "ownerName": "Chris Pappas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-pappas",
+      "text": "Global Entry Enrollment and Passport Fair happening next month!\n\nIf you’re interested, Global Entry enrollment requires folks to apply ahead of time. Learn more about each service here:\nhttps://t.co/hxDW6krU54\nhttps://t.co/jcvMo8yyfn",
+      "createdAt": "2026-07-21T14:06:33Z",
+      "timestamp": 1784642793,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/hxDW6krU54",
+          "expanded_url": "http://pappas.house.gov/globalentry",
+          "display_url": "pappas.house.gov/globalentry"
+        },
+        {
+          "url": "https://t.co/jcvMo8yyfn",
+          "expanded_url": "http://pappas.house.gov/passport",
+          "display_url": "pappas.house.gov/passport"
+        }
+      ],
+      "url": "https://x.com/RepChrisPappas/status/2079568719236223273"
+    },
+    {
       "id": "2079567873614246277",
       "handle": "repcarlos",
       "username": "RepCarlos",
@@ -64653,6 +65972,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepCarlos/status/2079553580806078492"
+    },
+    {
+      "id": "2079393079723770118",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "How many people must die &amp; how high must prices go before Trump &amp; his admin see this is a senseless war? \n\nTomorrow, Hegseth will have to answer for this mess. And I'm working to bring up my war powers resolution this week to put every Senator on record.\n\nEnd it now. https://t.co/uUxDiguM1m",
+      "createdAt": "2026-07-21T02:28:38Z",
+      "timestamp": 1784600918,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 671,
+        "reply_count": 294,
+        "like_count": 2108,
+        "quote_count": 25,
+        "bookmark_count": 37,
+        "view_count": 25072
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2079393079723770118"
     },
     {
       "id": "2079370425084063952",
@@ -66380,6 +67727,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepPfluger/status/2079273767436533950"
+    },
+    {
+      "id": "2079270839703495048",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "The world's largest humanitarian crisis continues to unfold in Sudan &amp; we are not powerless to stop it.  In October, the RSF slaughtered over 6,000 people in 3 days in El Fasher. Now over 500,000 civilians in El Obeid risk the same fate.  If the Trump admin won't use US https://t.co/aYX00epdGS",
+      "createdAt": "2026-07-20T18:22:53Z",
+      "timestamp": 1784571773,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 282,
+        "reply_count": 69,
+        "like_count": 721,
+        "quote_count": 5,
+        "bookmark_count": 40,
+        "view_count": 28481
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2079270839703495048"
     },
     {
       "id": "2079269928138412172",
@@ -68208,6 +69585,34 @@
       "url": "https://x.com/RepBenCline/status/2078893127960605040"
     },
     {
+      "id": "2078878200747175946",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "The State Dept insists their #1 duty abroad is to protect Americans. Yet, when it comes to getting justice for citizens killed or detained in the West Bank, there is no accountability.\n\nI will keep pushing the Trump admin, as I did the Biden admin, to get justice for these https://t.co/LGOHAKRJBW",
+      "createdAt": "2026-07-19T16:22:41Z",
+      "timestamp": 1784478161,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 413,
+        "reply_count": 147,
+        "like_count": 1153,
+        "quote_count": 15,
+        "bookmark_count": 30,
+        "view_count": 21746
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2078878200747175946"
+    },
+    {
       "id": "2078877895049494613",
       "handle": "repbillfoster",
       "username": "RepBillFoster",
@@ -68558,6 +69963,37 @@
       "url": "https://x.com/RepAprilDelaney/status/2078608267828470231"
     },
     {
+      "id": "2078597606817534130",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "Absolutely right. What we saw this week was fueled by climate change &amp; policies that give polluters free rein.\n\nWe must hold polluters accountable &amp; make them pay for the damage they’ve done to the air we breathe, the water we drink, &amp; the planet we all call home.",
+      "createdAt": "2026-07-18T21:47:42Z",
+      "timestamp": 1784411262,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 98,
+        "reply_count": 67,
+        "like_count": 356,
+        "quote_count": 4,
+        "bookmark_count": 8,
+        "view_count": 17396
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2078597606817534130"
+    },
+    {
       "id": "2078593375955984405",
       "handle": "repknott",
       "username": "RepKnott",
@@ -68699,6 +70135,42 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepAngieCraig/status/2078578933264724235"
+    },
+    {
+      "id": "2078568742603161964",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "I’m thinking of the 2 American soldiers killed, those injured, &amp; the 1 still missing after yesterday’s attack in Jordan. I am praying for them &amp; their loved ones.\n\nThis senseless war should never have been started and it needs to end NOW. \n\nhttps://t.co/bgLa6s3G2C https://t.co/ENqSdjBEOC",
+      "createdAt": "2026-07-18T19:53:00Z",
+      "timestamp": 1784404380,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 201,
+        "reply_count": 325,
+        "like_count": 764,
+        "quote_count": 17,
+        "bookmark_count": 13,
+        "view_count": 17975
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Critical / hostile language"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bgLa6s3G2C",
+          "expanded_url": "https://www.axios.com/2026/07/18/iran-jordan-us-deaths-military-two-dead?stream=top&utm_source=alert&utm_medium=email&utm_campaign=alerts_all",
+          "display_url": "axios.com/2026/07/18/ira…"
+        }
+      ],
+      "url": "https://x.com/ChrisVanHollen/status/2078568742603161964"
     },
     {
       "id": "2078564937476284521",
@@ -72408,6 +73880,38 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repkeithself/status/2078234230081900890"
+    },
+    {
+      "id": "2078234195931910570",
+      "handle": "chrisvanhollen",
+      "username": "ChrisVanHollen",
+      "displayName": null,
+      "ownerName": "Chris Van Hollen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/chris-van-hollen",
+      "text": "As data centers &amp; heat waves strain our grid &amp; Americans risk power blackouts, Trump is stalling clean energy across the country, including a MD offshore wind project that could power over 700k homes.\n \nTrump's attacks on clean energy are hurting Americans &amp; their pocketbooks. https://t.co/5O62Fgnm96",
+      "createdAt": "2026-07-17T21:43:38Z",
+      "timestamp": 1784324618,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 40,
+        "reply_count": 44,
+        "like_count": 125,
+        "quote_count": 4,
+        "bookmark_count": 1,
+        "view_count": 6026
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/ChrisVanHollen/status/2078234195931910570"
     },
     {
       "id": "2078233780674859459",
@@ -79226,12 +80730,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 13,
-        "reply_count": 1,
-        "like_count": 46,
+        "retweet_count": 64,
+        "reply_count": 51,
+        "like_count": 269,
         "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1588
+        "bookmark_count": 9,
+        "view_count": 6179
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -105083,12 +106587,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 1448,
-        "reply_count": 1969,
-        "like_count": 4778,
-        "quote_count": 91,
-        "bookmark_count": 99,
-        "view_count": 70004
+        "retweet_count": 1632,
+        "reply_count": 2352,
+        "like_count": 5338,
+        "quote_count": 109,
+        "bookmark_count": 102,
+        "view_count": 86015
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -109127,7 +110631,7 @@
         "like_count": 294,
         "quote_count": 4,
         "bookmark_count": 10,
-        "view_count": 6404
+        "view_count": 6405
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -110462,12 +111966,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 252,
-        "reply_count": 642,
-        "like_count": 708,
-        "quote_count": 23,
+        "retweet_count": 259,
+        "reply_count": 688,
+        "like_count": 721,
+        "quote_count": 24,
         "bookmark_count": 9,
-        "view_count": 17800
+        "view_count": 20018
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -121208,1419 +122712,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepAshleyHinson/status/2077846026329682219"
-    },
-    {
-      "id": "2077845731105444051",
-      "handle": "repmiketurner",
-      "username": "RepMikeTurner",
-      "displayName": null,
-      "ownerName": "Michael R. Turner",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/michael-r-turner",
-      "text": "Our allies want the strength of America’s voice on the world stage. America’s voice is important. America stands for freedom, democracy, and liberty. https://t.co/ve4XepbVoi",
-      "createdAt": "2026-07-16T20:00:01Z",
-      "timestamp": 1784232001,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 8,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 761
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMikeTurner/status/2077845731105444051"
-    },
-    {
-      "id": "2077845730132389999",
-      "handle": "repderekschmidt",
-      "username": "repderekschmidt",
-      "displayName": null,
-      "ownerName": "Derek Schmidt",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/derek-schmidt",
-      "text": "The 340B Drug Pricing Program helps hospitals provide important medications and pharmacy services to low-income, underserved, and vulnerable patients. Thank you to the Kansas healthcare leaders who shared your perspectives and for the work you're doing to improve care for https://t.co/rPov6WgeJB",
-      "createdAt": "2026-07-16T20:00:01Z",
-      "timestamp": 1784232001,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 177
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repderekschmidt/status/2077845730132389999"
-    },
-    {
-      "id": "2077845609856278935",
-      "handle": "reprussfulcher",
-      "username": "RepRussFulcher",
-      "displayName": null,
-      "ownerName": "Russ Fulcher",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/russ-fulcher",
-      "text": "It was revealed this week that my personal data, and that of 43 other Members of Congress, was spied on during the Biden administration. \n\nUnconstitutional government surveillance of any American citizen is wrong. \n\nI’m doing everything I can to ensure this never happens to https://t.co/MxmXVgW4NR",
-      "createdAt": "2026-07-16T19:59:32Z",
-      "timestamp": 1784231972,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 34,
-        "reply_count": 55,
-        "like_count": 154,
-        "quote_count": 2,
-        "bookmark_count": 6,
-        "view_count": 3019
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepRussFulcher/status/2077845609856278935"
-    },
-    {
-      "id": "2077845531758379174",
-      "handle": "repjoemorelle",
-      "username": "RepJoeMorelle",
-      "displayName": null,
-      "ownerName": "Joseph D. Morelle",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/joseph-d-morelle",
-      "text": "As top Democrat on @HouseAdm_Dems, I'm working with voting groups across the country to prepare for Donald Trump's attacks on our elections.\n\nThe scenarios we are working through have never been encountered in American life before, but that hasn't stopped Donald Trump. https://t.co/drWs7p3dHF",
-      "createdAt": "2026-07-16T19:59:13Z",
-      "timestamp": 1784231953,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 56,
-        "like_count": 13,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 1049
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepJoeMorelle/status/2077845531758379174"
-    },
-    {
-      "id": "2077845482320121911",
-      "handle": "repjulialetlow",
-      "username": "RepJuliaLetlow",
-      "displayName": null,
-      "ownerName": "Julia Letlow",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/julia-letlow",
-      "text": "40 million American families have claimed the $2,200 Child Tax Credit included in President Trump's One Big Beautiful Bill.\n\nAs a mom, I know that raising children is incredibly rewarding. I supported this tax relief to strengthen Louisiana parents and families.",
-      "createdAt": "2026-07-16T19:59:02Z",
-      "timestamp": 1784231942,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 10,
-        "reply_count": 12,
-        "like_count": 35,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 3272
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepJuliaLetlow/status/2077845482320121911"
-    },
-    {
-      "id": "2077845374471950673",
-      "handle": "replisamcclain",
-      "username": "RepLisaMcClain",
-      "displayName": null,
-      "ownerName": "Lisa C. McClain",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/lisa-c-mcclain",
-      "text": "Thanks to COMMUNIST Mayor Zohran Mamdani, NYC just set another rent record: $5,295/month average in Manhattan. Affordability? What affordability? Communism working as intended.",
-      "createdAt": "2026-07-16T19:58:36Z",
-      "timestamp": 1784231916,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 16,
-        "reply_count": 91,
-        "like_count": 93,
-        "quote_count": 3,
-        "bookmark_count": 3,
-        "view_count": 18597
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepLisaMcClain/status/2077845374471950673"
-    },
-    {
-      "id": "2077845230838046846",
-      "handle": "senatorshaheen",
-      "username": "SenatorShaheen",
-      "displayName": null,
-      "ownerName": "Jeanne Shaheen",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jeanne-shaheen",
-      "text": "Donald Trump cannot accept he lost in 2020.\n\nWhatever he may claim about that election tonight, don't believe him. https://t.co/z1dfkPTbPU",
-      "createdAt": "2026-07-16T19:58:02Z",
-      "timestamp": 1784231882,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 50,
-        "reply_count": 478,
-        "like_count": 122,
-        "quote_count": 9,
-        "bookmark_count": 8,
-        "view_count": 8391
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenatorShaheen/status/2077845230838046846"
-    },
-    {
-      "id": "2077845201180090667",
-      "handle": "repdavidkustoff",
-      "username": "RepDavidKustoff",
-      "displayName": null,
-      "ownerName": "David Kustoff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/david-kustoff",
-      "text": "I joined @NicholeBerlie on @NewsNation to discuss @POTUS’s address to the nation tonight.\n\nI am hopeful that he addresses the issues that matter most to Americans, including election security and our military operations against Iran. https://t.co/y5rewsv2Sz",
-      "createdAt": "2026-07-16T19:57:55Z",
-      "timestamp": 1784231875,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 5,
-        "like_count": 3,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 406
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepDavidKustoff/status/2077845201180090667"
-    },
-    {
-      "id": "2077845025929445468",
-      "handle": "senwarren",
-      "username": "SenWarren",
-      "displayName": null,
-      "ownerName": "Elizabeth Warren",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/elizabeth-warren",
-      "text": "From Day One, Trump's get-out-of-jail-free plan has reeked of corruption.\n\nNow, a federal judge is saying loud and clear that it’s illegal.\n\nThe Trump administration is breaking the law by shielding Donald Trump and his family from tax audits. https://t.co/605Pga9Cb7",
-      "createdAt": "2026-07-16T19:57:13Z",
-      "timestamp": 1784231833,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 182,
-        "reply_count": 241,
-        "like_count": 503,
-        "quote_count": 4,
-        "bookmark_count": 8,
-        "view_count": 26711
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Critical / hostile language"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenWarren/status/2077845025929445468"
-    },
-    {
-      "id": "2077845027598835911",
-      "handle": "senwarren",
-      "username": "SenWarren",
-      "displayName": null,
-      "ownerName": "Elizabeth Warren",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/elizabeth-warren",
-      "text": "https://t.co/oeO9BVSXju",
-      "createdAt": "2026-07-16T19:57:13Z",
-      "timestamp": 1784231833,
-      "tweetType": "reply",
-      "language": "zxx",
-      "metrics": {
-        "retweet_count": 7,
-        "reply_count": 13,
-        "like_count": 28,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 10405
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/oeO9BVSXju",
-          "expanded_url": "https://www.nbcnews.com/politics/congress/senate-democrats-want-answers-irs-settlement-trump-family-rcna587735",
-          "display_url": "nbcnews.com/politics/congr…"
-        }
-      ],
-      "url": "https://x.com/SenWarren/status/2077845027598835911"
-    },
-    {
-      "id": "2077844958271115589",
-      "handle": "repsalinas",
-      "username": "repsalinas",
-      "displayName": null,
-      "ownerName": "Andrea Salinas",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/andrea-salinas",
-      "text": "RT @HouseDemocrats: Donald Trump promised no new wars and then proceeded to throw us into a RECKLESS and COSTLY war of choice with Iran. Th…",
-      "createdAt": "2026-07-16T19:56:57Z",
-      "timestamp": 1784231817,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 81,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 10
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repsalinas/status/2077844958271115589"
-    },
-    {
-      "id": "2077844577927524787",
-      "handle": "reppetestauber",
-      "username": "RepPeteStauber",
-      "displayName": null,
-      "ownerName": "Pete Stauber",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/pete-stauber",
-      "text": "Nick Shirley recently testified before a Senate Committee on the fraud crisis plaguing our nation.\n\nNot a single Democrat showed up to the hearing.\n\nProtecting American tax dollars should unite both parties.\n\nThe American people deserve accountability, not partisan indifference.",
-      "createdAt": "2026-07-16T19:55:26Z",
-      "timestamp": 1784231726,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 24,
-        "like_count": 30,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2699
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepPeteStauber/status/2077844577927524787"
-    },
-    {
-      "id": "2077844569983492151",
-      "handle": "repglatimer",
-      "username": "RepGLatimer",
-      "displayName": null,
-      "ownerName": "George Latimer",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/george-latimer",
-      "text": "While in D.C., I met with members of the Boys and Girls Club from New Rochelle and Mount Vernon to discuss how we can expand mentorship opportunities, strengthen academic programs, and broaden personal development skill trainings. I look forward to continuing my support for the https://t.co/l0d17O2aMe",
-      "createdAt": "2026-07-16T19:55:24Z",
-      "timestamp": 1784231724,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 2,
-        "like_count": 14,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 493
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepGLatimer/status/2077844569983492151"
-    },
-    {
-      "id": "2077844240063701285",
-      "handle": "repstutzman",
-      "username": "RepStutzman",
-      "displayName": null,
-      "ownerName": "Marlin A. Stutzman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/marlin-a-stutzman",
-      "text": "A nation divided is a nation weakened.\n\nNow more than ever, we need to look past the divisions, support our communities, and stick together as one nation. 🇺🇸 https://t.co/oPGxQzvy0U",
-      "createdAt": "2026-07-16T19:54:05Z",
-      "timestamp": 1784231645,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 2,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 293
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepStutzman/status/2077844240063701285"
-    },
-    {
-      "id": "2077844230479958090",
-      "handle": "senjackyrosen",
-      "username": "SenJackyRosen",
-      "displayName": null,
-      "ownerName": "Jacky Rosen",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jacky-rosen",
-      "text": "Plain clothes. No uniforms. No body cameras. No identification.\n \nICE is continuing to act with impunity — instilling fear in our communities and scaring tourists, which hurts our tourism economy. \n \nEnough is enough. ICE must follow the same commonsense guardrails as other law",
-      "createdAt": "2026-07-16T19:54:03Z",
-      "timestamp": 1784231643,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 198,
-        "reply_count": 197,
-        "like_count": 656,
-        "quote_count": 7,
-        "bookmark_count": 24,
-        "view_count": 40499
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenJackyRosen/status/2077844230479958090"
-    },
-    {
-      "id": "2077844071276527987",
-      "handle": "senjonhusted",
-      "username": "SenJonHusted",
-      "displayName": null,
-      "ownerName": "Jon Husted",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jon-husted",
-      "text": "Tackling our national debt is one of the best ways to improve affordability. https://t.co/sqHc1Z03wM",
-      "createdAt": "2026-07-16T19:53:25Z",
-      "timestamp": 1784231605,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 45,
-        "like_count": 63,
-        "quote_count": 2,
-        "bookmark_count": 2,
-        "view_count": 3326
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenJonHusted/status/2077844071276527987"
-    },
-    {
-      "id": "2077843985150750924",
-      "handle": "bradsherman",
-      "username": "BradSherman",
-      "displayName": null,
-      "ownerName": "Brad Sherman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brad-sherman",
-      "text": "On the heels of two fatal shootings carried out by ICE in the span of a week, I joined my colleagues in demanding an independent investigation free from interference.\n\nThe deaths of Lorenzo Salgado Araujo and Johan Sebastián Guerrero demand answers.\n\nThe conduct of #ICE demands",
-      "createdAt": "2026-07-16T19:53:05Z",
-      "timestamp": 1784231585,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 2,
-        "like_count": 2,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1154
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/BradSherman/status/2077843985150750924"
-    },
-    {
-      "id": "2077843941198540999",
-      "handle": "senjeffmerkley",
-      "username": "SenJeffMerkley",
-      "displayName": null,
-      "ownerName": "Jeff Merkley",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jeff-merkley",
-      "text": "RT @SenOssoff: Sen. Ossoff: Tonight, Donald Trump, the world's most famous sore loser, will deliver a prime time presidential sour grapes a…",
-      "createdAt": "2026-07-16T19:52:54Z",
-      "timestamp": 1784231574,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 845,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 288
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenJeffMerkley/status/2077843941198540999"
-    },
-    {
-      "id": "2077843924417134857",
-      "handle": "repdwstweets",
-      "username": "RepDWStweets",
-      "displayName": null,
-      "ownerName": "Debbie Wasserman Schultz",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/debbie-wasserman-schultz",
-      "text": "ICE left a 3-year-old U.S. citizen child with a violent relative after deporting his mother with no due process. He was murdered as a result.\n\nToday, I joined colleagues in sponsoring Orlin's Law to block ICE from ripping Florida families apart and putting kids in danger.",
-      "createdAt": "2026-07-16T19:52:50Z",
-      "timestamp": 1784231570,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 65,
-        "reply_count": 55,
-        "like_count": 176,
-        "quote_count": 1,
-        "bookmark_count": 9,
-        "view_count": 6352
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDWStweets/status/2077843924417134857"
-    },
-    {
-      "id": "2077843914367611242",
-      "handle": "repcuellar",
-      "username": "RepCuellar",
-      "displayName": null,
-      "ownerName": "Henry Cuellar",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/henry-cuellar",
-      "text": "Strong economic partnerships help create jobs, expand opportunity, and promote long-term stability across our hemisphere.\n\nI met with members of the Board of Directors of @Progreso_Latam, one of Central America's largest infrastructure and construction materials companies, to https://t.co/L97IKQv6Du",
-      "createdAt": "2026-07-16T19:52:48Z",
-      "timestamp": 1784231568,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 2,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 259
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Diplomatic / official contact",
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepCuellar/status/2077843914367611242"
-    },
-    {
-      "id": "2077843874639225215",
-      "handle": "repschneider",
-      "username": "RepSchneider",
-      "displayName": null,
-      "ownerName": "Bradley Scott Schneider",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bradley-scott-schneider",
-      "text": "Good thing the @NewDemCoalition has a plan for all this and more! https://t.co/iBMQ0qd7Zl",
-      "createdAt": "2026-07-16T19:52:38Z",
-      "timestamp": 1784231558,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 5,
-        "like_count": 11,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 1675
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepSchneider/status/2077843874639225215"
-    },
-    {
-      "id": "2077843838270349784",
-      "handle": "reprileymoore",
-      "username": "RepRileyMoore",
-      "displayName": null,
-      "ownerName": "Riley M. Moore",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/riley-m-moore",
-      "text": "RT @yashar: NEW \n\nKen Martin, the disastrous DNC chairman, had senior DNC leaders sign nondisclosure agreements before a meeting about the…",
-      "createdAt": "2026-07-16T19:52:30Z",
-      "timestamp": 1784231550,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 154,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2263
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepRileyMoore/status/2077843838270349784"
-    },
-    {
-      "id": "2077843802518151350",
-      "handle": "repbillfoster",
-      "username": "RepBillFoster",
-      "displayName": "Congressman Bill Foster",
-      "ownerName": "Bill Foster",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bill-foster",
-      "text": "Before Donald Trump and Russell Vought gutted the Consumer Financial Protection Bureau, it returned billions to American taxpayers harmed by financial scammers. \n\nThis administration has made it clear that it does not care when ordinary Americans get ripped off. So during my https://t.co/rDeKP58piN",
-      "createdAt": "2026-07-16T19:52:21Z",
-      "timestamp": 1784231541,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 10,
-        "reply_count": 8,
-        "like_count": 27,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBillFoster/status/2077843802518151350"
-    },
-    {
-      "id": "2077843626072080425",
-      "handle": "repchiproy",
-      "username": "RepChipRoy",
-      "displayName": null,
-      "ownerName": "Chip Roy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chip-roy",
-      "text": "🗒️Rep. Roy Statement on Reconciliation 3.0:\n\n\"Today, the House Budget Committee considered and advanced the 'Reconciliation 3.0' legislation on a party-line vote.\n\nAlthough I participated in the first hour of committee debate, I was forced to leave before the vote to return to",
-      "createdAt": "2026-07-16T19:51:39Z",
-      "timestamp": 1784231499,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 15,
-        "reply_count": 4,
-        "like_count": 54,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2804
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepChipRoy/status/2077843626072080425"
-    },
-    {
-      "id": "2077843598951760305",
-      "handle": "repbera",
-      "username": "RepBera",
-      "displayName": null,
-      "ownerName": "Ami Bera",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ami-bera",
-      "text": "President Trump’s behavior is becoming more and more erratic.\n\nI expect tonight’s speech to be another desperate attempt to relitigate the election he lost in 2020 and undermine confidence in our elections ahead of November.\n\nDon’t fall for his lies. https://t.co/haNPojvLup",
-      "createdAt": "2026-07-16T19:51:33Z",
-      "timestamp": 1784231493,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 71,
-        "reply_count": 18,
-        "like_count": 231,
-        "quote_count": 1,
-        "bookmark_count": 6,
-        "view_count": 7588
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepBera/status/2077843598951760305"
-    },
-    {
-      "id": "2077843089264124326",
-      "handle": "reprashida",
-      "username": "RepRashida",
-      "displayName": null,
-      "ownerName": "Rashida Tlaib",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/rashida-tlaib",
-      "text": "Wildfire smoke is producing some of the worst recorded air quality in Detroit's history. You can stay updated on the latest Air Quality Index numbers and get guidance for keeping you and your family safe at https://t.co/1oM79Ww1wn. https://t.co/x0PHuikruL",
-      "createdAt": "2026-07-16T19:49:31Z",
-      "timestamp": 1784231371,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 17,
-        "reply_count": 45,
-        "like_count": 82,
-        "quote_count": 3,
-        "bookmark_count": 0,
-        "view_count": 5362
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/1oM79Ww1wn",
-          "expanded_url": "http://AirNow.gov",
-          "display_url": "AirNow.gov"
-        }
-      ],
-      "url": "https://x.com/RepRashida/status/2077843089264124326"
-    },
-    {
-      "id": "2077842837987643630",
-      "handle": "senschumer",
-      "username": "SenSchumer",
-      "displayName": null,
-      "ownerName": "Charles E. Schumer",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/charles-e-schumer",
-      "text": "We’ve been here before.\n\nSenate Democrats will lead a whole-of-government effort to ensure free, fair, and secure elections that are not contingent on Donald Trump’s temper tantrums.",
-      "createdAt": "2026-07-16T19:48:31Z",
-      "timestamp": 1784231311,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 54,
-        "reply_count": 292,
-        "like_count": 210,
-        "quote_count": 14,
-        "bookmark_count": 7,
-        "view_count": 29742
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenSchumer/status/2077842837987643630"
-    },
-    {
-      "id": "2077842776117702761",
-      "handle": "repguthrie",
-      "username": "RepGuthrie",
-      "displayName": null,
-      "ownerName": "Brett Guthrie",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brett-guthrie",
-      "text": "It was great to welcome WKU President Tim Caboni to the Capitol yesterday to hear about the work he is doing to grow the university and provide students with an excellent education.\n\nThis summer, my D.C. office is especially fortunate to have had two Hilltoppers, Alex and Claire, https://t.co/FqZ1YRmIVr",
-      "createdAt": "2026-07-16T19:48:16Z",
-      "timestamp": 1784231296,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 8,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 391
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepGuthrie/status/2077842776117702761"
-    },
-    {
-      "id": "2077842729053114652",
-      "handle": "repgreglandsman",
-      "username": "repgreglandsman",
-      "displayName": null,
-      "ownerName": "Greg Landsman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/greg-landsman",
-      "text": "Read more about our roadmap to return wealth and power to the American people 👇🏼\nhttps://t.co/au0nsA29d3",
-      "createdAt": "2026-07-16T19:48:05Z",
-      "timestamp": 1784231285,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 2,
-        "like_count": 2,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 413
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/au0nsA29d3",
-          "expanded_url": "https://landsman.house.gov/posts/our-great-american-moment",
-          "display_url": "landsman.house.gov/posts/our-grea…"
-        }
-      ],
-      "url": "https://x.com/repgreglandsman/status/2077842729053114652"
-    },
-    {
-      "id": "2077842696824373553",
-      "handle": "repangiecraig",
-      "username": "RepAngieCraig",
-      "displayName": null,
-      "ownerName": "Angie Craig",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/angie-craig",
-      "text": "This week, I met with United Steelworkers District 11 and presented a Congressional Record Insert to Bob Ryan in honor of his retirement.  \n\nBob is a true advocate for Minnesotans. He’s worked tirelessly on behalf of the steelworkers to raise wages, improve benefits and ensure https://t.co/r9Eeb6gefy",
-      "createdAt": "2026-07-16T19:47:58Z",
-      "timestamp": 1784231278,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 11,
-        "like_count": 13,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 904
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepAngieCraig/status/2077842696824373553"
-    },
-    {
-      "id": "2077842647620657176",
-      "handle": "repteresalf",
-      "username": "RepTeresaLF",
-      "displayName": null,
-      "ownerName": "Teresa Leger Fernandez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/teresa-leger-fernandez",
-      "text": "Sacred places cannot be replaced once they're lost. \n \nBears Ears and Grand Staircase-Escalante hold the prayers, stories, and footsteps of generations. They are living landscapes where culture, history, and spirit endure. \n\nI stand with the tribal nations against this https://t.co/UcxK8Wrax8",
-      "createdAt": "2026-07-16T19:47:46Z",
-      "timestamp": 1784231266,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 339,
-        "reply_count": 12,
-        "like_count": 655,
-        "quote_count": 9,
-        "bookmark_count": 22,
-        "view_count": 5249
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepTeresaLF/status/2077842647620657176"
-    },
-    {
-      "id": "2077842477306818935",
-      "handle": "repyassansari",
-      "username": "RepYassAnsari",
-      "displayName": null,
-      "ownerName": "Yassamin Ansari",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/yassamin-ansari",
-      "text": "RT @prem_thakker: Wow. The ICE shooter in Maine asked his ex-wife to \"lie\" &amp; \"cover for his character.\"\n\nShe said he was abusive &amp; had prev…",
-      "createdAt": "2026-07-16T19:47:05Z",
-      "timestamp": 1784231225,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1703,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 335
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepYassAnsari/status/2077842477306818935"
-    },
-    {
-      "id": "2077842444041724327",
-      "handle": "senatorhassan",
-      "username": "SenatorHassan",
-      "displayName": null,
-      "ownerName": "Margaret Wood Hassan",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/margaret-wood-hassan",
-      "text": "ICE's reckless behavior, most recently in Maine, is undeniable evidence of an agency that urgently needs both oversight and reform. \n\nhttps://t.co/6PunT7JhZT",
-      "createdAt": "2026-07-16T19:46:57Z",
-      "timestamp": 1784231217,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 6,
-        "reply_count": 65,
-        "like_count": 28,
-        "quote_count": 1,
-        "bookmark_count": 2,
-        "view_count": 3456
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/6PunT7JhZT",
-          "expanded_url": "https://x.com/NBCNews/status/2077730863144370581?s=20",
-          "display_url": "x.com/NBCNews/status…"
-        }
-      ],
-      "url": "https://x.com/SenatorHassan/status/2077842444041724327"
-    },
-    {
-      "id": "2077842210716856333",
-      "handle": "repfriedmanca",
-      "username": "RepFriedmanCA",
-      "displayName": null,
-      "ownerName": "Laura Friedman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/laura-friedman",
-      "text": "RT @WeHoCity: July 16 at 11AM Update: LADWP crews are beginning repairs following this morning's water main break on Sunset Blvd. No water…",
-      "createdAt": "2026-07-16T19:46:02Z",
-      "timestamp": 1784231162,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 6,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 16
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepFriedmanCA/status/2077842210716856333"
-    },
-    {
-      "id": "2077842108740686155",
-      "handle": "repchiproy",
-      "username": "RepChipRoy",
-      "displayName": null,
-      "ownerName": "Chip Roy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chip-roy",
-      "text": "Hill Country Flood Response Update and Shelter Locations: \nhttps://t.co/knactrW2pC",
-      "createdAt": "2026-07-16T19:45:37Z",
-      "timestamp": 1784231137,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 11,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1826
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/knactrW2pC",
-          "expanded_url": "https://roy.house.gov/media/press-releases/hill-country-flood-response-update-and-shelter-locations",
-          "display_url": "roy.house.gov/media/press-re…"
-        }
-      ],
-      "url": "https://x.com/RepChipRoy/status/2077842108740686155"
-    },
-    {
-      "id": "2077842048544284751",
-      "handle": "janschakowsky",
-      "username": "JanSchakowsky",
-      "displayName": null,
-      "ownerName": "Janice D. Schakowsky",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/janice-d-schakowsky",
-      "text": "Clean beauty matters every day!\n\nWe all deserve cosmetics we can trust, not products filled with harmful chemicals.\n\nThat's why I'm the proud sponsor of the Safer Beauty Bill Package.\n\nIt's time for the U.S. to act so no one has to choose between self-care and safety.",
-      "createdAt": "2026-07-16T19:45:23Z",
-      "timestamp": 1784231123,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 2,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 364
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/JanSchakowsky/status/2077842048544284751"
-    },
-    {
-      "id": "2077842006919778528",
-      "handle": "senatorlujan",
-      "username": "SenatorLujan",
-      "displayName": null,
-      "ownerName": "Ben Ray Luján",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ben-ray-lujan",
-      "text": "RT @SenOssoff: Sen. Ossoff: Tonight, Donald Trump, the world's most famous sore loser, will deliver a prime time presidential sour grapes a…",
-      "createdAt": "2026-07-16T19:45:13Z",
-      "timestamp": 1784231113,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 842,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 72
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenatorLujan/status/2077842006919778528"
-    },
-    {
-      "id": "2077841987793736088",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": null,
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "RT @HQNewsNow: Sen. @AdamSchiff: Todd Blanche was asked about the president targeting his political opponents and enemies for prosecution.…",
-      "createdAt": "2026-07-16T19:45:08Z",
-      "timestamp": 1784231108,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 103,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2607
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077841987793736088"
-    },
-    {
-      "id": "2077841608930713924",
-      "handle": "sencortezmasto",
-      "username": "SenCortezMasto",
-      "displayName": null,
-      "ownerName": "Catherine Cortez Masto",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/catherine-cortez-masto",
-      "text": "Like you, I've seen the video of the deeply disturbing, and frankly confusing, incident at Harry Reid airport. The ICE agents' conduct is completely unprofessional and unacceptable for any law enforcement officer, and I have demanded immediate answers.",
-      "createdAt": "2026-07-16T19:43:38Z",
-      "timestamp": 1784231018,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 38,
-        "reply_count": 46,
-        "like_count": 149,
-        "quote_count": 3,
-        "bookmark_count": 4,
-        "view_count": 6226
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenCortezMasto/status/2077841608930713924"
-    },
-    {
-      "id": "2077841601469001843",
-      "handle": "repyassansari",
-      "username": "RepYassAnsari",
-      "displayName": null,
-      "ownerName": "Yassamin Ansari",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/yassamin-ansari",
-      "text": "He spent 9 hours with Ghislaine Maxwell. How long will he give to survivors?",
-      "createdAt": "2026-07-16T19:43:36Z",
-      "timestamp": 1784231016,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 224,
-        "reply_count": 46,
-        "like_count": 1293,
-        "quote_count": 4,
-        "bookmark_count": 10,
-        "view_count": 29606
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepYassAnsari/status/2077841601469001843"
-    },
-    {
-      "id": "2077841174027456928",
-      "handle": "senrickscott",
-      "username": "SenRickScott",
-      "displayName": null,
-      "ownerName": "Rick Scott",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/rick-scott",
-      "text": "Let’s get this straight:\n\nSocialism oppresses people.\n\nYou can vote your way into it, but you have to shoot your way out.\n\nIf you want socialism, go move to Havana and try it out first. https://t.co/3qEA7XKnUn",
-      "createdAt": "2026-07-16T19:41:54Z",
-      "timestamp": 1784230914,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1130,
-        "reply_count": 208,
-        "like_count": 4813,
-        "quote_count": 15,
-        "bookmark_count": 58,
-        "view_count": 51751
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenRickScott/status/2077841174027456928"
-    },
-    {
-      "id": "2077841077290119463",
-      "handle": "markwarner",
-      "username": "MarkWarner",
-      "displayName": null,
-      "ownerName": "Mark R. Warner",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-r-warner",
-      "text": "While this forever war rages, you continue to foot the bill. https://t.co/TO54Wt46Kc",
-      "createdAt": "2026-07-16T19:41:31Z",
-      "timestamp": 1784230891,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 60,
-        "reply_count": 70,
-        "like_count": 122,
-        "quote_count": 4,
-        "bookmark_count": 6,
-        "view_count": 7041
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/MarkWarner/status/2077841077290119463"
-    },
-    {
-      "id": "2077840800902242553",
-      "handle": "rephuffman",
-      "username": "RepHuffman",
-      "displayName": null,
-      "ownerName": "Jared Huffman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jared-huffman",
-      "text": "This man will do anything to illegally profit off being the president, no matter how brazen. Trump's newest textbook demonstration of corruption is buying up a bunch of stock, then hopping on Truth Social to promote the same companies and give those stocks a big boost. \n\nEvery",
-      "createdAt": "2026-07-16T19:40:26Z",
-      "timestamp": 1784230826,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 19,
-        "reply_count": 3,
-        "like_count": 45,
-        "quote_count": 0,
-        "bookmark_count": 3,
-        "view_count": 1352
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepHuffman/status/2077840800902242553"
-    },
-    {
-      "id": "2077840659860357438",
-      "handle": "senrickscott",
-      "username": "SenRickScott",
-      "displayName": null,
-      "ownerName": "Rick Scott",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/rick-scott",
-      "text": "RT @TPostMillennial: Sen. Rick Scott: \"Socialism takes away everybody's opportunity.\" https://t.co/E719zN7k9O",
-      "createdAt": "2026-07-16T19:39:52Z",
-      "timestamp": 1784230792,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 11,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1868
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenRickScott/status/2077840659860357438"
-    },
-    {
-      "id": "2077840587928019290",
-      "handle": "congressmankean",
-      "username": "CongressmanKean",
-      "displayName": null,
-      "ownerName": "Thomas H. Kean, Jr.",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/thomas-h-kean-jr",
-      "text": "Congratulations, Officer Ruskan!",
-      "createdAt": "2026-07-16T19:39:35Z",
-      "timestamp": 1784230775,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 6,
-        "reply_count": 3,
-        "like_count": 13,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 984
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/CongressmanKean/status/2077840587928019290"
-    },
-    {
-      "id": "2077840508160750078",
-      "handle": "repdavetaylor",
-      "username": "RepDaveTaylor",
-      "displayName": null,
-      "ownerName": "David J. Taylor",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/david-j-taylor",
-      "text": "RT @AfpOhio: Truely one of the best @RepDaveTaylor stands STRONG on the #TCAVA",
-      "createdAt": "2026-07-16T19:39:16Z",
-      "timestamp": 1784230756,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 26
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDaveTaylor/status/2077840508160750078"
-    },
-    {
-      "id": "2077840465185865967",
-      "handle": "repkamlagerdove",
-      "username": "RepKamlagerDove",
-      "displayName": null,
-      "ownerName": "Sydney Kamlager-Dove",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/sydney-kamlager-dove",
-      "text": "ICE murdered Joan Sebastian Guerrero and Lorenzo Salgado Araujo, leaving their children without fathers, less than a week apart.\n\nInstead of conducting oversight of ICE, House Judiciary Republicans brought up a bill to make the T. rex our national dinosaur.\n\nWe need real https://t.co/1kwNKCsWvW",
-      "createdAt": "2026-07-16T19:39:05Z",
-      "timestamp": 1784230745,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 256,
-        "reply_count": 143,
-        "like_count": 910,
-        "quote_count": 9,
-        "bookmark_count": 22,
-        "view_count": 11327
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepKamlagerDove/status/2077840465185865967"
-    },
-    {
-      "id": "2077840431644102939",
-      "handle": "reppatfallon",
-      "username": "RepPatFallon",
-      "displayName": null,
-      "ownerName": "Pat Fallon",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/pat-fallon",
-      "text": "RT @RepRudyYakym: Right now, you can legally carry a gun on the trail, but step into a visitor center, ranger station, or restroom, and you…",
-      "createdAt": "2026-07-16T19:38:57Z",
-      "timestamp": 1784230737,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 9,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 200
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepPatFallon/status/2077840431644102939"
     }
   ],
   "notes": [
