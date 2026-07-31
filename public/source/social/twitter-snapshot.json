@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T21:39:04.495786Z",
+  "generatedAt": "2026-07-31T22:59:43.678030Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-31T21:38:15.441Z",
+    "generatedAt": "2026-07-31T22:59:25.220Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56754,
+    "tweets": 56755,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-31T21:39:03.487017Z",
+  "lastCaptureAt": "2026-07-31T22:59:41.879473Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T21:38:31.919767Z",
+      "lastScrapedAt": "2026-07-31T22:59:41.879473Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41456,
+      "followersCount": 41459,
       "followingCount": 866,
       "verified": false
     },
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T21:38:31.919767Z",
+      "lastScrapedAt": "2026-07-31T22:59:41.879473Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41456,
+      "followersCount": 41459,
       "followingCount": 866,
       "verified": false
     },
@@ -48854,6 +48854,34 @@
   ],
   "tweets": [
     {
+      "id": "2083308479649923087",
+      "handle": "repandyharrismd",
+      "username": "RepAndyHarrisMD",
+      "displayName": null,
+      "ownerName": "Andy Harris",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-harris",
+      "text": "It was great to be out on the Murden today as crews continue dredging the Ocean City Inlet ahead of the White Marlin Open.\n\nI'm glad I was able to secure funding for this timely dredging, as well as a second U.S. Army Corps of Engineers shallow dredge.\n\nIt was also an honor to https://t.co/vnA8fWfn4H",
+      "createdAt": "2026-07-31T21:47:02Z",
+      "timestamp": 1785534422,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 430
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAndyHarrisMD/status/2083308479649923087"
+    },
+    {
       "id": "2083265492538581045",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
@@ -48868,12 +48896,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 4,
-        "reply_count": 36,
-        "like_count": 30,
+        "retweet_count": 7,
+        "reply_count": 74,
+        "like_count": 55,
         "quote_count": 5,
         "bookmark_count": 2,
-        "view_count": 4403
+        "view_count": 6999
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48932,12 +48960,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 4,
-        "reply_count": 4,
-        "like_count": 13,
+        "retweet_count": 5,
+        "reply_count": 5,
+        "like_count": 16,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 915
+        "view_count": 988
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51325,7 +51353,7 @@
         "like_count": 20,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 979
+        "view_count": 982
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51654,7 +51682,7 @@
         "like_count": 72,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 1510
+        "view_count": 1511
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56432,7 +56460,7 @@
         "like_count": 52,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1495
+        "view_count": 1496
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56490,7 +56518,7 @@
         "like_count": 154,
         "quote_count": 2,
         "bookmark_count": 2,
-        "view_count": 2331
+        "view_count": 2332
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -57633,6 +57661,34 @@
       "url": "https://x.com/RepDeluzio/status/2080320065652556076"
     },
     {
+      "id": "2080319166096036069",
+      "handle": "senhydesmith",
+      "username": "SenHydeSmith",
+      "displayName": "U.S. Senator Cindy Hyde-Smith",
+      "ownerName": "Cindy Hyde-Smith",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cindy-hyde-smith",
+      "text": "Mississippi is leading the way in protecting ratepayers as data centers drive up electricity demand. Yesterday, I pressed @FERC commissioners about the safeguards in place to ensure large electricity users pay their fair share, so families and small businesses aren’t left footing https://t.co/AIi6xMlMsm",
+      "createdAt": "2026-07-23T15:48:34Z",
+      "timestamp": 1784821714,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 19,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenHydeSmith/status/2080319166096036069"
+    },
+    {
       "id": "2080319167794684030",
       "handle": "senhydesmith",
       "username": "SenHydeSmith",
@@ -57665,34 +57721,6 @@
         }
       ],
       "url": "https://x.com/SenHydeSmith/status/2080319167794684030"
-    },
-    {
-      "id": "2080319166096036069",
-      "handle": "senhydesmith",
-      "username": "SenHydeSmith",
-      "displayName": "U.S. Senator Cindy Hyde-Smith",
-      "ownerName": "Cindy Hyde-Smith",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/cindy-hyde-smith",
-      "text": "Mississippi is leading the way in protecting ratepayers as data centers drive up electricity demand. Yesterday, I pressed @FERC commissioners about the safeguards in place to ensure large electricity users pay their fair share, so families and small businesses aren’t left footing https://t.co/AIi6xMlMsm",
-      "createdAt": "2026-07-23T15:48:34Z",
-      "timestamp": 1784821714,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 19,
-        "like_count": 16,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenHydeSmith/status/2080319166096036069"
     },
     {
       "id": "2080318798305907007",
@@ -114071,7 +114099,7 @@
         "like_count": 187,
         "quote_count": 1,
         "bookmark_count": 5,
-        "view_count": 6432
+        "view_count": 6433
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122786,39 +122814,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/MarioDB/status/2077858216906522759"
-    },
-    {
-      "id": "2077858159264158192",
-      "handle": "repmikelevin",
-      "username": "RepMikeLevin",
-      "displayName": null,
-      "ownerName": "Mike Levin",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mike-levin",
-      "text": "$2.7 billion to kill wind power. $1.125 billion to prop up coal.\n\nThat’s $3.8 billion of your tax dollars Trump has spent this year alone, not to lower your energy bill, but to make sure the cheapest electricity in America never reaches the grid.  \n\nYes, you heard that right. The",
-      "createdAt": "2026-07-16T20:49:24Z",
-      "timestamp": 1784234964,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1423,
-        "reply_count": 53,
-        "like_count": 2200,
-        "quote_count": 46,
-        "bookmark_count": 156,
-        "view_count": 51957
-      },
-      "tags": [],
-      "kurdistanTerms": [
-        "Oil / Energy"
-      ],
-      "frames": [
-        "Supportive / partnership",
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMikeLevin/status/2077858159264158192"
     }
   ],
   "notes": [
