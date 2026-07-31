@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T18:54:22.596819Z",
+  "generatedAt": "2026-07-31T20:20:28.248383Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-31T18:54:04.229Z",
+    "generatedAt": "2026-07-31T20:20:07.249Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56731,
+    "tweets": 56732,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-31T18:54:20.802791Z",
+  "lastCaptureAt": "2026-07-31T20:20:26.401169Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,7 +30805,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T18:54:20.802791Z",
+      "lastScrapedAt": "2026-07-31T20:20:26.401169Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41451,
@@ -41058,7 +41058,7 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T18:54:20.802791Z",
+      "lastScrapedAt": "2026-07-31T20:20:26.401169Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 41451,
@@ -48854,6 +48854,40 @@
   ],
   "tweets": [
     {
+      "id": "2083265492538581045",
+      "handle": "repandyharrismd",
+      "username": "RepAndyHarrisMD",
+      "displayName": null,
+      "ownerName": "Andy Harris",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-harris",
+      "text": "Intoxicating THC gummies are poisoning and killing our children.\n\nCongress should, and must, close the hemp loophole — not fight to keep these poisons on store shelves.\n\nThis is a matter of public health and safety.\n\nhttps://t.co/oH83nV5jZQ",
+      "createdAt": "2026-07-31T18:56:13Z",
+      "timestamp": 1785524173,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 15,
+        "like_count": 15,
+        "quote_count": 3,
+        "bookmark_count": 1,
+        "view_count": 2082
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/oH83nV5jZQ",
+          "expanded_url": "https://www.washingtonexaminer.com/op-eds/4670001/congress-delta-8-hemp-gummies-ban-farm-bill/",
+          "display_url": "washingtonexaminer.com/op-eds/4670001…"
+        }
+      ],
+      "url": "https://x.com/RepAndyHarrisMD/status/2083265492538581045"
+    },
+    {
       "id": "2083237286880195008",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
@@ -48869,11 +48903,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 4,
-        "reply_count": 3,
-        "like_count": 10,
+        "reply_count": 4,
+        "like_count": 11,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 713
+        "view_count": 839
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51111,7 +51145,7 @@
         "like_count": 20,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 972
+        "view_count": 976
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51410,7 +51444,7 @@
         "like_count": 72,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 1506
+        "view_count": 1509
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56014,7 +56048,7 @@
         "like_count": 52,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1493
+        "view_count": 1494
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56072,7 +56106,7 @@
         "like_count": 154,
         "quote_count": 2,
         "bookmark_count": 2,
-        "view_count": 2330
+        "view_count": 2331
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -64724,7 +64758,7 @@
         "like_count": 14,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1204
+        "view_count": 1205
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -68743,7 +68777,7 @@
         "like_count": 15,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1023
+        "view_count": 1024
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122769,37 +122803,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepFriedmanCA/status/2077856766751134071"
-    },
-    {
-      "id": "2077856745649537066",
-      "handle": "mariodb",
-      "username": "MarioDB",
-      "displayName": null,
-      "ownerName": "Mario Diaz-Balart",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mario-diaz-balart",
-      "text": "I applaud @SecRubio’s decision to designate the Juárez Cartel and Los Viagras as Foreign Terrorist Organizations. These narco-terrorist groups threaten both our national security and regional stability while profiting from violence and drug trafficking. \n\nThis action sends a",
-      "createdAt": "2026-07-16T20:43:47Z",
-      "timestamp": 1784234627,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 94,
-        "reply_count": 11,
-        "like_count": 339,
-        "quote_count": 0,
-        "bookmark_count": 2,
-        "view_count": 5859
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/MarioDB/status/2077856745649537066"
     }
   ],
   "notes": [
