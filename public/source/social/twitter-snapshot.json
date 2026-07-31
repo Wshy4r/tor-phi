@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T15:21:02.848457Z",
+  "generatedAt": "2026-07-31T17:05:18.019202Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-07-31T15:20:39.490Z",
+    "generatedAt": "2026-07-31T17:04:57.716Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56730,
+    "tweets": 56731,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-07-31T15:21:00.542117Z",
+  "lastCaptureAt": "2026-07-31T17:05:16.398841Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T15:21:00.542117Z",
+      "lastScrapedAt": "2026-07-31T17:05:16.398841Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41453,
+      "followersCount": 41452,
       "followingCount": 866,
       "verified": false
     },
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T15:21:00.542117Z",
+      "lastScrapedAt": "2026-07-31T17:05:16.398841Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41453,
+      "followersCount": 41452,
       "followingCount": 866,
       "verified": false
     },
@@ -48854,6 +48854,40 @@
   ],
   "tweets": [
     {
+      "id": "2083237286880195008",
+      "handle": "repandyharrismd",
+      "username": "RepAndyHarrisMD",
+      "displayName": null,
+      "ownerName": "Andy Harris",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-harris",
+      "text": "Our healthcare system is broken and needs to be fixed.\n\n@RepEricBurlison and I discuss how we can put patients back in charge, increase transparency, and lower costs in our latest @WashTimes op-ed.\n\nRead below ⬇️\n\nhttps://t.co/OP6UhO2xFU",
+      "createdAt": "2026-07-31T17:04:08Z",
+      "timestamp": 1785517448,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 54
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/OP6UhO2xFU",
+          "expanded_url": "https://www.washingtontimes.com/news/2026/jul/30/put-patients-back-charge-healthcare/",
+          "display_url": "washingtontimes.com/news/2026/jul/…"
+        }
+      ],
+      "url": "https://x.com/RepAndyHarrisMD/status/2083237286880195008"
+    },
+    {
       "id": "2082966938402091181",
       "handle": "repdeluzio",
       "username": "RepDeluzio",
@@ -51077,7 +51111,7 @@
         "like_count": 20,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 961
+        "view_count": 964
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51376,7 +51410,7 @@
         "like_count": 72,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 1500
+        "view_count": 1501
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -55980,7 +56014,7 @@
         "like_count": 52,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1487
+        "view_count": 1490
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56038,7 +56072,7 @@
         "like_count": 154,
         "quote_count": 2,
         "bookmark_count": 2,
-        "view_count": 2325
+        "view_count": 2328
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -113343,7 +113377,7 @@
         "like_count": 187,
         "quote_count": 1,
         "bookmark_count": 5,
-        "view_count": 6432
+        "view_count": 6433
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -119475,7 +119509,7 @@
       "tweetType": "retweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 51,
+        "retweet_count": 50,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -122766,34 +122800,6 @@
       ],
       "urls": [],
       "url": "https://x.com/MarioDB/status/2077856745649537066"
-    },
-    {
-      "id": "2077856492854587440",
-      "handle": "repkatcammack",
-      "username": "RepKatCammack",
-      "displayName": null,
-      "ownerName": "Kat Cammack",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kat-cammack",
-      "text": "Stop protecting politicians. Start protecting people.\n\nThe Senate Ethics Committee closed its investigation into Ruben Gallego. Seventeen days later, new reporting alleged he had sexual relationships with House staffers while serving in Congress.\n\nHis response? “Gossip.”\n\nAs",
-      "createdAt": "2026-07-16T20:42:47Z",
-      "timestamp": 1784234567,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 243,
-        "reply_count": 52,
-        "like_count": 1058,
-        "quote_count": 5,
-        "bookmark_count": 10,
-        "view_count": 72247
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepKatCammack/status/2077856492854587440"
     }
   ],
   "notes": [
