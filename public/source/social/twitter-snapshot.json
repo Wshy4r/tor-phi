@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T11:16:51.792097Z",
+  "generatedAt": "2026-08-01T12:33:26.565902Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-08-01T11:16:30.677Z",
+    "generatedAt": "2026-08-01T12:33:08.380Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2148,7 +2148,7 @@
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-08-01T11:16:49.948241Z",
+  "lastCaptureAt": "2026-08-01T12:33:24.747396Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-08-01T11:16:49.948241Z",
+      "lastScrapedAt": "2026-08-01T12:33:24.747396Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41460,
+      "followersCount": 41462,
       "followingCount": 866,
       "verified": false
     },
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-08-01T11:16:49.948241Z",
+      "lastScrapedAt": "2026-08-01T12:33:24.747396Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41460,
+      "followersCount": 41462,
       "followingCount": 866,
       "verified": false
     },
@@ -48869,11 +48869,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 1,
-        "reply_count": 2,
-        "like_count": 16,
+        "reply_count": 3,
+        "like_count": 17,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 778
+        "view_count": 823
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48896,12 +48896,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 15,
-        "reply_count": 172,
-        "like_count": 110,
+        "retweet_count": 16,
+        "reply_count": 178,
+        "like_count": 113,
         "quote_count": 18,
         "bookmark_count": 4,
-        "view_count": 18223
+        "view_count": 19147
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48965,7 +48965,7 @@
         "like_count": 17,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 1191
+        "view_count": 1197
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -114099,7 +114099,7 @@
         "like_count": 187,
         "quote_count": 1,
         "bookmark_count": 5,
-        "view_count": 6435
+        "view_count": 6436
       },
       "tags": [],
       "kurdistanTerms": [],
