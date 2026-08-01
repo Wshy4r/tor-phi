@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T20:54:37.064876Z",
+  "generatedAt": "2026-08-01T21:55:49.958503Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-08-01T20:54:16.383Z",
+    "generatedAt": "2026-08-01T21:54:59.312Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56755,
+    "tweets": 56757,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-08-01T20:54:35.175682Z",
+  "lastCaptureAt": "2026-08-01T21:55:49.006632Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-08-01T20:54:35.175682Z",
+      "lastScrapedAt": "2026-08-01T21:55:16.123772Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41467,
+      "followersCount": 41466,
       "followingCount": 866,
       "verified": false
     },
@@ -30975,10 +30975,10 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T21:38:33.051567Z",
+      "lastScrapedAt": "2026-08-01T21:55:17.226592Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4709,
+      "followersCount": 4708,
       "followingCount": 188,
       "verified": true
     },
@@ -31519,10 +31519,10 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T21:38:48.678299Z",
+      "lastScrapedAt": "2026-08-01T21:55:31.126052Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 17950,
+      "followersCount": 17951,
       "followingCount": 393,
       "verified": false
     },
@@ -31936,7 +31936,7 @@
     },
     {
       "username": "repfields",
-      "displayName": "Cleo Fields",
+      "displayName": "Congressman Cleo Fields",
       "ownerName": "Cleo Fields",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -31944,12 +31944,12 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T21:39:03.487017Z",
+      "lastScrapedAt": "2026-08-01T21:55:32.244182Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 1071,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909677978503598080/z92bkg7V_normal.jpg",
+      "followersCount": 1072,
       "followingCount": 173,
-      "verified": false
+      "verified": true
     },
     {
       "username": "RepBentz",
@@ -31961,10 +31961,10 @@
       "profileHref": "/country/usa/congress/cliff-bentz",
       "url": "https://x.com/RepBentz",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:18:16.309503Z",
+      "lastScrapedAt": "2026-08-01T21:55:49.006632Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 9982,
+      "followersCount": 9996,
       "followingCount": 617,
       "verified": false
     },
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-08-01T20:54:35.175682Z",
+      "lastScrapedAt": "2026-08-01T21:55:16.123772Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41467,
+      "followersCount": 41466,
       "followingCount": 866,
       "verified": false
     },
@@ -41228,10 +41228,10 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T21:38:33.051567Z",
+      "lastScrapedAt": "2026-08-01T21:55:17.226592Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4709,
+      "followersCount": 4708,
       "followingCount": 188,
       "verified": true
     },
@@ -41772,10 +41772,10 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T21:38:48.678299Z",
+      "lastScrapedAt": "2026-08-01T21:55:31.126052Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 17950,
+      "followersCount": 17951,
       "followingCount": 393,
       "verified": false
     },
@@ -42189,7 +42189,7 @@
     },
     {
       "username": "repfields",
-      "displayName": "Cleo Fields",
+      "displayName": "Congressman Cleo Fields",
       "ownerName": "Cleo Fields",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -42197,12 +42197,12 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-07-31T21:39:03.487017Z",
+      "lastScrapedAt": "2026-08-01T21:55:32.244182Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 1071,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909677978503598080/z92bkg7V_normal.jpg",
+      "followersCount": 1072,
       "followingCount": 173,
-      "verified": false
+      "verified": true
     },
     {
       "username": "RepBentz",
@@ -42214,10 +42214,10 @@
       "profileHref": "/country/usa/congress/cliff-bentz",
       "url": "https://x.com/RepBentz",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:18:16.309503Z",
+      "lastScrapedAt": "2026-08-01T21:55:49.006632Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 9982,
+      "followersCount": 9996,
       "followingCount": 617,
       "verified": false
     },
@@ -48854,6 +48854,34 @@
   ],
   "tweets": [
     {
+      "id": "2083648209205743843",
+      "handle": "repbentz",
+      "username": "RepBentz",
+      "displayName": null,
+      "ownerName": "Cliff Bentz",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cliff-bentz",
+      "text": "Yesterday, FEMA authorized use of federal funds to help Oregon fight the Fox Fire and the Rowe Creek Complex. These funds will help reimburse Oregon for firefighting costs.",
+      "createdAt": "2026-08-01T20:17:00Z",
+      "timestamp": 1785615420,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 100
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBentz/status/2083648209205743843"
+    },
+    {
       "id": "2083308479649923087",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
@@ -48873,7 +48901,7 @@
         "like_count": 21,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1052
+        "view_count": 1063
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48896,12 +48924,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 19,
-        "reply_count": 246,
+        "retweet_count": 20,
+        "reply_count": 251,
         "like_count": 123,
         "quote_count": 21,
         "bookmark_count": 4,
-        "view_count": 28018
+        "view_count": 28905
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48965,7 +48993,7 @@
         "like_count": 17,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 1259
+        "view_count": 1264
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -53373,6 +53401,40 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repbrandongill/status/2081052334818250897"
+    },
+    {
+      "id": "2081046871531827438",
+      "handle": "repbentz",
+      "username": "RepBentz",
+      "displayName": null,
+      "ownerName": "Cliff Bentz",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cliff-bentz",
+      "text": "Please see the attached story about my recently introduced bipartisan legislation aimed at reducing the danger of cataclysmic wildfire.\n\nhttps://t.co/JcEuoS5FE6",
+      "createdAt": "2026-07-25T16:00:12Z",
+      "timestamp": 1784995212,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 13,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 532
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/JcEuoS5FE6",
+          "expanded_url": "https://www.kdrv.com/news/local/bentz-and-merkley-introduce-new-wildfire-reduction-act/article_dcbdc23d-ab4e-4523-a154-dc3d65b8d7a8.html",
+          "display_url": "kdrv.com/news/local/ben…"
+        }
+      ],
+      "url": "https://x.com/RepBentz/status/2081046871531827438"
     },
     {
       "id": "2081044373693661225",
@@ -60447,7 +60509,7 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 511
+        "view_count": 514
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -61667,8 +61729,8 @@
     {
       "id": "2079992890227307003",
       "handle": "repfields",
-      "username": "repfields",
-      "displayName": null,
+      "username": "RepFields",
+      "displayName": "Congressman Cleo Fields",
       "ownerName": "Cleo Fields",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -61684,13 +61746,13 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 16
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/repfields/status/2079992890227307003"
+      "url": "https://x.com/RepFields/status/2079992890227307003"
     },
     {
       "id": "2079992825345716577",
@@ -66348,8 +66410,8 @@
     {
       "id": "2079638329864200680",
       "handle": "repfields",
-      "username": "repfields",
-      "displayName": null,
+      "username": "RepFields",
+      "displayName": "Congressman Cleo Fields",
       "ownerName": "Cleo Fields",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -66364,8 +66426,8 @@
         "reply_count": 3,
         "like_count": 45,
         "quote_count": 13,
-        "bookmark_count": 12,
-        "view_count": 86158
+        "bookmark_count": 0,
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -66373,7 +66435,7 @@
         "Diplomatic / official contact"
       ],
       "urls": [],
-      "url": "https://x.com/repfields/status/2079638329864200680"
+      "url": "https://x.com/RepFields/status/2079638329864200680"
     },
     {
       "id": "2079635531542012032",
@@ -122756,64 +122818,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/CongressmanRaja/status/2077858540794855877"
-    },
-    {
-      "id": "2077858302214787558",
-      "handle": "senatorfischer",
-      "username": "SenatorFischer",
-      "displayName": null,
-      "ownerName": "Deb Fischer",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/deb-fischer",
-      "text": "American families can now enroll their children in Trump Accounts! These tax-advantaged investment accounts to get a head start on saving for their education, future home down payment, or retirement. I encourage Nebraskan families to jump-start their children's financial future",
-      "createdAt": "2026-07-16T20:49:58Z",
-      "timestamp": 1784234998,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 8,
-        "reply_count": 28,
-        "like_count": 27,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 3222
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenatorFischer/status/2077858302214787558"
-    },
-    {
-      "id": "2077858216906522759",
-      "handle": "mariodb",
-      "username": "MarioDB",
-      "displayName": null,
-      "ownerName": "Mario Diaz-Balart",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mario-diaz-balart",
-      "text": "RT @SecRubio: Today, @StateDept is imposing new visa restrictions to bar Far-Left Terrorists from entering our country.\n\nForeigners who fin…",
-      "createdAt": "2026-07-16T20:49:38Z",
-      "timestamp": 1784234978,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 18042,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 266
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/MarioDB/status/2077858216906522759"
     }
   ],
   "notes": [
