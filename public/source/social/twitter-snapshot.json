@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T18:12:46.505862Z",
+  "generatedAt": "2026-08-04T20:10:49.916893Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-08-04T18:12:28.512Z",
+    "generatedAt": "2026-08-04T20:10:31.364Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56758,
+    "tweets": 56759,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-08-04T18:12:44.744562Z",
+  "lastCaptureAt": "2026-08-04T20:10:47.950715Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30805,10 +30805,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T18:12:44.744562Z",
+      "lastScrapedAt": "2026-08-04T20:10:47.950715Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41468,
+      "followersCount": 41469,
       "followingCount": 866,
       "verified": false
     },
@@ -41058,10 +41058,10 @@
       "profileHref": "/country/usa/congress/andy-harris",
       "url": "https://x.com/RepAndyHarrisMD",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T18:12:44.744562Z",
+      "lastScrapedAt": "2026-08-04T20:10:47.950715Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 41468,
+      "followersCount": 41469,
       "followingCount": 866,
       "verified": false
     },
@@ -48854,6 +48854,34 @@
   ],
   "tweets": [
     {
+      "id": "2084713640209355046",
+      "handle": "repandyharrismd",
+      "username": "RepAndyHarrisMD",
+      "displayName": null,
+      "ownerName": "Andy Harris",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/andy-harris",
+      "text": "Happy Birthday to the United States Coast Guard! \n\nMaryland is proud to be home to dedicated Coast Guard servicemembers who protect our communities, safeguard the Chesapeake Bay, and defend our nation's maritime interests. \n\nThank you for your unwavering service. Semper Paratus! https://t.co/Jv68kGSyPR",
+      "createdAt": "2026-08-04T18:50:38Z",
+      "timestamp": 1785869438,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 537
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAndyHarrisMD/status/2084713640209355046"
+    },
+    {
       "id": "2084456259596554378",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
@@ -48868,12 +48896,12 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 80,
-        "reply_count": 55,
-        "like_count": 337,
+        "retweet_count": 82,
+        "reply_count": 57,
+        "like_count": 349,
         "quote_count": 6,
         "bookmark_count": 5,
-        "view_count": 5578
+        "view_count": 5773
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48931,7 +48959,7 @@
         "like_count": 22,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1288
+        "view_count": 1298
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48959,7 +48987,7 @@
         "like_count": 141,
         "quote_count": 23,
         "bookmark_count": 4,
-        "view_count": 41731
+        "view_count": 41951
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49023,7 +49051,7 @@
         "like_count": 18,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 1377
+        "view_count": 1381
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51411,7 +51439,7 @@
         "like_count": 20,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 1044
+        "view_count": 1046
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51740,7 +51768,7 @@
         "like_count": 73,
         "quote_count": 1,
         "bookmark_count": 0,
-        "view_count": 1553
+        "view_count": 1554
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56552,7 +56580,7 @@
         "like_count": 52,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1526
+        "view_count": 1527
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -56610,7 +56638,7 @@
         "like_count": 154,
         "quote_count": 2,
         "bookmark_count": 2,
-        "view_count": 2349
+        "view_count": 2350
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -65508,7 +65536,7 @@
         "like_count": 14,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1217
+        "view_count": 1218
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -69557,7 +69585,7 @@
         "like_count": 15,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 1033
+        "view_count": 1034
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -70358,7 +70386,7 @@
         "like_count": 27,
         "quote_count": 0,
         "bookmark_count": 2,
-        "view_count": 1042
+        "view_count": 1043
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -114393,7 +114421,7 @@
         "like_count": 295,
         "quote_count": 4,
         "bookmark_count": 10,
-        "view_count": 6416
+        "view_count": 6417
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122786,40 +122814,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/Rep_SteveWomack/status/2077858584470409707"
-    },
-    {
-      "id": "2077858559677927670",
-      "handle": "repjayapal",
-      "username": "RepJayapal",
-      "displayName": null,
-      "ownerName": "Pramila Jayapal",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/pramila-jayapal",
-      "text": "This is more insane corruption from Trump.  https://t.co/swWF4E7ADT",
-      "createdAt": "2026-07-16T20:51:00Z",
-      "timestamp": 1784235060,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 14,
-        "reply_count": 27,
-        "like_count": 23,
-        "quote_count": 1,
-        "bookmark_count": 1,
-        "view_count": 2740
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/swWF4E7ADT",
-          "expanded_url": "https://www.cnn.com/2026/07/16/business/truth-social-data-wall-street?cid=ios_app",
-          "display_url": "cnn.com/2026/07/16/bus…"
-        }
-      ],
-      "url": "https://x.com/RepJayapal/status/2077858559677927670"
     }
   ],
   "notes": [
