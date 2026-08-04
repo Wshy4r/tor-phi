@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T20:10:49.916893Z",
+  "generatedAt": "2026-08-04T21:50:05.330305Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-08-04T20:10:31.364Z",
+    "generatedAt": "2026-08-04T21:49:15.126Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56759,
+    "tweets": 56777,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-08-04T20:10:47.950715Z",
+  "lastCaptureAt": "2026-08-04T21:50:04.339253Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30967,7 +30967,7 @@
     },
     {
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": "Aumua Amata Coleman Radewagen",
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -30975,12 +30975,12 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T03:48:56.745643Z",
+      "lastScrapedAt": "2026-08-04T21:49:31.770655Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4708,
+      "profileImageUrl": null,
+      "followersCount": 4709,
       "followingCount": 188,
-      "verified": true
+      "verified": false
     },
     {
       "username": "AustinScottGA08",
@@ -31511,7 +31511,7 @@
     },
     {
       "username": "RepWesterman",
-      "displayName": "Bruce Westerman",
+      "displayName": "Rep. Bruce Westerman",
       "ownerName": "Bruce Westerman",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -31519,12 +31519,12 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T03:49:14.605674Z",
+      "lastScrapedAt": "2026-08-04T21:49:33.044768Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 17958,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
+      "followersCount": 17963,
       "followingCount": 393,
-      "verified": false
+      "verified": true
     },
     {
       "username": "RepBryanSteil",
@@ -31936,7 +31936,7 @@
     },
     {
       "username": "repfields",
-      "displayName": "Congressman Cleo Fields",
+      "displayName": "Cleo Fields",
       "ownerName": "Cleo Fields",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -31944,16 +31944,16 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T03:49:15.728944Z",
+      "lastScrapedAt": "2026-08-04T21:49:49.252670Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909677978503598080/z92bkg7V_normal.jpg",
-      "followersCount": 1074,
+      "profileImageUrl": null,
+      "followersCount": 1075,
       "followingCount": 173,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepBentz",
-      "displayName": "Cliff Bentz",
+      "displayName": "Congressman Cliff Bentz",
       "ownerName": "Cliff Bentz",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -31961,12 +31961,12 @@
       "profileHref": "/country/usa/congress/cliff-bentz",
       "url": "https://x.com/RepBentz",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T03:49:29.148906Z",
+      "lastScrapedAt": "2026-08-04T21:49:50.467653Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 9998,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2081742387362037760/305_mE0y_normal.jpg",
+      "followersCount": 10000,
       "followingCount": 617,
-      "verified": false
+      "verified": true
     },
     {
       "username": "SenBooker",
@@ -31978,11 +31978,11 @@
       "profileHref": "/country/usa/congress/cory-a-booker",
       "url": "https://x.com/SenBooker",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:18:33.531206Z",
+      "lastScrapedAt": "2026-08-04T21:50:04.339253Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 226353,
-      "followingCount": 4312,
+      "followersCount": 225988,
+      "followingCount": 4310,
       "verified": false
     },
     {
@@ -41220,7 +41220,7 @@
     },
     {
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": "Aumua Amata Coleman Radewagen",
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41228,12 +41228,12 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T03:48:56.745643Z",
+      "lastScrapedAt": "2026-08-04T21:49:31.770655Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080033953931542529/kAgVVrXp_normal.jpg",
-      "followersCount": 4708,
+      "profileImageUrl": null,
+      "followersCount": 4709,
       "followingCount": 188,
-      "verified": true
+      "verified": false
     },
     {
       "username": "AustinScottGA08",
@@ -41764,7 +41764,7 @@
     },
     {
       "username": "RepWesterman",
-      "displayName": "Bruce Westerman",
+      "displayName": "Rep. Bruce Westerman",
       "ownerName": "Bruce Westerman",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -41772,12 +41772,12 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T03:49:14.605674Z",
+      "lastScrapedAt": "2026-08-04T21:49:33.044768Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 17958,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
+      "followersCount": 17963,
       "followingCount": 393,
-      "verified": false
+      "verified": true
     },
     {
       "username": "RepBryanSteil",
@@ -42189,7 +42189,7 @@
     },
     {
       "username": "repfields",
-      "displayName": "Congressman Cleo Fields",
+      "displayName": "Cleo Fields",
       "ownerName": "Cleo Fields",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -42197,16 +42197,16 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T03:49:15.728944Z",
+      "lastScrapedAt": "2026-08-04T21:49:49.252670Z",
       "lastError": null,
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909677978503598080/z92bkg7V_normal.jpg",
-      "followersCount": 1074,
+      "profileImageUrl": null,
+      "followersCount": 1075,
       "followingCount": 173,
-      "verified": true
+      "verified": false
     },
     {
       "username": "RepBentz",
-      "displayName": "Cliff Bentz",
+      "displayName": "Congressman Cliff Bentz",
       "ownerName": "Cliff Bentz",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -42214,12 +42214,12 @@
       "profileHref": "/country/usa/congress/cliff-bentz",
       "url": "https://x.com/RepBentz",
       "status": "captured",
-      "lastScrapedAt": "2026-08-04T03:49:29.148906Z",
+      "lastScrapedAt": "2026-08-04T21:49:50.467653Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 9998,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2081742387362037760/305_mE0y_normal.jpg",
+      "followersCount": 10000,
       "followingCount": 617,
-      "verified": false
+      "verified": true
     },
     {
       "username": "SenBooker",
@@ -42231,11 +42231,11 @@
       "profileHref": "/country/usa/congress/cory-a-booker",
       "url": "https://x.com/SenBooker",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:18:33.531206Z",
+      "lastScrapedAt": "2026-08-04T21:50:04.339253Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 226353,
-      "followingCount": 4312,
+      "followersCount": 225988,
+      "followingCount": 4310,
       "verified": false
     },
     {
@@ -48882,6 +48882,67 @@
       "url": "https://x.com/RepAndyHarrisMD/status/2084713640209355046"
     },
     {
+      "id": "2084707442013659592",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Republicans on the Judiciary Committee have done nothing to stop Todd Blanche from becoming our top law enforcement official. Meanwhile the President pockets $2 billion from his own crypto coin, foreign nations invest, and corporations put his kids on boards for no-bid deals. The https://t.co/779Z0lp6N9",
+      "createdAt": "2026-08-04T18:26:00Z",
+      "timestamp": 1785867960,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 47,
+        "reply_count": 38,
+        "like_count": 110,
+        "quote_count": 4,
+        "bookmark_count": 3,
+        "view_count": 2238
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2084707442013659592"
+    },
+    {
+      "id": "2084665905665937415",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "This is all hat and no cattle.  Even conservatives admit  Todd Blanche’s guarantees aren’t worth the paper they’re written on. No protection against the slush fund. No accountability if the President cheats on his taxes again.\n\nThe American people deserve better. https://t.co/1cGbsQP8uZ",
+      "createdAt": "2026-08-04T15:40:57Z",
+      "timestamp": 1785858057,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 30,
+        "reply_count": 41,
+        "like_count": 97,
+        "quote_count": 4,
+        "bookmark_count": 1,
+        "view_count": 3891
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2084665905665937415"
+    },
+    {
       "id": "2084456259596554378",
       "handle": "repandyharrismd",
       "username": "RepAndyHarrisMD",
@@ -48912,10 +48973,126 @@
       "url": "https://x.com/RepAndyHarrisMD/status/2084456259596554378"
     },
     {
+      "id": "2084389533018214442",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "On this Exchange Day, I’m reminded of the advancements we can make through people-to-people exchange. \n\nWhen young people from around the world come to our communities, and when our own students and citizens venture abroad, we plant seeds of understanding and shared purpose that",
+      "createdAt": "2026-08-03T21:22:45Z",
+      "timestamp": 1785792165,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 11,
+        "like_count": 14,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "view_count": 6974
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2084389533018214442"
+    },
+    {
+      "id": "2084351222731968674",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "The Republican Farm Bill released on Friday fails to meet the moment of crisis facing America's farmers and families. Democrats should remain united and only support a Farm Bill that includes a clean two-year delay of the SNAP cost shift to states. The bill must also provide",
+      "createdAt": "2026-08-03T18:50:31Z",
+      "timestamp": 1785783031,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 43,
+        "reply_count": 20,
+        "like_count": 89,
+        "quote_count": 1,
+        "bookmark_count": 3,
+        "view_count": 5659
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2084351222731968674"
+    },
+    {
+      "id": "2084342803090346151",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "What this means: every federal agency is now barred from investigating or prosecuting the President, his family, his associates — and an undefined universe of others. Not just taxes. Any offense, civil or criminal, known or unknown, as of the day this directive dropped.\n\nTodd https://t.co/sCzUlUcFCH",
+      "createdAt": "2026-08-03T18:17:04Z",
+      "timestamp": 1785781024,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 58,
+        "reply_count": 15,
+        "like_count": 84,
+        "quote_count": 2,
+        "bookmark_count": 7,
+        "view_count": 2155
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2084342803090346151"
+    },
+    {
+      "id": "2084342797595718057",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Todd Blanche knows that this document is unenforceable and isn't even worth the paper it's printed on. It means nothing! Trump didn't even sign it and he's not bound by it!",
+      "createdAt": "2026-08-03T18:17:02Z",
+      "timestamp": 1785781022,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 727,
+        "reply_count": 124,
+        "like_count": 1810,
+        "quote_count": 36,
+        "bookmark_count": 20,
+        "view_count": 31882
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2084342797595718057"
+    },
+    {
       "id": "2083648209205743843",
       "handle": "repbentz",
       "username": "RepBentz",
-      "displayName": null,
+      "displayName": "Congressman Cliff Bentz",
       "ownerName": "Cliff Bentz",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -48931,7 +49108,7 @@
         "like_count": 5,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 369
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49160,6 +49337,34 @@
       "url": "https://x.com/RepDeluzio/status/2082966934958526813"
     },
     {
+      "id": "2082943469195080152",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Today marks 61 years since Medicaid was signed into law—a lifeline that has delivered critical health care to tens of millions of Americans, including nearly 2 million New Jerseyans. From children and seniors to people with disabilities and working families, this program is part",
+      "createdAt": "2026-07-30T21:36:36Z",
+      "timestamp": 1785447396,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 9,
+        "reply_count": 58,
+        "like_count": 48,
+        "quote_count": 1,
+        "bookmark_count": 3,
+        "view_count": 6831
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2082943469195080152"
+    },
+    {
       "id": "2082937445528502543",
       "handle": "chriscoons",
       "username": "ChrisCoons",
@@ -49216,6 +49421,34 @@
       ],
       "urls": [],
       "url": "https://x.com/ChrisCoons/status/2082937208642609342"
+    },
+    {
+      "id": "2082928417507258724",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Need help with federal assistance? You can meet with my team at the Hispanic Chamber of Commerce Expo to connect you with the resources you need. https://t.co/RQOuLpnGHC",
+      "createdAt": "2026-07-30T20:36:48Z",
+      "timestamp": 1785443808,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 9,
+        "reply_count": 20,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 4715
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2082928417507258724"
     },
     {
       "id": "2082904805631050117",
@@ -49310,6 +49543,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepChrisPappas/status/2082902562341081363"
+    },
+    {
+      "id": "2082899475060720029",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Officer Brian Sicknick — a proud son of New Jersey, a veteran, and a true American hero — gave his life defending our Capitol and our democracy.\n\nToday, July 30th is now “Brian Sicknick Day” in our state. May we never forget his courage, his service, and the sacred duty we all",
+      "createdAt": "2026-07-30T18:41:47Z",
+      "timestamp": 1785436907,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 362,
+        "reply_count": 206,
+        "like_count": 1771,
+        "quote_count": 17,
+        "bookmark_count": 13,
+        "view_count": 21126
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2082899475060720029"
     },
     {
       "id": "2082887939827065223",
@@ -50878,6 +51141,38 @@
       "url": "https://x.com/chelliepingree/status/2082120093190807742"
     },
     {
+      "id": "2082113544728814047",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "New Jerseyans are paying the price for political games. The Trump administration has now admitted in court that billions of dollars in clean energy investments were canceled because of politics. That's not governing, it's political retaliation. \n\nThese investments would have",
+      "createdAt": "2026-07-28T14:38:47Z",
+      "timestamp": 1785249527,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 14,
+        "reply_count": 54,
+        "like_count": 55,
+        "quote_count": 1,
+        "bookmark_count": 3,
+        "view_count": 4507
+      },
+      "tags": [],
+      "kurdistanTerms": [
+        "Oil / Energy"
+      ],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2082113544728814047"
+    },
+    {
       "id": "2082113224070058213",
       "handle": "repchiproy",
       "username": "RepChipRoy",
@@ -51018,6 +51313,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDeluzio/status/2082101428328219087"
+    },
+    {
+      "id": "2081922922835296655",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "The Garden State is known for our diners, our attitude, and our unforgettable icons (like Lucy). But what I love most about Jersey is our people, our sense of community, and how we always have each others' backs. \n\nHappy National New Jersey Day! https://t.co/ugBgdHB32E",
+      "createdAt": "2026-07-28T02:01:19Z",
+      "timestamp": 1785204079,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 15,
+        "reply_count": 18,
+        "like_count": 89,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "view_count": 5575
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2081922922835296655"
     },
     {
       "id": "2081902710744371203",
@@ -53464,7 +53787,7 @@
       "id": "2081046871531827438",
       "handle": "repbentz",
       "username": "RepBentz",
-      "displayName": null,
+      "displayName": "Congressman Cliff Bentz",
       "ownerName": "Cliff Bentz",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -53480,7 +53803,7 @@
         "like_count": 9,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 571
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -57601,6 +57924,34 @@
       "url": "https://x.com/RepBonnie/status/2080329316517150767"
     },
     {
+      "id": "2080328464893100227",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "What powerful testimony from this survivor: “I’m someone’s sister, someone’s aunt, someone’s daughter. If there was a pedophile ring in your community, would you sit by and watch?”\n\nThis is not political. These brave survivors deserve a Department of Justice that fights for them https://t.co/QeRuXRQWM5",
+      "createdAt": "2026-07-23T16:25:31Z",
+      "timestamp": 1784823931,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 137,
+        "reply_count": 120,
+        "like_count": 442,
+        "quote_count": 2,
+        "bookmark_count": 7,
+        "view_count": 7969
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2080328464893100227"
+    },
+    {
       "id": "2080326790048891269",
       "handle": "sencortezmasto",
       "username": "SenCortezMasto",
@@ -58834,7 +59185,7 @@
       "id": "2080278506374574553",
       "handle": "repwesterman",
       "username": "RepWesterman",
-      "displayName": null,
+      "displayName": "Rep. Bruce Westerman",
       "ownerName": "Bruce Westerman",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -58850,7 +59201,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 69
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -59207,6 +59558,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepCarlos/status/2080077728099758530"
+    },
+    {
+      "id": "2080077715747606810",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Under Todd Blanche, the Department of Justice has retraumatized Epstein survivors while their abusers were protected — and even rewarded. This is not the people’s Department of Justice. It has become an instrument of one man’s will. I will do everything in my power to set the https://t.co/pP0okUjDPt",
+      "createdAt": "2026-07-22T23:49:08Z",
+      "timestamp": 1784764148,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 59,
+        "reply_count": 93,
+        "like_count": 171,
+        "quote_count": 3,
+        "bookmark_count": 7,
+        "view_count": 5831
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2080077715747606810"
     },
     {
       "id": "2080070897960910943",
@@ -60463,7 +60842,7 @@
       "id": "2080034585153314932",
       "handle": "repamata",
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": null,
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -60479,7 +60858,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 66
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -60493,7 +60872,7 @@
       "id": "2080033985741103577",
       "handle": "repamata",
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": null,
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -60509,7 +60888,7 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 114
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -60551,7 +60930,7 @@
       "id": "2080033709408006585",
       "handle": "repwesterman",
       "username": "RepWesterman",
-      "displayName": null,
+      "displayName": "Rep. Bruce Westerman",
       "ownerName": "Bruce Westerman",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -60567,7 +60946,7 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 519
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -61787,8 +62166,8 @@
     {
       "id": "2079992890227307003",
       "handle": "repfields",
-      "username": "RepFields",
-      "displayName": "Congressman Cleo Fields",
+      "username": "repfields",
+      "displayName": null,
       "ownerName": "Cleo Fields",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -61804,13 +62183,13 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 16
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
-      "url": "https://x.com/RepFields/status/2079992890227307003"
+      "url": "https://x.com/repfields/status/2079992890227307003"
     },
     {
       "id": "2079992825345716577",
@@ -64244,6 +64623,34 @@
       "url": "https://x.com/BradSherman/status/2079742617466605951"
     },
     {
+      "id": "2079742605626126398",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "We’re down to the wire on the Todd Blanche nomination — and I’m leading the fight to hold him accountable. \n\nTomorrow at 2:30 we’re holding a forum to shine a light on why his nomination is so unqualified and unjustified. We’ll hear from a courageous Epstein survivor and those https://t.co/l8uOgwFyfv",
+      "createdAt": "2026-07-22T01:37:31Z",
+      "timestamp": 1784684251,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 108,
+        "reply_count": 121,
+        "like_count": 340,
+        "quote_count": 6,
+        "bookmark_count": 6,
+        "view_count": 7518
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2079742605626126398"
+    },
+    {
       "id": "2079741601887248676",
       "handle": "repcarlos",
       "username": "RepCarlos",
@@ -66468,8 +66875,8 @@
     {
       "id": "2079638329864200680",
       "handle": "repfields",
-      "username": "RepFields",
-      "displayName": "Congressman Cleo Fields",
+      "username": "repfields",
+      "displayName": null,
       "ownerName": "Cleo Fields",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -66481,11 +66888,11 @@
       "language": "en",
       "metrics": {
         "retweet_count": 17,
-        "reply_count": 3,
+        "reply_count": 4,
         "like_count": 45,
         "quote_count": 13,
-        "bookmark_count": 0,
-        "view_count": null
+        "bookmark_count": 12,
+        "view_count": 86235
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -66493,7 +66900,7 @@
         "Diplomatic / official contact"
       ],
       "urls": [],
-      "url": "https://x.com/RepFields/status/2079638329864200680"
+      "url": "https://x.com/repfields/status/2079638329864200680"
     },
     {
       "id": "2079635531542012032",
@@ -68038,7 +68445,7 @@
       "id": "2079593554620375379",
       "handle": "repwesterman",
       "username": "RepWesterman",
-      "displayName": null,
+      "displayName": "Rep. Bruce Westerman",
       "ownerName": "Bruce Westerman",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -68054,7 +68461,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 57
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -73542,6 +73949,34 @@
       "url": "https://x.com/RepAprilDelaney/status/2078608267828470231"
     },
     {
+      "id": "2078607760925843654",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Today, the families of two more heroic service members are getting a knock on their door to receive a horrible message. My prayers are with these families in their grief, sadness, and pain. Our resolve and urgency to use every tool and power at our disposal to end this",
+      "createdAt": "2026-07-18T22:28:03Z",
+      "timestamp": 1784413683,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 65,
+        "reply_count": 167,
+        "like_count": 364,
+        "quote_count": 7,
+        "bookmark_count": 8,
+        "view_count": 10985
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2078607760925843654"
+    },
+    {
       "id": "2078607651424915691",
       "handle": "repcdmenefee",
       "username": "RepCDMenefee",
@@ -73568,6 +74003,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepCDMenefee/status/2078607651424915691"
+    },
+    {
+      "id": "2078603432038903963",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Severe storms and flash floods are bearing down on New Jersey today. Check on your neighbors, follow official guidance, and avoid driving through flooded waters.",
+      "createdAt": "2026-07-18T22:10:51Z",
+      "timestamp": 1784412651,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 11,
+        "reply_count": 14,
+        "like_count": 46,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "view_count": 6076
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2078603432038903963"
     },
     {
       "id": "2078597606817534130",
@@ -75271,6 +75734,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenKevinCramer/status/2078268330025128326"
+    },
+    {
+      "id": "2078268206611898386",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Trump’s reckless cuts have gutted the CDC’s ability to protect us. \n\nNow we’re facing a growing cyclosporiasis outbreak sickening families across the country. \n\nSenator Blumenthal and I are demanding answers: Did these cuts weaken the CDC’s ability to prevent and respond to this",
+      "createdAt": "2026-07-17T23:58:47Z",
+      "timestamp": 1784332727,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 74,
+        "reply_count": 178,
+        "like_count": 193,
+        "quote_count": 11,
+        "bookmark_count": 5,
+        "view_count": 7699
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2078268206611898386"
     },
     {
       "id": "2078267244807590380",
@@ -81274,6 +81765,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepGregoryMeeks/status/2078214214712197268"
+    },
+    {
+      "id": "2078214153089458477",
+      "handle": "senbooker",
+      "username": "SenBooker",
+      "displayName": null,
+      "ownerName": "Cory A. Booker",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cory-a-booker",
+      "text": "Six years ago today, we lost a giant. On this anniversary of John Lewis’ passing, I’m reminded: the power of the people is greater than the people in power.  He loved this country so deeply that he endured savage beatings on the Edmund Pettus Bridge, at lunch counters, and on https://t.co/MMKsGzXALv",
+      "createdAt": "2026-07-17T20:24:00Z",
+      "timestamp": 1784319840,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 69,
+        "reply_count": 49,
+        "like_count": 290,
+        "quote_count": 3,
+        "bookmark_count": 10,
+        "view_count": 5516
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/SenBooker/status/2078214153089458477"
     },
     {
       "id": "2078214131694395729",
@@ -89450,7 +89969,7 @@
       "id": "2078179116419801431",
       "handle": "repwesterman",
       "username": "RepWesterman",
-      "displayName": null,
+      "displayName": "Rep. Bruce Westerman",
       "ownerName": "Bruce Westerman",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -89466,7 +89985,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 50
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -102193,7 +102712,7 @@
       "id": "2078118971140641175",
       "handle": "repamata",
       "username": "RepAmata",
-      "displayName": "Rep. Aumua Amata🇦🇸",
+      "displayName": null,
       "ownerName": "Aumua Amata Coleman Radewagen",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -102209,7 +102728,7 @@
         "like_count": 5,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": null
+        "view_count": 102
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122280,540 +122799,6 @@
       ],
       "urls": [],
       "url": "https://x.com/RepRaulRuizMD/status/2077860902552977906"
-    },
-    {
-      "id": "2077860833191719422",
-      "handle": "repstutzman",
-      "username": "RepStutzman",
-      "displayName": null,
-      "ownerName": "Marlin A. Stutzman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/marlin-a-stutzman",
-      "text": "Joking about “I'm trying to not get fined” while your star player is playing with a leg contusion from a play that didn’t result with a foul is exactly why Hoosiers are fed up with Coach White and the @WNBA 🙄\n\nCaitlin Clark isn’t in the W to play streetball. Act like a",
-      "createdAt": "2026-07-16T21:00:02Z",
-      "timestamp": 1784235602,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 88,
-        "reply_count": 95,
-        "like_count": 460,
-        "quote_count": 16,
-        "bookmark_count": 13,
-        "view_count": 20074
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepStutzman/status/2077860833191719422"
-    },
-    {
-      "id": "2077860829819461764",
-      "handle": "repnancymace",
-      "username": "RepNancyMace",
-      "displayName": null,
-      "ownerName": "Nancy Mace",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nancy-mace",
-      "text": "One illegal is too many.",
-      "createdAt": "2026-07-16T21:00:01Z",
-      "timestamp": 1784235601,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 58,
-        "reply_count": 79,
-        "like_count": 831,
-        "quote_count": 5,
-        "bookmark_count": 7,
-        "view_count": 36091
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Critical / hostile language"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepNancyMace/status/2077860829819461764"
-    },
-    {
-      "id": "2077860827797901706",
-      "handle": "repyoungkim",
-      "username": "RepYoungKim",
-      "displayName": null,
-      "ownerName": "Young Kim",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/young-kim",
-      "text": "Energy security is national security. I’m leading the fight to strengthen America’s critical minerals supply chains &amp; secure America’s energy future for good.\n\nhttps://t.co/Twkdcm5d0q",
-      "createdAt": "2026-07-16T21:00:00Z",
-      "timestamp": 1784235600,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 9,
-        "like_count": 16,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 892
-      },
-      "tags": [],
-      "kurdistanTerms": [
-        "Oil / Energy"
-      ],
-      "frames": [
-        "Security / counterterrorism",
-        "Energy / economic"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Twkdcm5d0q",
-          "expanded_url": "https://youngkim.house.gov/2026/07/16/rep-young-kim-pushes-to-secure-americas-critical-mineral-supply-chains/",
-          "display_url": "youngkim.house.gov/2026/07/16/rep…"
-        }
-      ],
-      "url": "https://x.com/RepYoungKim/status/2077860827797901706"
-    },
-    {
-      "id": "2077860573619101697",
-      "handle": "senrandpaul",
-      "username": "SenRandPaul",
-      "displayName": null,
-      "ownerName": "Rand Paul",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/rand-paul",
-      "text": "Foggy metaphors, sloppy images, unfocused poetry, and equivocations such as \"a hungry man is not free\" do not alter the fact that only political power is the power of physical coercion and that freedom in a political context has only one meaning: the absence of physical coercion.",
-      "createdAt": "2026-07-16T20:59:00Z",
-      "timestamp": 1784235540,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 13,
-        "reply_count": 50,
-        "like_count": 151,
-        "quote_count": 0,
-        "bookmark_count": 7,
-        "view_count": 9443
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenRandPaul/status/2077860573619101697"
-    },
-    {
-      "id": "2077860374557175948",
-      "handle": "senatordurbin",
-      "username": "SenatorDurbin",
-      "displayName": null,
-      "ownerName": "Richard J. Durbin",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/richard-j-durbin",
-      "text": "Here’s the bottom line: Donald Trump lost the 2020 election to Joe Biden by 7 million votes.\n\nNothing Trump says tonight can change that basic reality. https://t.co/JcgNuQzEsp",
-      "createdAt": "2026-07-16T20:58:12Z",
-      "timestamp": 1784235492,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 401,
-        "reply_count": 342,
-        "like_count": 1965,
-        "quote_count": 23,
-        "bookmark_count": 15,
-        "view_count": 43043
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenatorDurbin/status/2077860374557175948"
-    },
-    {
-      "id": "2077860303434375473",
-      "handle": "repmikequigley",
-      "username": "RepMikeQuigley",
-      "displayName": null,
-      "ownerName": "Mike Quigley",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mike-quigley",
-      "text": "Pete Hegseth’s testosterone screenings are yet another way to discourage our women in uniform. He has already said he doesn’t believe they should serve in combat, AND he cancelled the promotions of several female Navy officers.\n \nNow the guy who struggles to do a pull-up wants to",
-      "createdAt": "2026-07-16T20:57:55Z",
-      "timestamp": 1784235475,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7,
-        "reply_count": 16,
-        "like_count": 29,
-        "quote_count": 1,
-        "bookmark_count": 1,
-        "view_count": 1236
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMikeQuigley/status/2077860303434375473"
-    },
-    {
-      "id": "2077859832242045080",
-      "handle": "gillibrandny",
-      "username": "GillibrandNY",
-      "displayName": null,
-      "ownerName": "Kirsten E. Gillibrand",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kirsten-e-gillibrand",
-      "text": "Senate Republicans just blocked my legislation that would stop the Trump administration from using artificial intelligence to deny seniors’ medical claims.\n\nWhile Trump and Republicans focus on helping private insurers and big AI companies pad their profits, I'm fighting to stop https://t.co/2XRgRbXEYM",
-      "createdAt": "2026-07-16T20:56:03Z",
-      "timestamp": 1784235363,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 9,
-        "like_count": 5,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 534
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/GillibrandNY/status/2077859832242045080"
-    },
-    {
-      "id": "2077859353642590256",
-      "handle": "sentomcotton",
-      "username": "SenTomCotton",
-      "displayName": null,
-      "ownerName": "Tom Cotton",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/tom-cotton",
-      "text": "FISA Section 702 protects Americans from foreign terrorists.\n\nDemocrats have blocked its reauthorization for more than a month.\n\nThe Democratic Party is not serious about keeping our nation safe. https://t.co/YNNp0nQC8y",
-      "createdAt": "2026-07-16T20:54:09Z",
-      "timestamp": 1784235249,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 70,
-        "reply_count": 174,
-        "like_count": 251,
-        "quote_count": 5,
-        "bookmark_count": 4,
-        "view_count": 12841
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenTomCotton/status/2077859353642590256"
-    },
-    {
-      "id": "2077859239356170696",
-      "handle": "repbynum",
-      "username": "RepBynum",
-      "displayName": null,
-      "ownerName": "Janelle S. Bynum",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/janelle-s-bynum",
-      "text": "Are y'all seeing this? The president just said the quiet part out loud: pay me, and I'll help you trade on inside info.\n\nThey’ve normalized a lot of corruption in this administration. This is next level.\n\nWall Street eats. We get the bill.",
-      "createdAt": "2026-07-16T20:53:42Z",
-      "timestamp": 1784235222,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 3,
-        "like_count": 9,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 538
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact",
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepBynum/status/2077859239356170696"
-    },
-    {
-      "id": "2077859175590187022",
-      "handle": "reparrington",
-      "username": "RepArrington",
-      "displayName": null,
-      "ownerName": "Jodey C. Arrington",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jodey-c-arrington",
-      "text": "Republicans are united and undeterred in our fight to restore America's greatness. We don't have a country if we can't defend it, and we don't have a democracy if people can't trust the outcome of our elections. Passing Reconciliation 3.0 will support our troops, secure our",
-      "createdAt": "2026-07-16T20:53:26Z",
-      "timestamp": 1784235206,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 3,
-        "like_count": 10,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 523
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepArrington/status/2077859175590187022"
-    },
-    {
-      "id": "2077859110226190820",
-      "handle": "senrickscott",
-      "username": "SenRickScott",
-      "displayName": null,
-      "ownerName": "Rick Scott",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/rick-scott",
-      "text": "RT @Daniel_PerezFL: Thank you, Senator Scott, for your leadership and friendship, and thank you to the Committee on Foreign Relations for t…",
-      "createdAt": "2026-07-16T20:53:11Z",
-      "timestamp": 1784235191,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 14,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2007
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenRickScott/status/2077859110226190820"
-    },
-    {
-      "id": "2077858962385310009",
-      "handle": "repgabevasquez",
-      "username": "RepGabeVasquez",
-      "displayName": null,
-      "ownerName": "Gabe Vasquez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/gabe-vasquez",
-      "text": "Cutting edge public safety technology keeps our communities and officers safe — that's why I delivered funding for the APD Real Time Crime Center and the BSCO Sheriff's Office gunshot detection technologies.\n\nThis is a real example of how technology can stop criminals, and why",
-      "createdAt": "2026-07-16T20:52:36Z",
-      "timestamp": 1784235156,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 2,
-        "quote_count": 3,
-        "bookmark_count": 0,
-        "view_count": 986
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepGabeVasquez/status/2077858962385310009"
-    },
-    {
-      "id": "2077858939824230876",
-      "handle": "repjayapal",
-      "username": "RepJayapal",
-      "displayName": null,
-      "ownerName": "Pramila Jayapal",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/pramila-jayapal",
-      "text": "Corporate interests are raising meat prices for consumers and putting family farms out of business.\n\nToday, I’m introducing a bill with @RepDeluzio and @RepPatRyanNY to give independent farmers a fair shot and work to drive down grocery prices for families. https://t.co/0oInnsNFIz",
-      "createdAt": "2026-07-16T20:52:30Z",
-      "timestamp": 1784235150,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 13,
-        "reply_count": 30,
-        "like_count": 28,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 4204
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepJayapal/status/2077858939824230876"
-    },
-    {
-      "id": "2077858873222860917",
-      "handle": "repjoecourtney",
-      "username": "RepJoeCourtney",
-      "displayName": null,
-      "ownerName": "Joe Courtney",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/joe-courtney",
-      "text": "Thanks to the United Steelworkers whose members - including some from CT - were on Capitol Hill yesterday to advocate for my legislation, the Protecting America’s Workers Act, which would make overdue updates to the Occupational Safety and Health Administration to strengthen our https://t.co/InjbMj7Nj9",
-      "createdAt": "2026-07-16T20:52:14Z",
-      "timestamp": 1784235134,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 7,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 433
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepJoeCourtney/status/2077858873222860917"
-    },
-    {
-      "id": "2077858776279814493",
-      "handle": "senwhitehouse",
-      "username": "SenWhitehouse",
-      "displayName": null,
-      "ownerName": "Sheldon Whitehouse",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/sheldon-whitehouse",
-      "text": "National Geographic does Rhode Island. Well done!\nhttps://t.co/JZJ0JXDXk7",
-      "createdAt": "2026-07-16T20:51:51Z",
-      "timestamp": 1784235111,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 10,
-        "reply_count": 6,
-        "like_count": 47,
-        "quote_count": 0,
-        "bookmark_count": 2,
-        "view_count": 4377
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/JZJ0JXDXk7",
-          "expanded_url": "https://www.nationalgeographic.com/travel/article/summer-road-trip-rhode-island",
-          "display_url": "nationalgeographic.com/travel/article…"
-        }
-      ],
-      "url": "https://x.com/SenWhitehouse/status/2077858776279814493"
-    },
-    {
-      "id": "2077858678296695139",
-      "handle": "senatorwarnock",
-      "username": "SenatorWarnock",
-      "displayName": null,
-      "ownerName": "Raphael G. Warnock",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/raphael-g-warnock",
-      "text": "I will vote NO on Attorney General nominee Todd Blanche. The President’s personal lawyer cannot also be the country’s lawyer.",
-      "createdAt": "2026-07-16T20:51:28Z",
-      "timestamp": 1784235088,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1601,
-        "reply_count": 1567,
-        "like_count": 20307,
-        "quote_count": 64,
-        "bookmark_count": 68,
-        "view_count": 204344
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenatorWarnock/status/2077858678296695139"
-    },
-    {
-      "id": "2077858612404219920",
-      "handle": "senwarren",
-      "username": "SenWarren",
-      "displayName": null,
-      "ownerName": "Elizabeth Warren",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/elizabeth-warren",
-      "text": "RT @SenOssoff: Sen. Ossoff: Tonight, Donald Trump, the world's most famous sore loser, will deliver a prime time presidential sour grapes a…",
-      "createdAt": "2026-07-16T20:51:12Z",
-      "timestamp": 1784235072,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 844,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2918
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenWarren/status/2077858612404219920"
-    },
-    {
-      "id": "2077858584470409707",
-      "handle": "rep_stevewomack",
-      "username": "Rep_SteveWomack",
-      "displayName": null,
-      "ownerName": "Steve Womack",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/steve-womack",
-      "text": "ICYMI: The city of Tontitown was awarded a $17.5 million BUILD grant to make major improvements to South Barrington Road! I was proud to help secure this transformational funding and am excited that @USDOT @SecDuffy recognizes the importance of this project to our region.\n\nRead",
-      "createdAt": "2026-07-16T20:51:05Z",
-      "timestamp": 1784235065,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 4,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 574
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/Rep_SteveWomack/status/2077858584470409707"
     }
   ],
   "notes": [
