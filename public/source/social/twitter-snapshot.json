@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T23:49:20.611560Z",
+  "generatedAt": "2026-08-15T01:10:25.519173Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-08-14T23:49:04.074Z",
+    "generatedAt": "2026-08-15T01:09:34.100Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56780,
+    "tweets": 56781,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-08-14T23:49:18.834158Z",
+  "lastCaptureAt": "2026-08-15T01:10:24.548542Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-14T23:49:18.834158Z",
+      "lastScrapedAt": "2026-08-15T01:09:49.262950Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4706,
@@ -31519,10 +31519,10 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-13T20:42:20.120985Z",
+      "lastScrapedAt": "2026-08-15T01:09:50.443243Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
-      "followersCount": 17952,
+      "followersCount": 17946,
       "followingCount": 393,
       "verified": true
     },
@@ -31944,10 +31944,10 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-13T20:42:33.799858Z",
+      "lastScrapedAt": "2026-08-15T01:10:06.508939Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 1079,
+      "followersCount": 1077,
       "followingCount": 173,
       "verified": false
     },
@@ -31961,10 +31961,10 @@
       "profileHref": "/country/usa/congress/cliff-bentz",
       "url": "https://x.com/RepBentz",
       "status": "captured",
-      "lastScrapedAt": "2026-08-13T20:42:34.955330Z",
+      "lastScrapedAt": "2026-08-15T01:10:07.638540Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2081742387362037760/305_mE0y_normal.jpg",
-      "followersCount": 10000,
+      "followersCount": 9998,
       "followingCount": 617,
       "verified": true
     },
@@ -32046,10 +32046,10 @@
       "profileHref": "/country/usa/congress/dale-w-strong",
       "url": "https://x.com/RepDaleStrong",
       "status": "captured",
-      "lastScrapedAt": "2026-08-13T20:42:52.040550Z",
+      "lastScrapedAt": "2026-08-15T01:10:24.548542Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 9939,
+      "followersCount": 9938,
       "followingCount": 531,
       "verified": false
     },
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-14T23:49:18.834158Z",
+      "lastScrapedAt": "2026-08-15T01:09:49.262950Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4706,
@@ -41772,10 +41772,10 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-13T20:42:20.120985Z",
+      "lastScrapedAt": "2026-08-15T01:09:50.443243Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
-      "followersCount": 17952,
+      "followersCount": 17946,
       "followingCount": 393,
       "verified": true
     },
@@ -42197,10 +42197,10 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-13T20:42:33.799858Z",
+      "lastScrapedAt": "2026-08-15T01:10:06.508939Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 1079,
+      "followersCount": 1077,
       "followingCount": 173,
       "verified": false
     },
@@ -42214,10 +42214,10 @@
       "profileHref": "/country/usa/congress/cliff-bentz",
       "url": "https://x.com/RepBentz",
       "status": "captured",
-      "lastScrapedAt": "2026-08-13T20:42:34.955330Z",
+      "lastScrapedAt": "2026-08-15T01:10:07.638540Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2081742387362037760/305_mE0y_normal.jpg",
-      "followersCount": 10000,
+      "followersCount": 9998,
       "followingCount": 617,
       "verified": true
     },
@@ -42299,10 +42299,10 @@
       "profileHref": "/country/usa/congress/dale-w-strong",
       "url": "https://x.com/RepDaleStrong",
       "status": "captured",
-      "lastScrapedAt": "2026-08-13T20:42:52.040550Z",
+      "lastScrapedAt": "2026-08-15T01:10:24.548542Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 9939,
+      "followersCount": 9938,
       "followingCount": 531,
       "verified": false
     },
@@ -48854,6 +48854,42 @@
   ],
   "tweets": [
     {
+      "id": "2088282248600510649",
+      "handle": "repdalestrong",
+      "username": "RepDaleStrong",
+      "displayName": null,
+      "ownerName": "Dale W. Strong",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/dale-w-strong",
+      "text": "I enjoyed visiting with @WashTimes to discuss North Alabama’s second-to-none workforce and why Huntsville is the premier national security hub of the United States. https://t.co/6X2EXp9oj2",
+      "createdAt": "2026-08-14T15:11:01Z",
+      "timestamp": 1786720261,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 298
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6X2EXp9oj2",
+          "expanded_url": "https://go.shr.lc/45nETyV",
+          "display_url": "go.shr.lc/45nETyV"
+        }
+      ],
+      "url": "https://x.com/RepDaleStrong/status/2088282248600510649"
+    },
+    {
       "id": "2085868356565950698",
       "handle": "repbentz",
       "username": "RepBentz",
@@ -48990,7 +49026,7 @@
         "like_count": 4,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 446
+        "view_count": 465
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49167,7 +49203,7 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 3,
+        "retweet_count": 4,
         "reply_count": 11,
         "like_count": 5,
         "quote_count": 0,
@@ -51826,7 +51862,7 @@
         "like_count": 6,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 596
+        "view_count": 605
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -53898,7 +53934,7 @@
       "tweetType": "tweet",
       "language": "en",
       "metrics": {
-        "retweet_count": 2,
+        "retweet_count": 3,
         "reply_count": 13,
         "like_count": 9,
         "quote_count": 0,
@@ -66992,7 +67028,7 @@
         "like_count": 45,
         "quote_count": 13,
         "bookmark_count": 12,
-        "view_count": 86331
+        "view_count": 86339
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122778,36 +122814,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepTeresaLF/status/2077861066047164883"
-    },
-    {
-      "id": "2077861047369699791",
-      "handle": "repangiecraig",
-      "username": "RepAngieCraig",
-      "displayName": null,
-      "ownerName": "Angie Craig",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/angie-craig",
-      "text": "President Trump’s DHS has now killed 6 people  — including 2 Minnesotans.\n\nWe cannot continue to allow masked agents to murder civilians in our streets. I’m pushing for oversight, accountability and a complete dismantling of this out-of-control agency.",
-      "createdAt": "2026-07-16T21:00:53Z",
-      "timestamp": 1784235653,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 8,
-        "reply_count": 67,
-        "like_count": 24,
-        "quote_count": 4,
-        "bookmark_count": 0,
-        "view_count": 6788
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepAngieCraig/status/2077861047369699791"
     }
   ],
   "notes": [
