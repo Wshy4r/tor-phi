@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T01:10:00.873376Z",
+  "generatedAt": "2026-08-20T02:39:30.762435Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-08-20T01:09:09.453Z",
+    "generatedAt": "2026-08-20T02:38:40.698Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56783,
+    "tweets": 56786,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-08-20T01:09:59.907179Z",
+  "lastCaptureAt": "2026-08-20T02:39:29.798171Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-20T01:09:25.068709Z",
+      "lastScrapedAt": "2026-08-20T02:38:58.398187Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4705,
@@ -31519,7 +31519,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-20T01:09:26.271530Z",
+      "lastScrapedAt": "2026-08-20T02:38:59.620718Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17947,
@@ -31944,7 +31944,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-20T01:09:42.788516Z",
+      "lastScrapedAt": "2026-08-20T02:39:14.322644Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1077,
@@ -32046,12 +32046,12 @@
       "profileHref": "/country/usa/congress/dale-w-strong",
       "url": "https://x.com/RepDaleStrong",
       "status": "captured",
-      "lastScrapedAt": "2026-08-20T01:09:59.907179Z",
+      "lastScrapedAt": "2026-08-20T02:39:15.429712Z",
       "lastError": null,
-      "profileImageUrl": null,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1882553468541403136/KCFs0gzD_normal.jpg",
       "followersCount": 9947,
       "followingCount": 530,
-      "verified": false
+      "verified": true
     },
     {
       "username": "RepDanCrenshaw",
@@ -32063,10 +32063,10 @@
       "profileHref": "/country/usa/congress/dan-crenshaw",
       "url": "https://x.com/RepDanCrenshaw",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:31:55.529579Z",
+      "lastScrapedAt": "2026-08-20T02:39:29.798171Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 646490,
+      "followersCount": 644415,
       "followingCount": 162,
       "verified": false
     },
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-20T01:09:25.068709Z",
+      "lastScrapedAt": "2026-08-20T02:38:58.398187Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4705,
@@ -41772,7 +41772,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-20T01:09:26.271530Z",
+      "lastScrapedAt": "2026-08-20T02:38:59.620718Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17947,
@@ -42197,7 +42197,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-20T01:09:42.788516Z",
+      "lastScrapedAt": "2026-08-20T02:39:14.322644Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1077,
@@ -42299,12 +42299,12 @@
       "profileHref": "/country/usa/congress/dale-w-strong",
       "url": "https://x.com/RepDaleStrong",
       "status": "captured",
-      "lastScrapedAt": "2026-08-20T01:09:59.907179Z",
+      "lastScrapedAt": "2026-08-20T02:39:15.429712Z",
       "lastError": null,
-      "profileImageUrl": null,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1882553468541403136/KCFs0gzD_normal.jpg",
       "followersCount": 9947,
       "followingCount": 530,
-      "verified": false
+      "verified": true
     },
     {
       "username": "RepDanCrenshaw",
@@ -42316,10 +42316,10 @@
       "profileHref": "/country/usa/congress/dan-crenshaw",
       "url": "https://x.com/RepDanCrenshaw",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:31:55.529579Z",
+      "lastScrapedAt": "2026-08-20T02:39:29.798171Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 646490,
+      "followersCount": 644415,
       "followingCount": 162,
       "verified": false
     },
@@ -48915,7 +48915,7 @@
       "id": "2088282248600510649",
       "handle": "repdalestrong",
       "username": "RepDaleStrong",
-      "displayName": null,
+      "displayName": "Dale W. Strong",
       "ownerName": "Dale W. Strong",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -48931,7 +48931,7 @@
         "like_count": 6,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 489
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49068,7 +49068,7 @@
       "id": "2084644489377763675",
       "handle": "repdalestrong",
       "username": "RepDaleStrong",
-      "displayName": null,
+      "displayName": "Dale W. Strong",
       "ownerName": "Dale W. Strong",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -49084,7 +49084,7 @@
         "like_count": 4,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 506
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -51904,7 +51904,7 @@
       "id": "2081808502318587969",
       "handle": "repdalestrong",
       "username": "RepDaleStrong",
-      "displayName": null,
+      "displayName": "Dale W. Strong",
       "ownerName": "Dale W. Strong",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -51920,7 +51920,7 @@
         "like_count": 6,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 632
+        "view_count": null
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -61082,7 +61082,7 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 131
+        "view_count": 132
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -64986,6 +64986,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepAngieCraig/status/2079721459451085066"
+    },
+    {
+      "id": "2079714963178819985",
+      "handle": "repdancrenshaw",
+      "username": "RepDanCrenshaw",
+      "displayName": null,
+      "ownerName": "Dan Crenshaw",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/dan-crenshaw",
+      "text": "Cartels like Jalisco Nueva Generación, or CJNG, are using drones to bomb entire towns. Yes, it has gotten that crazy.\n \nNot just for surveillance, smuggling drugs across the border, or assassinating public servants. They are dropping explosives on towns to drive people out and https://t.co/yHWOwN2ZY3",
+      "createdAt": "2026-07-21T23:47:41Z",
+      "timestamp": 1784677661,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 14,
+        "reply_count": 19,
+        "like_count": 30,
+        "quote_count": 1,
+        "bookmark_count": 3,
+        "view_count": 19834
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDanCrenshaw/status/2079714963178819985"
     },
     {
       "id": "2079714302328537480",
@@ -122786,34 +122816,6 @@
       ],
       "urls": [],
       "url": "https://x.com/RepJayapal/status/2077861355688738863"
-    },
-    {
-      "id": "2077861219168387228",
-      "handle": "repmarkalford",
-      "username": "RepMarkAlford",
-      "displayName": null,
-      "ownerName": "Mark Alford",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-alford",
-      "text": "Programs like ALOT are critical in developing the next generation of leaders who will keep MO-04 agriculture strong, innovative &amp; thriving.\n\nThank you for your dedication to advancing our agricultural heritage and supporting rural communities!",
-      "createdAt": "2026-07-16T21:01:34Z",
-      "timestamp": 1784235694,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 5,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 380
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMarkAlford/status/2077861219168387228"
     }
   ],
   "notes": [
