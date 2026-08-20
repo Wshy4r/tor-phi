@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:48:34.346267Z",
+  "generatedAt": "2026-08-20T01:10:00.873376Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-08-19T23:48:12.002Z",
+    "generatedAt": "2026-08-20T01:09:09.453Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56782,
+    "tweets": 56783,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-08-19T23:48:32.622238Z",
+  "lastCaptureAt": "2026-08-20T01:09:59.907179Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T23:48:32.622238Z",
+      "lastScrapedAt": "2026-08-20T01:09:25.068709Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4705,
@@ -31519,7 +31519,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T12:44:41.381870Z",
+      "lastScrapedAt": "2026-08-20T01:09:26.271530Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17947,
@@ -31944,10 +31944,10 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T12:44:55.118997Z",
+      "lastScrapedAt": "2026-08-20T01:09:42.788516Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 1078,
+      "followersCount": 1077,
       "followingCount": 173,
       "verified": false
     },
@@ -31961,10 +31961,10 @@
       "profileHref": "/country/usa/congress/cliff-bentz",
       "url": "https://x.com/RepBentz",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T12:44:56.247447Z",
+      "lastScrapedAt": "2026-08-20T01:09:44.034061Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2081742387362037760/305_mE0y_normal.jpg",
-      "followersCount": 10003,
+      "followersCount": 10006,
       "followingCount": 617,
       "verified": true
     },
@@ -32046,10 +32046,10 @@
       "profileHref": "/country/usa/congress/dale-w-strong",
       "url": "https://x.com/RepDaleStrong",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T12:45:11.000517Z",
+      "lastScrapedAt": "2026-08-20T01:09:59.907179Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 9950,
+      "followersCount": 9947,
       "followingCount": 530,
       "verified": false
     },
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T23:48:32.622238Z",
+      "lastScrapedAt": "2026-08-20T01:09:25.068709Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4705,
@@ -41772,7 +41772,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T12:44:41.381870Z",
+      "lastScrapedAt": "2026-08-20T01:09:26.271530Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17947,
@@ -42197,10 +42197,10 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T12:44:55.118997Z",
+      "lastScrapedAt": "2026-08-20T01:09:42.788516Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 1078,
+      "followersCount": 1077,
       "followingCount": 173,
       "verified": false
     },
@@ -42214,10 +42214,10 @@
       "profileHref": "/country/usa/congress/cliff-bentz",
       "url": "https://x.com/RepBentz",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T12:44:56.247447Z",
+      "lastScrapedAt": "2026-08-20T01:09:44.034061Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2081742387362037760/305_mE0y_normal.jpg",
-      "followersCount": 10003,
+      "followersCount": 10006,
       "followingCount": 617,
       "verified": true
     },
@@ -42299,10 +42299,10 @@
       "profileHref": "/country/usa/congress/dale-w-strong",
       "url": "https://x.com/RepDaleStrong",
       "status": "captured",
-      "lastScrapedAt": "2026-08-19T12:45:11.000517Z",
+      "lastScrapedAt": "2026-08-20T01:09:59.907179Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 9950,
+      "followersCount": 9947,
       "followingCount": 530,
       "verified": false
     },
@@ -48854,6 +48854,34 @@
   ],
   "tweets": [
     {
+      "id": "2090130654730035691",
+      "handle": "repbentz",
+      "username": "RepBentz",
+      "displayName": "Congressman Cliff Bentz",
+      "ownerName": "Cliff Bentz",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cliff-bentz",
+      "text": "It’s always great to stop by KMED’s studio with Bill Meyer. We had an excellent discussion on the Fix Our Forest Act (which has passed the House), my Fire Townhalls across the district, and my meetings across southern Oregon. https://t.co/CRZvBJm07y",
+      "createdAt": "2026-08-19T17:35:55Z",
+      "timestamp": 1787160955,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepBentz/status/2090130654730035691"
+    },
+    {
       "id": "2089781165225812263",
       "handle": "repbentz",
       "username": "RepBentz",
@@ -48869,8 +48897,8 @@
       "language": "en",
       "metrics": {
         "retweet_count": 1,
-        "reply_count": 2,
-        "like_count": 6,
+        "reply_count": 3,
+        "like_count": 8,
         "quote_count": 0,
         "bookmark_count": 0,
         "view_count": null
@@ -48903,7 +48931,7 @@
         "like_count": 6,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 475
+        "view_count": 489
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48936,7 +48964,7 @@
       "metrics": {
         "retweet_count": 6,
         "reply_count": 2,
-        "like_count": 11,
+        "like_count": 12,
         "quote_count": 1,
         "bookmark_count": 0,
         "view_count": null
@@ -49056,7 +49084,7 @@
         "like_count": 4,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 503
+        "view_count": 506
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49235,7 +49263,7 @@
       "metrics": {
         "retweet_count": 4,
         "reply_count": 11,
-        "like_count": 5,
+        "like_count": 6,
         "quote_count": 0,
         "bookmark_count": 0,
         "view_count": null
@@ -51892,7 +51920,7 @@
         "like_count": 6,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 631
+        "view_count": 632
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -61054,7 +61082,7 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 129
+        "view_count": 131
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -67058,7 +67086,7 @@
         "like_count": 45,
         "quote_count": 13,
         "bookmark_count": 12,
-        "view_count": 86373
+        "view_count": 86376
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -102894,7 +102922,7 @@
         "like_count": 5,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 109
+        "view_count": 110
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122786,36 +122814,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepMarkAlford/status/2077861219168387228"
-    },
-    {
-      "id": "2077861215221547023",
-      "handle": "repmarkalford",
-      "username": "RepMarkAlford",
-      "displayName": null,
-      "ownerName": "Mark Alford",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-alford",
-      "text": "Great meeting with the Missouri ALOT (Agricultural Leadership of Tomorrow) class to discuss the future of agriculture and rural communities. 🌾 https://t.co/sAyO12XoOh",
-      "createdAt": "2026-07-16T21:01:33Z",
-      "timestamp": 1784235693,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7,
-        "reply_count": 9,
-        "like_count": 45,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 6450
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMarkAlford/status/2077861215221547023"
     }
   ],
   "notes": [
