@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T18:18:17.389509Z",
+  "generatedAt": "2026-08-26T20:35:30.656716Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-08-26T18:17:57.331Z",
+    "generatedAt": "2026-08-26T20:34:37.618Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56786,
+    "tweets": 56787,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-08-26T18:18:15.623352Z",
+  "lastCaptureAt": "2026-08-26T20:35:29.887189Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,10 +30975,10 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T18:18:15.623352Z",
+      "lastScrapedAt": "2026-08-26T20:34:58.009808Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 4707,
+      "followersCount": 4708,
       "followingCount": 187,
       "verified": false
     },
@@ -31519,7 +31519,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T12:00:04.372426Z",
+      "lastScrapedAt": "2026-08-26T20:34:59.255692Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17937,
@@ -31944,7 +31944,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T12:00:20.590898Z",
+      "lastScrapedAt": "2026-08-26T20:35:12.762499Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1079,
@@ -32046,7 +32046,7 @@
       "profileHref": "/country/usa/congress/dale-w-strong",
       "url": "https://x.com/RepDaleStrong",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T11:30:21.933661Z",
+      "lastScrapedAt": "2026-08-26T20:35:14.293362Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1882553468541403136/KCFs0gzD_normal.jpg",
       "followersCount": 9957,
@@ -32063,10 +32063,10 @@
       "profileHref": "/country/usa/congress/dan-crenshaw",
       "url": "https://x.com/RepDanCrenshaw",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T11:30:35.409524Z",
+      "lastScrapedAt": "2026-08-26T20:35:29.887189Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 644094,
+      "followersCount": 644073,
       "followingCount": 162,
       "verified": false
     },
@@ -41228,10 +41228,10 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T18:18:15.623352Z",
+      "lastScrapedAt": "2026-08-26T20:34:58.009808Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 4707,
+      "followersCount": 4708,
       "followingCount": 187,
       "verified": false
     },
@@ -41772,7 +41772,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T12:00:04.372426Z",
+      "lastScrapedAt": "2026-08-26T20:34:59.255692Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17937,
@@ -42197,7 +42197,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T12:00:20.590898Z",
+      "lastScrapedAt": "2026-08-26T20:35:12.762499Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1079,
@@ -42299,7 +42299,7 @@
       "profileHref": "/country/usa/congress/dale-w-strong",
       "url": "https://x.com/RepDaleStrong",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T11:30:21.933661Z",
+      "lastScrapedAt": "2026-08-26T20:35:14.293362Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1882553468541403136/KCFs0gzD_normal.jpg",
       "followersCount": 9957,
@@ -42316,10 +42316,10 @@
       "profileHref": "/country/usa/congress/dan-crenshaw",
       "url": "https://x.com/RepDanCrenshaw",
       "status": "captured",
-      "lastScrapedAt": "2026-08-26T11:30:35.409524Z",
+      "lastScrapedAt": "2026-08-26T20:35:29.887189Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 644094,
+      "followersCount": 644073,
       "followingCount": 162,
       "verified": false
     },
@@ -48853,6 +48853,34 @@
     }
   ],
   "tweets": [
+    {
+      "id": "2092607486058532994",
+      "handle": "repfields",
+      "username": "repfields",
+      "displayName": null,
+      "ownerName": "Cleo Fields",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cleo-fields",
+      "text": "This Friday, I’m heading back into the classroom! 📚\n\nCongress to the Classroom continues in West Baton Rouge Parish on August 28. I’m looking forward to visiting with students, answering their questions, and talking with them about public service and the work we do in Congress.",
+      "createdAt": "2026-08-26T13:37:58Z",
+      "timestamp": 1787751478,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 404
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/repfields/status/2092607486058532994"
+    },
     {
       "id": "2090130654730035691",
       "handle": "repbentz",
@@ -65007,7 +65035,7 @@
         "like_count": 30,
         "quote_count": 1,
         "bookmark_count": 3,
-        "view_count": 19917
+        "view_count": 19925
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -67116,7 +67144,7 @@
         "like_count": 45,
         "quote_count": 13,
         "bookmark_count": 12,
-        "view_count": 86401
+        "view_count": 86411
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122786,36 +122814,6 @@
       ],
       "urls": [],
       "url": "https://x.com/BennieGThompson/status/2077861389377401289"
-    },
-    {
-      "id": "2077861355688738863",
-      "handle": "repjayapal",
-      "username": "RepJayapal",
-      "displayName": null,
-      "ownerName": "Pramila Jayapal",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/pramila-jayapal",
-      "text": "RT @RepGregStanton: In the last 9 days, multiple people have died unnecessarily at the hands of ICE. The American people are right to be ou…",
-      "createdAt": "2026-07-16T21:02:06Z",
-      "timestamp": 1784235726,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 43,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 416
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepJayapal/status/2077861355688738863"
     }
   ],
   "notes": [
