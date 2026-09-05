@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:00:44.664825Z",
+  "generatedAt": "2026-09-05T23:45:18.658715Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-09-05T22:00:26.641Z",
+    "generatedAt": "2026-09-05T23:44:26.127Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 56953,
+    "tweets": 56965,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-09-05T22:00:42.851644Z",
+  "lastCaptureAt": "2026-09-05T23:45:17.797418Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-05T22:00:42.851644Z",
+      "lastScrapedAt": "2026-09-05T23:44:41.969990Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4706,
@@ -31519,7 +31519,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-09-05T15:49:20.910843Z",
+      "lastScrapedAt": "2026-09-05T23:44:43.166468Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17934,
@@ -31944,7 +31944,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-09-05T15:49:37.904371Z",
+      "lastScrapedAt": "2026-09-05T23:45:01.691353Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1086,
@@ -32063,10 +32063,10 @@
       "profileHref": "/country/usa/congress/dan-crenshaw",
       "url": "https://x.com/RepDanCrenshaw",
       "status": "captured",
-      "lastScrapedAt": "2026-09-05T15:49:39.066027Z",
+      "lastScrapedAt": "2026-09-05T23:45:02.795725Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1873863073179607040/edHSYXJi_normal.jpg",
-      "followersCount": 643348,
+      "followersCount": 643316,
       "followingCount": 162,
       "verified": true
     },
@@ -32148,10 +32148,10 @@
       "profileHref": "/country/usa/congress/daniel-webster",
       "url": "https://x.com/RepWebster",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:33:24.617704Z",
+      "lastScrapedAt": "2026-09-05T23:45:17.797418Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 32193,
+      "followersCount": 32161,
       "followingCount": 348,
       "verified": false
     },
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-05T22:00:42.851644Z",
+      "lastScrapedAt": "2026-09-05T23:44:41.969990Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4706,
@@ -41772,7 +41772,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-09-05T15:49:20.910843Z",
+      "lastScrapedAt": "2026-09-05T23:44:43.166468Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17934,
@@ -42197,7 +42197,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-09-05T15:49:37.904371Z",
+      "lastScrapedAt": "2026-09-05T23:45:01.691353Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1086,
@@ -42316,10 +42316,10 @@
       "profileHref": "/country/usa/congress/dan-crenshaw",
       "url": "https://x.com/RepDanCrenshaw",
       "status": "captured",
-      "lastScrapedAt": "2026-09-05T15:49:39.066027Z",
+      "lastScrapedAt": "2026-09-05T23:45:02.795725Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1873863073179607040/edHSYXJi_normal.jpg",
-      "followersCount": 643348,
+      "followersCount": 643316,
       "followingCount": 162,
       "verified": true
     },
@@ -42401,10 +42401,10 @@
       "profileHref": "/country/usa/congress/daniel-webster",
       "url": "https://x.com/RepWebster",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:33:24.617704Z",
+      "lastScrapedAt": "2026-09-05T23:45:17.797418Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 32193,
+      "followersCount": 32161,
       "followingCount": 348,
       "verified": false
     },
@@ -48873,7 +48873,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 113
+        "view_count": 119
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -48996,6 +48996,34 @@
       "url": "https://x.com/RepMeuser/status/2095855654413967671"
     },
     {
+      "id": "2095534796550115413",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "Critical minerals are essential to America’s future, yet for too long leftist demands and liberal bureaucrats have caused permitting delays that left us dependent on foreign adversaries like China for the resources that power our economy, strengthen our military, and fuel https://t.co/OQWTlIoS3o",
+      "createdAt": "2026-09-03T15:30:03Z",
+      "timestamp": 1788449403,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 424
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2095534796550115413"
+    },
+    {
       "id": "2095266401887907933",
       "handle": "repdangoldman",
       "username": "RepDanGoldman",
@@ -49110,6 +49138,34 @@
       "url": "https://x.com/RepDanGoldman/status/2095195849613598745"
     },
     {
+      "id": "2095143274096820436",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "81 years ago today, World War II came to an end as Japan’s unconditional surrender was signed on the USS Missouri.  Today, we remember the more than 16 million Americans who served during World War II and honor those who gave their lives defending our way of life and defeating https://t.co/qFsGhJLXpP",
+      "createdAt": "2026-09-02T13:34:17Z",
+      "timestamp": 1788356057,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 256
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2095143274096820436"
+    },
+    {
       "id": "2094960956728025561",
       "handle": "sendansullivan",
       "username": "SenDanSullivan",
@@ -49142,6 +49198,37 @@
       "url": "https://x.com/SenDanSullivan/status/2094960956728025561"
     },
     {
+      "id": "2094907169648844809",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "Today, I voted to condemn socialism in all its forms.\n\nThroughout history, socialist regimes have concentrated government power at the expense of individual liberty. The United States was founded on a different premise, that our rights come from God, not the government.\n\nWhile",
+      "createdAt": "2026-09-01T21:56:05Z",
+      "timestamp": 1788299765,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 6,
+        "reply_count": 2,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 676
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Critical / hostile language"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2094907169648844809"
+    },
+    {
       "id": "2094887014709473566",
       "handle": "repfields",
       "username": "repfields",
@@ -49161,7 +49248,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 117
+        "view_count": 118
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50112,6 +50199,34 @@
       "url": "https://x.com/RepMeuser/status/2090013611028512975"
     },
     {
+      "id": "2089861839173628016",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "RT @FloridaGOP: Congratulations to @WiltonSimpson on securing the Republican Nomination for re-election as Commissioner of Agriculture! 🇺🇸…",
+      "createdAt": "2026-08-18T23:47:44Z",
+      "timestamp": 1787096864,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 27,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 41
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2089861839173628016"
+    },
+    {
       "id": "2089818003223523728",
       "handle": "repdangoldman",
       "username": "RepDanGoldman",
@@ -50693,6 +50808,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepMeuser/status/2087594919791677632"
+    },
+    {
+      "id": "2087555824545628171",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "Thank you to the cities of Groveland and Mascotte for this special recognition. I ran for office because I wanted to change public policy and protect our freedoms and values. It has been an honor and privilege to serve the people of Central Florida. To have been part of the",
+      "createdAt": "2026-08-12T15:04:28Z",
+      "timestamp": 1786547068,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 430
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2087555824545628171"
     },
     {
       "id": "2087333562466828561",
@@ -51948,6 +52091,36 @@
       "url": "https://x.com/SenBooker/status/2084665905665937415"
     },
     {
+      "id": "2084658132198789550",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "Today we celebrate 236 years of the United States Coast Guard and the brave men and women who serve to protect our nation’s shores, waterways, and maritime interests. Whether responding to disasters, saving lives at sea, or defending our maritime borders, they answer the call to",
+      "createdAt": "2026-08-04T15:10:04Z",
+      "timestamp": 1785856204,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 1000
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2084658132198789550"
+    },
+    {
       "id": "2084651509631910281",
       "handle": "repnewhouse",
       "username": "RepNewhouse",
@@ -52486,6 +52659,36 @@
         }
       ],
       "url": "https://x.com/RepAndyHarrisMD/status/2083265492538581045"
+    },
+    {
+      "id": "2083258563942568428",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "President @realDonaldTrump and @SecDuffy's plan to renovate Washington Dulles International Airport is a great example of how we can rebuild America's infrastructure without asking Americans to shoulder the burden.\n\nI have legislation that establishes the Federal Infrastructure",
+      "createdAt": "2026-07-31T18:28:41Z",
+      "timestamp": 1785522521,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 546
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2083258563942568428"
     },
     {
       "id": "2083258566337855964",
@@ -53745,6 +53948,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepCDMenefee/status/2082532395979256266"
+    },
+    {
+      "id": "2082519730099790061",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "For 68 years, @NASA has inspired Americans to pursue what once seemed impossible. From Mercury, Gemini, and Apollo to Artemis, NASA and Florida share a rich history. As a member of @housescience, I’m committed to ensuring America remains the world's leader in space exploration. https://t.co/9h3D0v8zsI",
+      "createdAt": "2026-07-29T17:32:49Z",
+      "timestamp": 1785346369,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 632
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2082519730099790061"
     },
     {
       "id": "2082511743738085579",
@@ -55551,6 +55782,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepChipRoy/status/2081829241474216048"
+    },
+    {
+      "id": "2081826632114065710",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "Today, on National Korean War Veterans Armistice Day, we honor the brave Americans who served in the Korean War. Though too often referred to as the “Forgotten War”, we must never forget the men and women who answered our nation’s call, nor forget those who made the ultimate https://t.co/znlixnToam",
+      "createdAt": "2026-07-27T19:38:42Z",
+      "timestamp": 1785181122,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 319
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2081826632114065710"
     },
     {
       "id": "2081808502318587969",
@@ -64893,6 +65154,34 @@
       "url": "https://x.com/RepNewhouse/status/2080038392209838166"
     },
     {
+      "id": "2080038291748118850",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "I cosponsored and voted to pass the Stop Insider Trading Act, as Americans expect their representatives to serve them and not themselves. I ran for congress to serve as representative for the people in my district, not to use my seat to position myself for financial gain. Every",
+      "createdAt": "2026-07-22T21:12:28Z",
+      "timestamp": 1784754748,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1006
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2080038291748118850"
+    },
+    {
       "id": "2080037977200161012",
       "handle": "repnewhouse",
       "username": "RepNewhouse",
@@ -65357,7 +65646,7 @@
       "language": "en",
       "metrics": {
         "retweet_count": 0,
-        "reply_count": 5,
+        "reply_count": 6,
         "like_count": 4,
         "quote_count": 0,
         "bookmark_count": 0,
@@ -65520,6 +65809,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepBryanSteil/status/2080032203937828866"
+    },
+    {
+      "id": "2080032072425419028",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "I just voted to pass the FY27 National Defense Authorization Act to strengthen America’s military, support our servicemembers, and restore military readiness.\n\nThis legislation fulfills Congress’s constitutional responsibility to provide for the common defense by investing our https://t.co/8DXz0z01PL",
+      "createdAt": "2026-07-22T20:47:45Z",
+      "timestamp": 1784753265,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 23,
+        "like_count": 6,
+        "quote_count": 1,
+        "bookmark_count": 2,
+        "view_count": 705
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2080032072425419028"
     },
     {
       "id": "2080031798315102319",
@@ -84346,6 +84665,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepGregStanton/status/2078224064187879880"
+    },
+    {
+      "id": "2078223776450253235",
+      "handle": "repwebster",
+      "username": "RepWebster",
+      "displayName": null,
+      "ownerName": "Daniel Webster",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/daniel-webster",
+      "text": "For years, I have fought to end unnecessary regulations that forced Florida’s citrus growers to rely on foreign imports and dilute otherwise pure, high-quality fresh orange juice.\n\nThanks to @POTUS and @SecKennedy, this decision puts Florida’s farmers first and ensures they can",
+      "createdAt": "2026-07-17T21:02:14Z",
+      "timestamp": 1784322134,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 737
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepWebster/status/2078223776450253235"
     },
     {
       "id": "2078223753738174710",
@@ -122391,360 +122738,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepRitchie/status/2077894007586226360"
-    },
-    {
-      "id": "2077893712852537555",
-      "handle": "repjimmygomez",
-      "username": "RepJimmyGomez",
-      "displayName": null,
-      "ownerName": "Jimmy Gomez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jimmy-gomez",
-      "text": "My team and I have seen reports of a brush fire in Eagle Rock. My office has reached out to @LAFD and urge those in the area to follow official guidance. Thank you to the firefighters and first responders working to keep our community safe.",
-      "createdAt": "2026-07-16T23:10:41Z",
-      "timestamp": 1784243441,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 6,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1184
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepJimmyGomez/status/2077893712852537555"
-    },
-    {
-      "id": "2077893694762729902",
-      "handle": "johncornyn",
-      "username": "JohnCornyn",
-      "displayName": null,
-      "ownerName": "John Cornyn",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/john-cornyn",
-      "text": "RT @NWSSanAntonio: 10:30 AM: Showers and thunderstorms continue across a large area west of San Antonio and Austin, with numerous flash flo…",
-      "createdAt": "2026-07-16T23:10:36Z",
-      "timestamp": 1784243436,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 12,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 638
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/JohnCornyn/status/2077893694762729902"
-    },
-    {
-      "id": "2077893670880088146",
-      "handle": "repmoulton",
-      "username": "RepMoulton",
-      "displayName": null,
-      "ownerName": "Seth Moulton",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/seth-moulton",
-      "text": "Either through direction or disregard, Donald Trump has told his sons, advisors, and employees that the Presidency is a monetizable asset. \n\nThe President and the people around him who feel emboldened to steal from the American people should know that the music will stop and",
-      "createdAt": "2026-07-16T23:10:31Z",
-      "timestamp": 1784243431,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 4,
-        "like_count": 18,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 1118
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMoulton/status/2077893670880088146"
-    },
-    {
-      "id": "2077893655625674768",
-      "handle": "repsalinas",
-      "username": "repsalinas",
-      "displayName": null,
-      "ownerName": "Andrea Salinas",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/andrea-salinas",
-      "text": "We must restore funding for SNAP.\n\nNo child, veteran, or senior should go hungry because Congress chose tax breaks for billionaires over food for families. https://t.co/PAghuQKh54",
-      "createdAt": "2026-07-16T23:10:27Z",
-      "timestamp": 1784243427,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 39,
-        "like_count": 14,
-        "quote_count": 1,
-        "bookmark_count": 1,
-        "view_count": 647
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repsalinas/status/2077893655625674768"
-    },
-    {
-      "id": "2077893601707610585",
-      "handle": "congressmanraja",
-      "username": "CongressmanRaja",
-      "displayName": null,
-      "ownerName": "Raja Krishnamoorthi",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/raja-krishnamoorthi",
-      "text": "Instead of addressing rising costs or his war in Iran, President Trump is trying to rewrite the history of the 2020 election by politicizing intelligence. He's once again trying to convince Americans he won an election he lost—and using that lie to legitimize an unprecedented https://t.co/YGXliiHUhz",
-      "createdAt": "2026-07-16T23:10:14Z",
-      "timestamp": 1784243414,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 19,
-        "reply_count": 8,
-        "like_count": 36,
-        "quote_count": 1,
-        "bookmark_count": 2,
-        "view_count": 1564
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/CongressmanRaja/status/2077893601707610585"
-    },
-    {
-      "id": "2077893130297159680",
-      "handle": "replangworthy",
-      "username": "RepLangworthy",
-      "displayName": null,
-      "ownerName": "Nicholas A. Langworthy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nicholas-a-langworthy",
-      "text": "Truth!",
-      "createdAt": "2026-07-16T23:08:22Z",
-      "timestamp": 1784243302,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 15,
-        "reply_count": 57,
-        "like_count": 72,
-        "quote_count": 2,
-        "bookmark_count": 5,
-        "view_count": 24119
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepLangworthy/status/2077893130297159680"
-    },
-    {
-      "id": "2077892886889484420",
-      "handle": "replauragillen",
-      "username": "RepLauraGillen",
-      "displayName": null,
-      "ownerName": "Laura Gillen",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/laura-gillen",
-      "text": "Today, on the anniversary of the Apollo 11 space mission launch, we reflect on the groundbreaking mission that began our journey to the moon and beyond. \n\nIts legacy continues today as we build on that spirit of exploration and push farther than ever before through the Artemis",
-      "createdAt": "2026-07-16T23:07:24Z",
-      "timestamp": 1784243244,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 8,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1078
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepLauraGillen/status/2077892886889484420"
-    },
-    {
-      "id": "2077891780104658954",
-      "handle": "repgregsteube",
-      "username": "RepGregSteube",
-      "displayName": null,
-      "ownerName": "W. Gregory Steube",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/w-gregory-steube",
-      "text": "Foreign aid cannot go to terrorists! My amendment passed, which means NO AMERICAN DOLLARS are going to Nigeria. \n\nThank you, @DailySignal, for the coverage. \n\nhttps://t.co/yCT4LqVMnc",
-      "createdAt": "2026-07-16T23:03:00Z",
-      "timestamp": 1784242980,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1836,
-        "reply_count": 715,
-        "like_count": 5415,
-        "quote_count": 178,
-        "bookmark_count": 141,
-        "view_count": 173511
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Humanitarian / minority protection"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/yCT4LqVMnc",
-          "expanded_url": "https://www.dailysignal.com/2026/07/16/house-ends-taxpayer-funded-aid-to-nigeria-over-christian-genocide/",
-          "display_url": "dailysignal.com/2026/07/16/hou…"
-        }
-      ],
-      "url": "https://x.com/RepGregSteube/status/2077891780104658954"
-    },
-    {
-      "id": "2077891033963303092",
-      "handle": "repgonzalez",
-      "username": "RepGonzalez",
-      "displayName": null,
-      "ownerName": "Vicente Gonzalez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/vicente-gonzalez",
-      "text": "Every nation has a right to enforce its immigration laws, but there is a clear line between enforcing the law and using unnecessary force or tactics that put lives at risk.\n\nReports of deaths, beatings, and other abusive behaviors must be taken seriously and receive thorough, https://t.co/mfuSkFbtly",
-      "createdAt": "2026-07-16T23:00:02Z",
-      "timestamp": 1784242802,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 8,
-        "like_count": 10,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 490
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepGonzalez/status/2077891033963303092"
-    },
-    {
-      "id": "2077891027374153774",
-      "handle": "repstutzman",
-      "username": "RepStutzman",
-      "displayName": null,
-      "ownerName": "Marlin A. Stutzman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/marlin-a-stutzman",
-      "text": "The first step to getting the SAVE and Protect America Act to Trump’s desk was completed today as @HouseBudgetGOP passed the reconciliation 3.0 framework through committee this afternoon.\n\nSecure our elections. Fund our military. Stabilize our food security.\n\nLooking forward to",
-      "createdAt": "2026-07-16T23:00:00Z",
-      "timestamp": 1784242800,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 2,
-        "like_count": 12,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 964
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepStutzman/status/2077891027374153774"
-    },
-    {
-      "id": "2077890882271957033",
-      "handle": "repbethvanduyne",
-      "username": "RepBethVanDuyne",
-      "displayName": null,
-      "ownerName": "Beth Van Duyne",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/beth-van-duyne",
-      "text": "Since launching in 2021, over 100,000 North Texans have been connected with regional employment opportunities. \n\nThis year is no different, we have over 550 employers and organizations registered to recruit for over 30,000 positions across North Texas!\n\nLearn more and register https://t.co/Jku1EvaBV8",
-      "createdAt": "2026-07-16T22:59:26Z",
-      "timestamp": 1784242766,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 2,
-        "like_count": 30,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 868
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBethVanDuyne/status/2077890882271957033"
-    },
-    {
-      "id": "2077890720006918584",
-      "handle": "repmikequigley",
-      "username": "RepMikeQuigley",
-      "displayName": null,
-      "ownerName": "Mike Quigley",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mike-quigley",
-      "text": "ICE just killed two people in cold blood, and Tom Homan is saying “there will be more bloodshed.”\n \nProud to join @RepJayapal in this effort to stop the chaos and hold these agents accountable.",
-      "createdAt": "2026-07-16T22:58:47Z",
-      "timestamp": 1784242727,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 12,
-        "reply_count": 31,
-        "like_count": 51,
-        "quote_count": 2,
-        "bookmark_count": 2,
-        "view_count": 4728
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMikeQuigley/status/2077890720006918584"
     }
   ],
   "notes": [
