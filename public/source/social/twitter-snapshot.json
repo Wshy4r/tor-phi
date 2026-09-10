@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:28:56.111444Z",
+  "generatedAt": "2026-09-10T22:46:36.640501Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-09-10T20:28:38.433Z",
+    "generatedAt": "2026-09-10T22:45:43.050Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 57284,
+    "tweets": 57334,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-09-10T20:28:54.248013Z",
+  "lastCaptureAt": "2026-09-10T22:46:35.681928Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T20:28:54.248013Z",
+      "lastScrapedAt": "2026-09-10T22:46:00.958710Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4706,
@@ -31519,7 +31519,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T14:11:48.271406Z",
+      "lastScrapedAt": "2026-09-10T22:46:02.159533Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17923,
@@ -31944,7 +31944,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T14:12:04.093722Z",
+      "lastScrapedAt": "2026-09-10T22:46:17.763928Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1089,
@@ -32063,10 +32063,10 @@
       "profileHref": "/country/usa/congress/dan-crenshaw",
       "url": "https://x.com/RepDanCrenshaw",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T14:12:05.350072Z",
+      "lastScrapedAt": "2026-09-10T22:46:18.888159Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1873863073179607040/edHSYXJi_normal.jpg",
-      "followersCount": 643032,
+      "followersCount": 643000,
       "followingCount": 162,
       "verified": true
     },
@@ -32318,11 +32318,11 @@
       "profileHref": "/country/usa/congress/david-p-joyce",
       "url": "https://x.com/RepDaveJoyce",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:47:45.638406Z",
+      "lastScrapedAt": "2026-09-10T22:46:35.681928Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 28817,
-      "followingCount": 2591,
+      "followersCount": 28802,
+      "followingCount": 2592,
       "verified": false
     },
     {
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T20:28:54.248013Z",
+      "lastScrapedAt": "2026-09-10T22:46:00.958710Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4706,
@@ -41772,7 +41772,7 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T14:11:48.271406Z",
+      "lastScrapedAt": "2026-09-10T22:46:02.159533Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
       "followersCount": 17923,
@@ -42197,7 +42197,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T14:12:04.093722Z",
+      "lastScrapedAt": "2026-09-10T22:46:17.763928Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1089,
@@ -42316,10 +42316,10 @@
       "profileHref": "/country/usa/congress/dan-crenshaw",
       "url": "https://x.com/RepDanCrenshaw",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T14:12:05.350072Z",
+      "lastScrapedAt": "2026-09-10T22:46:18.888159Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1873863073179607040/edHSYXJi_normal.jpg",
-      "followersCount": 643032,
+      "followersCount": 643000,
       "followingCount": 162,
       "verified": true
     },
@@ -42571,11 +42571,11 @@
       "profileHref": "/country/usa/congress/david-p-joyce",
       "url": "https://x.com/RepDaveJoyce",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T20:47:45.638406Z",
+      "lastScrapedAt": "2026-09-10T22:46:35.681928Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 28817,
-      "followingCount": 2591,
+      "followersCount": 28802,
+      "followingCount": 2592,
       "verified": false
     },
     {
@@ -48854,6 +48854,34 @@
   ],
   "tweets": [
     {
+      "id": "2098099494365643085",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "On this day 213 years ago, one of the most important victories of the War of 1812 took place on Lake Erie. During the battle, the U.S. Navy secured control of the lake, which shifted the momentum of the war and helped secure the Northwest Territory for the United States. https://t.co/DtqKmmnstF",
+      "createdAt": "2026-09-10T17:21:14Z",
+      "timestamp": 1789060874,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 400
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2098099494365643085"
+    },
+    {
       "id": "2097787374390345783",
       "handle": "repdavetaylor",
       "username": "RepDaveTaylor",
@@ -48882,6 +48910,42 @@
       "url": "https://x.com/RepDaveTaylor/status/2097787374390345783"
     },
     {
+      "id": "2097783938752061447",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "I believe that every Ohioan deserves access to quality, affordable healthcare that is close to home. Thank you to the Trump administration and to @CMSGov for supporting this investment, expanding pharmacy connectivity throughout rural Ohio communities: https://t.co/BE2JhcelvM",
+      "createdAt": "2026-09-09T20:27:20Z",
+      "timestamp": 1788985640,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 563
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BE2JhcelvM",
+          "expanded_url": "https://www.cleveland.com/news/2026/09/ohio-gets-315m-from-feds-to-fight-drug-fraud-and-improve-rural-pharmacy-care.html",
+          "display_url": "cleveland.com/news/2026/09/o…"
+        }
+      ],
+      "url": "https://x.com/RepDaveJoyce/status/2097783938752061447"
+    },
+    {
       "id": "2097410625043382592",
       "handle": "repdavetaylor",
       "username": "RepDaveTaylor",
@@ -48908,6 +48972,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDaveTaylor/status/2097410625043382592"
+    },
+    {
+      "id": "2097391620010201597",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "On Friday I joined the Concord Township Fire Department as they broke ground on the new Fire Station No. 2. I was proud to help secure $3.75 million in community project funding for this project, giving first responders the resources they need to safely and effectively serve https://t.co/AllYClZLId",
+      "createdAt": "2026-09-08T18:28:24Z",
+      "timestamp": 1788892104,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 799
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2097391620010201597"
     },
     {
       "id": "2097330716157575581",
@@ -48964,6 +49056,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDaveTaylor/status/2097112012035907652"
+    },
+    {
+      "id": "2096992078207033636",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Happy Labor Day to the hardworking men and women of Northeast Ohio. Today, we recognize the workers who have built our country, strengthened our economy, and moved our nation forward. https://t.co/KT4pildEtS",
+      "createdAt": "2026-09-07T16:00:46Z",
+      "timestamp": 1788796846,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 501
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2096992078207033636"
     },
     {
       "id": "2096969407868125266",
@@ -49023,6 +49145,37 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDaveTaylor/status/2096923938727104959"
+    },
+    {
+      "id": "2096749427025133705",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "I was deeply disturbed to hear about the attack on Dr. Amy Acton earlier today. Political violence has no place in Ohio or anywhere in our country.\n\nI am grateful to the law enforcement officers who responded quickly, and I am praying for the recovery of those who were injured.",
+      "createdAt": "2026-09-06T23:56:33Z",
+      "timestamp": 1788738993,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 81,
+        "like_count": 24,
+        "quote_count": 3,
+        "bookmark_count": 0,
+        "view_count": 2764
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection",
+        "Critical / hostile language"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2096749427025133705"
     },
     {
       "id": "2096738657470153210",
@@ -49301,7 +49454,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 142
+        "view_count": 145
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -49394,6 +49547,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDaveTaylor/status/2095970637001187432"
+    },
+    {
+      "id": "2095968623835984217",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "The Great Lakes are an invaluable natural resource, and we have a responsibility to protect them. As Co-Chair of the Great Lakes Task Force, I will continue working to keep invasive species out and make sure the Brandon Road Interbasin Project moves forward. Read my full",
+      "createdAt": "2026-09-04T20:13:55Z",
+      "timestamp": 1788552835,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 689
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2095968623835984217"
     },
     {
       "id": "2095936819460215188",
@@ -50219,6 +50400,34 @@
       "url": "https://x.com/RepDaveTaylor/status/2095178774853607756"
     },
     {
+      "id": "2095163066333774222",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Thank you to everyone who joined me yesterday for my Telephone Town Hall! I appreciate opportunities like these to provide updates on my work in Washington and talk directly with constituents about the issues impacting Northeast Ohio.\n\nFor more frequent updates, sign up for my https://t.co/7bBcwGkKht",
+      "createdAt": "2026-09-02T14:52:55Z",
+      "timestamp": 1788360775,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 8,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 735
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2095163066333774222"
+    },
+    {
       "id": "2095159072358035891",
       "handle": "repdarrensoto",
       "username": "RepDarrenSoto",
@@ -50490,7 +50699,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 128
+        "view_count": 131
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50499,6 +50708,36 @@
       ],
       "urls": [],
       "url": "https://x.com/repfields/status/2094887014709473566"
+    },
+    {
+      "id": "2094878665540517961",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Join me today at 4:15 PM ET for a Telephone Town Hall with OH-14 constituents to hear directly from you about the challenges facing Northeast Ohio. If you would like to join the conversation, please call 1-855-269-4484. https://t.co/V0ddjXn0GJ",
+      "createdAt": "2026-09-01T20:02:49Z",
+      "timestamp": 1788292969,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 560
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2094878665540517961"
     },
     {
       "id": "2094862189043552753",
@@ -50529,6 +50768,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepMeuser/status/2094862189043552753"
+    },
+    {
+      "id": "2094861529246056825",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Today, I voted in favor of the Continuing Appropriations Act, 2027, a short-term measure that keeps the government open through December 11 and gives Congress additional time to advance the FY27 appropriations process. Read my full statement. https://t.co/ajxKRz96An",
+      "createdAt": "2026-09-01T18:54:43Z",
+      "timestamp": 1788288883,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 11,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 890
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2094861529246056825"
     },
     {
       "id": "2094814929882612043",
@@ -50787,6 +51056,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDaleStrong/status/2094522447382929547"
+    },
+    {
+      "id": "2094522306517168594",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "On International Overdose Awareness Day, we are reminded of the grave impact opioids have had on individuals, families, and communities who have been devastated by this crisis. As a Co-Chair of the Addiction, Treatment, and Recovery Caucus, I remain committed to working with my",
+      "createdAt": "2026-08-31T20:26:46Z",
+      "timestamp": 1788208006,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 636
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2094522306517168594"
     },
     {
       "id": "2094514615979745755",
@@ -51437,6 +51736,36 @@
       "url": "https://x.com/RepDavidKustoff/status/2093404009390379507"
     },
     {
+      "id": "2093382214465847513",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "This week, I had the opportunity to visit Schoolyard Studio in Burton to see how the former Berkshire high school has been transformed into a full-service film and television production studio. \n\nIt was great to learn about their work and the role facilities like Schoolyard https://t.co/Ib0XzKYS5w",
+      "createdAt": "2026-08-28T16:56:27Z",
+      "timestamp": 1787936187,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 747
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2093382214465847513"
+    },
+    {
       "id": "2093340715640090774",
       "handle": "repdarrensoto",
       "username": "RepDarrenSoto",
@@ -51676,6 +52005,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDavidKustoff/status/2093036380892844390"
+    },
+    {
+      "id": "2092994373814223022",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "It was a pleasure to stop by the Concord Township 2026 Senior Citizen Appreciation Event yesterday. Thank you to everyone who worked to put this event on and for ensuring our seniors have access to the resources, services, and support they need to thrive in our community.\n\nIf you https://t.co/LHhrv0dxmI",
+      "createdAt": "2026-08-27T15:15:19Z",
+      "timestamp": 1787843719,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 665
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2092994373814223022"
     },
     {
       "id": "2092959004917895347",
@@ -51940,6 +52299,34 @@
       "url": "https://x.com/RepDaveTaylor/status/2092699981136494716"
     },
     {
+      "id": "2092693279078838294",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "I had a great time joining local leaders from Eastlake and Willoughby for a boat tour of the Chagrin River and Lake Erie shoreline to discuss coastal erosion, restoration efforts, and opportunities to expand public access to our waterfront. \n\nThank you to Chagrin River Watershed https://t.co/oUwFFyzmYj",
+      "createdAt": "2026-08-26T19:18:52Z",
+      "timestamp": 1787771932,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 1055
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2092693279078838294"
+    },
+    {
       "id": "2092690627343610281",
       "handle": "replahood",
       "username": "RepLaHood",
@@ -52084,6 +52471,34 @@
       "url": "https://x.com/RepDarrenSoto/status/2092615763366383847"
     },
     {
+      "id": "2092613781188665492",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Five years ago, 13 U.S. service members were killed in the line of duty at Abbey Gate in Kabul, Afghanistan. Today, we honor their courage and sacrifice for our nation. May God bless them and their families. https://t.co/56KG9RvJ4B",
+      "createdAt": "2026-08-26T14:02:58Z",
+      "timestamp": 1787752978,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 731
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2092613781188665492"
+    },
+    {
       "id": "2092607486058532994",
       "handle": "repfields",
       "username": "repfields",
@@ -52103,7 +52518,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 579
+        "view_count": 582
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -52443,6 +52858,36 @@
       "url": "https://x.com/SenDanSullivan/status/2092314869999476759"
     },
     {
+      "id": "2092307345275600956",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Kelly and I wish all the students across the district a great start to the new school year! Thank you to our teachers, school staff, and parents for your dedication and support in helping our students succeed. https://t.co/tuTElJqrKG",
+      "createdAt": "2026-08-25T17:45:18Z",
+      "timestamp": 1787679918,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 7,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 685
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2092307345275600956"
+    },
+    {
       "id": "2092296637267747124",
       "handle": "sendansullivan",
       "username": "SenDanSullivan",
@@ -52755,6 +53200,36 @@
       "url": "https://x.com/RepLaHood/status/2091956173666730445"
     },
     {
+      "id": "2091940801546793163",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Partnering with local leaders helps deliver real results for Northeast Ohio. It was a pleasure meeting with Mayor Ben Kyle and city officials in Hubbard to discuss important infrastructure projects and the community's priorities moving forward. https://t.co/oapEnXVKij",
+      "createdAt": "2026-08-24T17:28:48Z",
+      "timestamp": 1787592528,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 5,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 926
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2091940801546793163"
+    },
+    {
       "id": "2091879196737917209",
       "handle": "repdarrensoto",
       "username": "RepDarrenSoto",
@@ -53047,6 +53522,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDanGoldman/status/2090869413494845483"
+    },
+    {
+      "id": "2090838836603498986",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Vocational schools like Maplewood Career Center provide Northeast Ohioans with the skills needed to succeed in life and contribute to our economy. Recently, I was pleased to visit and learn about their expanded programs for welding, auto service technologies, and HVAC. https://t.co/etEASQfBia",
+      "createdAt": "2026-08-21T16:29:59Z",
+      "timestamp": 1787329799,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 702
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2090838836603498986"
     },
     {
       "id": "2090798354263409079",
@@ -53355,6 +53860,36 @@
       "url": "https://x.com/RepLaHood/status/2090526652602208365"
     },
     {
+      "id": "2090510172225781921",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Earlier this summer, the House passed the FY27 National Defense Authorization Act, which includes key provisions of the SHIPS for America Act. \n\nAs a cosponsor of the SHIPS Act, I’m proud to support efforts to rebuild our domestic shipbuilding capacity and strengthen America’s https://t.co/JnQAwlWcsP",
+      "createdAt": "2026-08-20T18:43:59Z",
+      "timestamp": 1787251439,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 4,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 679
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2090510172225781921"
+    },
+    {
       "id": "2090509414868676885",
       "handle": "repdavidkustoff",
       "username": "RepDavidKustoff",
@@ -53617,6 +54152,66 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDarrenSoto/status/2090146660454125769"
+    },
+    {
+      "id": "2090135973006922049",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "RT @HouseAppropsGOP: Economic Opportunity\nConsumer Freedom\nJudicial Stewardship\nExecutive Governance\n\nFrom entrepreneurship and federal cou…",
+      "createdAt": "2026-08-19T17:57:03Z",
+      "timestamp": 1787162223,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 62
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2090135973006922049"
+    },
+    {
+      "id": "2090133714403529038",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "It was a pleasure to visit the Trumbull County Emergency Management Agency and meet with Director John Hickey to discuss projects they are working on to enhance emergency response across the county. During my visit, Director Hickey showed me the county’s Emergency Command https://t.co/GOaORiysvd",
+      "createdAt": "2026-08-19T17:48:04Z",
+      "timestamp": 1787161684,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1166
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2090133714403529038"
     },
     {
       "id": "2090130654730035691",
@@ -54116,6 +54711,34 @@
       "url": "https://x.com/RepDanGoldman/status/2089777321653751972"
     },
     {
+      "id": "2089773885986369843",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "I caught up with Geneva on the Lake Mayor Dwayne Bennett and Village Administrator Alex Iarocci to discuss the village's critical infrastructure and water safety. We were also joined by Assistant Fire Chief Alex Pope and Police Chief John Roberts, who shared important updates on https://t.co/OPlXnrVHrR",
+      "createdAt": "2026-08-18T17:58:15Z",
+      "timestamp": 1787075895,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 6,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "view_count": 798
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2089773885986369843"
+    },
+    {
       "id": "2089771877627544027",
       "handle": "sendansullivan",
       "username": "SenDanSullivan",
@@ -54204,6 +54827,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepMeuser/status/2089735495836156173"
+    },
+    {
+      "id": "2089711951504916903",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "I'm honored to be recognized by Bridge Grades for my bipartisan work in Congress. My focus has always been delivering results for Northeast Ohio, and I'm proud to work across the aisle to solve problems and get things done. https://t.co/qjr8PPTnl0",
+      "createdAt": "2026-08-18T13:52:08Z",
+      "timestamp": 1787061128,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 2,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "view_count": 792
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2089711951504916903"
     },
     {
       "id": "2089701006263164967",
@@ -54439,6 +55092,36 @@
       ],
       "urls": [],
       "url": "https://x.com/SenDanSullivan/status/2089404621361971399"
+    },
+    {
+      "id": "2089397847892406408",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "The Portage County Regional Airport is an important asset for Northeast Ohio’s economy. Thank you for the discussion and the opportunity to learn more about the ongoing taxiway improvements and the airport's vision to expand economic development opportunities throughout Portage https://t.co/EdBlbw1xBo",
+      "createdAt": "2026-08-17T17:04:00Z",
+      "timestamp": 1786986240,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 4,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 729
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2089397847892406408"
     },
     {
       "id": "2089340044607701220",
@@ -54760,6 +55443,37 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDavidValadao/status/2088351883077603359"
+    },
+    {
+      "id": "2088322803036479923",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Piping Rock Health Products continues to invest in Northeast Ohio with a 68,000-square-foot expansion that will create 100 new jobs. It was great to visit their new location and see how their facility is helping strengthen our region's manufacturing workforce and economy. https://t.co/CP0N3pidZ8",
+      "createdAt": "2026-08-14T17:52:10Z",
+      "timestamp": 1786729930,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 847
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2088322803036479923"
     },
     {
       "id": "2088316722067439817",
@@ -55114,6 +55828,36 @@
       "url": "https://x.com/RepDavidKustoff/status/2088006914361679888"
     },
     {
+      "id": "2087980275749835163",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Businesses like Hartville Hardware &amp; Lumber help provide jobs and critical supplies to families and businesses across Northeast Ohio. It was a pleasure to visit their new location in Middlefield and learn more about their impact on the local community. https://t.co/9kk3IGua4q",
+      "createdAt": "2026-08-13T19:11:05Z",
+      "timestamp": 1786648265,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 4,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 2018
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2087980275749835163"
+    },
+    {
       "id": "2087936215127293998",
       "handle": "repdavidvaladao",
       "username": "RepDavidValadao",
@@ -55233,6 +55977,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDavidKustoff/status/2087916371325685856"
+    },
+    {
+      "id": "2087901987555655875",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "The rest of the country is learning what Northeast Ohioans have known for generations: Lake Erie is pretty special. The lake is an important part of what makes Northeast Ohio a great place to live, work, and visit.",
+      "createdAt": "2026-08-13T13:59:59Z",
+      "timestamp": 1786629599,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 1000
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2087901987555655875"
     },
     {
       "id": "2087895509008589250",
@@ -55495,6 +56269,36 @@
       "url": "https://x.com/RepDaveTaylor/status/2087579060855542032"
     },
     {
+      "id": "2087563431406641265",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "With a new 750,000-square-foot warehouse, Growscape is one of the largest manufacturing and distribution operations in Geauga County. Thank you to Growscape for hosting me at their facility in Middlefield, Ohio, where we discussed how we can continue to support jobs and the https://t.co/2NFnu5Voak",
+      "createdAt": "2026-08-12T15:34:41Z",
+      "timestamp": 1786548881,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 6,
+        "like_count": 7,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "view_count": 1078
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2087563431406641265"
+    },
+    {
       "id": "2087563287143559581",
       "handle": "repdarrensoto",
       "username": "RepDarrenSoto",
@@ -55667,6 +56471,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDaveTaylor/status/2087300722756820998"
+    },
+    {
+      "id": "2087281252789276789",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "OH-14 is honored to host President Trump for the conclusion of the 2026 Patriot Games. Thank you to the organizers, volunteers, and athletes who made this event possible.",
+      "createdAt": "2026-08-11T20:53:25Z",
+      "timestamp": 1786481605,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 1270
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2087281252789276789"
     },
     {
       "id": "2087277816429879683",
@@ -55850,6 +56684,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepMeuser/status/2087218511684960442"
+    },
+    {
+      "id": "2087187209430417766",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Our firefighters and first responders put their lives on the line every day to keep our communities safe. It was a pleasure to visit the Eagle Joint Fire District, meet with Chief Ron Stanish and the crew, and thank them for their dedicated service to Hubbard City and Township. https://t.co/XHnIleyCv3",
+      "createdAt": "2026-08-11T14:39:43Z",
+      "timestamp": 1786459183,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 722
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2087187209430417766"
     },
     {
       "id": "2087165282871615790",
@@ -56084,6 +56948,66 @@
       "url": "https://x.com/RepLaHood/status/2086907245116232020"
     },
     {
+      "id": "2086894564699226438",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "The Trumbull County Veterans Service Commission (VSC) plays a vital role in connecting veterans with the benefits and assistance they've earned through their service. It was great to meet with Director Cari Delgado, the VSC team, and hear more about their work to support our https://t.co/sGt5otEnJW",
+      "createdAt": "2026-08-10T19:16:51Z",
+      "timestamp": 1786389411,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 701
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2086894564699226438"
+    },
+    {
+      "id": "2086816412161474998",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "I am proud to share that with my support, @NEOMEDedu has been awarded over $950,000 in federal funding. This funding, secured through programmatic funding in the FY26 Labor-H Appropriations bill, will support cutting-edge research on how the brain processes sound, helping advance https://t.co/Q7IgLz8lZ6",
+      "createdAt": "2026-08-10T14:06:18Z",
+      "timestamp": 1786370778,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "view_count": 913
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2086816412161474998"
+    },
+    {
       "id": "2086804050364768628",
       "handle": "repdarrensoto",
       "username": "RepDarrenSoto",
@@ -56110,6 +57034,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDarrenSoto/status/2086804050364768628"
+    },
+    {
+      "id": "2086459447891603472",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Ohio's 14th Congressional District is proud to host the inaugural Patriot Games at SPIRE Academy. Our community welcomes athletes, families, and visitors from across the country for this national competition. I wish every athlete the very best of luck throughout the competition. https://t.co/ESOjbB4PRL",
+      "createdAt": "2026-08-09T14:27:51Z",
+      "timestamp": 1786285671,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 7,
+        "reply_count": 8,
+        "like_count": 40,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "view_count": 2412
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2086459447891603472"
     },
     {
       "id": "2086439447713685902",
@@ -56460,6 +57412,38 @@
       "url": "https://x.com/SenDanSullivan/status/2085802468814819686"
     },
     {
+      "id": "2085782041891840078",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "It was a pleasure to speak with the Growth Partnership for Ashtabula County and hear from local leaders at their annual meeting. I appreciated the opportunity to share an update on my work in Washington and discuss how we can continue working together to support economic growth, https://t.co/XgooGdCpAs",
+      "createdAt": "2026-08-07T17:36:05Z",
+      "timestamp": 1786124165,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 624
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Diplomatic / official contact",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2085782041891840078"
+    },
+    {
       "id": "2085772205611458659",
       "handle": "repdavidvaladao",
       "username": "RepDavidValadao",
@@ -56634,6 +57618,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepMeuser/status/2085722944693510393"
+    },
+    {
+      "id": "2085715391431528885",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Purple Heart Day holds special meaning for me, as my father was a Purple Heart recipient. Today, we honor all those who were wounded or made the ultimate sacrifice in defense of our nation. Their courage and sacrifice will never be forgotten, and I will continue fighting for the https://t.co/gWi5gbbNgN",
+      "createdAt": "2026-08-07T13:11:14Z",
+      "timestamp": 1786108274,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 567
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2085715391431528885"
     },
     {
       "id": "2085713568142430359",
@@ -57068,6 +58080,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepMeuser/status/2085421205088002398"
+    },
+    {
+      "id": "2085411109344075978",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "I was honored to join ITEN Defense and Lakeland Construction for the groundbreaking ceremony for the expansion of a brand-new facility in Saybrook Township. It was great to celebrate the committed investment in OH-14, our workforce, and the future of American manufacturing.",
+      "createdAt": "2026-08-06T17:02:08Z",
+      "timestamp": 1786035728,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 585
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2085411109344075978"
     },
     {
       "id": "2085397861148000669",
@@ -57859,6 +58901,36 @@
       "url": "https://x.com/RepMeuser/status/2085007651436450296"
     },
     {
+      "id": "2085000400378139115",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Last week, I visited Berkshire Local School's new Workforce Development Campus, which is training Northeast Ohio students to become mechanics upon graduation. By equipping our next generation with these trades, we are giving our children a path to success and a skilled workforce https://t.co/S9BoWV7OtB",
+      "createdAt": "2026-08-05T13:50:07Z",
+      "timestamp": 1785937807,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 3,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 762
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2085000400378139115"
+    },
+    {
       "id": "2084992324753338615",
       "handle": "repmeuser",
       "username": "RepMeuser",
@@ -58302,6 +59374,36 @@
       "url": "https://x.com/RepAndyHarrisMD/status/2084713640209355046"
     },
     {
+      "id": "2084712649032437979",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "National Night Out is tonight! It’s a wonderful opportunity to meet law enforcement, have some fun, and support public safety. I encourage you to take some time and attend a local event in your community. \n\nA big thank you to all our men and women in blue for your selfless https://t.co/VsDu7GLXCJ",
+      "createdAt": "2026-08-04T18:46:42Z",
+      "timestamp": 1785869202,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 698
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2084712649032437979"
+    },
+    {
       "id": "2084711792798814476",
       "handle": "repmeuser",
       "username": "RepMeuser",
@@ -58477,6 +59579,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/SenDanSullivan/status/2084677890478653740"
+    },
+    {
+      "id": "2084676464759226548",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "For 236 years, the brave men and women of the U.S. Coast Guard have safeguarded our shores and answered the call to service in times of crisis. Today, we honor their courage and commitment to keeping our nation safe. https://t.co/r7IUuatwIX",
+      "createdAt": "2026-08-04T16:22:55Z",
+      "timestamp": 1785860575,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 628
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2084676464759226548"
     },
     {
       "id": "2084665905665937415",
@@ -58927,6 +60059,34 @@
       "url": "https://x.com/SenBooker/status/2084342797595718057"
     },
     {
+      "id": "2084335110699020693",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "I was proud to cosponsor the bipartisan Thomas M. Conway Veterans Access to Resources in the Workplace Act to help ensure veterans have greater access to the benefits and resources they've earned.\n\nBy requiring workplaces to post information on VA benefits, the Veterans Crisis https://t.co/2iKQULzG5q",
+      "createdAt": "2026-08-03T17:46:30Z",
+      "timestamp": 1785779190,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 582
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2084335110699020693"
+    },
+    {
       "id": "2084303221045035256",
       "handle": "repdavidvaladao",
       "username": "RepDavidValadao",
@@ -59026,6 +60186,34 @@
       "url": "https://x.com/RepMeuser/status/2084265613120192638"
     },
     {
+      "id": "2084098527206990221",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "It was a privilege to work alongside Kay Granger on the House Appropriations Committee and witness firsthand her dedication to our country. Kelly and I send our deepest condolences to her family and all those mourning her loss.",
+      "createdAt": "2026-08-03T02:06:24Z",
+      "timestamp": 1785722784,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 7,
+        "reply_count": 4,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "view_count": 6467
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2084098527206990221"
+    },
+    {
       "id": "2084089870402670883",
       "handle": "repnewhouse",
       "username": "RepNewhouse",
@@ -59112,6 +60300,37 @@
       ],
       "urls": [],
       "url": "https://x.com/RepNewhouse/status/2084051069785796995"
+    },
+    {
+      "id": "2083987434476372370",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Sending my prayers to my friend @RepMarcyKaptur following her crash this morning. Kelly and I are keeping her in our thoughts and praying for a full and speedy recovery.",
+      "createdAt": "2026-08-02T18:44:57Z",
+      "timestamp": 1785696297,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 1737
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Humanitarian / minority protection"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2083987434476372370"
     },
     {
       "id": "2083977919978774597",
@@ -60684,6 +61903,34 @@
       "url": "https://x.com/RepHoulahan/status/2082839155785003190"
     },
     {
+      "id": "2082835235356434766",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Every year, interns across the country come to Capitol Hill to work hard for their fellow citizens and country. On National Intern Day, I want to thank all those who've helped my staff and me deliver results for the people of OH-14. https://t.co/tShyztvd6v",
+      "createdAt": "2026-07-30T14:26:31Z",
+      "timestamp": 1785421591,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "view_count": 957
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2082835235356434766"
+    },
+    {
       "id": "2082832754358509573",
       "handle": "repdarrensoto",
       "username": "RepDarrenSoto",
@@ -61759,6 +63006,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepMeuser/status/2082461177771110586"
+    },
+    {
+      "id": "2082459234868867249",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "For decades, NASA has pushed the boundaries of discovery, including right here at the NASA Glenn Research Center in Northeast Ohio. I look forward to seeing their continued advancements in research and innovation. Happy 68th Birthday @NASA! https://t.co/dPQt4wimxr",
+      "createdAt": "2026-07-29T13:32:26Z",
+      "timestamp": 1785331946,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 1385
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2082459234868867249"
     },
     {
       "id": "2082458647146168511",
@@ -64398,6 +65675,34 @@
         }
       ],
       "url": "https://x.com/RepChrisPappas/status/2081749071673348469"
+    },
+    {
+      "id": "2081746939419193637",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Today, we honor the brave men and women who fought for our nation in the Korean War. Their courage and service secured the freedoms we hold dear today. https://t.co/PM5N8F0Tt1",
+      "createdAt": "2026-07-27T14:22:02Z",
+      "timestamp": 1785162122,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 690
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2081746939419193637"
     },
     {
       "id": "2081746374001852760",
@@ -68593,6 +69898,37 @@
       "url": "https://x.com/SenHydeSmith/status/2080655995940782357"
     },
     {
+      "id": "2080652739512520740",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "I was honored to receive the 2026 Champion of Small Business Investing Award from @SmallBusinessPE in recognition of my work in small business job creation. I will continue to support policies that provide more opportunities for small businesses across OH-14. https://t.co/njAhWTH9g4",
+      "createdAt": "2026-07-24T13:54:04Z",
+      "timestamp": 1784901244,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 6,
+        "quote_count": 2,
+        "bookmark_count": 1,
+        "view_count": 1568
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2080652739512520740"
+    },
+    {
       "id": "2080652210577309904",
       "handle": "repcarlos",
       "username": "RepCarlos",
@@ -70634,6 +71970,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/reppettersen/status/2080332875925262820"
+    },
+    {
+      "id": "2080332596718743858",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "This week, I joined 18 of my Republican colleagues in urging @EPA Administrator Zeldin to use the authorities available under the U.S.-Canada Air Quality Agreement to work with Canada to address the causes of ongoing wildfire smoke affecting communities across the United States.",
+      "createdAt": "2026-07-23T16:41:56Z",
+      "timestamp": 1784824916,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 670
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2080332596718743858"
     },
     {
       "id": "2080329721414639617",
@@ -73707,6 +75071,36 @@
       "url": "https://x.com/RepBryanSteil/status/2080037508801233392"
     },
     {
+      "id": "2080037042969247855",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Today, I supported the passage of the FY27 National Defense Authorization Act to strengthen our defense industrial base and support our service members and military families. I am proud to stand with our military members, ensuring they have the tools needed to defend our nation. https://t.co/C7ysj2OrI8",
+      "createdAt": "2026-07-22T21:07:30Z",
+      "timestamp": 1784754450,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 8,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 663
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2080037042969247855"
+    },
+    {
       "id": "2080036283519238336",
       "handle": "rephoulahan",
       "username": "RepHoulahan",
@@ -74061,7 +75455,7 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 186
+        "view_count": 187
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -78044,6 +79438,36 @@
       "url": "https://x.com/RepDavidValadao/status/2079756931283955974"
     },
     {
+      "id": "2079753576151183597",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "H.R. 9770 is a clean, short-term continuing resolution that keeps the government open while allowing my @HouseAppropsGOP colleagues and me to continue working to establish regular order in government funding. Read my full statement. https://t.co/U3WHdVn0DH",
+      "createdAt": "2026-07-22T02:21:07Z",
+      "timestamp": 1784686867,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 821
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2079753576151183597"
+    },
+    {
       "id": "2079753258155835811",
       "handle": "reppfluger",
       "username": "RepPfluger",
@@ -80349,6 +81773,34 @@
       "url": "https://x.com/RepChipRoy/status/2079649950929973584"
     },
     {
+      "id": "2079649654384288146",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "RT @HouseAppropsGOP: Article I isn't a slogan, it's a responsibility.\n\nTomorrow at 10AM, the full House Appropriations Committee will conve…",
+      "createdAt": "2026-07-21T19:28:10Z",
+      "timestamp": 1784662090,
+      "tweetType": "retweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 60
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2079649654384288146"
+    },
+    {
       "id": "2079649599568908653",
       "handle": "repdavidkustoff",
       "username": "RepDavidKustoff",
@@ -80873,7 +82325,7 @@
         "like_count": 45,
         "quote_count": 13,
         "bookmark_count": 12,
-        "view_count": 86457
+        "view_count": 86462
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -88730,6 +90182,39 @@
       ],
       "urls": [],
       "url": "https://x.com/SenCortezMasto/status/2078586278686187777"
+    },
+    {
+      "id": "2078586255894258170",
+      "handle": "repdavejoyce",
+      "username": "RepDaveJoyce",
+      "displayName": null,
+      "ownerName": "David P. Joyce",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/david-p-joyce",
+      "text": "Two brave U.S. service members gave their lives in yesterday’s Iranian missile and drone attack on Jordan. Kelly and I are praying for their families, for the full recovery of those injured, and for the safe return of the service member still missing.",
+      "createdAt": "2026-07-18T21:02:36Z",
+      "timestamp": 1784408556,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 10,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 779
+      },
+      "tags": [
+        "Iran"
+      ],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection",
+        "Critical / hostile language"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepDaveJoyce/status/2078586255894258170"
     },
     {
       "id": "2078585222992404922",
@@ -121356,1480 +122841,6 @@
       ],
       "urls": [],
       "url": "https://x.com/CongressmanRaja/status/2078092369023381993"
-    },
-    {
-      "id": "2078092354712457511",
-      "handle": "repmikecollins",
-      "username": "RepMikeCollins",
-      "displayName": null,
-      "ownerName": "Mike Collins",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mike-collins",
-      "text": "On this day in history in 1945, U.S. President Truman, Soviet leader Stalin, and British Prime Minister Churchill met in Potsdam to plan the postwar world. \n\nTensions rose as the Allies clashed over Soviet control of Eastern Europe and the future of Germany, ultimately agreeing https://t.co/XbQnLEdokp",
-      "createdAt": "2026-07-17T12:20:01Z",
-      "timestamp": 1784290801,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 11,
-        "reply_count": 4,
-        "like_count": 33,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 2084
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepMikeCollins/status/2078092354712457511"
-    },
-    {
-      "id": "2078092351306670505",
-      "handle": "repralphnorman",
-      "username": "RepRalphNorman",
-      "displayName": null,
-      "ownerName": "Ralph Norman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ralph-norman",
-      "text": "Nothing says South Carolina like FRESH PEACHES!!\n\nThank you to Titan Farms for the delicious delivery as we celebrate SC’s sweetest tradition🍑 https://t.co/5fmfXiqEc3",
-      "createdAt": "2026-07-17T12:20:00Z",
-      "timestamp": 1784290800,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 29,
-        "reply_count": 24,
-        "like_count": 263,
-        "quote_count": 4,
-        "bookmark_count": 2,
-        "view_count": 8047
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepRalphNorman/status/2078092351306670505"
-    },
-    {
-      "id": "2078092312425447809",
-      "handle": "senashleymoody",
-      "username": "SenAshleyMoody",
-      "displayName": null,
-      "ownerName": "Ashley Moody",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ashley-moody",
-      "text": "You’re absolutely right @RonDeSantis - it’s why I introduced the Stop CCP VISAs Act. \n\nIt would directly address this problem.",
-      "createdAt": "2026-07-17T12:19:51Z",
-      "timestamp": 1784290791,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 119,
-        "reply_count": 100,
-        "like_count": 647,
-        "quote_count": 6,
-        "bookmark_count": 4,
-        "view_count": 11558
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenAshleyMoody/status/2078092312425447809"
-    },
-    {
-      "id": "2078092279571488783",
-      "handle": "repbobonder",
-      "username": "RepBobOnder",
-      "displayName": null,
-      "ownerName": "Robert F. Onder, Jr.",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/robert-f-onder-jr",
-      "text": "AM radio stations provide essential news, sports coverage, and most importantly, emergency and AMBER alerts that help keep Missourians informed and safe.\n\nIt was a privilege to speak with representatives from @MOBroadcasters about the importance of AM radio and how we can best https://t.co/SDvUpEXRpD",
-      "createdAt": "2026-07-17T12:19:43Z",
-      "timestamp": 1784290783,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 9,
-        "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": 596
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBobOnder/status/2078092279571488783"
-    },
-    {
-      "id": "2078092100126568475",
-      "handle": "jahimes",
-      "username": "jahimes",
-      "displayName": null,
-      "ownerName": "James A. Himes",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-a-himes",
-      "text": "No. It’s not. This is the intelligence community (made up of competent patriots, therefore foreign to you) working together to produce carefully crafted reporting.",
-      "createdAt": "2026-07-17T12:19:00Z",
-      "timestamp": 1784290740,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 49,
-        "reply_count": 45,
-        "like_count": 240,
-        "quote_count": 3,
-        "bookmark_count": 4,
-        "view_count": 21063
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/jahimes/status/2078092100126568475"
-    },
-    {
-      "id": "2078091824783122492",
-      "handle": "sengarypeters",
-      "username": "SenGaryPeters",
-      "displayName": null,
-      "ownerName": "Gary C. Peters",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/gary-c-peters",
-      "text": "The President's speech was the latest step in his ongoing effort to undermine any election outcome he doesn't like. The American people saw on January 6, 2021 the lengths this President is willing to go to disregard the will of the voters and cling to power. We must be clear-eyed",
-      "createdAt": "2026-07-17T12:17:54Z",
-      "timestamp": 1784290674,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 20,
-        "reply_count": 193,
-        "like_count": 39,
-        "quote_count": 6,
-        "bookmark_count": 0,
-        "view_count": 3628
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenGaryPeters/status/2078091824783122492"
-    },
-    {
-      "id": "2078091194111074329",
-      "handle": "johncornyn",
-      "username": "JohnCornyn",
-      "displayName": null,
-      "ownerName": "John Cornyn",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/john-cornyn",
-      "text": "RT @TxDPSSouth: 🚨 New DriveTexas Updates\n\nHeavy rain and flooding continue across parts of South &amp; Central Texas.\n\n📍 Check https://t.co/l2X…",
-      "createdAt": "2026-07-17T12:15:24Z",
-      "timestamp": 1784290524,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 10,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 672
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/l2X",
-          "expanded_url": null,
-          "display_url": "t.co/l2X"
-        }
-      ],
-      "url": "https://x.com/JohnCornyn/status/2078091194111074329"
-    },
-    {
-      "id": "2078091149386907994",
-      "handle": "jahimes",
-      "username": "jahimes",
-      "displayName": null,
-      "ownerName": "James A. Himes",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-a-himes",
-      "text": "RT @dnvolz: A reminder that bears repeating: Trump has systematically dismantled election security efforts within the federal government du…",
-      "createdAt": "2026-07-17T12:15:13Z",
-      "timestamp": 1784290513,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 24,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 140
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/jahimes/status/2078091149386907994"
-    },
-    {
-      "id": "2078089713806618757",
-      "handle": "senjeffmerkley",
-      "username": "SenJeffMerkley",
-      "displayName": null,
-      "ownerName": "Jeff Merkley",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/jeff-merkley",
-      "text": "CORRUPTION ON FULL DISPLAY.",
-      "createdAt": "2026-07-17T12:09:31Z",
-      "timestamp": 1784290171,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 29,
-        "reply_count": 34,
-        "like_count": 117,
-        "quote_count": 1,
-        "bookmark_count": 1,
-        "view_count": 4619
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenJeffMerkley/status/2078089713806618757"
-    },
-    {
-      "id": "2078089644609048727",
-      "handle": "repmeuser",
-      "username": "RepMeuser",
-      "displayName": null,
-      "ownerName": "Daniel Meuser",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/daniel-meuser",
-      "text": "Today, I joined @MariaBartiromo on @FoxBusiness to discuss the fight to pass the SAVE America Act and the status of government funding. The public overwhelmingly supports this legislation and it is vital for ensuring free and fair elections.\n\nWe also discussed Fed Chairman Kevin https://t.co/MVqM0eGE4I",
-      "createdAt": "2026-07-17T12:09:14Z",
-      "timestamp": 1784290154,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 10,
-        "reply_count": 12,
-        "like_count": 33,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 1329
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMeuser/status/2078089644609048727"
-    },
-    {
-      "id": "2078087609352393142",
-      "handle": "repvanepps",
-      "username": "repvanepps",
-      "displayName": null,
-      "ownerName": "Matt Van Epps",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/matt-van-epps",
-      "text": "With the Kentucky Lake and the Tennessee River, Benton County is one of the most beautiful places in the district. Benton draws visitors and residents alike for its outdoor attractions and amazing people. I am also always impressed by the strong sense of community pride that I’ve https://t.co/tg2RXXu0K9",
-      "createdAt": "2026-07-17T12:01:09Z",
-      "timestamp": 1784289669,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 72
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repvanepps/status/2078087609352393142"
-    },
-    {
-      "id": "2078086357801402563",
-      "handle": "repbuddycarter",
-      "username": "RepBuddyCarter",
-      "displayName": null,
-      "ownerName": "Earl L. \"Buddy\" Carter",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/earl-l-buddy-carter",
-      "text": "Their licenses should be revoked. \n\nDo you agree, @BrendanCarrFCC?",
-      "createdAt": "2026-07-17T11:56:11Z",
-      "timestamp": 1784289371,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 13,
-        "like_count": 21,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 1050
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBuddyCarter/status/2078086357801402563"
-    },
-    {
-      "id": "2078086189077184635",
-      "handle": "repkatcammack",
-      "username": "RepKatCammack",
-      "displayName": null,
-      "ownerName": "Kat Cammack",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kat-cammack",
-      "text": "I could watch this speech 20 times and still get chills. This is the way 👇🏻\n\n@SecRubio continues to demonstrate why he is the GOAT. Strength. Conviction. And the rare ability to articulate the fundamental choice between those who build and those who destroy.\n\nProud to work",
-      "createdAt": "2026-07-17T11:55:31Z",
-      "timestamp": 1784289331,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 191,
-        "reply_count": 32,
-        "like_count": 996,
-        "quote_count": 2,
-        "bookmark_count": 50,
-        "view_count": 6377
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepKatCammack/status/2078086189077184635"
-    },
-    {
-      "id": "2078082748145651898",
-      "handle": "repcdmenefee",
-      "username": "RepCDMenefee",
-      "displayName": null,
-      "ownerName": "Christian D. Menefee",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/christian-d-menefee",
-      "text": "Peak weirdo to think it’s cool to argue men will have so much testosterone they lose control around - and potentially start assaulting - women.\n\nWatching grown men cosplay “tough guy” on national TV is painful.\n\nYou’re not tough. Or masculine. You’re weird.",
-      "createdAt": "2026-07-17T11:41:50Z",
-      "timestamp": 1784288510,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 168,
-        "reply_count": 41,
-        "like_count": 972,
-        "quote_count": 6,
-        "bookmark_count": 9,
-        "view_count": 14513
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepCDMenefee/status/2078082748145651898"
-    },
-    {
-      "id": "2078082164835410154",
-      "handle": "repchuck",
-      "username": "RepChuck",
-      "displayName": null,
-      "ownerName": "Charles J. \"Chuck\" Fleischmann",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
-      "text": "It’s great to get out at the Anderson County Fair. Attendance this year is through the roof, and it is great to see so many families enjoying the festivities. It’s a blessing to live in a country where people can enjoy the true meaning of community. https://t.co/Ma2HWG5AHo",
-      "createdAt": "2026-07-17T11:39:31Z",
-      "timestamp": 1784288371,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 8,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 599
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepChuck/status/2078082164835410154"
-    },
-    {
-      "id": "2078079874305052824",
-      "handle": "repkamlagerdove",
-      "username": "RepKamlagerDove",
-      "displayName": null,
-      "ownerName": "Sydney Kamlager-Dove",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/sydney-kamlager-dove",
-      "text": "RT @SpeakerPelosi: Obviously, Donald Trump is a loser.",
-      "createdAt": "2026-07-17T11:30:25Z",
-      "timestamp": 1784287825,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5968,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 91
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepKamlagerDove/status/2078079874305052824"
-    },
-    {
-      "id": "2078075993181352340",
-      "handle": "repkmr",
-      "username": "repkmr",
-      "displayName": null,
-      "ownerName": "Kristen McDonald Rivet",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/kristen-mcdonald-rivet",
-      "text": "Another case of Washington insiders using their positions to get rich. Let’s finally do something to stop it. I’ve got a bill to close the loopholes on insider trading once and for all. https://t.co/eMuSPLY3nm",
-      "createdAt": "2026-07-17T11:15:00Z",
-      "timestamp": 1784286900,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 18,
-        "reply_count": 4,
-        "like_count": 40,
-        "quote_count": 2,
-        "bookmark_count": 1,
-        "view_count": 7066
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repkmr/status/2078075993181352340"
-    },
-    {
-      "id": "2078072449460031925",
-      "handle": "staceyplaskett",
-      "username": "StaceyPlaskett",
-      "displayName": null,
-      "ownerName": "Stacey E. Plaskett",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/stacey-e-plaskett",
-      "text": "Six years ago, we lost the Conscience of the Congress, Congressman John Lewis.\n\nFrom leading the march across the Edmund Pettus Bridge to serving in the House, he never stopped fighting for justice, equality, and the right to vote. \n\nWe honor his legacy by carrying it forward. https://t.co/sTGpDGCZwQ",
-      "createdAt": "2026-07-17T11:00:55Z",
-      "timestamp": 1784286055,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 37,
-        "reply_count": 9,
-        "like_count": 169,
-        "quote_count": 3,
-        "bookmark_count": 1,
-        "view_count": 2877
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/StaceyPlaskett/status/2078072449460031925"
-    },
-    {
-      "id": "2078069220697379215",
-      "handle": "repcarlos",
-      "username": "RepCarlos",
-      "displayName": null,
-      "ownerName": "Carlos A. Gimenez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/carlos-a-gimenez",
-      "text": "RT @RosaMariaPaya: \"Cuba is next\", porque para los cubanos el cambio es existencial.\n\nLes comparto este reportaje de  @David_Culver que nos…",
-      "createdAt": "2026-07-17T10:48:05Z",
-      "timestamp": 1784285285,
-      "tweetType": "retweet",
-      "language": "es",
-      "metrics": {
-        "retweet_count": 37,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1179
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepCarlos/status/2078069220697379215"
-    },
-    {
-      "id": "2078068830555820210",
-      "handle": "repmeuser",
-      "username": "RepMeuser",
-      "displayName": null,
-      "ownerName": "Daniel Meuser",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/daniel-meuser",
-      "text": "I’ll be joining Wake up America at 7:15 AM to discuss the importance of passing the SAVE America Act and provide an update on reconciliation.\n\nMake sure to tune in to @NEWSMAX. https://t.co/b1oXGWr2gu",
-      "createdAt": "2026-07-17T10:46:32Z",
-      "timestamp": 1784285192,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 2,
-        "like_count": 7,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 684
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMeuser/status/2078068830555820210"
-    },
-    {
-      "id": "2078065876813729836",
-      "handle": "joaquincastrotx",
-      "username": "JoaquinCastrotx",
-      "displayName": null,
-      "ownerName": "Joaquin Castro",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/joaquin-castro",
-      "text": "RT @propublica: New: After ProPublica and The Texas Tribune revealed Ken Paxton repeatedly voted while registered at an address where he ap…",
-      "createdAt": "2026-07-17T10:34:48Z",
-      "timestamp": 1784284488,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 981,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 293
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/JoaquinCastrotx/status/2078065876813729836"
-    },
-    {
-      "id": "2078063866836123716",
-      "handle": "repdeliaramirez",
-      "username": "repdeliaramirez",
-      "displayName": null,
-      "ownerName": "Delia C. Ramirez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/delia-c-ramirez",
-      "text": "RT @theintercept: “It feels like we're normalizing it,” said Rep. Delia Ramirez, who expressed disappointment with her colleagues’ lack of…",
-      "createdAt": "2026-07-17T10:26:49Z",
-      "timestamp": 1784284009,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 124
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repdeliaramirez/status/2078063866836123716"
-    },
-    {
-      "id": "2078062181543756095",
-      "handle": "jahimes",
-      "username": "jahimes",
-      "displayName": null,
-      "ownerName": "James A. Himes",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-a-himes",
-      "text": "One of the many many lies. The cyber expert whose document is shown below had his lone dissent prominently featured in the publicly-available Intelligence Community Assessment of 1/2021. You could look it up.",
-      "createdAt": "2026-07-17T10:20:07Z",
-      "timestamp": 1784283607,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 22,
-        "reply_count": 17,
-        "like_count": 84,
-        "quote_count": 3,
-        "bookmark_count": 6,
-        "view_count": 9224
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/jahimes/status/2078062181543756095"
-    },
-    {
-      "id": "2078055969771094112",
-      "handle": "repmeuser",
-      "username": "RepMeuser",
-      "displayName": null,
-      "ownerName": "Daniel Meuser",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/daniel-meuser",
-      "text": "I’ll be joining Mornings with Maria at 6:20 AM to discuss Fed Chairman Warsh and his priorities as well as reconciliation 3.0.\n\nMake sure to tune in to @FoxBusiness. https://t.co/YOO6gtKtY5",
-      "createdAt": "2026-07-17T09:55:26Z",
-      "timestamp": 1784282126,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 3,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 575
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepMeuser/status/2078055969771094112"
-    },
-    {
-      "id": "2078020961433981329",
-      "handle": "mdubowitz",
-      "username": "mdubowitz",
-      "displayName": "Mark Dubowitz",
-      "ownerName": "Mark Dubowitz",
-      "ownerType": "Think tank",
-      "countryId": "usa",
-      "profileHref": "/country/usa/think-tanks/mark-dubowitz",
-      "text": "My latest with @FDD @miadmaleki: @POTUS should instruct his intelligence community to develop an operational plan to stand with the Iranian people. \n\nNo American boots on the ground, no money to the mullahs &amp; IRGC, support for the people to overthrow the Islamist regime. https://t.co/UsEoyQowAB",
-      "createdAt": "2026-07-17T07:36:19Z",
-      "timestamp": 1784273779,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 18,
-        "reply_count": 12,
-        "like_count": 90,
-        "quote_count": 2,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/mdubowitz/status/2078020961433981329"
-    },
-    {
-      "id": "2077986373194145849",
-      "handle": "repdonbacon",
-      "username": "RepDonBacon",
-      "displayName": null,
-      "ownerName": "Don Bacon",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/don-bacon",
-      "text": "https://t.co/OFMkI4UR3X",
-      "createdAt": "2026-07-17T05:18:53Z",
-      "timestamp": 1784265533,
-      "tweetType": "tweet",
-      "language": "zxx",
-      "metrics": {
-        "retweet_count": 46,
-        "reply_count": 108,
-        "like_count": 617,
-        "quote_count": 5,
-        "bookmark_count": 6,
-        "view_count": 32365
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDonBacon/status/2077986373194145849"
-    },
-    {
-      "id": "2077979724542771550",
-      "handle": "senwhitehouse",
-      "username": "SenWhitehouse",
-      "displayName": null,
-      "ownerName": "Sheldon Whitehouse",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/sheldon-whitehouse",
-      "text": "RT @MarkWarner: That was an embarrassing speech with no new info – just lies and rehashed conspiracies. It’s incumbent on ALL of us not to…",
-      "createdAt": "2026-07-17T04:52:27Z",
-      "timestamp": 1784263947,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 152,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1060
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenWhitehouse/status/2077979724542771550"
-    },
-    {
-      "id": "2077976206738072014",
-      "handle": "repdonbacon",
-      "username": "RepDonBacon",
-      "displayName": null,
-      "ownerName": "Don Bacon",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/don-bacon",
-      "text": "Primarily through the Bipartisan Infrastructure Bill, our team brought in $120M to modernize our airport. I want the best airport in the region. This investment will impact decades.",
-      "createdAt": "2026-07-17T04:38:29Z",
-      "timestamp": 1784263109,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 10,
-        "like_count": 27,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 6120
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepDonBacon/status/2077976206738072014"
-    },
-    {
-      "id": "2077975937732460883",
-      "handle": "repdesaulnier",
-      "username": "RepDeSaulnier",
-      "displayName": null,
-      "ownerName": "Mark DeSaulnier",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-desaulnier",
-      "text": "President Trump has made clear that he is not interested in working to lower costs for American families – his priority is to make it harder for American citizens to vote.",
-      "createdAt": "2026-07-17T04:37:25Z",
-      "timestamp": 1784263045,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 6,
-        "like_count": 8,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 452
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepDeSaulnier/status/2077975937732460883"
-    },
-    {
-      "id": "2077975939540279722",
-      "handle": "repdesaulnier",
-      "username": "RepDeSaulnier",
-      "displayName": null,
-      "ownerName": "Mark DeSaulnier",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-desaulnier",
-      "text": "Here’s a reminder about the dangers posed by Trump’s voter suppression bill: https://t.co/8pKp0xinDJ",
-      "createdAt": "2026-07-17T04:37:25Z",
-      "timestamp": 1784263045,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 5,
-        "like_count": 3,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 255
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/8pKp0xinDJ",
-          "expanded_url": "https://www.npr.org/2025/03/12/nx-s1-5301676/save-act-explainer-voter-registration",
-          "display_url": "npr.org/2025/03/12/nx-…"
-        }
-      ],
-      "url": "https://x.com/RepDeSaulnier/status/2077975939540279722"
-    },
-    {
-      "id": "2077973594068414645",
-      "handle": "repdonbacon",
-      "username": "RepDonBacon",
-      "displayName": null,
-      "ownerName": "Don Bacon",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/don-bacon",
-      "text": "JD Vance = Tucker Carlson. \n\nNo thanks.",
-      "createdAt": "2026-07-17T04:28:06Z",
-      "timestamp": 1784262486,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 588,
-        "reply_count": 534,
-        "like_count": 6326,
-        "quote_count": 40,
-        "bookmark_count": 76,
-        "view_count": 107612
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDonBacon/status/2077973594068414645"
-    },
-    {
-      "id": "2077972459869933962",
-      "handle": "jahimes",
-      "username": "jahimes",
-      "displayName": null,
-      "ownerName": "James A. Himes",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-a-himes",
-      "text": "RT @atrupar: Rep. Himes: \"The president was setting the basis for him to turn around on election night and say, 'I warned you that the Chin…",
-      "createdAt": "2026-07-17T04:23:35Z",
-      "timestamp": 1784262215,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1743,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 121
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/jahimes/status/2077972459869933962"
-    },
-    {
-      "id": "2077972217103577570",
-      "handle": "repdonbacon",
-      "username": "RepDonBacon",
-      "displayName": null,
-      "ownerName": "Don Bacon",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/don-bacon",
-      "text": "RT @dcexaminer: .@RepFine says JD Vance is out of step with GOP on Israel amid MAGA tensions.\nhttps://t.co/A1d7n9t6Z7",
-      "createdAt": "2026-07-17T04:22:38Z",
-      "timestamp": 1784262158,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 316
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/A1d7n9t6Z7",
-          "expanded_url": "https://trib.al/WEntAwJ",
-          "display_url": "trib.al/WEntAwJ"
-        }
-      ],
-      "url": "https://x.com/RepDonBacon/status/2077972217103577570"
-    },
-    {
-      "id": "2077970992601690571",
-      "handle": "markwarner",
-      "username": "MarkWarner",
-      "displayName": null,
-      "ownerName": "Mark R. Warner",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-r-warner",
-      "text": "RT @Acyn: Warner on CBS: I was embarrassed that the president went before our country and networks like yours carried this as news as oppos…",
-      "createdAt": "2026-07-17T04:17:46Z",
-      "timestamp": 1784261866,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3258,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 444
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/MarkWarner/status/2077970992601690571"
-    },
-    {
-      "id": "2077969833719685557",
-      "handle": "markwarner",
-      "username": "MarkWarner",
-      "displayName": null,
-      "ownerName": "Mark R. Warner",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-r-warner",
-      "text": "RT @KDilanianMSNOW: Sen. Mark Warner just told our @MSNow audience that everything Trump raised tonight had been examined by the Senate int…",
-      "createdAt": "2026-07-17T04:13:09Z",
-      "timestamp": 1784261589,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 690,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 482
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/MarkWarner/status/2077969833719685557"
-    },
-    {
-      "id": "2077969527606841472",
-      "handle": "markwarner",
-      "username": "MarkWarner",
-      "displayName": null,
-      "ownerName": "Mark R. Warner",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-r-warner",
-      "text": "RT @TVietor08: Trump released documents that confirm Russia tried to interfere in the 2020 election to hurt Biden. It says Russia tried to…",
-      "createdAt": "2026-07-17T04:11:56Z",
-      "timestamp": 1784261516,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2486,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 509
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/MarkWarner/status/2077969527606841472"
-    },
-    {
-      "id": "2077968579262116319",
-      "handle": "repdonbacon",
-      "username": "RepDonBacon",
-      "displayName": null,
-      "ownerName": "Don Bacon",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/don-bacon",
-      "text": "RT @NYPostOpinion: JD Vance is disgracefully wrong to blame Israel for his Iran peace deal’s failure https://t.co/DvPVaufCuc https://t.co/0…",
-      "createdAt": "2026-07-17T04:08:10Z",
-      "timestamp": 1784261290,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 366,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 346
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/DvPVaufCuc",
-          "expanded_url": "https://trib.al/wkPQb2x",
-          "display_url": "trib.al/wkPQb2x"
-        },
-        {
-          "url": "https://t.co/0",
-          "expanded_url": "https://x.com/iok",
-          "display_url": "x.com/iok"
-        }
-      ],
-      "url": "https://x.com/RepDonBacon/status/2077968579262116319"
-    },
-    {
-      "id": "2077966589245194650",
-      "handle": "congressmanraja",
-      "username": "CongressmanRaja",
-      "displayName": null,
-      "ownerName": "Raja Krishnamoorthi",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/raja-krishnamoorthi",
-      "text": "In tonight's primetime address, President Trump tried to rewrite the history of the 2020 election and lay the groundwork for an unprecedented federal takeover of the 2026 elections.\nMy full statement: https://t.co/jvJVA4mzBZ https://t.co/gB3ZWi71UD",
-      "createdAt": "2026-07-17T04:00:16Z",
-      "timestamp": 1784260816,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 15,
-        "reply_count": 10,
-        "like_count": 33,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 1288
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/jvJVA4mzBZ",
-          "expanded_url": "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-responds-trumps-primetime-election-address-warns-it-could-lay",
-          "display_url": "krishnamoorthi.house.gov/media/press-re…"
-        }
-      ],
-      "url": "https://x.com/CongressmanRaja/status/2077966589245194650"
-    },
-    {
-      "id": "2077966052302913880",
-      "handle": "speakerpelosi",
-      "username": "SpeakerPelosi",
-      "displayName": null,
-      "ownerName": "Nancy Pelosi",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/nancy-pelosi",
-      "text": "Obviously, Donald Trump is a loser.",
-      "createdAt": "2026-07-17T03:58:08Z",
-      "timestamp": 1784260688,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5847,
-        "reply_count": 18666,
-        "like_count": 58896,
-        "quote_count": 1301,
-        "bookmark_count": 737,
-        "view_count": 2909292
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SpeakerPelosi/status/2077966052302913880"
-    },
-    {
-      "id": "2077965646017519690",
-      "handle": "repgregstanton",
-      "username": "RepGregStanton",
-      "displayName": null,
-      "ownerName": "Greg Stanton",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/greg-stanton",
-      "text": "Trump is pushing the same Big Lie he's sold for years.\n\nOld declassified info or a primetime address doesn’t make his claims any more credible. Courts, audits, and recounts have all rejected them again and again.\n\nThis is a deliberate strategy to undermine faith in our elections",
-      "createdAt": "2026-07-17T03:56:31Z",
-      "timestamp": 1784260591,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 30,
-        "like_count": 28,
-        "quote_count": 1,
-        "bookmark_count": 1,
-        "view_count": 1240
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepGregStanton/status/2077965646017519690"
-    },
-    {
-      "id": "2077965151148392575",
-      "handle": "repluna",
-      "username": "RepLuna",
-      "displayName": null,
-      "ownerName": "Anna Paulina Luna",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/anna-paulina-luna",
-      "text": "The FBI NEEDS to release the China file on Swallwell.",
-      "createdAt": "2026-07-17T03:54:33Z",
-      "timestamp": 1784260473,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2941,
-        "reply_count": 516,
-        "like_count": 23301,
-        "quote_count": 65,
-        "bookmark_count": 118,
-        "view_count": 142998
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepLuna/status/2077965151148392575"
-    },
-    {
-      "id": "2077964502520168747",
-      "handle": "markwarner",
-      "username": "MarkWarner",
-      "displayName": null,
-      "ownerName": "Mark R. Warner",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/mark-r-warner",
-      "text": "That was an embarrassing speech with no new info – just lies and rehashed conspiracies. It’s incumbent on ALL of us not to treat that like real news. https://t.co/6V1Dnq3VjR",
-      "createdAt": "2026-07-17T03:51:58Z",
-      "timestamp": 1784260318,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 152,
-        "reply_count": 992,
-        "like_count": 395,
-        "quote_count": 57,
-        "bookmark_count": 23,
-        "view_count": 175448
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/MarkWarner/status/2077964502520168747"
-    },
-    {
-      "id": "2077964385385930846",
-      "handle": "repdonbacon",
-      "username": "RepDonBacon",
-      "displayName": null,
-      "ownerName": "Don Bacon",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/don-bacon",
-      "text": "RT @marklevinshow: The VP owes Israel and millions of its American supporters an apology.  The Iranian terrorist regime rejected the MOU as…",
-      "createdAt": "2026-07-17T03:51:30Z",
-      "timestamp": 1784260290,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3124,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 306
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepDonBacon/status/2077964385385930846"
-    },
-    {
-      "id": "2077962373873168764",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": null,
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "What the President presented tonight was not a leveling with the American people. It was a renewed attempt to inject fear and cloud reality ahead of the next election in November and provide pretext for seizing voter data, and discrediting and interfering with election results.",
-      "createdAt": "2026-07-17T03:43:31Z",
-      "timestamp": 1784259811,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 53,
-        "reply_count": 122,
-        "like_count": 565,
-        "quote_count": 3,
-        "bookmark_count": 14,
-        "view_count": 90864
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077962373873168764"
-    },
-    {
-      "id": "2077962371566313702",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": null,
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "Under Trump’s leadership, he has gutted resources committed to combatting foreign malign influence. Funding for the Cybersecurity and Infrastructure Security Agency and local election security grants have been slashed under the Trump administration. Seasoned FBI and other federal",
-      "createdAt": "2026-07-17T03:43:30Z",
-      "timestamp": 1784259810,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 38,
-        "reply_count": 12,
-        "like_count": 466,
-        "quote_count": 1,
-        "bookmark_count": 10,
-        "view_count": 41366
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077962371566313702"
-    },
-    {
-      "id": "2077962368898712001",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "The reality is that foreign governments do try to influence our elections—in fact, Trump has previously encouraged Russia to do exactly that. He has also repeatedly ignored and dismissed previous, credible intelligence about foreign interference in elections because it did not",
-      "createdAt": "2026-07-17T03:43:30Z",
-      "timestamp": 1784259810,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 29,
-        "reply_count": 5,
-        "like_count": 453,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077962368898712001"
-    },
-    {
-      "id": "2077962366151467060",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "All of his claims and the selective release of any documents must be treated with the greatest skepticism given the President’s many lies and misrepresentations about our elections. Even so, tonight he produced no evidence that China or any other country manipulated a single U.S.",
-      "createdAt": "2026-07-17T03:43:29Z",
-      "timestamp": 1784259809,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 35,
-        "reply_count": 6,
-        "like_count": 507,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077962366151467060"
-    },
-    {
-      "id": "2077962362770895114",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "Trump knows he has failed to deliver on any of his campaign promises, has raised costs of American families instead of lowering them, and gotten us into another Middle Eastern war nobody wanted. Terrified that voters will send his party packing in the midterms, he is falling back",
-      "createdAt": "2026-07-17T03:43:28Z",
-      "timestamp": 1784259808,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 37,
-        "reply_count": 37,
-        "like_count": 585,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077962362770895114"
-    },
-    {
-      "id": "2077962357846773978",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": "Senator Adam Schiff",
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "Tonight, the same President who once badgered Georgia’s Republican Secretary of State to find 11,780 votes that didn’t exist, so he could overtake Biden’s lead in the state in 2020, put out a whole new set of lies about our elections, past and present.",
-      "createdAt": "2026-07-17T03:43:27Z",
-      "timestamp": 1784259807,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 58,
-        "reply_count": 56,
-        "like_count": 701,
-        "quote_count": 3,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077962357846773978"
-    },
-    {
-      "id": "2077962354893992009",
-      "handle": "senadamschiff",
-      "username": "SenAdamSchiff",
-      "displayName": null,
-      "ownerName": "Adam B. Schiff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/adam-b-schiff",
-      "text": "So about that speech:🧵",
-      "createdAt": "2026-07-17T03:43:26Z",
-      "timestamp": 1784259806,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 172,
-        "reply_count": 159,
-        "like_count": 2014,
-        "quote_count": 7,
-        "bookmark_count": 204,
-        "view_count": 291397
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenAdamSchiff/status/2077962354893992009"
     }
   ],
   "notes": [
