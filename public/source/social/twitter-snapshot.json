@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T08:31:20.226680Z",
+  "generatedAt": "2026-09-13T13:28:30.898872Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-09-13T08:31:00.801Z",
+    "generatedAt": "2026-09-13T13:27:52.362Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 57334,
+    "tweets": 57337,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-09-13T08:31:18.348912Z",
+  "lastCaptureAt": "2026-09-13T13:28:29.110969Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-13T08:31:18.348912Z",
+      "lastScrapedAt": "2026-09-13T13:28:11.615104Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4707,
@@ -31519,10 +31519,10 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T22:46:02.159533Z",
+      "lastScrapedAt": "2026-09-13T13:28:12.965037Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
-      "followersCount": 17923,
+      "followersCount": 17924,
       "followingCount": 393,
       "verified": true
     },
@@ -31944,7 +31944,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T22:46:17.763928Z",
+      "lastScrapedAt": "2026-09-13T13:28:29.110969Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1089,
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-13T08:31:18.348912Z",
+      "lastScrapedAt": "2026-09-13T13:28:11.615104Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4707,
@@ -41772,10 +41772,10 @@
       "profileHref": "/country/usa/congress/bruce-westerman",
       "url": "https://x.com/RepWesterman",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T22:46:02.159533Z",
+      "lastScrapedAt": "2026-09-13T13:28:12.965037Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1642939163505836037/SEBSADoK_normal.jpg",
-      "followersCount": 17923,
+      "followersCount": 17924,
       "followingCount": 393,
       "verified": true
     },
@@ -42197,7 +42197,7 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-09-10T22:46:17.763928Z",
+      "lastScrapedAt": "2026-09-13T13:28:29.110969Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 1089,
@@ -48854,6 +48854,92 @@
   ],
   "tweets": [
     {
+      "id": "2098432153126056223",
+      "handle": "repfields",
+      "username": "repfields",
+      "displayName": null,
+      "ownerName": "Cleo Fields",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cleo-fields",
+      "text": "On this 25th anniversary of September 11, we honor the lives lost and the countless families forever changed.\n\nTime moves forward, but we will never forget. 🇺🇸 https://t.co/tqFScsn4NP",
+      "createdAt": "2026-09-11T15:23:06Z",
+      "timestamp": 1789140186,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 57
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/repfields/status/2098432153126056223"
+    },
+    {
+      "id": "2098420155927732617",
+      "handle": "repwesterman",
+      "username": "RepWesterman",
+      "displayName": "Rep. Bruce Westerman",
+      "ownerName": "Bruce Westerman",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/bruce-westerman",
+      "text": "🇺🇸25 years later. We will never forget. https://t.co/G8G5QxAFsR",
+      "createdAt": "2026-09-11T14:35:26Z",
+      "timestamp": 1789137326,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepWesterman/status/2098420155927732617"
+    },
+    {
+      "id": "2098228804057477123",
+      "handle": "repfields",
+      "username": "repfields",
+      "displayName": null,
+      "ownerName": "Cleo Fields",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cleo-fields",
+      "text": "Voting rights are on the line. Join me and leading voices in the fight for voting rights at #ALC55 for a timely conversation on Louisiana v. Callais, the Voting Rights Act, and what’s at stake for fair representation. https://t.co/Lau8f3yRUG",
+      "createdAt": "2026-09-11T01:55:04Z",
+      "timestamp": 1789091704,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 100
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/repfields/status/2098228804057477123"
+    },
+    {
       "id": "2098099494365643085",
       "handle": "repdavejoyce",
       "username": "RepDaveJoyce",
@@ -49454,7 +49540,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 145
+        "view_count": 157
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -50699,7 +50785,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 131
+        "view_count": 134
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -52518,7 +52604,7 @@
         "like_count": 7,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 582
+        "view_count": 585
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -82325,7 +82411,7 @@
         "like_count": 45,
         "quote_count": 13,
         "bookmark_count": 12,
-        "view_count": 86462
+        "view_count": 86464
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122751,96 +122837,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/jahimes/status/2078093701255991583"
-    },
-    {
-      "id": "2078092688981622812",
-      "handle": "jahimes",
-      "username": "jahimes",
-      "displayName": null,
-      "ownerName": "James A. Himes",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/james-a-himes",
-      "text": "And many of my Republican colleagues happily spread the lies generated by Russian intelligence.",
-      "createdAt": "2026-07-17T12:21:20Z",
-      "timestamp": 1784290880,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 30,
-        "reply_count": 18,
-        "like_count": 74,
-        "quote_count": 0,
-        "bookmark_count": 4,
-        "view_count": 2237
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/jahimes/status/2078092688981622812"
-    },
-    {
-      "id": "2078092483171619191",
-      "handle": "johncornyn",
-      "username": "JohnCornyn",
-      "displayName": null,
-      "ownerName": "John Cornyn",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/john-cornyn",
-      "text": "RT @TxDPSSouth: 🚁 Aerial footage shows multiple roadways submerged by flooding in Uvalde County.\n\n⚠️ If you don’t need to travel, stay home…",
-      "createdAt": "2026-07-17T12:20:31Z",
-      "timestamp": 1784290831,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 15,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 622
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/JohnCornyn/status/2078092483171619191"
-    },
-    {
-      "id": "2078092369023381993",
-      "handle": "congressmanraja",
-      "username": "CongressmanRaja",
-      "displayName": null,
-      "ownerName": "Raja Krishnamoorthi",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/raja-krishnamoorthi",
-      "text": "Iran's leverage doesn't come from strength alone. It comes from the world's dependence on fossil fuels.\nIf we're serious about weakening Iran, we should be investing in American clean energy—not making ourselves more dependent on the very fuels that give hostile regimes their https://t.co/OCtkJnV1Zg",
-      "createdAt": "2026-07-17T12:20:04Z",
-      "timestamp": 1784290804,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 43,
-        "reply_count": 5,
-        "like_count": 114,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 1381
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [
-        "Oil / Energy"
-      ],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/CongressmanRaja/status/2078092369023381993"
     }
   ],
   "notes": [
