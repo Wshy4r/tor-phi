@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T14:13:17.393596Z",
+  "generatedAt": "2026-09-15T18:25:43.179960Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-09-15T14:12:22.803Z",
+    "generatedAt": "2026-09-15T18:25:23.790Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2148,7 +2148,7 @@
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-09-15T14:13:16.392708Z",
+  "lastCaptureAt": "2026-09-15T18:25:41.401392Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-15T14:12:40.631746Z",
+      "lastScrapedAt": "2026-09-15T18:25:41.401392Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4703,
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-15T14:12:40.631746Z",
+      "lastScrapedAt": "2026-09-15T18:25:41.401392Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4703,
@@ -55093,6 +55093,34 @@
       "url": "https://x.com/repdeliaramirez/status/2094876358111277390"
     },
     {
+      "id": "2094868094288036273",
+      "handle": "repdeliaramirez",
+      "username": "repdeliaramirez",
+      "displayName": null,
+      "ownerName": "Delia C. Ramirez",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/delia-c-ramirez",
+      "text": "Today, we received notice of another death in ICE detention. We also learned that a 20-year-old Haitian immigrant, Pierre Damas Bel, took his own life in Springfield, Ohio, after the Trump Administration ended TPS for Haitians and fitted him with an ankle monitor.",
+      "createdAt": "2026-09-01T19:20:49Z",
+      "timestamp": 1788290449,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 64,
+        "reply_count": 69,
+        "like_count": 218,
+        "quote_count": 4,
+        "bookmark_count": 12,
+        "view_count": 5410
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/repdeliaramirez/status/2094868094288036273"
+    },
+    {
       "id": "2094868095852765543",
       "handle": "repdeliaramirez",
       "username": "repdeliaramirez",
@@ -55149,34 +55177,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repdeliaramirez/status/2094868097475698953"
-    },
-    {
-      "id": "2094868094288036273",
-      "handle": "repdeliaramirez",
-      "username": "repdeliaramirez",
-      "displayName": null,
-      "ownerName": "Delia C. Ramirez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/delia-c-ramirez",
-      "text": "Today, we received notice of another death in ICE detention. We also learned that a 20-year-old Haitian immigrant, Pierre Damas Bel, took his own life in Springfield, Ohio, after the Trump Administration ended TPS for Haitians and fitted him with an ankle monitor.",
-      "createdAt": "2026-09-01T19:20:49Z",
-      "timestamp": 1788290449,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 64,
-        "reply_count": 69,
-        "like_count": 218,
-        "quote_count": 4,
-        "bookmark_count": 12,
-        "view_count": 5410
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repdeliaramirez/status/2094868094288036273"
     },
     {
       "id": "2094866204494094567",
@@ -85986,7 +85986,7 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 188
+        "view_count": 189
       },
       "tags": [],
       "kurdistanTerms": [],
