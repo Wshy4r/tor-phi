@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:09:02.277942Z",
+  "generatedAt": "2026-09-24T17:29:32.093025Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-09-24T12:08:39.848Z",
+    "generatedAt": "2026-09-24T17:29:13.906Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 58718,
+    "tweets": 58719,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-09-24T12:09:00.788417Z",
+  "lastCaptureAt": "2026-09-24T17:29:30.240230Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-24T12:09:00.788417Z",
+      "lastScrapedAt": "2026-09-24T17:29:30.240230Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4703,
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-24T12:09:00.788417Z",
+      "lastScrapedAt": "2026-09-24T17:29:30.240230Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4703,
@@ -48853,6 +48853,34 @@
     }
   ],
   "tweets": [
+    {
+      "id": "2103138194841915437",
+      "handle": "repamata",
+      "username": "RepAmata",
+      "displayName": null,
+      "ownerName": "Aumua Amata Coleman Radewagen",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
+      "text": "A $250,586 CDC award to ASDOH will strengthen epidemiology, laboratory capacity, and infectious disease surveillance in American Samoa.\n\nThank you to Epidemiologist Adam Konrote, Dr. Saipale Fuimaono, and our medical professionals working to keep our people safe. https://t.co/7M10nwpQYg",
+      "createdAt": "2026-09-24T15:03:14Z",
+      "timestamp": 1790262194,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 155
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepAmata/status/2103138194841915437"
+    },
     {
       "id": "2102079314409717977",
       "handle": "repericsorensen",
@@ -114498,7 +114526,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 118
+        "view_count": 119
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -114528,7 +114556,7 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 1,
-        "view_count": 205
+        "view_count": 206
       },
       "tags": [],
       "kurdistanTerms": [],
@@ -122794,44 +122822,6 @@
       ],
       "urls": [],
       "url": "https://x.com/RepCarlos/status/2079616351212036490"
-    },
-    {
-      "id": "2079615932687642913",
-      "handle": "repbencline",
-      "username": "RepBenCline",
-      "displayName": "Congressman Ben Cline",
-      "ownerName": "Ben Cline",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ben-cline",
-      "text": "This concerning data proves what @HouseGOP has been saying for years: illegal immigration is not just a border security issue, but an economic security issue as well.\n\nhttps://t.co/tVTtXd7Aks",
-      "createdAt": "2026-07-21T17:14:10Z",
-      "timestamp": 1784654050,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 4,
-        "like_count": 11,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism",
-        "Energy / economic",
-        "Critical / hostile language"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/tVTtXd7Aks",
-          "expanded_url": "https://nypost.com/2026/07/05/real-estate/bidens-illegal-immigration-surge-triggered-rise-in-home-rent-prices-fed-paper/?utm_campaign=nypost&utm_medium=social&utm_source=twitter",
-          "display_url": "nypost.com/2026/07/05/rea…"
-        }
-      ],
-      "url": "https://x.com/RepBenCline/status/2079615932687642913"
     }
   ],
   "notes": [
