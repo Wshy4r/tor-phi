@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:10:27.864834Z",
+  "generatedAt": "2026-09-25T22:42:41.894704Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-09-25T19:10:09.148Z",
+    "generatedAt": "2026-09-25T22:41:47.541Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2144,11 +2144,11 @@
     "uniqueHandles": 2235,
     "capturedAccounts": 512,
     "errorAccounts": 8,
-    "tweets": 58719,
+    "tweets": 58777,
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-09-25T19:10:25.997680Z",
+  "lastCaptureAt": "2026-09-25T22:42:40.892612Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-25T19:10:25.997680Z",
+      "lastScrapedAt": "2026-09-25T22:42:05.334512Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4703,
@@ -31944,10 +31944,10 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-09-21T18:18:56.354550Z",
+      "lastScrapedAt": "2026-09-25T22:42:06.651267Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909677978503598080/z92bkg7V_normal.jpg",
-      "followersCount": 1091,
+      "followersCount": 1090,
       "followingCount": 173,
       "verified": true
     },
@@ -32760,10 +32760,10 @@
       "profileHref": "/country/usa/congress/elise-m-stefanik",
       "url": "https://x.com/RepStefanik",
       "status": "captured",
-      "lastScrapedAt": "2026-09-21T18:19:12.878287Z",
+      "lastScrapedAt": "2026-09-25T22:42:23.533052Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 638520,
+      "followersCount": 638222,
       "followingCount": 810,
       "verified": false
     },
@@ -32956,7 +32956,7 @@
     },
     {
       "username": "RepFrankLucas",
-      "displayName": "Frank D. Lucas",
+      "displayName": "Frank Lucas",
       "ownerName": "Frank D. Lucas",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -32964,12 +32964,12 @@
       "profileHref": "/country/usa/congress/frank-d-lucas",
       "url": "https://x.com/RepFrankLucas",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T21:34:23.730594Z",
+      "lastScrapedAt": "2026-09-25T22:42:24.925171Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 27215,
-      "followingCount": 511,
-      "verified": false
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/628275690253774848/4zKOn1iP_normal.png",
+      "followersCount": 27165,
+      "followingCount": 512,
+      "verified": true
     },
     {
       "username": "RepMrvan",
@@ -32981,10 +32981,10 @@
       "profileHref": "/country/usa/congress/frank-j-mrvan",
       "url": "https://x.com/RepMrvan",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T21:34:41.587591Z",
+      "lastScrapedAt": "2026-09-25T22:42:40.892612Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 6436,
+      "followersCount": 6458,
       "followingCount": 459,
       "verified": false
     },
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-25T19:10:25.997680Z",
+      "lastScrapedAt": "2026-09-25T22:42:05.334512Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4703,
@@ -42197,10 +42197,10 @@
       "profileHref": "/country/usa/congress/cleo-fields",
       "url": "https://x.com/repfields",
       "status": "captured",
-      "lastScrapedAt": "2026-09-21T18:18:56.354550Z",
+      "lastScrapedAt": "2026-09-25T22:42:06.651267Z",
       "lastError": null,
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909677978503598080/z92bkg7V_normal.jpg",
-      "followersCount": 1091,
+      "followersCount": 1090,
       "followingCount": 173,
       "verified": true
     },
@@ -43013,10 +43013,10 @@
       "profileHref": "/country/usa/congress/elise-m-stefanik",
       "url": "https://x.com/RepStefanik",
       "status": "captured",
-      "lastScrapedAt": "2026-09-21T18:19:12.878287Z",
+      "lastScrapedAt": "2026-09-25T22:42:23.533052Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 638520,
+      "followersCount": 638222,
       "followingCount": 810,
       "verified": false
     },
@@ -43209,7 +43209,7 @@
     },
     {
       "username": "RepFrankLucas",
-      "displayName": "Frank D. Lucas",
+      "displayName": "Frank Lucas",
       "ownerName": "Frank D. Lucas",
       "ownerType": "Congress",
       "countryId": "usa",
@@ -43217,12 +43217,12 @@
       "profileHref": "/country/usa/congress/frank-d-lucas",
       "url": "https://x.com/RepFrankLucas",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T21:34:23.730594Z",
+      "lastScrapedAt": "2026-09-25T22:42:24.925171Z",
       "lastError": null,
-      "profileImageUrl": null,
-      "followersCount": 27215,
-      "followingCount": 511,
-      "verified": false
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/628275690253774848/4zKOn1iP_normal.png",
+      "followersCount": 27165,
+      "followingCount": 512,
+      "verified": true
     },
     {
       "username": "RepMrvan",
@@ -43234,10 +43234,10 @@
       "profileHref": "/country/usa/congress/frank-j-mrvan",
       "url": "https://x.com/RepMrvan",
       "status": "captured",
-      "lastScrapedAt": "2026-07-17T21:34:41.587591Z",
+      "lastScrapedAt": "2026-09-25T22:42:40.892612Z",
       "lastError": null,
       "profileImageUrl": null,
-      "followersCount": 6436,
+      "followersCount": 6458,
       "followingCount": 459,
       "verified": false
     },
@@ -48854,6 +48854,62 @@
   ],
   "tweets": [
     {
+      "id": "2103538920487022664",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "I am thrilled to announce the 2026 Congressional App Challenge is now open to middle and high school students who are passionate about computer science and technology.  This annual competition is a fantastic hands-on opportunity for students to code their own app and learn more",
+      "createdAt": "2026-09-25T17:35:35Z",
+      "timestamp": 1790357735,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 107
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2103538920487022664"
+    },
+    {
+      "id": "2103218394480697784",
+      "handle": "repfields",
+      "username": "RepFields",
+      "displayName": "Congressman Cleo Fields",
+      "ownerName": "Cleo Fields",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/cleo-fields",
+      "text": "Some visits just mean a little more. 💛💙\n\nToday, Congress to the Classroom brought me back to my beloved alma mater, Southern University and A&amp;M College, for a special opportunity to engage with some of our state’s brightest young minds!\n\nWe took a deep dive into the branches of https://t.co/fPsf8X5v69",
+      "createdAt": "2026-09-24T20:21:55Z",
+      "timestamp": 1790281315,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepFields/status/2103218394480697784"
+    },
+    {
       "id": "2103138194841915437",
       "handle": "repamata",
       "username": "RepAmata",
@@ -48873,13 +48929,141 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "view_count": 227
+        "view_count": 229
       },
       "tags": [],
       "kurdistanTerms": [],
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepAmata/status/2103138194841915437"
+    },
+    {
+      "id": "2103124419770224795",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "The principle of my PRO-WORK Act is simple: Any company that locks out American workers should be locked out from receiving American tax dollars. https://t.co/9PRBZ4VQso",
+      "createdAt": "2026-09-24T14:08:30Z",
+      "timestamp": 1790258910,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 356
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2103124419770224795"
+    },
+    {
+      "id": "2102821820101476661",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As residents throughout Northwest Indiana continue to access storm assistance, I wanted to send a reminder about the One-Stop-Shop opening today in Gary and additional information from FEMA.  Please click below for my update and the latest information. https://t.co/ImRyQOcuoj",
+      "createdAt": "2026-09-23T18:06:05Z",
+      "timestamp": 1790186765,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 200
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/ImRyQOcuoj",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/wednesday-september-23-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2102821820101476661"
+    },
+    {
+      "id": "2102397078366536103",
+      "handle": "repfranklucas",
+      "username": "RepFrankLucas",
+      "displayName": "Frank Lucas",
+      "ownerName": "Frank D. Lucas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-d-lucas",
+      "text": "I’m grateful that the House passed the AM Radio for Every Vehicle Act last week. I was proud to support this legislation, which serves OK-03 well by maintaining emergency alerts, weather updates, and other critical programming to Oklahomans when they need it most.",
+      "createdAt": "2026-09-22T13:58:18Z",
+      "timestamp": 1790085498,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepFrankLucas/status/2102397078366536103"
+    },
+    {
+      "id": "2102079559600365862",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we move forward in the storm recovery, I wanted to share with you information regarding a new One-Stop-Shop location in Lake County for storm assistance.  For additional information, please click below for my latest storm update. https://t.co/KZcsQlkA5Y",
+      "createdAt": "2026-09-21T16:56:36Z",
+      "timestamp": 1790009796,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 198
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KZcsQlkA5Y",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/monday-september-21-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2102079559600365862"
     },
     {
       "id": "2102079314409717977",
@@ -49797,7 +49981,7 @@
       "language": "en",
       "metrics": {
         "retweet_count": 0,
-        "reply_count": 3,
+        "reply_count": 6,
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
@@ -51509,6 +51693,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDonBacon/status/2100631140696547770"
+    },
+    {
+      "id": "2100629836154667341",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Spoke on the House floor yesterday to share what I heard directly from NWI farmers on my Agricultural Advisory Council.  Our farmers are getting crushed, and we must listen and act and give our farmers the stability they need to keep feeding America. https://t.co/exwxZdSYYv",
+      "createdAt": "2026-09-17T16:55:55Z",
+      "timestamp": 1789664155,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 319
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2100629836154667341"
     },
     {
       "id": "2100625280041668789",
@@ -53621,6 +53835,40 @@
         }
       ],
       "url": "https://x.com/RepVindman/status/2100240024524513441"
+    },
+    {
+      "id": "2100239068453810210",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Today, I wanted to share information on FEMA Rental Assistance that is available to those impacted by the August 11 storm.  For additional information, please click below for my latest storm update.\nhttps://t.co/QLh9rm3yaJ",
+      "createdAt": "2026-09-16T15:03:09Z",
+      "timestamp": 1789570989,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 269
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/QLh9rm3yaJ",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/wednesday-september-16-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2100239068453810210"
     },
     {
       "id": "2100231757115040053",
@@ -58243,6 +58491,34 @@
       "url": "https://x.com/RepDianaDeGette/status/2098581127401181231"
     },
     {
+      "id": "2098569783533027615",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Wishing everyone celebrating #RoshHashanah in Northwest Indiana a sweet and happy new year. https://t.co/RfBtnknISi",
+      "createdAt": "2026-09-12T00:30:00Z",
+      "timestamp": 1789173000,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 302
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2098569783533027615"
+    },
+    {
       "id": "2098554683644059652",
       "handle": "repdinatitus",
       "username": "RepDinaTitus",
@@ -59976,6 +60252,66 @@
       "url": "https://x.com/RepDonBeyer/status/2098408837321519149"
     },
     {
+      "id": "2098407766691840371",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we recognize the 25th anniversary of 9/11, let us remember the bravery and sacrifice of all of our first responders, and recommit to ensuring that they have the resources and training to safely perform their duties every day. https://t.co/iTQq70dC7r",
+      "createdAt": "2026-09-11T13:46:12Z",
+      "timestamp": 1789134372,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 190
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2098407766691840371"
+    },
+    {
+      "id": "2098407430958797227",
+      "handle": "repfranklucas",
+      "username": "RepFrankLucas",
+      "displayName": "Frank Lucas",
+      "ownerName": "Frank D. Lucas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-d-lucas",
+      "text": "This morning, on the 25th anniversary of the terrorist attacks on September 11, 2001, we pause to remember the senseless act of evil and mourn the thousands of innocent lives who perished. \n\nWe also honor the brave and courageous first responders that selflessly and without https://t.co/cepG0RFmOy",
+      "createdAt": "2026-09-11T13:44:52Z",
+      "timestamp": 1789134292,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepFrankLucas/status/2098407430958797227"
+    },
+    {
       "id": "2098406755726192890",
       "handle": "repdeliaramirez",
       "username": "repdeliaramirez",
@@ -60794,6 +61130,42 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDinaTitus/status/2098140686599979021"
+    },
+    {
+      "id": "2098138003780628809",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue in the storm recovery, I wanted to share updates below on assistance from the United Way Northwest Indiana and the One-Stop-Shop happening now in Portage.  For additional information, please click below for my daily update: https://t.co/SDkz9Ygdcf",
+      "createdAt": "2026-09-10T19:54:16Z",
+      "timestamp": 1789070056,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 224
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SDkz9Ygdcf",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/thursday-september-10-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2098138003780628809"
     },
     {
       "id": "2098137814202200458",
@@ -62316,6 +62688,42 @@
       "url": "https://x.com/RepDinaTitus/status/2097718219008020625"
     },
     {
+      "id": "2097702081045897388",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue in the storm recovery, I wanted to share information provided by FEMA regarding the disaster assistance appeal process.  For additional information, please click below for my daily update. https://t.co/IUCvRCJPsa",
+      "createdAt": "2026-09-09T15:02:04Z",
+      "timestamp": 1788966124,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 265
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IUCvRCJPsa",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/wednesday-september-9-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2097702081045897388"
+    },
+    {
       "id": "2097699887739437275",
       "handle": "repdonbeyer",
       "username": "RepDonBeyer",
@@ -63320,6 +63728,42 @@
       "url": "https://x.com/repdeliaramirez/status/2097355592490762322"
     },
     {
+      "id": "2097351259149701450",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue in the storm recovery, I wanted to share information today on certain assistance that is now available from the City of Gary.  For additional details, please click below for my daily update.\nhttps://t.co/X6TV5BKJ7O",
+      "createdAt": "2026-09-08T15:48:01Z",
+      "timestamp": 1788882481,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 235
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/X6TV5BKJ7O",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/tuesday-september-8-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2097351259149701450"
+    },
+    {
       "id": "2097349290939027750",
       "handle": "repvindman",
       "username": "RepVindman",
@@ -63873,6 +64317,40 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDeborahRoss/status/2097039334671331759"
+    },
+    {
+      "id": "2097033286920860097",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we take a moment to stand in solidarity with all members of organized labor today, I also wanted to share this daily storm update with information on the Mobile Registration Intake Center in Lake Station happening this week. https://t.co/0hQRO49swc",
+      "createdAt": "2026-09-07T18:44:31Z",
+      "timestamp": 1788806671,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 239
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/0hQRO49swc",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/monday-september-7-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2097033286920860097"
     },
     {
       "id": "2097026110387335350",
@@ -64509,6 +64987,36 @@
       "url": "https://x.com/SenatorFischer/status/2096938325693046901"
     },
     {
+      "id": "2096931489862832128",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Happy #LaborDay Northwest Indiana! Today and every day, I am proud to stand in solidarity with members of organized labor and support your invaluable contributions to the strength of our regional economy and our community. https://t.co/9sJv2ZIp2X",
+      "createdAt": "2026-09-07T12:00:00Z",
+      "timestamp": 1788782400,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 294
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2096931489862832128"
+    },
+    {
       "id": "2096923938727104959",
       "handle": "repdavetaylor",
       "username": "RepDaveTaylor",
@@ -64720,6 +65228,42 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDWStweets/status/2096674987281195136"
+    },
+    {
+      "id": "2096645336655700019",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue in the storm recovery, I want to remind residents of the One-Stop-Shop in Porter County for storm assistance happening next week.  For additional information, please click below for my daily update. https://t.co/Ufca8QZyeK",
+      "createdAt": "2026-09-06T17:02:56Z",
+      "timestamp": 1788714176,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 221
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ufca8QZyeK",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/sunday-september-6-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2096645336655700019"
     },
     {
       "id": "2096638403592737047",
@@ -65259,6 +65803,42 @@
         }
       ],
       "url": "https://x.com/RepEdCase/status/2096301206851428741"
+    },
+    {
+      "id": "2096284221778051256",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue in the storm recovery, I want to share information below on disaster assistance currently available from the American Red Cross.  For additional information, please click below for my daily update. https://t.co/5zGlVulQe1",
+      "createdAt": "2026-09-05T17:08:00Z",
+      "timestamp": 1788628080,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 264
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5zGlVulQe1",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/saturday-september-5-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2096284221778051256"
     },
     {
       "id": "2096283886359584850",
@@ -66106,6 +66686,36 @@
       ],
       "urls": [],
       "url": "https://x.com/SenatorFischer/status/2095965261698338970"
+    },
+    {
+      "id": "2095961160432619692",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As Northwest Indiana continues to recover after the August storm, I wanted to share information on assistance from the U.S. Department of Agriculture for our farmers and agricultural producers who may have experienced damage or economic losses.  For additional information, please",
+      "createdAt": "2026-09-04T19:44:16Z",
+      "timestamp": 1788551056,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 257
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2095961160432619692"
     },
     {
       "id": "2095951733784502576",
@@ -67424,6 +68034,37 @@
       "url": "https://x.com/repdeliaramirez/status/2095595829767655503"
     },
     {
+      "id": "2095584775809495335",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue through the storm recovery, I wanted to share the latest information from the U.S. Small Business Administration on assistance that is currently available to small businesses in our region.  Please click below for my daily update with this information:",
+      "createdAt": "2026-09-03T18:48:39Z",
+      "timestamp": 1788461319,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 231
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection",
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2095584775809495335"
+    },
+    {
       "id": "2095580085457739812",
       "handle": "repemiliasykes",
       "username": "RepEmiliaSykes",
@@ -67609,6 +68250,36 @@
       ],
       "urls": [],
       "url": "https://x.com/repdeliaramirez/status/2095576095407964411"
+    },
+    {
+      "id": "2095574806464766409",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Spoke on the House floor today to recognize all of our local leaders and officials, first responders, linemen, religious institutions, non-profit organizations, National Guard members, and countless volunteers who went above and beyond to assist our neighbors and communities https://t.co/zz8LjrUURV",
+      "createdAt": "2026-09-03T18:09:02Z",
+      "timestamp": 1788458942,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 270
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2095574806464766409"
     },
     {
       "id": "2095574745592811579",
@@ -68184,6 +68855,36 @@
       "url": "https://x.com/RepDaveTaylor/status/2095531588129849375"
     },
     {
+      "id": "2095530652745560340",
+      "handle": "repfranklucas",
+      "username": "RepFrankLucas",
+      "displayName": "Frank Lucas",
+      "ownerName": "Frank D. Lucas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-d-lucas",
+      "text": "Stillwater Regional Airport is beloved by both the Stillwater community and its visitors. I was delighted to visit the airport to see and celebrate the new Regional Airport Terminal. The growth of this airport will only further enable tourism and visitors from all over the https://t.co/fAoKhD74Sm",
+      "createdAt": "2026-09-03T15:13:35Z",
+      "timestamp": 1788448415,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepFrankLucas/status/2095530652745560340"
+    },
+    {
       "id": "2095525280643191045",
       "handle": "repdavetaylor",
       "username": "RepDaveTaylor",
@@ -68355,6 +69056,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repdeliaramirez/status/2095509036854591626"
+    },
+    {
+      "id": "2095508792754516358",
+      "handle": "repfranklucas",
+      "username": "RepFrankLucas",
+      "displayName": "Frank Lucas",
+      "ownerName": "Frank D. Lucas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-d-lucas",
+      "text": "Electricity is important to everyday life. When severe weather hits, it is important to have people you can rely on working to restore your power. OG&amp;E reliably delivers electricity to OK-03, and I enjoyed having discussions with their staff. https://t.co/dGAadEY59x",
+      "createdAt": "2026-09-03T13:46:43Z",
+      "timestamp": 1788443203,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepFrankLucas/status/2095508792754516358"
     },
     {
       "id": "2095507190400373206",
@@ -69081,6 +69810,42 @@
       "url": "https://x.com/RepVindman/status/2095253398660501842"
     },
     {
+      "id": "2095253309149860303",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue in this storm recovery, I wanted to share with you information about Mobile Registration Intake Center locations in Northwest Indiana where you can begin the assistance process.  For specific locations please click below for my daily update: https://t.co/hNpqrqKaJV",
+      "createdAt": "2026-09-02T20:51:31Z",
+      "timestamp": 1788382291,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 317
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hNpqrqKaJV",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/wednesday-september-2-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2095253309149860303"
+    },
+    {
       "id": "2095252985303400581",
       "handle": "repdeborahross",
       "username": "RepDeborahRoss",
@@ -69404,6 +70169,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepHarshbarger/status/2095223343272136719"
+    },
+    {
+      "id": "2095221400453742739",
+      "handle": "repfranklucas",
+      "username": "RepFrankLucas",
+      "displayName": "Frank Lucas",
+      "ownerName": "Frank D. Lucas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-d-lucas",
+      "text": "The Senate needs to swiftly take up and pass the INVEST Act, which includes my bill, the Retirement Fairness for Charities and Educational Institutions Act. Hardworking Americans with 403(b) plans should have access to the same investments as other plans to allow them to best https://t.co/HuIG3FfhVU",
+      "createdAt": "2026-09-02T18:44:43Z",
+      "timestamp": 1788374683,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 4,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepFrankLucas/status/2095221400453742739"
     },
     {
       "id": "2095221317280604245",
@@ -70018,6 +70813,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepEmiliaSykes/status/2095156313592418650"
+    },
+    {
+      "id": "2095150231721508877",
+      "handle": "repfranklucas",
+      "username": "RepFrankLucas",
+      "displayName": "Frank Lucas",
+      "ownerName": "Frank D. Lucas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-d-lucas",
+      "text": "I attended the Grand Opening of the Oklahoma Blood Institute in Oklahoma City. Blood donations save lives of people that are in desperate need of blood transfusions. This facility will enable donors to safely and efficiently give life-saving treatment to patients. https://t.co/mLtBWofQON",
+      "createdAt": "2026-09-02T14:01:55Z",
+      "timestamp": 1788357715,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 4,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepFrankLucas/status/2095150231721508877"
     },
     {
       "id": "2095150045884563645",
@@ -70859,6 +71682,42 @@
       "url": "https://x.com/RepBuddyCarter/status/2094871980683993308"
     },
     {
+      "id": "2094870186834710646",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue through the storm recovery together, I want to share information from FEMA about the process and what to expect after applying for federal assistance.  Please click below for my daily update with the additional information: https://t.co/vmIAVJshbI",
+      "createdAt": "2026-09-01T19:29:08Z",
+      "timestamp": 1788290948,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 271
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vmIAVJshbI",
+          "expanded_url": "https://mrvan.house.gov/federal-disaster-response-updates/tuesday-september-1-2026",
+          "display_url": "mrvan.house.gov/federal-disast…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2094870186834710646"
+    },
+    {
       "id": "2094868094288036273",
       "handle": "repdeliaramirez",
       "username": "repdeliaramirez",
@@ -70943,6 +71802,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repdeliaramirez/status/2094868097475698953"
+    },
+    {
+      "id": "2094867890155454727",
+      "handle": "repfranklucas",
+      "username": "RepFrankLucas",
+      "displayName": "Frank Lucas",
+      "ownerName": "Frank D. Lucas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-d-lucas",
+      "text": "I visited the health center at the Community Health Centers of Oklahoma Highland Park. Their facility was impressive, and their hardworking staff has a direct impact on their local community. https://t.co/0x1rFFygXx",
+      "createdAt": "2026-09-01T19:20:00Z",
+      "timestamp": 1788290400,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepFrankLucas/status/2094867890155454727"
     },
     {
       "id": "2094866204494094567",
@@ -71394,6 +72283,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDavidRouzer/status/2094833687271452694"
+    },
+    {
+      "id": "2094831763310641473",
+      "handle": "repfranklucas",
+      "username": "RepFrankLucas",
+      "displayName": "Frank Lucas",
+      "ownerName": "Frank D. Lucas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-d-lucas",
+      "text": "I had the privilege of meeting with the Perry Rotary Club last month. I always appreciate hearing concerns and questions from constituents. We discussed a variety of topics, including big wins in the Farm Bill along with the impacts of the Working Families Tax Cuts Act. https://t.co/DjZXG9hiRD",
+      "createdAt": "2026-09-01T16:56:27Z",
+      "timestamp": 1788281787,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepFrankLucas/status/2094831763310641473"
     },
     {
       "id": "2094829805501911537",
@@ -72467,6 +73386,37 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepLaHood/status/2094513388013457530"
+    },
+    {
+      "id": "2094511981256429828",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue on the path to recovery, I wanted to share timely updates from the Indiana Department of Homeland Security regarding SNAP benefits and the Mobile Registration Intake Centers in Lake County.  Please click below for the pertinent information in my daily update.",
+      "createdAt": "2026-08-31T19:45:45Z",
+      "timestamp": 1788205545,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 256
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism",
+        "Humanitarian / minority protection"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2094511981256429828"
     },
     {
       "id": "2094511738360045739",
@@ -73809,6 +74759,36 @@
       "url": "https://x.com/RepDinaTitus/status/2094204689541681374"
     },
     {
+      "id": "2094113764992065907",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we move forward together through this recovery, I continue to be grateful for the countless efforts by our state and local municipalities, non-profit organizations, and religious institutions who are continuing to provide invaluable assistance to those in need from the recent",
+      "createdAt": "2026-08-30T17:23:22Z",
+      "timestamp": 1788110602,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 274
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2094113764992065907"
+    },
+    {
       "id": "2094101412586131634",
       "handle": "repdarrensoto",
       "username": "RepDarrenSoto",
@@ -74077,6 +75057,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDinaTitus/status/2093762974444081512"
+    },
+    {
+      "id": "2093761390750122221",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As we continue through this recovery, I remain focused on doing everything I can to ensure that our region has the resources it needs and that the lights are turned on for each and every resident as soon as possible.  Please click below for additional information and resources",
+      "createdAt": "2026-08-29T18:03:10Z",
+      "timestamp": 1788026590,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "view_count": 1021
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2093761390750122221"
     },
     {
       "id": "2093753216530083893",
@@ -74700,6 +75710,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepLaHood/status/2093451172396892625"
+    },
+    {
+      "id": "2093447563114410354",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Following the severe storms and flooding that impacted communities across our region, I want to make sure every resident who needs assistance has the latest information from the Indiana Department of Homeland Security and FEMA.  Please click below for the latest information in my",
+      "createdAt": "2026-08-28T21:16:08Z",
+      "timestamp": 1787951768,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 278
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2093447563114410354"
     },
     {
       "id": "2093445258268860567",
@@ -75806,6 +76846,34 @@
       "url": "https://x.com/RepDebDingell/status/2093141556093940171"
     },
     {
+      "id": "2093121390966694305",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As federal, state, and local entities continue to coordinate government assistance, I want to thank the first responders, linemen, community organizations, churches, and volunteers who continue to work around the clock to help our neighbors in need.  For the latest resource and",
+      "createdAt": "2026-08-27T23:40:02Z",
+      "timestamp": 1787874002,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 234
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2093121390966694305"
+    },
+    {
       "id": "2093115485747314879",
       "handle": "replahood",
       "username": "RepLaHood",
@@ -76383,6 +77451,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDavidKustoff/status/2093036380892844390"
+    },
+    {
+      "id": "2093033644914802790",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Had a great time welcoming students back to school at Hess Elementary in Hammond earlier this week.  I wish all students throughout the region the very best in this upcoming school year! https://t.co/reeDVftN48",
+      "createdAt": "2026-08-27T17:51:22Z",
+      "timestamp": 1787853082,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 399
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2093033644914802790"
     },
     {
       "id": "2093029315998855270",
@@ -77225,6 +78321,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repdeliaramirez/status/2092726468560527448"
+    },
+    {
+      "id": "2092725978279948617",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "FEMA has announced that the Major Disaster Declaration requested by Governor Braun for Indiana has been approved, making Individuals and Households Assistance, Public Assistance, and Small Business Administration programs available to those impacted by the disaster. Please review https://t.co/jUvdpZKpDy",
+      "createdAt": "2026-08-26T21:28:48Z",
+      "timestamp": 1787779728,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 261
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2092725978279948617"
     },
     {
       "id": "2092716631566794898",
@@ -78111,6 +79237,34 @@
       "url": "https://x.com/RepMeuser/status/2092560593739784649"
     },
     {
+      "id": "2092463593014854045",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "FEMA has announced that the Major Disaster Declaration requested by Governor Braun for the State of Indiana has been approved.\n\nThis declaration is an important step forward for Northwest Indiana. Our families, businesses, municipalities, first responders, and community",
+      "createdAt": "2026-08-26T04:06:11Z",
+      "timestamp": 1787717171,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 267
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2092463593014854045"
+    },
+    {
       "id": "2092454632802980349",
       "handle": "repdinatitus",
       "username": "RepDinaTitus",
@@ -78369,6 +79523,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepBuddyCarter/status/2092371442629296608"
+    },
+    {
+      "id": "2092361605426147484",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Below is my daily update from Calumet Township, where I joined the volunteers and members of the Lake Ridge Fire Department to thank them for their tireless efforts supporting residents impacted by the recent severe storms. https://t.co/UAXd5nMKnz",
+      "createdAt": "2026-08-25T21:20:55Z",
+      "timestamp": 1787692855,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 286
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2092361605426147484"
     },
     {
       "id": "2092359926454599927",
@@ -79811,6 +80993,36 @@
       "url": "https://x.com/SenEricSchmitt/status/2092004466694213915"
     },
     {
+      "id": "2091999219259507170",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Throughout all of Northwest Indiana, I continue to be impressed by witnessing the powerful efforts of our faith-based organizations, non-profits, local businesses and our municipalities standing shoulder to shoulder to support one another and ensure no one in our community goes",
+      "createdAt": "2026-08-24T21:20:55Z",
+      "timestamp": 1787606455,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 321
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2091999219259507170"
+    },
+    {
       "id": "2091991074453463460",
       "handle": "repdianadegette",
       "username": "RepDianaDeGette",
@@ -80523,6 +81735,62 @@
       "url": "https://x.com/SenEricSchmitt/status/2091669115660284394"
     },
     {
+      "id": "2091597978230255814",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Throughout all of Northwest Indiana, and today in Gary, I’ve witnessed something truly powerful – faith communities, nonprofits, and local businesses standing shoulder to shoulder to ensure no one in our community goes hungry. This is who we are. This is how we recover – https://t.co/uIWM5hH72C",
+      "createdAt": "2026-08-23T18:46:32Z",
+      "timestamp": 1787510792,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 774
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2091597978230255814"
+    },
+    {
+      "id": "2091593912875901048",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Please click below for my daily update with highlights of a few of the recent assistance efforts being provided by our region’s outstanding community organizations.  Everyone’s efforts are making a meaningful difference, and I know that we will get through this together.",
+      "createdAt": "2026-08-23T18:30:23Z",
+      "timestamp": 1787509823,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 285
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2091593912875901048"
+    },
+    {
       "id": "2091571172161032229",
       "handle": "repemiliasykes",
       "username": "RepEmiliaSykes",
@@ -80892,6 +82160,34 @@
       "url": "https://x.com/RepDaveTaylor/status/2091247668630523950"
     },
     {
+      "id": "2091244250922992040",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As our communities continue to recover from the devastating storms of August 11th, I want to thank the United Way of Northwest Indiana for bringing much-needed resources directly to impacted residents.  Below is additional information on these resources available today and https://t.co/DFO6Sb4LPK",
+      "createdAt": "2026-08-22T19:20:57Z",
+      "timestamp": 1787426457,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 524
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2091244250922992040"
+    },
+    {
       "id": "2091232937630957683",
       "handle": "repemiliasykes",
       "username": "RepEmiliaSykes",
@@ -81245,6 +82541,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDonDavis/status/2090921792512635255"
+    },
+    {
+      "id": "2090918979170689270",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Following the severe weather and devastating damage our communities have experienced, Governor Braun has submitted a Major Disaster Declaration request to the Federal Emergency Management Agency (FEMA). Read my daily update on federal disaster response in Northwest Indiana here:",
+      "createdAt": "2026-08-21T21:48:26Z",
+      "timestamp": 1787348906,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 331
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2090918979170689270"
     },
     {
       "id": "2090901220944695523",
@@ -82143,6 +83467,36 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDavidKustoff/status/2090550318396240282"
+    },
+    {
+      "id": "2090547725691674673",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "As communities across Northwest Indiana continue to recover from the recent severe weather, I want to remind residents that assistance may be available through the Indiana Department of Homeland Security (IDHS) State Disaster Relief Fund.  Read my daily update on federal disaster",
+      "createdAt": "2026-08-20T21:13:12Z",
+      "timestamp": 1787260392,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 302
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Security / counterterrorism"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2090547725691674673"
     },
     {
       "id": "2090546618231628041",
@@ -83097,6 +84451,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepEmiliaSykes/status/2090202900425564659"
+    },
+    {
+      "id": "2090195558275174611",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "I am pleased to share that the federal government has extended the deadline for SNAP recipients impacted by the recent severe weather to request emergency replacement benefits. Residents in Lake and Porter Counties affected by recent severe storms and power outages have an",
+      "createdAt": "2026-08-19T21:53:49Z",
+      "timestamp": 1787176429,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 2,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 683
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2090195558275174611"
     },
     {
       "id": "2090195413148012937",
@@ -84089,6 +85471,36 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDinaTitus/status/2089854925706605010"
+    },
+    {
+      "id": "2089845885949628726",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Today, I want to provide an update on the ongoing response and recovery efforts following the severe storms that began on August 11th. My office will continue to provide regular updates as we work with our local, state, and federal partners to make sure Northwest Indiana receives",
+      "createdAt": "2026-08-18T22:44:21Z",
+      "timestamp": 1787093061,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 360
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2089845885949628726"
     },
     {
       "id": "2089835164339757345",
@@ -85901,6 +87313,34 @@
       "url": "https://x.com/repderekschmidt/status/2089371636138942764"
     },
     {
+      "id": "2089363877465075900",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "On behalf of the residents of Indiana’s First Congressional District, I thank the Administration for its prompt approval of Indiana’s request for a federal emergency declaration.  This assistance will provide critical resources to communities across Northwest Indiana as they",
+      "createdAt": "2026-08-17T14:49:01Z",
+      "timestamp": 1786978141,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 445
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2089363877465075900"
+    },
+    {
       "id": "2089352976225726951",
       "handle": "repdavidrouzer",
       "username": "RepDavidRouzer",
@@ -86822,6 +88262,34 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/RepDavidValadao/status/2088351883077603359"
+    },
+    {
+      "id": "2088345632507363465",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Our region is grateful for the assistance of the Indiana National Guard and all of our state and local leaders and clean-up crews as the work continues to remove debris and clear paths to powerlines. https://t.co/LRO3hcZqb5",
+      "createdAt": "2026-08-14T19:22:53Z",
+      "timestamp": 1786735373,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 10,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "view_count": 739
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2088345632507363465"
     },
     {
       "id": "2088339444688404885",
@@ -88515,6 +89983,36 @@
       "url": "https://x.com/RepDanGoldman/status/2087646855794446499"
     },
     {
+      "id": "2087645177439826005",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Thank you to Governor Braun, local Mayors, and city and town employees for your collaboration to assist our community after severe storms yesterday.  Now what’s next is recovery, making sure people are safe, streets are cleared, and that we all come together to help the most https://t.co/F1XsEcMrAP",
+      "createdAt": "2026-08-12T20:59:31Z",
+      "timestamp": 1786568371,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 1345
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Humanitarian / minority protection"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2087645177439826005"
+    },
+    {
       "id": "2087640209533870247",
       "handle": "repdavidkustoff",
       "username": "RepDavidKustoff",
@@ -89270,6 +90768,34 @@
       "url": "https://x.com/RepDonDavis/status/2087357133134152112"
     },
     {
+      "id": "2087356813230432513",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Thank you to all first responders for your efforts to assist our communities after severe storms today.  The correct number to report down power lines and power outages to NIPSCO is 1-800-4NIPSCO. https://t.co/x7hJsUYUli",
+      "createdAt": "2026-08-12T01:53:40Z",
+      "timestamp": 1786499620,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 1197
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2087356813230432513"
+    },
+    {
       "id": "2087350247177551911",
       "handle": "repdebdingell",
       "username": "RepDebDingell",
@@ -89853,6 +91379,40 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDaveJoyce/status/2087187209430417766"
+    },
+    {
+      "id": "2087187111287931215",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Thank you to all of the leaders and employees with Hitachi Global Air Power for the opportunity to see firsthand the latest investments and innovations at your facility in Michigan City. https://t.co/KdsNrGWdcy",
+      "createdAt": "2026-08-11T14:39:20Z",
+      "timestamp": 1786459160,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 335
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [
+        {
+          "url": "https://t.co/KdsNrGWdcy",
+          "expanded_url": "https://buildingindiana.com/stories/rep-frank-j-mrvan-tours-hitachi-global-air-power-highlights-regional-manufacturing-strength,87383",
+          "display_url": "buildingindiana.com/stories/rep-fr…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2087187111287931215"
     },
     {
       "id": "2087181027605123566",
@@ -92607,6 +94167,34 @@
       "url": "https://x.com/repderekschmidt/status/2085440325871358017"
     },
     {
+      "id": "2085436492990562735",
+      "handle": "repfranklucas",
+      "username": "RepFrankLucas",
+      "displayName": "Frank Lucas",
+      "ownerName": "Frank D. Lucas",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-d-lucas",
+      "text": "I wholeheartedly agree with @SenKatieBritt. Americans that use 403(b)’s for retirement should have access to the same investments as others to maximize their ability to provide for their families. Our legislation has passed the House, and I hope to see it pass the Senate in the",
+      "createdAt": "2026-08-06T18:43:00Z",
+      "timestamp": 1786041780,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepFrankLucas/status/2085436492990562735"
+    },
+    {
       "id": "2085426532638486839",
       "handle": "replahood",
       "username": "RepLaHood",
@@ -93113,6 +94701,42 @@
       ],
       "urls": [],
       "url": "https://x.com/RepDaveTaylor/status/2085377216729272471"
+    },
+    {
+      "id": "2085373959487324640",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "I enjoyed meeting with students, learning more about the innovative public-private partnerships being fostered at Purdue University Northwest and seeing firsthand the cutting-edge technology that is helping shape the future of American manufacturing.  https://t.co/KzyEhxFM03",
+      "createdAt": "2026-08-06T14:34:30Z",
+      "timestamp": 1786026870,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 379
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Diplomatic / official contact"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KzyEhxFM03",
+          "expanded_url": "https://greatnews.life/article/u-s-representative-frank-j-mrvan-learns-latest-pnw-center-for-innovation-through-visualization-and-simulation-research-impacts/?region=nwi",
+          "display_url": "greatnews.life/article/u-s-re…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2085373959487324640"
     },
     {
       "id": "2085372825775362225",
@@ -96170,6 +97794,42 @@
       "url": "https://x.com/RepDavidValadao/status/2084303221045035256"
     },
     {
+      "id": "2084303069970346155",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Thank you to all of the leaders of Indiana American Water for their commitment to workforce development, infrastructure reliability, and preparing the next generation of workers to support the essential services our communities depend on every day. https://t.co/pJfkeBurvo",
+      "createdAt": "2026-08-03T15:39:11Z",
+      "timestamp": 1785771551,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 472
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pJfkeBurvo",
+          "expanded_url": "https://nwitimes.com/news/local/article_771a8848-ca08-4c56-bc5b-df79ee35de42.html",
+          "display_url": "nwitimes.com/news/local/art…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2084303069970346155"
+    },
+    {
       "id": "2084297793141674339",
       "handle": "repdwstweets",
       "username": "RepDWStweets",
@@ -99176,6 +100836,34 @@
       "url": "https://x.com/RepDaveTaylor/status/2082858333136953581"
     },
     {
+      "id": "2082849892335075337",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Below is a clip of my remarks from the opening of the Lake County Community Food Locker last week.  Thank you to everyone with the Lake County Health Department and the Food Bank of Northwest Indiana for this outstanding initiative and your unwavering commitment to the strength https://t.co/OMJMthIgBI",
+      "createdAt": "2026-07-30T15:24:46Z",
+      "timestamp": 1785425086,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 427
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2082849892335075337"
+    },
+    {
       "id": "2082840747682742763",
       "handle": "repemiliasykes",
       "username": "RepEmiliaSykes",
@@ -101131,6 +102819,42 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/ChrisVanHollen/status/2082175622571552801"
+    },
+    {
+      "id": "2082175560172687667",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "ICYMI - Let us build on this momentum and continue to support initiatives that create more good-paying jobs, strengthen our regional economy, and expand opportunities for families and businesses throughout Northwest Indiana. https://t.co/vYlT8MF8Ig…",
+      "createdAt": "2026-07-28T18:45:13Z",
+      "timestamp": 1785264313,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": 316
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Supportive / partnership"
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vYlT8MF8Ig",
+          "expanded_url": "https://nwindianabusiness.com/industries/transportation-logistics/wingtip-aviation-hangar-ready-for",
+          "display_url": "nwindianabusiness.com/industries/tra…"
+        }
+      ],
+      "url": "https://x.com/RepMrvan/status/2082175560172687667"
     },
     {
       "id": "2082172512230654395",
@@ -111739,6 +113463,36 @@
       "url": "https://x.com/RepHuizenga/status/2080304911254700258"
     },
     {
+      "id": "2080303405147242968",
+      "handle": "repmrvan",
+      "username": "RepMrvan",
+      "displayName": null,
+      "ownerName": "Frank J. Mrvan",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/frank-j-mrvan",
+      "text": "Congratulations to Mayor Melton and all of the leaders from the City of Gary, the Gary/Chicago International Airport, the State of Indiana, and our organized labor construction workforce for successfully completing another signature private-sector economic development project in",
+      "createdAt": "2026-07-23T14:45:56Z",
+      "timestamp": 1784817956,
+      "tweetType": "tweet",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "view_count": 458
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [
+        "Energy / economic"
+      ],
+      "urls": [],
+      "url": "https://x.com/RepMrvan/status/2080303405147242968"
+    },
+    {
       "id": "2080302202191593718",
       "handle": "repblakemoore",
       "username": "RepBlakeMoore",
@@ -121138,1690 +122892,6 @@
       "frames": [],
       "urls": [],
       "url": "https://x.com/repbrandongill/status/2079659671858639142"
-    },
-    {
-      "id": "2079658933946335263",
-      "handle": "repbrandongill",
-      "username": "repbrandongill",
-      "displayName": null,
-      "ownerName": "Brandon Gill",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brandon-gill",
-      "text": "I asked the Smithsonian’s Director of American History Museum five times if it’s appropriate to sell ‘Latina Power’ merchandise. \n\nFive times, she wouldn’t answer yes or no. https://t.co/X1Uyn8WYfT",
-      "createdAt": "2026-07-21T20:05:02Z",
-      "timestamp": 1784664302,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1590,
-        "reply_count": 408,
-        "like_count": 9435,
-        "quote_count": 43,
-        "bookmark_count": 190,
-        "view_count": 100668
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repbrandongill/status/2079658933946335263"
-    },
-    {
-      "id": "2079658168578429089",
-      "handle": "senarmstrong",
-      "username": "SenArmstrong",
-      "displayName": null,
-      "ownerName": "Alan Armstrong",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/alan-armstrong",
-      "text": "The time is now!",
-      "createdAt": "2026-07-21T20:02:00Z",
-      "timestamp": 1784664120,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 8,
-        "like_count": 8,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2724
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenArmstrong/status/2079658168578429089"
-    },
-    {
-      "id": "2079657393697243583",
-      "handle": "chelliepingree",
-      "username": "chelliepingree",
-      "displayName": "Congresswoman Chellie Pingree",
-      "ownerName": "Chellie Pingree",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chellie-pingree",
-      "text": "I fully support banning members of Congress from trading stocks. I’ve cosponsored several bills that would do just that.\n\nRepublicans have refused to bring a single one to the House floor.\n\nNow they're suddenly pushing an \"insider trading\" bill that doesn't even ban congressional",
-      "createdAt": "2026-07-21T19:58:55Z",
-      "timestamp": 1784663935,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 6,
-        "reply_count": 1,
-        "like_count": 25,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/chelliepingree/status/2079657393697243583"
-    },
-    {
-      "id": "2079656167505080695",
-      "handle": "rephuizenga",
-      "username": "RepHuizenga",
-      "displayName": "Rep. Bill Huizenga",
-      "ownerName": "Bill Huizenga",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bill-huizenga",
-      "text": "RT @FinancialCmte: The House is now considering H.R. 6955, the Main Street Capital Access Act, by Chairman @RepFrenchHill and @RepAndyBarr.",
-      "createdAt": "2026-07-21T19:54:03Z",
-      "timestamp": 1784663643,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepHuizenga/status/2079656167505080695"
-    },
-    {
-      "id": "2079656118318416145",
-      "handle": "rephuizenga",
-      "username": "RepHuizenga",
-      "displayName": "Rep. Bill Huizenga",
-      "ownerName": "Bill Huizenga",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bill-huizenga",
-      "text": "RT @FinancialCmte: @RepFrenchHill @RepAndyBarr WATCH: @RepHuizenga in support of H.R. 6955:\n\n\"This package makes it easier to form new bank…",
-      "createdAt": "2026-07-21T19:53:51Z",
-      "timestamp": 1784663631,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepHuizenga/status/2079656118318416145"
-    },
-    {
-      "id": "2079655114667684178",
-      "handle": "senatorhagerty",
-      "username": "SenatorHagerty",
-      "displayName": null,
-      "ownerName": "Bill Hagerty",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bill-hagerty",
-      "text": "They said this could never happen. Turns out, it happened 400 times in just one state. \n\nWe must pass the SAVE America Act!",
-      "createdAt": "2026-07-21T19:49:52Z",
-      "timestamp": 1784663392,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 22,
-        "reply_count": 32,
-        "like_count": 69,
-        "quote_count": 0,
-        "bookmark_count": 4,
-        "view_count": 3900
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/SenatorHagerty/status/2079655114667684178"
-    },
-    {
-      "id": "2079654734995013737",
-      "handle": "repgarbarino",
-      "username": "RepGarbarino",
-      "displayName": null,
-      "ownerName": "Andrew R. Garbarino",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/andrew-r-garbarino",
-      "text": "RT @FinancialCmte: WATCH: @RepGarbarino on how the Federal Home Loan Banks support the U.S. financial system during times of stress:\n\n“Cong…",
-      "createdAt": "2026-07-21T19:48:21Z",
-      "timestamp": 1784663301,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 26
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepGarbarino/status/2079654734995013737"
-    },
-    {
-      "id": "2079654493554102732",
-      "handle": "repchiproy",
-      "username": "RepChipRoy",
-      "displayName": null,
-      "ownerName": "Chip Roy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chip-roy",
-      "text": "RT @Heritage_Action: The time is now to secure our borders. \n\nPass the Permanent Trump Secure Border Act. https://t.co/fyfm5zeita",
-      "createdAt": "2026-07-21T19:47:24Z",
-      "timestamp": 1784663244,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 12,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 720
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepChipRoy/status/2079654493554102732"
-    },
-    {
-      "id": "2079652555215212811",
-      "handle": "repdarrellissa",
-      "username": "repdarrellissa",
-      "displayName": null,
-      "ownerName": "Darrell Issa",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/darrell-issa",
-      "text": "I was there. Seemed a lot longer.https://t.co/NndcONdO2f",
-      "createdAt": "2026-07-21T19:39:41Z",
-      "timestamp": 1784662781,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 80,
-        "reply_count": 23,
-        "like_count": 251,
-        "quote_count": 2,
-        "bookmark_count": 4,
-        "view_count": 7268
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/NndcONdO2f",
-          "expanded_url": "https://x.com/judiciarygop/status/2079651549043671451?s=46&t=bkE-36mPzq-EKLuyR4rPIg",
-          "display_url": "x.com/judiciarygop/s…"
-        }
-      ],
-      "url": "https://x.com/repdarrellissa/status/2079652555215212811"
-    },
-    {
-      "id": "2079649950929973584",
-      "handle": "repchiproy",
-      "username": "RepChipRoy",
-      "displayName": null,
-      "ownerName": "Chip Roy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chip-roy",
-      "text": "RT @freedomcaucus: Those \"worst and cruelest policies\" Republicans are fighting to codify? \n\nThey’re the ones that protect American girls f…",
-      "createdAt": "2026-07-21T19:29:20Z",
-      "timestamp": 1784662160,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 20,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 613
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepChipRoy/status/2079649950929973584"
-    },
-    {
-      "id": "2079649654384288146",
-      "handle": "repdavejoyce",
-      "username": "RepDaveJoyce",
-      "displayName": null,
-      "ownerName": "David P. Joyce",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/david-p-joyce",
-      "text": "RT @HouseAppropsGOP: Article I isn't a slogan, it's a responsibility.\n\nTomorrow at 10AM, the full House Appropriations Committee will conve…",
-      "createdAt": "2026-07-21T19:28:10Z",
-      "timestamp": 1784662090,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 60
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDaveJoyce/status/2079649654384288146"
-    },
-    {
-      "id": "2079649599568908653",
-      "handle": "repdavidkustoff",
-      "username": "RepDavidKustoff",
-      "displayName": null,
-      "ownerName": "David Kustoff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/david-kustoff",
-      "text": "This afternoon, I had the honor of presiding over the Floor of the House of Representatives. \n\n@HouseGOP is hard at work for the American people. 🇺🇸 https://t.co/xPFqiKbsUt",
-      "createdAt": "2026-07-21T19:27:57Z",
-      "timestamp": 1784662077,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 4,
-        "like_count": 18,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 822
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDavidKustoff/status/2079649599568908653"
-    },
-    {
-      "id": "2079649162732147087",
-      "handle": "repchiproy",
-      "username": "RepChipRoy",
-      "displayName": null,
-      "ownerName": "Chip Roy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chip-roy",
-      "text": "Under President Trump, we have now seen 14 consecutive months of ZERO releases at the border.\n\nPresident Trump has successfully SEALED the border. Rep. Roy and @JudiciaryGOP are working to make these changes PERMANENT.",
-      "createdAt": "2026-07-21T19:26:13Z",
-      "timestamp": 1784661973,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 9,
-        "reply_count": 7,
-        "like_count": 56,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 4646
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism",
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepChipRoy/status/2079649162732147087"
-    },
-    {
-      "id": "2079648658430075316",
-      "handle": "repbillfoster",
-      "username": "RepBillFoster",
-      "displayName": "Congressman Bill Foster",
-      "ownerName": "Bill Foster",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bill-foster",
-      "text": "Trump and his negotiators are failing in Iran.\n\nNow, gas and diesel prices are climbing and there's no end in sight. https://t.co/VcOiOR2e5O",
-      "createdAt": "2026-07-21T19:24:12Z",
-      "timestamp": 1784661852,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 7,
-        "like_count": 9,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepBillFoster/status/2079648658430075316"
-    },
-    {
-      "id": "2079648288001740977",
-      "handle": "repdavid",
-      "username": "RepDavid",
-      "displayName": null,
-      "ownerName": "David Schweikert",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/david-schweikert",
-      "text": "Washington may be a math-free zone. The bond market is not.\n\nWe are borrowing $93,000 every second. The next reconciliation bill has to show the markets that someone in Congress still owns a calculator. https://t.co/GdmwCDlhNX",
-      "createdAt": "2026-07-21T19:22:44Z",
-      "timestamp": 1784661764,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 8,
-        "reply_count": 20,
-        "like_count": 55,
-        "quote_count": 3,
-        "bookmark_count": 4,
-        "view_count": 3450
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDavid/status/2079648288001740977"
-    },
-    {
-      "id": "2079648142228615440",
-      "handle": "reploudermilk",
-      "username": "RepLoudermilk",
-      "displayName": null,
-      "ownerName": "Barry Loudermilk",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/barry-loudermilk",
-      "text": "RT @FinancialCmte: @RepFrenchHill @RepAndyBarr @RepHuizenga WATCH: @RepLoudermilk in support of H.R. 6955:\n \n\"We need to tailor the regulat…",
-      "createdAt": "2026-07-21T19:22:09Z",
-      "timestamp": 1784661729,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 220
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepLoudermilk/status/2079648142228615440"
-    },
-    {
-      "id": "2079647900636692732",
-      "handle": "repdangoldman",
-      "username": "RepDanGoldman",
-      "displayName": null,
-      "ownerName": "Daniel S. Goldman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/daniel-s-goldman",
-      "text": "Trump has directed that the FBI no longer investigate individuals who have confrontations with ICE agents.\n\nWhy? Because they don’t want to be forced to collect evidence of ICE’s abuse of power and excessive force.\n\nOne hallmark of fascism is when the government agency",
-      "createdAt": "2026-07-21T19:21:12Z",
-      "timestamp": 1784661672,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 99,
-        "reply_count": 53,
-        "like_count": 244,
-        "quote_count": 4,
-        "bookmark_count": 4,
-        "view_count": 4046
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDanGoldman/status/2079647900636692732"
-    },
-    {
-      "id": "2079647581831844072",
-      "handle": "repcarlos",
-      "username": "RepCarlos",
-      "displayName": null,
-      "ownerName": "Carlos A. Gimenez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/carlos-a-gimenez",
-      "text": "RT @DavidPollackUSA: Happening now: Members of Congress hold a roundtable on the dangers of communism with those who suffered under it!  @R…",
-      "createdAt": "2026-07-21T19:19:56Z",
-      "timestamp": 1784661596,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 18,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1195
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepCarlos/status/2079647581831844072"
-    },
-    {
-      "id": "2079647144026271908",
-      "handle": "repalgreen",
-      "username": "RepAlGreen",
-      "displayName": null,
-      "ownerName": "Al Green",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/al-green",
-      "text": "Congressman Al Green Joins C-SPAN’s Washington Journal to Discuss the ICE-involved killing of Lorenzo Salgado Araujo, the Iran War, Impeachment, and Congressional News of the Day.\n \nYou can access the news segment by clicking the link here: https://t.co/c7l7wDSzeo https://t.co/wHA6JlhVvg",
-      "createdAt": "2026-07-21T19:18:11Z",
-      "timestamp": 1784661491,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 25,
-        "reply_count": 11,
-        "like_count": 67,
-        "quote_count": 1,
-        "bookmark_count": 4,
-        "view_count": 2887
-      },
-      "tags": [
-        "Iran"
-      ],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/c7l7wDSzeo",
-          "expanded_url": "https://youtu.be/hSgVinPu-Dg",
-          "display_url": "youtu.be/hSgVinPu-Dg"
-        }
-      ],
-      "url": "https://x.com/RepAlGreen/status/2079647144026271908"
-    },
-    {
-      "id": "2079646920939540499",
-      "handle": "sencortezmasto",
-      "username": "SenCortezMasto",
-      "displayName": null,
-      "ownerName": "Catherine Cortez Masto",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/catherine-cortez-masto",
-      "text": "Two bills I wrote are now law as part of the 21st Century ROAD to Housing Act: one to reauthorize, reform, and expand the HOME program that helps build affordable homes across the country, and another to invest in our manufactured home communities.\n\nWhile we’re not done, this is https://t.co/ovnnmwzEL2",
-      "createdAt": "2026-07-21T19:17:18Z",
-      "timestamp": 1784661438,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 10,
-        "reply_count": 22,
-        "like_count": 21,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 1932
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenCortezMasto/status/2079646920939540499"
-    },
-    {
-      "id": "2079644748080468348",
-      "handle": "repbrandongill",
-      "username": "repbrandongill",
-      "displayName": null,
-      "ownerName": "Brandon Gill",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brandon-gill",
-      "text": "Does the Smithsonian think Mickey Mouse is racist? https://t.co/nFo2ovbz7h",
-      "createdAt": "2026-07-21T19:08:40Z",
-      "timestamp": 1784660920,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 516,
-        "reply_count": 126,
-        "like_count": 4275,
-        "quote_count": 16,
-        "bookmark_count": 138,
-        "view_count": 50013
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repbrandongill/status/2079644748080468348"
-    },
-    {
-      "id": "2079644607189561634",
-      "handle": "repfinstad",
-      "username": "RepFinstad",
-      "displayName": "Congressman Brad Finstad",
-      "ownerName": "Brad Finstad",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brad-finstad",
-      "text": "This afternoon, I joined Minnesota farmers with the Midwest Council on Agriculture to discuss the needs of farm country. By supporting legislation like the Farm Bill and the Working Families Tax Cuts, I’m working hard to ensure our ag industry thrives for generations to come. https://t.co/kq0nwCD5DG",
-      "createdAt": "2026-07-21T19:08:06Z",
-      "timestamp": 1784660886,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 6,
-        "like_count": 7,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepFinstad/status/2079644607189561634"
-    },
-    {
-      "id": "2079643407593648305",
-      "handle": "repcarlos",
-      "username": "RepCarlos",
-      "displayName": null,
-      "ownerName": "Carlos A. Gimenez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/carlos-a-gimenez",
-      "text": "🚨Socialism kills!\n\nI joined my colleagues Chair Lisa McClain, Rep. Maria Elvira Salazar, Rep. Nicole Malliotakis, &amp; Rep. Victoria Spartz for a press conference exposing how fringe socialist policies threaten our nation’s future.\n\nAs leaders who know the real cost of socialism, https://t.co/yGuj3MUIP8",
-      "createdAt": "2026-07-21T19:03:20Z",
-      "timestamp": 1784660600,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 98,
-        "reply_count": 21,
-        "like_count": 264,
-        "quote_count": 1,
-        "bookmark_count": 7,
-        "view_count": 5754
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepCarlos/status/2079643407593648305"
-    },
-    {
-      "id": "2079642914003489268",
-      "handle": "repcarlos",
-      "username": "RepCarlos",
-      "displayName": null,
-      "ownerName": "Carlos A. Gimenez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/carlos-a-gimenez",
-      "text": "RT @FLVoiceNews: U.S. Secretary of State Marco Rubio says the State Department is working to expose what he calls decades of Cuban espionag…",
-      "createdAt": "2026-07-21T19:01:23Z",
-      "timestamp": 1784660483,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 11,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1104
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepCarlos/status/2079642914003489268"
-    },
-    {
-      "id": "2079641797941248309",
-      "handle": "repbuddycarter",
-      "username": "RepBuddyCarter",
-      "displayName": null,
-      "ownerName": "Earl L. \"Buddy\" Carter",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/earl-l-buddy-carter",
-      "text": "The Communist experiment doesn’t work.\n\nI choose democracy, which created the greatest country in the history of the world.\n\nhttps://t.co/Bh97at9IFQ",
-      "createdAt": "2026-07-21T18:56:57Z",
-      "timestamp": 1784660217,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 14,
-        "like_count": 13,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1632
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Bh97at9IFQ",
-          "expanded_url": "https://www.foxbusiness.com/media/city-owned-missouri-grocery-store-closes-mamdani-campaigns-some-new-york",
-          "display_url": "foxbusiness.com/media/city-own…"
-        }
-      ],
-      "url": "https://x.com/RepBuddyCarter/status/2079641797941248309"
-    },
-    {
-      "id": "2079641289553793380",
-      "handle": "repchiproy",
-      "username": "RepChipRoy",
-      "displayName": null,
-      "ownerName": "Chip Roy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chip-roy",
-      "text": "Rep. Roy: \"Daily border encounters have plunged 94% since President Trump took office. The reason for that is because of policies that are now consistent with our laws with respect to asylum, with respect to parole, with respect to catch and release. \n\nAnd we're trying to codify https://t.co/epHTIlQRWJ",
-      "createdAt": "2026-07-21T18:54:55Z",
-      "timestamp": 1784660095,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 72,
-        "reply_count": 7,
-        "like_count": 334,
-        "quote_count": 1,
-        "bookmark_count": 4,
-        "view_count": 8665
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism",
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepChipRoy/status/2079641289553793380"
-    },
-    {
-      "id": "2079640552447107414",
-      "handle": "senarmstrong",
-      "username": "SenArmstrong",
-      "displayName": null,
-      "ownerName": "Alan Armstrong",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/alan-armstrong",
-      "text": "When a broken permitting system delays domestic projects, it hurts American strength and hands adversaries like China an advantage. True national security requires energy independence and domestic mineral supply chains. \n\nIt’s time to pass the American Energy and Mineral https://t.co/CQQJrsixKd",
-      "createdAt": "2026-07-21T18:52:00Z",
-      "timestamp": 1784659920,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 5,
-        "reply_count": 4,
-        "like_count": 8,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 2814
-      },
-      "tags": [],
-      "kurdistanTerms": [
-        "Oil / Energy"
-      ],
-      "frames": [
-        "Security / counterterrorism",
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenArmstrong/status/2079640552447107414"
-    },
-    {
-      "id": "2079639042690265527",
-      "handle": "sendansullivan",
-      "username": "SenDanSullivan",
-      "displayName": null,
-      "ownerName": "Dan Sullivan",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/dan-sullivan",
-      "text": "Alaska is resource rich, but infrastructure poor. With 230 communities not connected by roads, costs are high. One way to bring those costs down is by building infrastructure—now. That's why we're putting our foot on the gas with the WRDA bill. https://t.co/yACNL64w1M",
-      "createdAt": "2026-07-21T18:46:00Z",
-      "timestamp": 1784659560,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 10,
-        "reply_count": 22,
-        "like_count": 50,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 3783
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/SenDanSullivan/status/2079639042690265527"
-    },
-    {
-      "id": "2079638424596734197",
-      "handle": "repcarlos",
-      "username": "RepCarlos",
-      "displayName": null,
-      "ownerName": "Carlos A. Gimenez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/carlos-a-gimenez",
-      "text": "RT @EricLDaugh: 🚨 WOW! Rep. Nicole Malliotakis — whose mother fled Communist Cuba — NAILS IT to the Fake News' faces\n\n\"The reality is the c…",
-      "createdAt": "2026-07-21T18:43:32Z",
-      "timestamp": 1784659412,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 13645,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 999
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepCarlos/status/2079638424596734197"
-    },
-    {
-      "id": "2079638392862622064",
-      "handle": "repcarlos",
-      "username": "RepCarlos",
-      "displayName": null,
-      "ownerName": "Carlos A. Gimenez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/carlos-a-gimenez",
-      "text": "RT @StateDept: Daniel Ortega’s declaration that under his family’s dictatorship Nicaragua will never again hold elections lays bare their t…",
-      "createdAt": "2026-07-21T18:43:25Z",
-      "timestamp": 1784659405,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1548,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 848
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepCarlos/status/2079638392862622064"
-    },
-    {
-      "id": "2079638329864200680",
-      "handle": "repfields",
-      "username": "RepFields",
-      "displayName": "Congressman Cleo Fields",
-      "ownerName": "Cleo Fields",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/cleo-fields",
-      "text": "After much deliberation, I have decided not to seek re-election to Congress, and will instead be running to fill the unexpired term for the State Senate in the 14th District. \n\nRead my full statement here, and stay tuned for more information this Friday. https://t.co/wiIbZY97Gb",
-      "createdAt": "2026-07-21T18:43:10Z",
-      "timestamp": 1784659390,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 17,
-        "reply_count": 5,
-        "like_count": 45,
-        "quote_count": 12,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepFields/status/2079638329864200680"
-    },
-    {
-      "id": "2079636834246685150",
-      "handle": "repharshbarger",
-      "username": "RepHarshbarger",
-      "displayName": null,
-      "ownerName": "Diana Harshbarger",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/diana-harshbarger",
-      "text": "Democrats are now proving it themselves: we need the SAVE America Act.\n\nBut the Senate is still doing nothing about it.\n\nThe American people are watching.",
-      "createdAt": "2026-07-21T18:37:13Z",
-      "timestamp": 1784659033,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 6,
-        "reply_count": 2,
-        "like_count": 14,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1229
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepHarshbarger/status/2079636834246685150"
-    },
-    {
-      "id": "2079635531542012032",
-      "handle": "repchuck",
-      "username": "RepChuck",
-      "displayName": null,
-      "ownerName": "Charles J. \"Chuck\" Fleischmann",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/charles-j-chuck-fleischmann",
-      "text": "It was great to have Togo’s Minister of Foreign Affairs, Prof. Robert Dussey, and his team in the office. We explored ways to deepen cooperation on counterterrorism, enhance regional stability, and ensure resilient supply chains for critical minerals, all in pursuit of our mutual https://t.co/uYquFQisvF",
-      "createdAt": "2026-07-21T18:32:03Z",
-      "timestamp": 1784658723,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 1,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 488
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepChuck/status/2079635531542012032"
-    },
-    {
-      "id": "2079635291678101757",
-      "handle": "repdeluzio",
-      "username": "RepDeluzio",
-      "displayName": null,
-      "ownerName": "Christopher R. Deluzio",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/christopher-r-deluzio",
-      "text": "Pete Hegseth and Donald Trump must be transparent with the American people about the cost—in blood and billions of dollars—of this war. \n\nOur brave troops are paying for it. They are at risk every day. Let's end this war and bring our troops home. https://t.co/4oN2d9xhCy",
-      "createdAt": "2026-07-21T18:31:05Z",
-      "timestamp": 1784658665,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7,
-        "reply_count": 7,
-        "like_count": 17,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 749
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDeluzio/status/2079635291678101757"
-    },
-    {
-      "id": "2079635227048030359",
-      "handle": "repbryansteil",
-      "username": "RepBryanSteil",
-      "displayName": null,
-      "ownerName": "Bryan Steil",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bryan-steil",
-      "text": "Under current law, states are required to give voter registration materials to individuals when they get a driver’s license. That includes non-citizens. That’s nuts!  Now is the time for Election Integrity.",
-      "createdAt": "2026-07-21T18:30:50Z",
-      "timestamp": 1784658650,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 9,
-        "reply_count": 9,
-        "like_count": 28,
-        "quote_count": 1,
-        "bookmark_count": 1,
-        "view_count": 2191
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBryanSteil/status/2079635227048030359"
-    },
-    {
-      "id": "2079634035752444199",
-      "handle": "senarmstrong",
-      "username": "SenArmstrong",
-      "displayName": null,
-      "ownerName": "Alan Armstrong",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/alan-armstrong",
-      "text": "If we want grid reliability, lower power costs, and true national security, we have to fix our broken permitting process. \n\nI had a great conversation on the #COBT Podcast about this issue &amp; my bill to fix it – watch the full episode here: https://t.co/NvacqG1ttc",
-      "createdAt": "2026-07-21T18:26:06Z",
-      "timestamp": 1784658366,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 3,
-        "like_count": 7,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1949
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism"
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/NvacqG1ttc",
-          "expanded_url": "https://veriten.com/stream/cobt-se-alan-armstrong/",
-          "display_url": "veriten.com/stream/cobt-se…"
-        }
-      ],
-      "url": "https://x.com/SenArmstrong/status/2079634035752444199"
-    },
-    {
-      "id": "2079632669323690009",
-      "handle": "repandybarr",
-      "username": "RepAndyBarr",
-      "displayName": null,
-      "ownerName": "Andy Barr",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/andy-barr",
-      "text": "RT @FinancialCmte: WATCH: @RepAndyBarr on the regulations in the AML program’s rule notice of proposed rulemaking:\n\n“Despite FinCEN’s recog…",
-      "createdAt": "2026-07-21T18:20:40Z",
-      "timestamp": 1784658040,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 8,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 108
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepAndyBarr/status/2079632669323690009"
-    },
-    {
-      "id": "2079632612633514475",
-      "handle": "repandybarr",
-      "username": "RepAndyBarr",
-      "displayName": null,
-      "ownerName": "Andy Barr",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/andy-barr",
-      "text": "RT @ConsumerBankers: Thank you to House Financial Services Committee Chairman @RepFrenchHill and @RepAndyBarr for championing the Main Stre…",
-      "createdAt": "2026-07-21T18:20:27Z",
-      "timestamp": 1784658027,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 112
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepAndyBarr/status/2079632612633514475"
-    },
-    {
-      "id": "2079632488352075893",
-      "handle": "repbuddycarter",
-      "username": "RepBuddyCarter",
-      "displayName": null,
-      "ownerName": "Earl L. \"Buddy\" Carter",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/earl-l-buddy-carter",
-      "text": "RT @HouseGOP: Michael was a devoted husband, loving father, and courageous American soldier. His legacy of service and sacrifice will never…",
-      "createdAt": "2026-07-21T18:19:57Z",
-      "timestamp": 1784657997,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 970,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 90
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepBuddyCarter/status/2079632488352075893"
-    },
-    {
-      "id": "2079631882644341175",
-      "handle": "repharshbarger",
-      "username": "RepHarshbarger",
-      "displayName": null,
-      "ownerName": "Diana Harshbarger",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/diana-harshbarger",
-      "text": "Communism has destroyed every society it touched. \n\nIt starts with promises of \"free\" everything, and ends with shortages, censorship, confiscation, corruption, &amp; oppression.\n\nWe do not need to import the failed ideas that our veterans defeated and history has already condemned.",
-      "createdAt": "2026-07-21T18:17:33Z",
-      "timestamp": 1784657853,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 2,
-        "like_count": 10,
-        "quote_count": 0,
-        "bookmark_count": 1,
-        "view_count": 620
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepHarshbarger/status/2079631882644341175"
-    },
-    {
-      "id": "2079631348998795411",
-      "handle": "repbrandongill",
-      "username": "repbrandongill",
-      "displayName": null,
-      "ownerName": "Brandon Gill",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brandon-gill",
-      "text": "RT @RepBrandonGill: Politeness is important, this Smithsonian’s Director says. Her own toolkit calls politeness white supremacy. https://t.…",
-      "createdAt": "2026-07-21T18:15:25Z",
-      "timestamp": 1784657725,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1102,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repbrandongill/status/2079631348998795411"
-    },
-    {
-      "id": "2079631180597469228",
-      "handle": "repbuddycarter",
-      "username": "RepBuddyCarter",
-      "displayName": null,
-      "ownerName": "Earl L. \"Buddy\" Carter",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/earl-l-buddy-carter",
-      "text": "Hasan Piker is the same guy who wants Jon Ossoff to be President of the United States.\n\nA little history lesson for Piker: Mao was responsible for the deaths of an estimated 70 million people during peacetime.",
-      "createdAt": "2026-07-21T18:14:45Z",
-      "timestamp": 1784657685,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 3,
-        "reply_count": 5,
-        "like_count": 15,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 1730
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepBuddyCarter/status/2079631180597469228"
-    },
-    {
-      "id": "2079631002482155738",
-      "handle": "reppfluger",
-      "username": "RepPfluger",
-      "displayName": null,
-      "ownerName": "August Pfluger",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/august-pfluger",
-      "text": "America's economic and national security depend on a strong critical mineral supply chain. \n\nMy EMRTAI Act would fund technologies to recover critical minerals from contaminated sites and waste streams. This bill is a commonsense approach to reduce our reliance on foreign https://t.co/DeMNCcAEG3",
-      "createdAt": "2026-07-21T18:14:03Z",
-      "timestamp": 1784657643,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2,
-        "reply_count": 3,
-        "like_count": 18,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": 1199
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Security / counterterrorism",
-        "Energy / economic"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepPfluger/status/2079631002482155738"
-    },
-    {
-      "id": "2079627782212972583",
-      "handle": "repbrandongill",
-      "username": "repbrandongill",
-      "displayName": null,
-      "ownerName": "Brandon Gill",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brandon-gill",
-      "text": "RT @EndWokeness: Rep. Gill: \"Is it important to be polite?\"\n\nSmithsonian Director Hartig: \"Yes, sir\"\n\nGill: \"The Smithsonian lists politene…",
-      "createdAt": "2026-07-21T18:01:15Z",
-      "timestamp": 1784656875,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 18226,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1966
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repbrandongill/status/2079627782212972583"
-    },
-    {
-      "id": "2079627467300757924",
-      "handle": "repedcase",
-      "username": "RepEdCase",
-      "displayName": null,
-      "ownerName": "Ed Case",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/ed-case",
-      "text": "What happens if a natural or manmade disaster or emergency overwhelms local hospital and health capacity, and how does preparing for and responding to that differ for the isolated island parts of our country? That’s the responsibility of the Administration for Strategic https://t.co/r0iALu3g1u",
-      "createdAt": "2026-07-21T18:00:00Z",
-      "timestamp": 1784656800,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 3,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 334
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepEdCase/status/2079627467300757924"
-    },
-    {
-      "id": "2079626628821340550",
-      "handle": "repdangoldman",
-      "username": "RepDanGoldman",
-      "displayName": null,
-      "ownerName": "Daniel S. Goldman",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/daniel-s-goldman",
-      "text": "My office’s immigration triage clinic recently surpassed 50 people released from unlawful ICE detention, thanks to the hard working folks on my staff and our many partners.\n\nIf you know someone taken by ICE, contact our office. https://t.co/lyIYilsZ2E",
-      "createdAt": "2026-07-21T17:56:40Z",
-      "timestamp": 1784656600,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 340,
-        "reply_count": 202,
-        "like_count": 1060,
-        "quote_count": 11,
-        "bookmark_count": 14,
-        "view_count": 9011
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepDanGoldman/status/2079626628821340550"
-    },
-    {
-      "id": "2079626615898664971",
-      "handle": "chelliepingree",
-      "username": "chelliepingree",
-      "displayName": "Congresswoman Chellie Pingree",
-      "ownerName": "Chellie Pingree",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chellie-pingree",
-      "text": "The Supreme Court handed pesticide manufacturers a roadmap to escape accountability, even when they fail to warn people about serious health risks. That's wrong. \n\nIf a company learns its product may be harming people or the environment, it has a responsibility to say so, not",
-      "createdAt": "2026-07-21T17:56:37Z",
-      "timestamp": 1784656597,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4,
-        "reply_count": 4,
-        "like_count": 8,
-        "quote_count": 1,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/chelliepingree/status/2079626615898664971"
-    },
-    {
-      "id": "2079625783216083177",
-      "handle": "repbuddycarter",
-      "username": "RepBuddyCarter",
-      "displayName": null,
-      "ownerName": "Earl L. \"Buddy\" Carter",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/earl-l-buddy-carter",
-      "text": "Thousands of non-citizens are on New Jersey’s voter rolls due to a “software error.”\n\nI was born at night, but it wasn’t last night. Pass the SAVE America Act NOW!\nhttps://t.co/oP1WpDvmDU",
-      "createdAt": "2026-07-21T17:53:18Z",
-      "timestamp": 1784656398,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7,
-        "reply_count": 13,
-        "like_count": 31,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2673
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/oP1WpDvmDU",
-          "expanded_url": "https://www.politico.com/news/2026/07/21/thousands-of-non-citizens-registered-to-vote-in-nj-due-to-software-error-governor-says-01006373",
-          "display_url": "politico.com/news/2026/07/2…"
-        }
-      ],
-      "url": "https://x.com/RepBuddyCarter/status/2079625783216083177"
-    },
-    {
-      "id": "2079624576590393590",
-      "handle": "repchiproy",
-      "username": "RepChipRoy",
-      "displayName": null,
-      "ownerName": "Chip Roy",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/chip-roy",
-      "text": "RT @Rep_Clyde: It’s time for Republicans to deliver the America First change we promised, starting with permanently securing our borders an…",
-      "createdAt": "2026-07-21T17:48:31Z",
-      "timestamp": 1784656111,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 16,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 679
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepChipRoy/status/2079624576590393590"
-    },
-    {
-      "id": "2079623755110719913",
-      "handle": "repgarbarino",
-      "username": "RepGarbarino",
-      "displayName": null,
-      "ownerName": "Andrew R. Garbarino",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/andrew-r-garbarino",
-      "text": "RT @HouseGOP: Michael was a devoted husband, loving father, and courageous American soldier. His legacy of service and sacrifice will never…",
-      "createdAt": "2026-07-21T17:45:15Z",
-      "timestamp": 1784655915,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 253,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 38
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepGarbarino/status/2079623755110719913"
-    },
-    {
-      "id": "2079621291368219016",
-      "handle": "repschneider",
-      "username": "RepSchneider",
-      "displayName": "Rep. Brad Schneider",
-      "ownerName": "Bradley Scott Schneider",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/bradley-scott-schneider",
-      "text": "Congrats Blaze and Pepper! Sending a warm welcome to Waukegan’s newest chicks. We must remain committed to supporting conservation to ensure habitats and species across Lake County continue to thrive.\nhttps://t.co/cj7FTlLfCw",
-      "createdAt": "2026-07-21T17:35:28Z",
-      "timestamp": 1784655328,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 2,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [
-        {
-          "url": "https://t.co/cj7FTlLfCw",
-          "expanded_url": "https://www.chicagotribune.com/2026/07/20/piping-plovers-pepper-and-blaze-hatch-2-new-chicks-at-waukegan-beach/",
-          "display_url": "chicagotribune.com/2026/07/20/pip…"
-        }
-      ],
-      "url": "https://x.com/RepSchneider/status/2079621291368219016"
-    },
-    {
-      "id": "2079619768529666279",
-      "handle": "reppfluger",
-      "username": "RepPfluger",
-      "displayName": null,
-      "ownerName": "August Pfluger",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/august-pfluger",
-      "text": "RT @HouseCommerce: As the race goes on for critical minerals, it is imperative that Americans lead headfirst.\n \n@RepPfluger speaks on the E…",
-      "createdAt": "2026-07-21T17:29:24Z",
-      "timestamp": 1784654964,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 103
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepPfluger/status/2079619768529666279"
-    },
-    {
-      "id": "2079619312109695481",
-      "handle": "repbrandongill",
-      "username": "repbrandongill",
-      "displayName": null,
-      "ownerName": "Brandon Gill",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brandon-gill",
-      "text": "RT @CollinRugg: NEW: Rep. Brandon Gill completely stumps Smithsonian Museum of American History director Anthea Hartig before asking her if…",
-      "createdAt": "2026-07-21T17:27:36Z",
-      "timestamp": 1784654856,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 2713,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 2051
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repbrandongill/status/2079619312109695481"
-    },
-    {
-      "id": "2079619127849660854",
-      "handle": "repdavidkustoff",
-      "username": "RepDavidKustoff",
-      "displayName": null,
-      "ownerName": "David Kustoff",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/david-kustoff",
-      "text": "I had a good time meeting with Tennessee State Representatives @TanDarby from District 76 and Scott Cepicky from District 64.\n\nI appreciate the work they are doing for their constituents and for the people of Tennessee. https://t.co/VVkDMMmemZ",
-      "createdAt": "2026-07-21T17:26:52Z",
-      "timestamp": 1784654812,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 6,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 854
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Diplomatic / official contact"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepDavidKustoff/status/2079619127849660854"
-    },
-    {
-      "id": "2079617723886137461",
-      "handle": "repknott",
-      "username": "RepKnott",
-      "displayName": null,
-      "ownerName": "Brad Knott",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brad-knott",
-      "text": "Democrats claim to support deporting convicted illegal aliens. \n\nOne problem: they don’t support prosecuting and convicting them. \n\nI’d prefer deporting illegals now rather than wait for Americans to be harmed, or worse. https://t.co/KoYvKt4cSY",
-      "createdAt": "2026-07-21T17:21:17Z",
-      "timestamp": 1784654477,
-      "tweetType": "tweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 7,
-        "reply_count": 8,
-        "like_count": 29,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 875
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership",
-        "Critical / hostile language"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepKnott/status/2079617723886137461"
-    },
-    {
-      "id": "2079617175711604924",
-      "handle": "repbrandongill",
-      "username": "repbrandongill",
-      "displayName": null,
-      "ownerName": "Brandon Gill",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/brandon-gill",
-      "text": "RT @EricLDaugh: 🚨 OMG. Brutal moment as Rep. Brandon Gill embarrasses Smithsonian Director Hartig with this line of questioning\n\nGILL: Is i…",
-      "createdAt": "2026-07-21T17:19:06Z",
-      "timestamp": 1784654346,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 4692,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1984
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/repbrandongill/status/2079617175711604924"
-    },
-    {
-      "id": "2079616351212036490",
-      "handle": "repcarlos",
-      "username": "RepCarlos",
-      "displayName": null,
-      "ownerName": "Carlos A. Gimenez",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/carlos-a-gimenez",
-      "text": "RT @SenAshleyMoody: We must fiercely fight against the “Democratic” socialist policies designed to deceive and strip people of their rights…",
-      "createdAt": "2026-07-21T17:15:50Z",
-      "timestamp": 1784654150,
-      "tweetType": "retweet",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 112,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": 1157
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [
-        "Supportive / partnership"
-      ],
-      "urls": [],
-      "url": "https://x.com/RepCarlos/status/2079616351212036490"
     }
   ],
   "notes": [
