@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:48:13.855103Z",
+  "generatedAt": "2026-09-27T06:16:15.658542Z",
   "source": "TOR Phi social archive",
   "methodSource": "Project-owned SQLite archive populated with Social Analyzer-style X GraphQL capture.",
   "database": "data/torphi-social.db",
@@ -8,7 +8,7 @@
     "facebookCookiesConfigured": false
   },
   "registry": {
-    "generatedAt": "2026-09-27T00:47:17.084Z",
+    "generatedAt": "2026-09-27T06:15:57.851Z",
     "accounts": 2252,
     "countries": {
       "france": 513,
@@ -2148,7 +2148,7 @@
     "snapshotTweets": 2500,
     "users": 512
   },
-  "lastCaptureAt": "2026-09-27T00:48:13.275593Z",
+  "lastCaptureAt": "2026-09-27T06:16:13.840962Z",
   "accounts": [
     {
       "username": "armees_gouv",
@@ -30975,7 +30975,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-27T00:47:36.520111Z",
+      "lastScrapedAt": "2026-09-27T06:16:13.840962Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4703,
@@ -41228,7 +41228,7 @@
       "profileHref": "/country/usa/congress/aumua-amata-coleman-radewagen",
       "url": "https://x.com/RepAmata",
       "status": "captured",
-      "lastScrapedAt": "2026-09-27T00:47:36.520111Z",
+      "lastScrapedAt": "2026-09-27T06:16:13.840962Z",
       "lastError": null,
       "profileImageUrl": null,
       "followersCount": 4703,
@@ -48854,34 +48854,6 @@
   ],
   "tweets": [
     {
-      "id": "2103980121296363542",
-      "handle": "repgabeamo",
-      "username": "RepGabeAmo",
-      "displayName": "Congressman Gabe Amo",
-      "ownerName": "Gabe Amo",
-      "ownerType": "Congress",
-      "countryId": "usa",
-      "profileHref": "/country/usa/congress/gabe-amo",
-      "text": "- Keep refrigerator and freezer doors closed to keep food safe\n- Text STATUS to 743674 to check the status of an outage",
-      "createdAt": "2026-09-26T22:48:45Z",
-      "timestamp": 1790462925,
-      "tweetType": "reply",
-      "language": "en",
-      "metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 0,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "view_count": null
-      },
-      "tags": [],
-      "kurdistanTerms": [],
-      "frames": [],
-      "urls": [],
-      "url": "https://x.com/RepGabeAmo/status/2103980121296363542"
-    },
-    {
       "id": "2103980119471628772",
       "handle": "repgabeamo",
       "username": "RepGabeAmo",
@@ -48912,6 +48884,34 @@
       ],
       "urls": [],
       "url": "https://x.com/RepGabeAmo/status/2103980119471628772"
+    },
+    {
+      "id": "2103980121296363542",
+      "handle": "repgabeamo",
+      "username": "RepGabeAmo",
+      "displayName": "Congressman Gabe Amo",
+      "ownerName": "Gabe Amo",
+      "ownerType": "Congress",
+      "countryId": "usa",
+      "profileHref": "/country/usa/congress/gabe-amo",
+      "text": "- Keep refrigerator and freezer doors closed to keep food safe\n- Text STATUS to 743674 to check the status of an outage",
+      "createdAt": "2026-09-26T22:48:45Z",
+      "timestamp": 1790462925,
+      "tweetType": "reply",
+      "language": "en",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "view_count": null
+      },
+      "tags": [],
+      "kurdistanTerms": [],
+      "frames": [],
+      "urls": [],
+      "url": "https://x.com/RepGabeAmo/status/2103980121296363542"
     },
     {
       "id": "2103980118154821717",
